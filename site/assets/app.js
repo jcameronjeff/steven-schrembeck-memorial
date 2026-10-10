@@ -16,13 +16,40 @@ const search = document.querySelector('[data-search]');
 const filters = [...document.querySelectorAll('[data-filter]')];
 const entries = [...document.querySelectorAll('[data-entry]')];
 const kindSelect = document.querySelector('[data-kind-select]');
-let category = new URLSearchParams(location.search).get('type') || kindSelect?.value || 'all';
+const seriesSelect = document.querySelector('[data-series-select]');
+const sortSelect = document.querySelector('[data-sort-select]');
+const params = new URLSearchParams(location.search);
+let category = params.get('type') || kindSelect?.value || 'all';
+if (!kindSelect && !['all', ...filters.map(button => button.dataset.filter)].includes(category)) category = 'all';
+if (seriesSelect && [...seriesSelect.options].some(option => option.value === params.get('series'))) seriesSelect.value = params.get('series');
+if (sortSelect && [...sortSelect.options].some(option => option.value === params.get('sort'))) sortSelect.value = params.get('sort');
+if (seriesSelect && search) search.value = params.get('q') || '';
 if (kindSelect) { if ([...kindSelect.options].some(o => o.value === category)) kindSelect.value = category; else category = 'all'; kindSelect.addEventListener('change', () => { category = kindSelect.value; applyFilters(); }); }
+function syncBrowseUrl() {
+  if (!seriesSelect) return;
+  const url = new URL(location.href);
+  for (const [key, value, fallback] of [['type', category, 'all'], ['series', seriesSelect.value, 'all'], ['sort', sortSelect.value, 'newest'], ['q', search.value.trim(), '']]) {
+    if (value === fallback) url.searchParams.delete(key); else url.searchParams.set(key, value);
+  }
+  // Local offline copies can have a file: URL with restricted history access.
+  try { history.replaceState(null, '', url); } catch {}
+}
+function sortEntries() {
+  const list = document.querySelector('[data-sort-list]');
+  if (!list || !sortSelect) return;
+  const sorted = [...entries].sort((a, b) => {
+    const byTitle = a.dataset.title.localeCompare(b.dataset.title);
+    if (sortSelect.value === 'title') return byTitle;
+    if (!a.dataset.date || !b.dataset.date) return Number(!a.dataset.date) - Number(!b.dataset.date) || byTitle;
+    return (sortSelect.value === 'oldest' ? 1 : -1) * a.dataset.date.localeCompare(b.dataset.date) || byTitle;
+  });
+  list.append(...sorted);
+}
 function applyFilters() {
   const query = (search?.value || '').trim().toLocaleLowerCase();
   let count = 0;
   for (const entry of entries) {
-    const show = (category === 'all' || (category === 'featured' && entry.dataset.main === 'true') || entry.dataset.kind === category) && (entry.dataset.searchText || entry.textContent).toLocaleLowerCase().includes(query);
+    const show = (category === 'all' || (category === 'featured' && entry.dataset.main === 'true') || entry.dataset.kind === category) && (!seriesSelect || seriesSelect.value === 'all' || entry.dataset.series === seriesSelect.value) && (entry.dataset.searchText || entry.textContent).toLocaleLowerCase().includes(query);
     entry.hidden = !show;
     if (!show) entry.querySelectorAll('audio').forEach(player => player.pause());
     count += Number(show);
@@ -34,7 +61,11 @@ function applyFilters() {
   if (status) { const noun = status.dataset.noun ? (count === 1 ? status.dataset.noun.replace(/s$/, '') : status.dataset.noun) : (count === 1 ? 'memory' : 'memories'); status.textContent = `${count} ${noun}${query ? ` matching “${search.value.trim()}”` : ''}`; }
   const empty = document.querySelector('[data-empty]');
   if (empty) empty.hidden = count > 0;
+  filters.forEach(button => button.setAttribute('aria-pressed', String(button.dataset.filter === category)));
+  syncBrowseUrl();
 }
+seriesSelect?.addEventListener('change', applyFilters);
+sortSelect?.addEventListener('change', () => { sortEntries(); syncBrowseUrl(); });
 search?.addEventListener('input', applyFilters);
 filters.forEach(button => button.addEventListener('click', () => {
   category = button.dataset.filter;
@@ -43,13 +74,14 @@ filters.forEach(button => button.addEventListener('click', () => {
 }));
 document.querySelector('[data-reset]')?.addEventListener('click', () => {
   search.value = ''; category = 'all'; if (kindSelect) kindSelect.value = 'all';
+  if (seriesSelect) seriesSelect.value = 'all';
   filters.forEach(item => item.setAttribute('aria-pressed', String(item.dataset.filter === 'all')));
   applyFilters(); search.focus();
 });
 document.querySelectorAll('audio').forEach(player => player.addEventListener('play', () => {
   document.querySelectorAll('audio').forEach(other => { if (other !== player) other.pause(); });
 }));
-document.querySelectorAll('.listen-item').forEach(item => item.addEventListener('toggle', () => {
+document.querySelectorAll('.listen-item, .explore-player').forEach(item => item.addEventListener('toggle', () => {
   if (!item.open) item.querySelector('audio')?.pause();
 }));
 function revealTranscript() {
@@ -90,4 +122,4 @@ document.querySelector('[data-memory-form]')?.addEventListener('submit', event =
   form.querySelector('[data-form-status]').textContent = 'Your download is ready. Keep the text file or share it with the person caring for the collection. Nothing was sent.';
 });
 
-if (entries.length) applyFilters();
+if (entries.length) { sortEntries(); applyFilters(); }

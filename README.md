@@ -27,7 +27,9 @@ For a copy without Git, download the complete ZIP or **all** the GitHub release 
 
 The October 10, 2026 edition catalogues 109 works: 19 captured articles, 63 original podcast/interview recordings, 24 videos and presentations, one novel linked externally, and two adaptations of *An Unwelcome Audience*. Lighthouse Horror’s adaptation is saved, bringing the audio file total to 64; The Podcast Inside Your House download returned HTTP 403. The novel has paperback and Kindle links, with no saved book file.
 
-Seventeen articles have dedicated reading pages. Two captures retain the source’s “Unpublished” status. Two personal photographs are integrated into the site rather than given a separate gallery. Original source URLs appear beside saved copies. The timeline follows content dates, with the basis of those dates explained.
+Seventeen articles have dedicated reading pages. Two captures retain the source’s “Unpublished” status. Two personal photographs are integrated into the site rather than given a separate gallery. Original source URLs appear beside saved copies. Explore brings all media together with type and collection filters, search, and date or title sorting. Downloads contains the complete archive and individual files. Old Archive, Timeline, and Writing & audio URLs forward to their replacements.
+
+The compiled book, *The Small Moments Are Everything*, has a web reading edition with chapter navigation and an EPUB download. Its current ten-chapter edition is retained in `content/small-moments/`; the site builder preserves its paragraphs and editorial notes. The book is an edited selection from recordings, distinct from the 109 original catalogued works.
 
 The archive is ordinary HTML, CSS, JavaScript and files. Core reading and links work without JavaScript; search and menus are progressive enhancements. No account, database, external fonts or analytics are required. Machine transcripts are marked as unreviewed. Original MKV videos may require a desktop player.
 

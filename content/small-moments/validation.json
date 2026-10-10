@@ -1,0 +1,16 @@
+{
+  "chapters": 10,
+  "body_paragraphs": 210,
+  "body_words": 18804,
+  "selected_sources": 10,
+  "available_recordings": 87,
+  "included_reality_sources": 3,
+  "all_body_words_match_source_in_order": true,
+  "added_body_words": 0,
+  "substituted_body_words": 0,
+  "other_speaker_spans": 0,
+  "all_epub_paragraphs_match_plan": true,
+  "full_listening_review": false,
+  "source_hashes_verified": true,
+  "epub_sha256": "35d28aa9daf056f514078db28d37c95a0314d9b5ce142eaf5855fa0ad1276e65"
+}

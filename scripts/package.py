@@ -21,11 +21,11 @@ for p,name in files:
 checksum=extra/'SHA256SUMS-COMPLETE.txt';checksum.write_text('\n'.join(checksums)+'\n')
 files.append((checksum,checksum.name))
 # The package omits itself. Point its one re-download action back to the live copy.
-offline=extra/'archive.html'
-offline.write_text((ROOT/'site/archive.html').read_text().replace('href="downloads/steven-schrembeck-complete.zip"','href="https://steven-schrembeck-archive.opzero.sh/downloads/steven-schrembeck-complete.zip"'))
-files=[(offline if name=='archive.html' else p,name) for p,name in files]
+offline=extra/'files.html'
+offline.write_text((ROOT/'site/files.html').read_text().replace('href="downloads/steven-schrembeck-complete.zip"','href="https://steven-schrembeck-archive.opzero.sh/downloads/steven-schrembeck-complete.zip"'))
+files=[(offline if name=='files.html' else p,name) for p,name in files]
 # Recompute the entry affected by the offline link.
-checksums=[hashlib.sha256(offline.read_bytes()).hexdigest()+'  archive.html' if x.endswith('  archive.html') else x for x in checksums]
+checksums=[hashlib.sha256(offline.read_bytes()).hexdigest()+'  files.html' if x.endswith('  files.html') else x for x in checksums]
 checksum.write_text('\n'.join(checksums)+'\n')
 def write_zip(target,entries):
     with zipfile.ZipFile(target,'w',compression=zipfile.ZIP_STORED,allowZip64=True) as z:
