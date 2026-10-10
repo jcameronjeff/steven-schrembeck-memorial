@@ -3,6 +3,7 @@ from pathlib import Path
 from urllib.parse import urlsplit,unquote
 import json
 ROOT=Path(__file__).resolve().parents[1];site=ROOT/'site'
+(ROOT/'qa').mkdir(exist_ok=True)
 class Links(HTMLParser):
  def __init__(self):super().__init__();self.links=[];self.ids=set();self.h1=0
  def handle_starttag(self,t,attrs):

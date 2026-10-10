@@ -1,9 +1,10 @@
 import fs from 'node:fs';
 import path from 'node:path';
 import {createRequire} from 'node:module';
+import {fileURLToPath} from 'node:url';
 import {spawnSync} from 'node:child_process';
 import {env,account} from './cf-api.mjs';
-const root=path.resolve(new URL('../',import.meta.url).pathname);
+const root=fileURLToPath(new URL('../',import.meta.url));
 const dest=path.join(root,'output/deploy-site');
 fs.rmSync(dest,{recursive:true,force:true});
 fs.cpSync(path.join(root,'site'),dest,{recursive:true,filter:p=>!p.endsWith('/collection-files')&&!p.endsWith('/_worker.js')});

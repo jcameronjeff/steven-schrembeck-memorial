@@ -10,6 +10,7 @@ jobs:
     env:
       ARCHIVE_UPLOAD_URL: https://steven-schrembeck-archive-files.ja-cameron.workers.dev
       ARCHIVE_UPLOAD_TOKEN: ${{ secrets.ARCHIVE_UPLOAD_TOKEN }}
+      ARCHIVE_PART_CONCURRENCY: '8'
       GH_TOKEN: ${{ github.token }}
     steps:
       - uses: actions/checkout@v4

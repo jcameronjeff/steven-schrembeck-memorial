@@ -27,7 +27,7 @@ function applyFilters() {
     count += Number(show);
   }
   const status = document.querySelector('[data-results]');
-  if (status) status.textContent = `${count} ${status.dataset.noun || (count === 1 ? 'memory' : 'memories')}${query ? ` matching “${search.value.trim()}”` : ''}`;
+  if (status) { const noun = status.dataset.noun ? (count === 1 ? status.dataset.noun.replace(/s$/, '') : status.dataset.noun) : (count === 1 ? 'memory' : 'memories'); status.textContent = `${count} ${noun}${query ? ` matching “${search.value.trim()}”` : ''}`; }
   const empty = document.querySelector('[data-empty]');
   if (empty) empty.hidden = count > 0;
 }

@@ -5,6 +5,7 @@ import argparse, json, re, shutil, html
 from datetime import datetime
 
 ROOT=Path(__file__).resolve().parents[1]
+(ROOT/'output').mkdir(exist_ok=True)
 parser=argparse.ArgumentParser()
 parser.add_argument('--archive',type=Path,default=ROOT/'collection')
 args=parser.parse_args(); SRC=args.archive; OUT=ROOT/'site'
@@ -198,7 +199,7 @@ page('collection.html','The complete archive',head('The collection','Follow his 
 years={}
 for item in ITEMS:years.setdefault(item['date'][:4] or 'Undated',[]).append(item)
 timeline=''
-for year,items in sorted(years.items(),key=lambda kv:kv[0],reverse=True):
+for year,items in sorted(years.items(),key=lambda kv:(kv[0]!='Undated',kv[0]),reverse=True):
  timeline+=f'<section class="content-year"><h2>{year}</h2><div>'+''.join(catalogue_row(i) for i in items)+'</div></section>'
 page('timeline.html','A timeline of his work',head('The work, through time','A timeline<br>of his work.','Follow the ideas, stories, and explorations Steven shared—from audio fiction and videos to his later writing and podcasts.')+f'<p class="note-panel">Podcast dates come from the saved feeds. Video dates are upload dates. Article dates use the source’s “Created time,” which may differ from publication. Workplace talks use the recording dates; undated items are kept together below.</p>{timeline}','timeline.html')
 # File browser: every retained file, including original metadata and checksum inventories.
@@ -209,7 +210,7 @@ for f in sorted(SRC.rglob('*')):
  source=BY_PATH.get(rel,{}).get('url','');size=f.stat().st_size;title=next((i['title'] for i in ITEMS if i['path']==rel),f.name)
  file={'path':rel,'title':title,'kind':kind,'size':size,'source':source};files.append(file)
  original=f'<a href="{e(source)}" class="original-link">Source ↗<span class="visually-hidden">: {e(title)}</span></a>' if source else '<span class="muted">—</span>'
- rows.append(f'<tr data-entry data-kind="{kind}"><td><span class="file-title">{e(title)}</span><span class="file-path">{e(rel)}</span></td><td>{suffix[1:].upper() or "FILE"}</td><td>{size_label(size)}</td><td>{original}</td><td><a class="file-download" href="{archive_url(rel)}?download=1" download aria-label="Download {e(f.name)}">Download ↓</a></td></tr>')
+ rows.append(f'<tr data-entry data-kind="{kind}"><td><span class="file-title">{e(title)}</span><span class="file-path">{e(rel)}</span><span class="file-original-mobile">{original}</span></td><td>{suffix[1:].upper() or "FILE"}</td><td>{size_label(size)}</td><td>{original}</td><td><a class="file-download" href="{archive_url(rel)}?download=1" download aria-label="Download {e(f.name)}">Download ↓</a></td></tr>')
 (OUT/'downloads/file-inventory.json').write_text(json.dumps(files,ensure_ascii=False,indent=2))
 page('files.html','Download individual files',head('Keep what speaks to you','Every file.<br>Yours to keep.','Find a recording, a photograph, a piece of writing, or its source notes. Each download is the saved file, in its original format.')+'''<div class="searchbar js-only"><label class="visually-hidden" for="files-search">Search files</label><input class="search-input" type="search" id="files-search" placeholder="Search a title or filename…" data-search><select aria-label="File type" data-kind-select><option value="all">All files</option><option value="audio">Audio</option><option value="video">Video</option><option value="writing">Writing</option><option value="photo">Photographs &amp; artwork</option><option value="transcript">Transcripts</option><option value="metadata">Source notes &amp; metadata</option></select></div>'''+f'<p class="results-status" data-results data-noun="files" role="status">{len(files)} files · {sum(f["size"] for f in files)/1e9:.2f} GB</p><div class="files-table-wrap"><table class="files-table"><thead><tr><th scope="col">File</th><th scope="col">Format</th><th scope="col">Size</th><th scope="col">Original</th><th scope="col"><span class="visually-hidden">Download</span></th></tr></thead><tbody>'+''.join(rows)+'</tbody></table></div><div class="empty-state" data-empty hidden><h3>No files found.</h3><button class="button secondary" data-reset>Show all files</button></div><p class="source-note">Original links are shown where recorded in the retrieval inventory. Supporting metadata and generated transcripts may have no independent source URL. Archived HTML downloads are source files and may refer to online assets; use the reading pages for the self-contained text edition.</p>','files.html')
 # Revised landing page: archive first, no retelling of Jeff's post.

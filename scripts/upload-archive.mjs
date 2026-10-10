@@ -27,10 +27,20 @@ async function upload(job){
   const {uploadId}=await call(job.key,'POST',JSON.stringify({contentType:mime,sha256:sha}),{'content-type':'application/json'},'?action=create');
   const parts=[];let fd=fs.openSync(job.local,'r');
   try{
-   for(let offset=0,number=1;offset<size;offset+=chunk,number++){
-    const b=Buffer.alloc(Math.min(chunk,size-offset));fs.readSync(fd,b,0,b.length,offset);let digest=crypto.createHash('sha256').update(b).digest('hex');
-    const part=await call(job.key,'PUT',b,{'content-type':mime,'x-content-sha256':digest},`?action=part&uploadId=${encodeURIComponent(uploadId)}&partNumber=${number}`);parts.push(part);
-   }
+   let next=0,completed=0,failure=null;const count=Math.ceil(size/chunk);
+   const concurrency=Math.max(1,Math.min(8,Number(process.env.ARCHIVE_PART_CONCURRENCY)||1));
+   await Promise.all(Array.from({length:concurrency},async()=>{
+    while(!failure&&next<count){
+     const index=next++,offset=index*chunk,number=index+1;
+     try{
+      const b=Buffer.alloc(Math.min(chunk,size-offset));const read=fs.readSync(fd,b,0,b.length,offset);if(read!==b.length)throw Error('Incomplete local read');
+      const digest=crypto.createHash('sha256').update(b).digest('hex');
+      parts[index]=await call(job.key,'PUT',b,{'content-type':mime,'x-content-sha256':digest},`?action=part&uploadId=${encodeURIComponent(uploadId)}&partNumber=${number}`);
+      completed++;if(count>100&&completed%100===0)console.log(`${job.key}: ${completed}/${count} parts verified`);
+     }catch(error){failure=error;}
+    }
+   }));
+   if(failure)throw failure;
    const result=await call(job.key,'POST',JSON.stringify({parts}),{'content-type':'application/json'},`?action=complete&uploadId=${encodeURIComponent(uploadId)}`);if(result.size!==size)throw Error('Final size mismatch');
   }catch(err){await call(job.key,'DELETE',undefined,{},`?action=abort&uploadId=${encodeURIComponent(uploadId)}`).catch(()=>{});throw err;}finally{fs.closeSync(fd);}
  }
