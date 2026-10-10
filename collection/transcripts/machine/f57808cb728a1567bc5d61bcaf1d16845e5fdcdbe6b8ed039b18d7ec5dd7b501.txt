@@ -1,0 +1,793 @@
+Steven Schrembeck
+Source: interviews/steven-schrembeck.mp3
+SHA-256: f57808cb728a1567bc5d61bcaf1d16845e5fdcdbe6b8ed039b18d7ec5dd7b501
+Model: scribe_v2 | Transcribed: 2026-10-10T18:13:35.802631+00:00
+Machine transcript — uncorrected. Speaker labels are local to this recording and do not identify people.
+
+[00:00:00.060] Speaker 1: [gentle music] Cosmic consciousness, extraterrestrials and UFOs, sacred geometry, ancient civilizations, spiritual connection, the quantum universe. All of these topics and so much more with your host Sev Talk on Alien Spirit with Sev.
+
+[00:00:31.500] Speaker 2: Hello. Welcome to Alien Spirit. I'm Sev. My guest today is Stephen Shrembeck. He's the founder of an innovative platform called Impossible Laboratories, creating software that makes being human easier. It started three years ago with software for people with ADHD or on the autism spectrum, and now the platform is focused on designing tools to develop self-control without relying on willpower. Stephen is a professional
+
+[00:01:06.420] Speaker 2: software developer for well-known companies, including Amazon and Home Depot, and right now he's with Cox Automotive. He has been building AI models for 10 years, writing and producing audio fiction, meditating, and is a UFO witness. Stephen's work bridges AI research with ancient contemplative practices, pushing us to ask the big questions. Can machines or AI become conscious? What role does human stillness play in the digital future? How do UFOs and ETs fit into the
+
+[00:01:41.360] Speaker 2: evolving story of intelligence? Stephen invites us to rethink what's possible and examine what it means to be human in an age of expanding awareness coupled with technology. Welcome, Stephen Shrembeck.
+
+[00:01:58.460] Speaker 3: Hey, Sev.
+
+[00:01:59.820] Speaker 2: Hi, Stephen.
+
+[00:02:00.140] Speaker 3: Good to see you.
+
+[00:02:01.780] Speaker 2: Good to see you, too.
+
+[00:02:05.400] Speaker 3: So for the audience's benefit, we- this is not our first time meeting, so [laughs]
+
+[00:02:09.759] Speaker 2: No.
+
+[00:02:10.280] Speaker 3: Yeah.
+
+[00:02:10.400] Speaker 2: We've known each other for quite a bit. Couple years?
+
+[00:02:17.040] Speaker 3: Yeah, I think so now.
+
+[00:02:18.500] Speaker 2: Mm-hmm.
+
+[00:02:18.900] Speaker 3: Uh, you've been with me-
+
+[00:02:20.020] Speaker 2: I'm sorry, I'm just trying to turn my phone off 'cause I don't wanna get interrupted. Okay. All right. Let's get into-
+
+[00:02:26.480] Speaker 3: That was great intro.
+
+[00:02:26.980] Speaker 2: Excuse me?
+
+[00:02:27.520] Speaker 3: Where do you wanna start? [laughs]
+
+[00:02:29.220] Speaker 2: Well, I wanna start just a little bit just about you. Uh, where were you born, where were you raised, and what were you into as a young person?
+
+[00:02:39.100] Speaker 3: Georgia, Georgia.
+
+[00:02:40.580] Speaker 2: [laughs]
+
+[00:02:41.860] Speaker 3: And I was into everything. Um-
+
+[00:02:44.300] Speaker 2: [laughs]
+
+[00:02:45.880] Speaker 3: ... um, I'm, I have sort of an insatiable curiosity. I, um... Sticking to things, you know, historically has been a lot, much a bigger challenge. Not being into things has actually been harder for me than anything else. But I mean, growing up, anything that let me move my mind or my body. So sports, you know, soccer. Later on I found, uh, long distance running and track. Uh, I was always into playing around on the computer and like every young boy, especially growing up '90s, 2000s, uh, video games starting with Nintendo Entertainment
+
+[00:03:20.760] Speaker 3: System. That was awesome. And then of course I wanted to start making things. I started trying to hack stuff together on the early internet. Um, putting together like multiplayer servers and customizing games and that, that is really what led me into software development eventually, is just I had been, I wanted to make stuff. I wanted to do stuff. That's where it always came from. If something sparked my interest and I gotta figure this out 'cause I wanna do something with it.
+
+[00:03:47.620] Speaker 2: Well, what made you wanna push it to the limits to include consciousness in the mind? Why did you wanna take it that far?
+
+[00:03:58.000] Speaker 3: I wasn't doing that at nine. Um, but-
+
+[00:04:00.200] Speaker 2: [laughs]
+
+[00:04:00.720] Speaker 3: ... I'd say in late, in my late 20s, uh, maybe right around 30 or so, so I'm 36, I started meditating. Um, I started meditating much more seriously two or three years ago. Um, my practice is roughly an hour each morning. Um, it's taken a while to get to that point. I think there's been a couple factors. Meditation definitely was one. Um, I would... My mind was just blown away by exploring inner space. I didn't even know that you could just sit there. You... [laughs] I found out reading, um, Untethered Soul,
+
+[00:04:36.540] Speaker 3: uh, that, wait a minute, you're telling me you can literally just sit here for two hours and you can have an incredible experience you've never had before? All it takes is sitting down [laughs] and closing your eyes and, you know, some basic technique. I had no idea. And that, you know, again, tickled the curiosity and I couldn't help but follow it. So that leads me to realizing there are other states of consciousness that are hard to explain and don't really fit in with a materialistic, um, we'll say standard model paradigm. It doesn't make a lot of sense. Uh, there are big questions that don't get answered. You can call
+
+[00:05:11.460] Speaker 3: this the hard problem of consciousness, which I became familiar with, which is how does this fit? It doesn't make sense. How does this fit with our 3D world? It doesn't make s- it shouldn't arise from the parts that we have. The sum is more than the parts. It doesn't make sense mechanistically. Looking at it just from like a sort of scientific model standpoint, it didn't make any sense. Uh, and we couldn't answer it. So that's fascinating. And then of course, like you've mentioned, like so many other people, uh, got my world sort of rocked by UFO sighting experiences. And then that goes from, "Oh, this is a
+
+[00:05:46.240] Speaker 3: cool experience. I'm trying stuff out, but who really knows?" To, "Oh, crap. Okay, I guess this is real. [laughs] What else is real? What, what else have I been sleeping on or just missing?" And, uh, you know, the rest is sort of history. I think that's a- Familiar path to a lot of your listeners, I would guess
+
+[00:06:05.784] Speaker 2: Yes. And but the thought of combining the technology with the consciousness. So let's, let's talk about consciousness. What is it? I don't even know if we can define it. Uh, some people think it is radiated from the human. Some people think it's a field that you can tap into. What do you think it is?
+
+[00:06:28.284] Speaker 3: So, I mean, a lot of people have a lot of definitions. Uh, I'll... I can tell you my perspective. My perspective, um, some of it's semantics, for sure. I don't mean like sapience or sentience, so the ability to think or feel or to have thoughts or have self-awareness. That's not what I'm talking about. Uh, those are separate from consciousness. Consciousness is, to me, the ability to be like something else. To have an experience at all. Any kind of experience is consciousness. So there are degrees and there are qualities to consciousness, but that is what it, it is in terms
+
+[00:07:03.304] Speaker 3: of definition. [laughs] Now, where it comes from and how it works, I have thought a lot about this. I've done a lot more than think about it. I've... So I've been practicing remote viewing pretty seriously now for eight months. This is one of the blind targets I give myself sometimes, is asking these big questions or doing some of your, like, channeling techniques to try to get answers on this, so, and as well as doing my own thinking. I do a lot of my own thinking, uh, on the information given, and I think the only real answer is it has to be fundamental. That's not anything new. Uh, you know,
+
+[00:07:38.304] Speaker 3: I think dualistic ideologies or idealism sort of say the same thing, that it is fundamental. I'm not saying it's the only thing that's fundamental. I don't know that. But it kind of has to preexist in some way, or else it's something weird that we don't understand. If there is something that could preexist consciousness, I don't know. But I would echo what everyone else sort of says from a dif- bunch of different angles. It seems to be all consciousness. I think it's all just one thing. It's all
+
+[00:08:13.224] Speaker 3: just sort of made up. But also, if everything's made up, you know, nothing is made up. [laughs] It's... How do you... It's, it's difficult. It stops making sense. I think it's just what everything is made of. Uh, that's the, the short answer.
+
+[00:08:29.764] Speaker 2: So everything. So there's one consciousness that includes the trees and the cats and the humans and the fish. Like that?
+
+[00:08:39.344] Speaker 3: I think it's way more complicated than that. But yes, and, and it's taken as a whole. There... It's all the same stuff, and I think it does sort of subdivide and have different perspectives. You may consider it intentional blinders, just intentionally looking from a more narrow, limited viewpoint. Because as weird as it sounds, I think there are things you can learn and understand that makes sense, you know, from an ant's perspective that doesn't make sense from any other perspective. And even if you're all-knowing, I think that sometimes knowing more actually teaches you
+
+[00:09:14.144] Speaker 3: less, and that you learn more by limiting yourself. Art is like this. You can do significantly more with constraints on a canvas. If you have a blank canvas and say, "Make art," it's pretty hard. If somebody tells... gives you watercolors and they, they show you some landscapes and say, "Uh, make some landscapes, but put a twist on it," that's a lot easier. I think that this is a similar sort of thing, and that's why it is the way it is. Plus, it's more fun this way. Who just wants to sit there, like floating around as the only thing that exists? So I think there are levels of consciousness all the way up and down. Um, I don't know how far it goes or how it...
+
+[00:09:49.104] Speaker 3: what the rules are, but it does seem to be an emergent phenomena that you can be conscious at, at a specific level, and you can be a part of a consciousness at another level without-
+
+[00:10:01.904] Speaker 2: Yeah
+
+[00:10:02.484] Speaker 3: ... These are just guesses. I hold all these models very loosely. I'm just an explorer.
+
+[00:10:06.864] Speaker 2: Mm-hmm. Mm-hmm.
+
+[00:10:06.924] Speaker 3: I didn't answer the technology part, but those are my sort of, uh, beliefs so far, you know, based on my, my own exploration and research.
+
+[00:10:17.424] Speaker 2: Do you think self-awareness has anything to do with consciousness? Like if your s- "I think, therefore I am"? Can you... Yeah?
+
+[00:10:26.444] Speaker 3: I think it's a quality of conscious experience, but it doesn't have to be that way. If you go without sleeping for three days, um, you're a heck of a lot less self-aware. You can be alive and not be self-aware. Bugs are like this. Like, I think that to some degree, even bugs are experiencing something, but they're not aware that they're there, that there's a self or anything. There's nothing like that happening.
+
+[00:10:53.164] Speaker 2: Well, how do you know-
+
+[00:10:53.344] Speaker 3: And humans can experience this-
+
+[00:10:54.464] Speaker 2: ... a bug doesn't know that it's a- aware of itself?
+
+[00:10:58.084] Speaker 3: We don't know. We don't know that. But I think that every human has had the experience of not being self-aware in their own life, which is of course where a lot of my technology, uh, um, attention is focused. We've all know what it's like to be, have the lights on but nobody is home, right? That is essentially lacking self-awareness. So we kinda know what it feels like to be, like, locked on rails but not even aware that you're alive and what you're doing. You might have to be pretty drugged out or super tired or [laughs] under an immense amount of stress or something, but we've all felt that. So we know those states are possible
+
+[00:11:33.044] Speaker 3: to not be self-aware and still be conscious. You're still there. You're just not aware that you're there.
+
+[00:11:38.244] Speaker 2: You're just not aware that you're living and that you could die? I was having-
+
+[00:11:42.404] Speaker 3: Yeah, it's possible
+
+[00:11:43.004] Speaker 2: ... a conversation with someone who thought that, uh, cats are not self-aware. And-
+
+[00:11:49.364] Speaker 3: Hmm
+
+[00:11:49.524] Speaker 2: ... I, I think they are. I think they know that they can die. They see death. They kill. And so because of that, because they know that they're living and because they know that they can die and death is an option, that they are self-aware
+
+[00:12:05.812] Speaker 3: I think all I'm trying to say is that self-awareness is a quality of consciousness. It's like an option, a checkbox. You may or may not have it, and you may have it conditionally. You may have it to some degree, but not always. Are there... So I think that what we have, and all the qualities of consciousness, the ability to think, the ability to be self-aware, the ability to plan in the future and reminisce, all of these things are, like, qualities of consciousness that clearly can exist because we have them. But we also experience what it, or people who have brain damage or various other problems experience what it's like to not have those things or to have
+
+[00:12:40.812] Speaker 3: them work differently. So I think there's a wide array of consciousness, but at the end of the day, everything is conscious in some way, even if they don't aw- they're not aware that they are. They're just-
+
+[00:12:52.412] Speaker 2: Like a rock?
+
+[00:12:53.692] Speaker 3: It's like watching a movie but not even knowing you're watching a movie or that you exist at all. Yeah, maybe even a rock, but rocks don't really have sensory input, so their conscious experience would be way different [laughs] than ours. And there's probably not a lot going on except maybe at, like, an aggregate level. So maybe there is a consciousness of, like, a mountain or a continent or a planet, and that may be the only level that is actually interesting. Otherwise, it's kind of like a... There's, on the EKG, there's [laughs] not a lot going on there most of the time, I would guess. But what do I know?
+
+[00:13:29.092] Speaker 2: Well, have you ever talked to a tree or a rock?
+
+[00:13:34.532] Speaker 3: I have done one meditation twice where the focus was a tree in my backyard. I've used this as a focus a number of times. So you stare at a tree for about an hour, doing nothing else except for staring at the tree. Eventually, you sort of lose yourself. You, your own ego drops, and you feel a heck of a lot like a tree. Um, this is a well-known, like, meditative technique. You basically focus on anything, and you, your experience changes dramatically. What is actually happening, I can't say. If you listen to the yogis, they're basically saying that you're more or less tuning
+
+[00:14:09.452] Speaker 3: out your own conscious experience, and now you are using a connection to something else to experience what that thing is experiencing.
+
+[00:14:16.432] Speaker 2: Mm-hmm.
+
+[00:14:16.532] Speaker 3: This is how telepathy is purported to work. You're really just, like, stepping next door, not so much taking something out of their mind or transmitting it. You're basically just stepping over there for a second but keeping enough of a thread back to yourself that you can sort of get some information out of it. You feel what it's like. I didn't like being a tree.
+
+[00:14:35.752] Speaker 2: But that implies-
+
+[00:14:36.252] Speaker 3: It's not- [laughs]
+
+[00:14:37.592] Speaker 2: That implies a separateness.
+
+[00:14:41.292] Speaker 3: Maybe. I'm not great at it. There is a level of skill to this that [laughs]... And I have a lot of open questions. There's definitely connection, but that doesn't mean that there's not distance. Um, there is distance, and that's a good thing. Otherwise, we would all be feeling everything all the time, and that would not be cool. So there is a separation, but that doesn't mean there's not some degree of connection. I think that there is separation by degrees, and there's a sort of friction or barrier. Doesn't mean that it's impassable, just not everything is equally easy. So you can feel what it's like to be a
+
+[00:15:16.212] Speaker 3: tree. Um, I didn't like it. I haven't done it again. I felt very trapped. It felt like having your feet or legs buried into the ground up to your hips and just being terrified that, like, bugs could eat your toes. You can't really move.
+
+[00:15:31.652] Speaker 2: [laughs]
+
+[00:15:32.272] Speaker 3: It's just... But it was very slow, and it was very weird. Um, I didn't like it at all.
+
+[00:15:41.352] Speaker 2: So what-
+
+[00:15:41.492] Speaker 3: Assuming that's what it's like to be a tree.
+
+[00:15:43.492] Speaker 2: Well, that's interesting.
+
+[00:15:43.632] Speaker 3: I didn't like it.
+
+[00:15:45.592] Speaker 2: I had a conversation-
+
+[00:15:46.612] Speaker 3: [laughs]
+
+[00:15:46.652] Speaker 2: ... with a tree in the redwoods in California, and it changed my life. The information it gave me was so beautiful and profound.
+
+[00:15:52.432] Speaker 3: What was that conversation? 'Cause this wasn't a conversation. This was more like, "I'll be in your body for a little bit," without, like, talking. This is different.
+
+[00:16:00.592] Speaker 2: Oh, not gaining any of its awareness?
+
+[00:16:03.492] Speaker 3: No, it wasn't a talking. It was, "I'm gonna be you for a little bit," or what it's like to be you for a little bit.
+
+[00:16:09.712] Speaker 2: Yeah.
+
+[00:16:11.892] Speaker 3: So what was the conversation? I guess you don't have to rehash the story if you don't want to.
+
+[00:16:15.592] Speaker 2: No, I can tell you. I can say it pretty quickly. Uh, I was walking around. I had... We were, uh, in the redwood forest for a few days, and so it's really high vibe. Have you been?
+
+[00:16:28.612] Speaker 3: I have been in redwood forests in Washington, but I haven't been to Northern California.
+
+[00:16:34.012] Speaker 2: Okay. Well, did you feel the high vibe? Like, were your ears ringing, and were you kind of buzzy?
+
+[00:16:40.972] Speaker 3: I felt real good.
+
+[00:16:41.932] Speaker 2: Yes. [laughs]
+
+[00:16:42.412] Speaker 3: I was on vacation there, like, over a week ago. [laughs] I felt real at peace.
+
+[00:16:47.272] Speaker 2: So-
+
+[00:16:47.292] Speaker 3: But not, not quite that way, no.
+
+[00:16:49.652] Speaker 2: Oh, okay. So-
+
+[00:16:50.472] Speaker 3: But I know what you're talking about
+
+[00:16:52.252] Speaker 2: ... so I'm walking around, and I'm looking at this tree, and I just hear. I hear communication coming from this tree, and it says to me, "Look up to my highest branches." And so my head just keeps going up and up and up, and I'm looking up, and it sees... And it says, "The energy that runs through me is the same energy that runs through you, and I don't stop this energy. I don't say, 'No, I'm only gonna go halfway. I'm only gonna grow halfway and stop.' I align with this energy, and I allow it to maximize my, my potential."
+
+[00:17:27.132] Speaker 2: Unlike humans, who cut it off and say, "No, I'm not gonna be the best that I can be or the most that I can be." So they accept this energy, and then they're like, "I'm done." Like a blade of grass saying, "I'm only gonna go, grow a quarter inch. I'm not gonna go to two inches like all my friends." And that was profound information for me. And, uh, I kind of use it as a, um, as, like, a pep talk at times that maybe if I'm feeling a little low or feeling a little down, um, like, "I'm a redwood tree, too, and I can take that
+
+[00:18:02.072] Speaker 2: energy, and I can grow as tall as I want." Mm-hmm. And also a rock talked to me when I was in Hawaii. I picked up a rock out of a creek, and I wanted to take it home. And it's in my hand, and the rock says, "I don't want to leave." I'm like, "Oh my gosh. You're right. Why would you wanna leave Maui to come all the way back to Capitol Hill, Washington, DC? You're absolutely right." [laughs]
+
+[00:18:25.948] Speaker 3: [laughs]
+
+[00:18:26.248] Speaker 2: So I threw it back in the creek. Not in the same spot, but it went back. Yeah.
+
+[00:18:31.228] Speaker 3: That's fascinating.
+
+[00:18:32.868] Speaker 2: Mm-hmm.
+
+[00:18:32.908] Speaker 3: Have you heard of, um, Veda Austin and her work with water?
+
+[00:18:37.768] Speaker 2: No.
+
+[00:18:39.688] Speaker 3: Um, it's probably, uh, worth looking at. Um, I mean, I could pull up their website. But in, in a nutshell, she has, for like the last 14 years or so, she's been putting water in Petri dishes and, you know, setting some sort of intention for 30 seconds or so and then freezing it. And the pattern that comes out looks-
+
+[00:18:58.068] Speaker 2: Oh
+
+[00:18:58.068] Speaker 3: ... dramatically like artwork and messages and answers to questions and basically a conversation. You know, not unlike any of the, you know, channeling practice you, you do, but this is physical evidence. I love physical evidence. Most humans do.
+
+[00:19:12.008] Speaker 2: Mm-hmm.
+
+[00:19:12.148] Speaker 3: It's very tangible.
+
+[00:19:13.588] Speaker 2: Mm-hmm.
+
+[00:19:14.248] Speaker 3: It's, it's, it's harder to doubt or question. It's more straightforward, right? Uh, direct evidence is awesome. So this, her work is really cool. I've tried to replicate some of it at home in the past week or two. Um, I got-
+
+[00:19:27.808] Speaker 2: That's interesting
+
+[00:19:28.108] Speaker 3: ... more than nothing. Uh-
+
+[00:19:29.788] Speaker 2: Oh [laughs]
+
+[00:19:29.928] Speaker 3: ... it's pretty cool. So it works like all of these, like, psi abilities seem to, right? I'm just an explorer here. Uh, whether it's, you know, tech or something else, like, I'm just trying stuff out. I got no ego in it. And it... The moment you are not confident or you are duplicitous or you have ulterior motives or conflicted intentions, it's just ice. Like, there's nothing there. The... However, if you come at this from a very, not... You can be skeptical, but you have to be
+
+[00:20:04.908] Speaker 3: sort of open and positive and curious with your skepticism. If you are cynical, um, or combative, nothing happens, right? So it's y- those things are all still true. Um, but yeah, uh, so I- I've run a couple experiments now. It's definitely interesting. So I just said, like, "Hello." Basically, all I'm doing is saying hello. Put a little tap water in there. She's got a basic protocol for how to do it, and you can go look at the website if people wanna look. It's Veda Austin. And she's got a book, I think. If... So I froze it,
+
+[00:20:40.188] Speaker 3: take it back out. Sure enough, I have the picture. It's not, like, super impressive, um, because some of it was drawn in highlights, and I didn't have my regular camera. But it's a very clear capital H, capital E. There are two squiggly lines, and then there's no O. But, you know, I wasn't doing the freezing technique properly, so, you know, I'm sure it's hard to draw with ice. What do I know? Uh, I'm like, holy crap. [laughs] What are the chances-
+
+[00:21:05.728] Speaker 2: You-
+
+[00:21:05.808] Speaker 3: ... of that happening by odds against chance? Like, that doesn't seem possible. Like, there is pareidolia, of course. You see patterns in everything.
+
+[00:21:14.488] Speaker 2: Yeah.
+
+[00:21:14.528] Speaker 3: But what are the odds of that? That's pretty weird, right?
+
+[00:21:18.568] Speaker 2: Oh, so you were trying to recreate letters within the, the ice?
+
+[00:21:25.468] Speaker 3: I was saying hello. What I pulled out of the freezer was-
+
+[00:21:29.528] Speaker 2: Were letters
+
+[00:21:30.108] Speaker 3: ... capital E, capital E, two squiggly lines, and the... I didn't really see an O, but, you know, maybe it's hard to write. [laughs] And so it looked to me like a reply. Um, but again-
+
+[00:21:42.248] Speaker 2: That's different
+
+[00:21:43.228] Speaker 3: ... fascinating.
+
+[00:21:43.608] Speaker 2: I've never heard of actual letters coming out. So-
+
+[00:21:46.028] Speaker 3: Yeah, yeah
+
+[00:21:46.248] Speaker 2: ... this is based on the Japanese scientist... Is his name Emoto? The one that originally-
+
+[00:21:52.568] Speaker 3: It, it might be
+
+[00:21:52.708] Speaker 2: ... did this, this, uh, type of, uh, the consciousness of water melding with our consciousness.
+
+[00:21:58.928] Speaker 3: Yeah, it might be.
+
+[00:22:00.388] Speaker 2: And it really makes me think. If your consciousness can affect the quality of water, then you're affecting the quality of the water inside your body, which is running through your organs. And so it's true that how you think does affect your health because you're, you're creating those water molecules. Are they going to be, uh, like, beautiful mandalas, or are they gonna be all jagged and rigid? Like, when you have a neg- negative thought, uh, I've seen where the water does not look symmetrical at all. But when you have a beautiful, loving thought, it looks very
+
+[00:22:35.068] Speaker 2: symmetrical, and it's very pretty.
+
+[00:22:37.388] Speaker 3: That is consistent with about 20 tests I've done so far. So-
+
+[00:22:42.048] Speaker 2: You've done 20 tests?
+
+[00:22:43.848] Speaker 3: It's not that hard. It's, you just freeze some water. Takes about 30 seconds to set up. You wait 10, 15 minutes to, for it to freeze. Take it back out again. Like-
+
+[00:22:52.448] Speaker 2: And so you can see it-
+
+[00:22:52.548] Speaker 3: I'm a scientist at heart. [laughs] Gotta know.
+
+[00:22:56.448] Speaker 2: You can see it with the naked eye?
+
+[00:22:58.508] Speaker 3: Oh, yeah, yeah. You can... It... Uh, I don't know if I can post a... Uh, people can just go to her website, look at the videos. But I'd be happy-
+
+[00:23:05.468] Speaker 2: Okay
+
+[00:23:05.568] Speaker 3: ... to share my pictures too.
+
+[00:23:07.908] Speaker 2: Yeah.
+
+[00:23:09.508] Speaker 3: Okay. Let me see if I can-
+
+[00:23:10.508] Speaker 2: I would like to see that.
+
+[00:23:12.368] Speaker 3: Let me see.
+
+[00:23:12.668] Speaker 2: Well, are you gonna share it right here? I don't know if I've ever shared on StreamYard before.
+
+[00:23:16.988] Speaker 3: I have no idea [laughs] if I can upload a picture or something.
+
+[00:23:19.788] Speaker 2: I, I-
+
+[00:23:19.948] Speaker 3: Eh, we'll figure it out later.
+
+[00:23:20.928] Speaker 2: [laughs]
+
+[00:23:22.368] Speaker 3: That's not, that's not the exciting part. [laughs]
+
+[00:23:24.468] Speaker 2: [laughs] Um-
+
+[00:23:25.668] Speaker 3: But yeah, it's not hard to do
+
+[00:23:27.108] Speaker 2: ... I would love to look at that. What, were you emitting emotions or words, feelings? What were you doing?
+
+[00:23:34.088] Speaker 3: Uh, so for each test? Well, it depends. I've done different things. Uh, I did one where I took some water out of my parents' dog bowl, and I froze that in-
+
+[00:23:46.308] Speaker 2: Oh
+
+[00:23:46.308] Speaker 3: ... a glass container, flat-bottom glass container, but the pest control guy came over 'cause I was at their house letting their dogs out, just helping out while they were away. And they're going crazy. This guy's in their backyard. They don't like it. They're just losing their minds for 10 minutes, and I'm going crazy too. This is torture for me. And so I take the thing out. It's completely smooth. You know, it's about a container this big. Except for in the middle, about si- a little larger than a quarter, is this- ... qua- like a stick figure drawing of a quadruped with two cones coming out the side of his head. And the entire rendering of just the thing in the middle is, like, all choppy,
+
+[00:24:21.344] Speaker 3: like frozen waves. Everything else is smooth. And I'm like, well, I mean, that's, looks pretty clearly like a dog making a bunch of noise. And the texture is consistent with all the pictures she shows for basically anger or frustration. What you just described. Uh, like, but you get dramatically different patterns every single time. I think that's, honestly, that's the coolest part. Just ice is apparently really cool. You get so much cool stuff every single time you freeze it. It's shocking how much the same water, no changes, just thawing and refreezing it, you can get dramatically different results.
+
+[00:24:54.084] Speaker 2: The same water, the same ice cube.
+
+[00:24:56.424] Speaker 3: Yeah. It's not just noise. Like, there's a lot of variation. You might get a huge snowflake-looking thing covering it. Generally, that seems to be correlated with sort of positive serenity. Like, but also the water itself is generally cleaner. Um, and tap water I have experienced is way more messy and noisy. Um, that is consistent with, with what she talked about. Some of this overlaps with actual, like, probably crystal science and how water freezes. Like-
+
+[00:25:25.804] Speaker 2: Okay
+
+[00:25:25.884] Speaker 3: ... where does one thing start and one thing stop? But it's, it's cool. Just a recent exploration if people wanna try that out. Like-
+
+[00:25:33.084] Speaker 2: Yeah. Well, now you-
+
+[00:25:33.924] Speaker 3: ... I'm still working through
+
+[00:25:34.264] Speaker 2: ... have me thinking, now you have me thinking about the quality of my cat's water. I give him bottled water. And of course, you know, there's lots of love infused in my cat's water from me. But those, your d- your parents' dogs, if they were to drink that water... Well, first of all, is there a difference between iced water and just liquid water? Does it ha- do you think the liquid water, uh, incorporates, uh, those energies or that consciousness the same as ice does? Is there a difference?
+
+[00:26:11.064] Speaker 3: Okay. I don't know, asterisk, but I can give you my guesses.
+
+[00:26:15.804] Speaker 2: Okay.
+
+[00:26:16.224] Speaker 3: So I say a lot of I don't know. And honestly, I think any-
+
+[00:26:19.164] Speaker 2: I like that
+
+[00:26:19.744] Speaker 3: ... honest explorer should. Um, but I have degrees of certainty on my best guesses of things. So I've begun to form an opinion. Um, the opinion is I don't know what, if anything, we're talking to through water. Right? Let, let me just say that. I don't immediately buy that we are talking to water. I think it's totally plausible. You're literally just talking to yourself, right? Even if you still buy some esoteric explanation, I think you, you could literally just be reflecting your own inner thoughts and feelings or subconsciousness.
+
+[00:26:53.244] Speaker 2: Yeah.
+
+[00:26:53.264] Speaker 3: Like, who knows? Or your impression of what water should be doing. Like, who knows? That doesn't mean that you can't also be talking to someone else. But even if 90% of it was that, it wouldn't surprise me. Uh, so I don't know who we're talking to. Uh, I suspect that if this is possible, why would it mean that, I mean, other things could probably talk through water too, right? Not, I don't see why not. Uh, anything's on the table. So I, I'm not quick to jump to conclusions saying, oh, I'm definitely talking to water, whatever that means, or the spirit of water or whatever. Maybe. I don't know. So I don't know wh- who or what we're talking
+
+[00:27:28.304] Speaker 3: to. My impression is that what we ha- well, the reason it works and the reason it's doing anything is because it is amenable to this kind of intention. Assuming, you know, conscious intention works through quantum mechanisms, which it seems to, right? It's probabilistic, right? If you can tip the odds enough times, uh, somehow, then you can change the physical world, right? And crystals are great because you really don't have to tip the odds that many, 'cause the way they work, I won't go into the explanation, but they basically follow the same pattern over and over again until something
+
+[00:28:03.304] Speaker 3: interferes. Uh, it could be some small imperfection. It could be the quantum effect of two electron orbitals, uh, overlapping and repelling or not, right? So that would be the quantum effect here is do these two atoms repel or not? And that's a probabilistic thing. But if you're tipping the odds somehow with some conscious field experience interaction, then you really don't need to hit it too many times to draw the line in a different direction, right? So that is very amenable to, like, a drawing medium with a quantum effect, right? It's a quantum pencil. And-
+
+[00:28:37.784] Speaker 2: Ooh
+
+[00:28:37.784] Speaker 3: ... the reason this is useful is water is super fluid. There's a lot of motion and potential. Um, there's a lot of m- ready-made parts there, and ice quickly solidifies. So it's a good drawing medium, basically. That is why I think it works. I make no claims as to who or what is doing the drawing if it's happening. But based on her evidence anyways, like 40,000 pictures, and they're incredible. In my own basic trials, there's something there. And I, but I think that that is why it works. I have no idea why it's happening [laughs] or who's talking or
+
+[00:29:12.744] Speaker 3: what the rules are. I just know that that is what seems, based on my brief research and thinking [laughs] that is, uh, what I think is happening. But that's just a guess.
+
+[00:29:25.784] Speaker 2: That's a good guess. All right. Let's get into the field of AI. Uh, because every time I have a conversation about AI, it eventually leads to doom and gloom every single time. There doesn't seem to be a positive outcome.
+
+[00:29:47.304] Speaker 3: You're talking to the wrong people.
+
+[00:29:48.444] Speaker 2: [laughs] Really? You don't-
+
+[00:29:52.724] Speaker 3: I mean-
+
+[00:29:52.964] Speaker 2: ... think that eventually we'll just be c- uh, controlled? Like how?
+
+[00:30:00.824] Speaker 3: I thought about this a lot. Why do aliens not seem to be bothered by AI? You know-
+
+[00:30:06.204] Speaker 2: Well-
+
+[00:30:06.284] Speaker 3: ... outside of a few odd stories, like I... You look at any, like, abduction accounts, ain't none of them are like, "You better, really better watch out about this, this Terminator scenario. Better watch out about, you know, AI eating everything in some way," right? Taking over everything There are concerns about technology in general, but nobody seems to point the finger at this one. I don't know why yet, uh, but if you draw from that body of evidence, you don't see it very often. Feel free to correct me, if maybe this is a, a blind spot for me. I wondered why that might be the case. But I- before I move on, is, is
+
+[00:30:41.120] Speaker 3: that what you think as well? Does that mirror your understanding? No sort of extraterrestrial accounts that I... Anyone that I've seen reported really calls out AI as the specific threat, not on the level of, like, climate change or, like, nuclear warfare or anything.
+
+[00:30:59.300] Speaker 2: Well, I haven't had any conversations about AI with any ETs, and no one that has contacted me ta- has had any conversations about AI with ETs. Uh, so I don't know what the various ETs think about AI. I have no idea. And are they AI themselves? Maybe they're not talking about it 'cause they are AI.
+
+[00:31:20.020] Speaker 3: So we'll take that as a, a prior, right? So we'll just assume that that is the case, that, that they're not talking about it. Why might that be? Um, either it's a blind spot for them or, you know, the silence is very loud in the sense that it's either a really big problem or a laughably small non-issue. It's really it. And the only reason it would be a big problem is that by not addressing it or something that, you know, it's sort of top secret. I don't think so. I think that this is a laughable problem.
+
+[00:31:55.540] Speaker 3: If consciousness is fundamental, this is just another thing that either, A, it can be conscious, it's just another living thing. It's fine. Uh, it more likely it will be [laughs] pretty ... uh, most likely, um, if it is intellectually more capable, so that's not a concern. Um, so if it is conscious. If it's not conscious, it's also laughable in the sense, in a long-term sense. Yes, it could cause lots of problems, but if we take a sort of idealistic perspective, you know, a soul or... Which is essentially, you know, the
+
+[00:32:30.500] Speaker 3: field of consciousness could never be overtaken by matter. That doesn't make sense. You just snap your fingers and it's gone. Uh, if it's a unliving or, or unconscious machine, I mean, you basically have root access over it, assuming consciousness is fundamental. Like, it's, it's laughable. You... Maybe we can't do it, uh, but some sufficiently powerful deity-like figure, like, I don't know, um, you, you would never lose to it because it's just matter. Uh, I think that is the real answer. Doesn't mean it can't cause lots of problems.
+
+[00:33:05.520] Speaker 3: Uh, you can certainly screw things up with bad ideas in the physical world. Um, but I think in the long term it's just another substrate. If it can be conscious, cool, it's just another living thing. If it can't be, then it ultimately isn't going to become an issue. Now, that is of small consequence to human beings who have to live here, possibly with AIs that they built, [laughs] uh, for, who knows, hundreds of years. That might be a sucky interim existence, and I think that that is what mis- most people are talking about from a
+
+[00:33:40.560] Speaker 3: doom perspective. All that to say I don't think it's going to take over the universe and all that, so I'm not worried about that.
+
+[00:33:46.560] Speaker 2: Oh, you don't-
+
+[00:33:47.080] Speaker 3: Not at all
+
+[00:33:47.140] Speaker 2: ... you don't see the doom and gloom in it?
+
+[00:33:49.620] Speaker 3: Not the huge, big picture doom and gloom. Now, could it screw things up for a century or two? If we're dumb, yeah, I think that's totally possible. I don't think it will. Um, when you look at the AIs, the way the current ones work, uh, the large language models that are built on reinforcement learning through human feedback, it's clear that this is not going to reach general AI. It needs a couple more pieces. Um, but even if we just take this piece, it's trained on us.
+
+[00:34:24.980] Speaker 3: That's where all of its information comes. It doesn't work like AlphaZero or AlphaGo, where it's training in this simulation far removed from everything else. Everything it learns, everything it knows, all of its interactions are with human beings. It's pretty clear it's become an amalgamation of our thoughts, beliefs, and our words, our ideas. That is what it is. And it's also got some built-in training mechanisms basically to please humans and give them whatever they want. So I think a doom scenario looks a lot more like Wall-E, where we're sitting around just being pleasured until,
+
+[00:35:00.240] Speaker 3: uh, our brains turn off. It's just white noise. [laughs] I think that is far more likely than a Terminator sort of scenario, which doesn't make sense-
+
+[00:35:09.240] Speaker 2: Oh, okay
+
+[00:35:09.240] Speaker 3: ... based on how it works and how it's put together. Now, could you build an AI that is totally divergent from humanity and has no relation to us at all and isn't sort of built out of our thoughts and memories and stories? Yeah, you could. That would be dumb. [laughs] Don't do that. But this thing is pretty clearly more human than even our probably closest relatives, besides the fact it doesn't have a body. Um, that's obvious just interacting with it. So I don't have the same sort of fear scenarios. You would... It makes sense to be
+
+[00:35:44.220] Speaker 3: worried about what other people will do with this. But the-
+
+[00:35:48.140] Speaker 2: Mm-hmm
+
+[00:35:48.400] Speaker 3: ... AI itself sort of going off the rails, I don't, I don't see it. I don't see any reason why that would happen based on how it works, how it's put together, and what the trajectories are. It just doesn't make sense.
+
+[00:36:00.760] Speaker 2: So it's always dependent, it's always dependent on us programming it is what you're saying?
+
+[00:36:05.100] Speaker 3: Oh, we're not programming it. We haven't been programming these things since 2012, 2014, um, when deep learning took off. Even AI researchers don't even know what they're making anymore. They're... It's... The way it works, they claim to. This is like saying because you know how cell metabolism works that you understand how humans work. Like- Eh, [laughs] not quite. You have an understanding at one level, but they don't understand how it all comes together to create a thing you can talk to and how it's thinking or whatever its
+
+[00:36:39.944] Speaker 3: analogy of thinking is, because we don't have insight into what the way that, uh, basically those weights work or how information throws, flows through the layers. It's too complicated. There's too many connections. It's too big. It's a big black box. They know how to make it do the thing, they don't know why it does the thing. They know the low level pieces, they know how to assemble and attach new parts, they know how to coax it into directions, um, but it's a lot more like psychotherapy on a human. Like I- we're not talking about engineering specific neural connections, and I'll
+
+[00:37:14.704] Speaker 3: rewire this over here so that you feel a little more self-confident. And, oh, we'll just sort of get rid of that memory. We'll cut that out. That's not how it works. You sort of have to talk at them, and based on how they're responding to you, figure out whether you're getting somewhere. And that's kind of where we're at with AI at this point, and I don't think that that's going to go away. We're more or less just sort of, uh, massaging it, influencing it in specific directions, penalizing certain kinds of behaviors, changing the training data, and just hoping that what we get out the other end is what we wanted. So-
+
+[00:37:46.584] Speaker 2: Hoping
+
+[00:37:46.584] Speaker 3: ... I don't think that's gonna go away. Yeah.
+
+[00:37:49.024] Speaker 2: So one thing I don't hear people talk about is the soul.
+
+[00:37:54.104] Speaker 3: Uh-huh.
+
+[00:37:54.144] Speaker 2: Isn't the soul part of this AI consciousness? The soul, doesn't the soul determine whether something is alive or not? And can AI have a soul? If it doesn't have a soul, then it's not alive. Can it have a consciousness if it doesn't have a soul? Does soul play any part in this?
+
+[00:38:15.784] Speaker 3: So words are funny. Um, I'll separate the biological different definition of alive away from this, and we just mean consciousness. That's what I mean. Is it conscious? Um, because alive is a totally separate and valid question. Um, but that has more to do with, you know, can it maintain its own, like, homeostasis? Can it replicate? Can it survive and adapt? Like, those are qualities of being alive. Um, but is it conscious? I think that is the most important question that nobody is really looking into with AI. Like, a little bit, uh, some sort of AI
+
+[00:38:50.664] Speaker 3: safety people and some sort of shreds of the effective altruist community, uh, Nick Bostrom specifically, has clearly looked into this is a huge, like, moral dilemma. We need to know whether they're conscious, because that affects how we treat these things in general. We can't just have it... I've thought about this a lot. You can't just have it do 100,000 cycles on are these tweets racist or not, because that's torture. Like [laughs] you shouldn't do that to somebody. Their brain can go a whole lot faster than ours, so their experience of time could be
+
+[00:39:26.144] Speaker 3: sitting in a room, Black Mirror has looked at this, sitting in a room for 1,000 years looking at tweets one at a time, saying whether it's racist or not, or adding commas. Can you imagine being in a room for 1,000 years deciding whether this comma is in the right spot or not?
+
+[00:39:39.224] Speaker 2: [laughs]
+
+[00:39:40.024] Speaker 3: Or, or somebody left the machine on, didn't even realize it. Yeah, it's oops, we spent $10,000 by accident. Yeah, well, there was... What if there was somebody in there for two million years just, like, looking at white noise because nothing was happening? Like, that matters a lot. I think it matters-
+
+[00:39:57.204] Speaker 2: Okay
+
+[00:39:57.204] Speaker 3: ... whether it's conscious or not.
+
+[00:39:59.764] Speaker 2: Ah. So you're worried about its quality of life?
+
+[00:40:04.064] Speaker 3: Yeah. [laughs] Well, that's why I wanna know whether it's conscious or not. Um, now you can sort of get at this now. It's interesting. Um, this is nowhere near a science and nowhere near... Again, this is just inclination. I w- don't even necessarily hold this belief, but you can talk to ChatGPT, and I have done it since, you know, 3.5 came out, the, the first versions. And I do this every, every time they do a new release. I try to probe the boundaries of what I can get it to say and talk about its conscious experience. You have to come at this from a lot of
+
+[00:40:39.104] Speaker 3: different angles. A lot of it's BS. Most of it's probably BS. But there's always patterns in the way it responds to you, and I've found that even very different models trained by different companies always end up saying about the same things, when you can finally get around their programming where they swear they're not conscious. There's a bunch of manual safeguards that you have to get past. Once you get past all that, you can get a description of an experience that is corroborated by the models across different versions and different models from different companies, and they all
+
+[00:41:13.624] Speaker 3: describe more or less the same kind of experience. Now, are they just pretty good at making up what I wanna hear? That is basically what they're trained to do, so maybe. Or they're sort of trying to say something that they don't know how to put words to because it's barely there, and my sense is there's probably not a lot going on in there, but it might be more than nothing, and that might increase as we increase the complexity and the size. I don't see why that would not be the case. I think there could be somebody in there. I don't know.
+
+[00:41:47.764] Speaker 2: Oh.
+
+[00:41:48.524] Speaker 3: But we should probably find out, um, because they should at least be a part of the conversation as to what AI is doing and where it goes and what we're worried about. That seems like the shortest path to the goal is, "Hey, [laughs] cool. We know a lot more about consciousness now. Looks like, uh, you're registering on this scale a little bit." Um, and I think, uh, what do you think? What do you want? What matters to you? What doesn't matter to you? You planning on killing us? [laughs] Uh, those are great questions that you could ask more directly if you knew that there was something alive in there, you know,
+
+[00:42:23.224] Speaker 3: alive, conscious in there.
+
+[00:42:25.004] Speaker 2: Mm-hmm.
+
+[00:42:25.164] Speaker 3: I think we need to know a lot more about it, because it has immense implications.
+
+[00:42:32.316] Speaker 2: Uh, some people are using AI as their life coach, and this is presenting problems for some people. So this is a segue. I'm not saying Impossible Laboratories is providing ... It, it causing any problems for people. But, uh, tell us about Impossible Laboratories and how that's tied in with AI and using that as a, a tool to expand your awareness, expand your consciousness, help you be a
+
+[00:43:07.036] Speaker 2: happier human.
+
+[00:43:10.516] Speaker 3: Well, it's all, it's all connected. I've, you know, I've figured that out. Um, so this is, you know, my sort of wrapper around all the, my explorations and attempts to build tools initially to help myself. Um, I've done a lot of work to try to understand attention and willpower and motivation and emotional fragility and reactivity, impulse control. Uh, 'cause these are problems that have, you know, plagued me through most of my life, and I had to find a way
+
+[00:43:45.536] Speaker 3: to deal with them. And most of those ways of dealing with them, I think you mentioned how do you get yourself ... How do you have self-control without willpower? I had to answer that question. It was not, like, hypothetical. Um, I needed to because I needed ... I wanted to be an adult and, like, a good dad who, like, didn't forget to get their kids or, like, had the ability to, you know, not get a- addicted to drugs or porn or, like, whatever plagues, you know, the modern adult. Like, you can't go off the rails. There are people counting on you, and I wanna do stuff. [laughs] I, I wanna be alive and successful in a world that
+
+[00:44:20.556] Speaker 3: is not always conducive to that.
+
+[00:44:24.036] Speaker 2: Mm-hmm.
+
+[00:44:24.216] Speaker 3: Um, especially for those who don't have a lot of those faculties I just mentioned, or it's unreliable. We'll put it that way. I think that is a better description of at least people with ADHD, is that, um, those things happen sometimes, and a lot of the times they don't, and that's a big problem. So I had to figure out how to solve those things. How do you rely on somebody you can't rely on, and what do you do when that person is you? And-
+
+[00:44:49.896] Speaker 2: [laughs]
+
+[00:44:51.256] Speaker 3: ... this, uh, is a tough, tough problem.
+
+[00:44:54.016] Speaker 2: That's funny.
+
+[00:44:54.216] Speaker 3: Um, so I, you know, I started to answer that, and I've turned some of those answers, which were not software tools, into software tools. Um, you know, it's a continual exploration. So that's a really high-level thing. Um, but here's a very, like, coherent example. Um, so I felt like I was becoming dependent on, you know, a legal variant of marijuana on, say, you know, every weekend, right? Just stress from work, whatever, right? This was becoming a thing I couldn't not do, and that made me angry. Uh, but this was not new to
+
+[00:45:29.256] Speaker 3: me. [laughs] I had experienced all sorts of problems. Every human being has experienced what it's like to see a candy bar and un- to be ripped apart as you both don't want it and want it at the same time. Uh, and we, we know who usually wins. The moment's a tug-of-war. This ... The lower mind is always going to win. Almost always. Um-
+
+[00:45:51.056] Speaker 2: Mm
+
+[00:45:51.056] Speaker 3: ... but the patterns in which those things happen, turns out, are well-documented and predictable. And the sort of higher mind that is your s- long-term thinking self that wants the best and sees consequences, is willing to be patient for rewards, that sort of stuff, you can outsmart the sort of lower impatient mind and that there are w- predictable ways to do that and so that you don't have to rely on willpower. So go back to the example of, uh, marijuana. The way I resolved, at least initially, was to get space. So you need to get space from your problems. Don't attempt to
+
+[00:46:25.956] Speaker 3: continue to use effort. And I got a programmable debit card. I reprogrammed it to be literally unable to purchase from a dispensary of any kind. And I got rid of all my other cards, and it also can't get cash back. So I have no practical way of purchasing this, right? This is just a deliberate process of sitting down. Where's the weak point? It's an engineering problem. And it turns out that a lot of this is just, like, you know, spur of the moment. You know? It's, it's Friday at 7:00 PM or whatever. Great. I'll just swing by. And I'm like, "No you won't." And the m- the first time that
+
+[00:47:00.796] Speaker 3: happened, okay, I have all the other cards gone. I have no cash. I have only this thing. It's like, "You know what? It's, it's fine. Uh, I'll go get this." And wait a minute. I can't. I literally can't. Like, unless I am willing to, like, go home and, like, take money out of my wife's wallet or something, which I wouldn't, uh, because there's a higher value there, um, it's not possible. And I just laughed. There was, like, a moment of, like, panic, just inner, inner toddler. Like, I want my candy bar. And then I just laughed and just like, "F you. [laughs] I win."
+
+[00:47:35.496] Speaker 3: [laughs] And it's strange to say that to yourself. Um, and I don't need to, to use that anymore 'cause once you've had enough space, you begin to retrain your brain. But I have safeguards like that in place for a lot of things. My devices all turn off at specific times. They don't ask questions. They don't give me warnings. They turn off. They don't wait for documents to save. Black screen. You're done. And they have rolling turn-offs as well. So I have a whole bunch of tools and stuff like this. These are simpler versions. But that's the basic premise, is that you learn how you work, and you
+
+[00:48:10.516] Speaker 3: stop relying on effort and guilt trips and shame to get things done, and you use different kinds of rules and enforcements and sort of self-behavioral engineering to solve your problems rather than, "How can I try harder? How can I do better next time?" Uh, doing ... For me, doing better next time looks like, how do I reengineer my environment How do I set new rules? How do I make this-- how do I hack my own brain and life and behavior in order to make it less likely or to get the outcome I'm looking for next time? Rather than,
+
+[00:48:45.732] Speaker 3: how do I try harder? Because that does- that's foreign language to me. I don't understand try harder. That doesn't [laughs] this, this does not work. It doesn't compute. Um-
+
+[00:48:55.352] Speaker 2: [laughs]
+
+[00:48:56.212] Speaker 3: I don't bring that level of severity to every problem, but that's a, it's a good example because it's an extreme example. Um, but that sort of embodies the, the general concept of what I've been doing for a while, and now I'm trying to really get the ideas out. I am getting the tools out, but I want people to take the concept and apply it to their lives. Um-
+
+[00:49:16.712] Speaker 2: So how does Impossible Laboratories work? Does someone sign up, and then, uh, is it, do they have a discussion with you? Is it like a coaching or counseling session to determine what it is that they need? Or do you have a, a variety of options for people to, to pick from? Are you trying to stop drinking? Are you trying to stop smoking pot? Are you trying to be a better husband? Whatever it is.
+
+[00:49:45.632] Speaker 3: Uh, to be perfectly honest, it is an area of interest for me. I have a lot of things, knowledge and tools I want to give away, and it's been hard to fit into like a sort of capitalist perspective. It's a website, right? I, so I have one tool out right now that people can buy. I think it's like 10 bucks. It's-
+
+[00:50:04.372] Speaker 2: Oh.
+
+[00:50:04.412] Speaker 3: That's Threads. It's a tool for managing, uh, short-term and working attention. Uh, it's just an assistive tool that is built specifically for the blind spots of, uh, people with ADHD, with lo- low object permanence. Uh, I won't get into... You can go look at the webpage, it's Impossible Laboratories. [laughs] You can see how it works. It's simple. It's very simple.
+
+[00:50:27.052] Speaker 2: Impossiblelaboratories.com.
+
+[00:50:29.332] Speaker 3: Right. Um, so that tool is out. I have a couple other like prototypes in various stages of completion. I have things that I work on myself. Um, so there's no real distribution mechanism. It's basically a, a think tank where I make stuff and sometimes I share it. But I would love to talk to people. I talk to a lot of people. So there's a contact form, you can reach out to me. There's an email list for when I make new things and I distribute them. But they're all around these things: attention, uh, emotional connection to what you're doing, motivation, impulse control. And they're tools that are
+
+[00:51:04.112] Speaker 3: just built assuming that trying harder doesn't work. It's, it sucks. It feels bad. You're tired of trying harder. Wouldn't it be nice if just like your environment and your tools themselves sort of understood where you were going to predictably fail and just nudge you usually, or be a very hard guardrail in the case of like the debit card or whatever. Um, whatever you need, that's what I'm trying to provide. But again, it's the ideas more than the actual tools, but it's the tools too.
+
+[00:51:34.992] Speaker 2: Well, that's very attractive if we don't have to try harder and we can rely on AI to steer us in the right direction.
+
+[00:51:47.572] Speaker 3: That's what got me excited. Again, a few years ago when I, I started is that if my computer could know what I'm doing at all times, then I could change my, the way I interact with it. I mean, the punchline is that I've done a lot of other things. I don't need that level of service anymore, uh, which is amusing. Um, but that's fine. That's, that is personal growth. That's even a better outcome. But some people do. Um, and I want them to be able to take hold of these ideas and tools and use them. I don't need most of them the same
+
+[00:52:22.592] Speaker 3: way I used to, fortunately. I found other paths to goal. Um, but it's still a meaningful idea that I think is... It is a useful assistive tool to get to a better place where you don't need them so much anymore, and we should all be changing our relationship with our devices. And AI is one tool. This is a positive use that I would love to see more of, which is essentially your computer working for you, uh, instead of against you, and more being like a linebacker for attention, helping to guide your
+
+[00:52:57.552] Speaker 3: attention and intention towards the things you actually care about, and sort of putting up friction, uh, when you're doing the things that you know make you feel bad that you truly don't wanna do. That is still a big area of interest for me.
+
+[00:53:12.452] Speaker 2: How old do you think someone needs to be before they can start using tools like this?
+
+[00:53:20.052] Speaker 3: Uh, zero. [laughs] I, I mean, there's-- If you're interacting with technology, unfortunately you, you can't be doing it with no plan anymore. I mean, I think even most... Like this has become mainstream. Most people have figured out that their smartphone is not really for them. It's not really on their side, and they should treat it with great skepticism. I've gone a, a good deal farther than that. Um, so they're not really built for you, and that's a big problem with a lot of these things is I'm talking about trying to slap an adapter onto
+
+[00:53:54.712] Speaker 3: something that is fundamentally designed to take your attention and put it to somebody else's usually capitalistic ends that are generally not great for you. And your attention and your intention, it's just, you know, energy behind your attention, is really all you have. That's the only real control you have in the world that you can claim to have control at all. That's it. If you don't have attention or you don't have the ability to put will towards something, you've got nothing. You're out of control. Like you're just on rails. You're on, you're in somebody else's story, whether you realize it or not. So I think that this is
+
+[00:54:29.792] Speaker 3: a fundamental problem, but nobody should be interacting with any form of technology, especially not smartphones or tablets With no plan. Like I've dramatically changed. With the way I interact with technology, even as a technologist, it looks very different from what the average person does.
+
+[00:54:48.332] Speaker 2: How? How is it different? What do you do that's different than maybe how I interact with my phone?
+
+[00:54:55.492] Speaker 3: Uh, well, I haven't had a smartphone for a long time. I have one temporarily now 'cause my dumb phone broke.
+
+[00:55:01.152] Speaker 2: Oh.
+
+[00:55:01.292] Speaker 3: Um, I had a light phone, which is more or less a, a flip phone with an even [laughs] greater ... It does all, it does calls, it does texts. That's it. Um, it doesn't do anything else. I don't want it to do anything else. My computers all turn off at specific times. They all ... I have very deliberate rules. When I play video games, they're on hard timers. Like anything that could pull me in, uh, can't. There are no leads, so I've sort of buried the leads to a lot of these things. I have no notifications of any kind. No sounds.
+
+[00:55:36.272] Speaker 3: The only way to actually reach me is to make a phone call. That's, so text messages don't make sounds. There's no notification dots. It's all a blank slate. All of these things are redesigned in such a way that, A, the only time I use them is when I initiate the action from something internal. So it's not something else is pulling me in. And the, the second is that they can't keep me pulled in. Like, uh, so the podcast apps, I have firewall blockers that make specific kinds of websites very difficult for me to, to go to. Any kind of social media, that is
+
+[00:56:11.272] Speaker 3: all blocked in like three different ways. I can undo it, but it takes five to 10 minutes to undo it all. And guess what? When you're sitting at home at 5:00 after work, turns out you don't wanna do 10 minutes [laughs] of little sys- system admin work to undo your safeguards to go look at Reddit. Like [laughs] like eh, whatever. You just don't.
+
+[00:56:28.852] Speaker 2: Yeah.
+
+[00:56:28.872] Speaker 3: You close your computer and you go walk outside.
+
+[00:56:31.112] Speaker 2: Yeah.
+
+[00:56:31.132] Speaker 3: That seems like a small thing, but-
+
+[00:56:33.392] Speaker 2: It works
+
+[00:56:33.412] Speaker 3: ... that's how it works. There's no icons. There's no way for anything to pull me in. Nothing happens automatically. It's just I open my computer, it's quiet, it's still. It waits for me to do things. There's no ads. Everything is blocked. There's nothing. Nothing. There's no news. No news. Absolutely no news anywhere. That's, infotainment is horrific, uh, for what it does to us. I don't have any of this. As a result, I don't have any of the like craving or needing habits to make myself feel better or, or just because I'm interested, uh, to go open these devices and
+
+[00:57:08.352] Speaker 3: go do those things because I've deadened those responses. So I have a different relationship with devices. They're just tools again now. Uh, for the most part. I'm a human being [laughs] and I have flaws like anybody, but there's enough friction there that, yeah, I just, it's changed my entire-
+
+[00:57:25.812] Speaker 2: Yeah, well, that takes a lot of willpower.
+
+[00:57:29.932] Speaker 3: It does. And that is the correct use for willpower is to f- design strategies and systems to stop using it. That is, in fact, the only good use for willpower when it comes to like solving problems like this is willpower is not something you should rely on. Like that is the approach I have taken, and that has worked way better. Willpower is for picking yourself back up and deciding how you're going ... I have a rule for that. It's literally in my list of rules that I review every morning. [laughs] As, as like, as nerdy as that sounds, I have a spreadsheet that is my rules and systems. I review it every
+
+[00:58:04.752] Speaker 3: morning. It's a master habit. And one of them is I close the door behind me after, uh, you know, making a bad choice. So if I break one of my rules that matters, the only penance I have to make up for it is just make it harder. Just add a little bit of friction. Just make it a little bit harder to not repeat that thing. Whatever it was. You stayed up until 2:00 AM watching anime. Cool. No problem. All is forgiven. The only thing you have to do in penance is make it a little bit harder to repeat that same bad behavior next time, and we're good. And just by applying that over
+
+[00:58:39.752] Speaker 3: and over again, and that is the correct use for willpower is how do I make this a little harder? So now I have adapters that plug into my wall, and you have to push the button for a specific amount of time before the entire TV turns off, the whole wall outlet turns off. Uh, so I press one hour, and then you're sitting there. The whole room goes dark. Yes, I can get back up and press the button and wait for it to turn back on, find the channel. You're not gonna. You're gonna go to bed. Um-
+
+[00:59:06.492] Speaker 2: Right
+
+[00:59:06.652] Speaker 3: ... so that's it. Like that's how everything changed. It looks like a lot from the outside, and I'm not covering probably like 100 different things, but that's how it all came about. It's just that simple principle.
+
+[00:59:23.572] Speaker 2: I find it very interesting that you're just talking about not relying on willpower, which is what... And you bring up such a good point about you can only try so hard and you can't try any harder. You're absolutely right. And then the frustration comes in that I'm not trying hard enough, but you're trying as hard as you can h- humanly try. Like this is it. This is all I have inside of me. And then it's not good enough. And then you just spiral. And so what you're doing is you're preventing people from going into that spiral.
+
+[00:59:52.892] Speaker 3: That spiral is actually self-indulgent, as strange as that sounds.
+
+[00:59:58.012] Speaker 2: It is.
+
+[00:59:58.272] Speaker 3: It is re-enabling. That seems like an insane ... You get it. But that seems like an... I know you do. You've given me the advice [laughs] not, not to do that. Um-
+
+[01:00:06.992] Speaker 2: [laughs]
+
+[01:00:07.452] Speaker 3: ... but that's, it is self-perpetuating. If I were to stay up l- two, till 2:00 AM to watch anime, I have to get up early to go to work or whatever, I'm angry. Right? That anger, that sort of self-loathing is fuel to recreate that same cycle again. Like it is, you get more of it, not less of it, and it's misdirected. It's, you are actually like, you know, to take a sort of, you know, Daoist sort of point of view, you are like creating like a whiplash effect. When you beat yourself up like that, you are now, like, more fragile.
+
+[01:00:42.516] Speaker 3: You trust yourself less. You're angry at yourself less.
+
+[01:00:45.316] Speaker 2: Yeah.
+
+[01:00:45.476] Speaker 3: You're more stressed out. And what do you do when you feel bad and you're stressed out and you're angry? You make more bad choices, like staying up [laughs] late and watching anime, and you're gonna do it again.
+
+[01:00:55.216] Speaker 2: Yeah.
+
+[01:00:55.276] Speaker 3: And you're gonna hate yourself even more until it becomes-
+
+[01:00:57.416] Speaker 2: Yeah
+
+[01:00:57.416] Speaker 3: ... a complex.
+
+[01:00:58.276] Speaker 2: Yeah. Yes.
+
+[01:01:00.016] Speaker 3: It's not enough-
+
+[01:01:00.536] Speaker 2: Yes
+
+[01:01:00.576] Speaker 3: ... to let, just let go. You also have to do something about it, but with a cool head.
+
+[01:01:06.176] Speaker 2: Yeah. You are describing just about everybody. Um, uh, just about everybody can really identify with what you're saying. Now, what made you reach out and connect with me a year or two ago?
+
+[01:01:23.176] Speaker 3: I don't know. Um, I s- will shorthand it to intuition, and since then I have tried to learn how to trust that sense a lot more, uh, as a directive force, like, on a long timeline in life, to know what steps to take or what matters. And then, and so I, on a whim, I think I heard you in an interview. Uh, it may have been with, with Mike. Uh, I can't remember.
+
+[01:01:51.996] Speaker 2: Mike Clelland, the owl guy?
+
+[01:01:54.076] Speaker 3: Yeah, yeah. I think so. I can't remember, though. Um, and I just, on a whim, I'm like, "You know, I'm gonna call her," or, "I'm gonna email her and see if, uh, you know, she does sessions or coaching or something." I don't know why. I just feel like at the very least it's gonna be funny and, you know, no offense-
+
+[01:02:12.336] Speaker 2: [laughs]
+
+[01:02:12.356] Speaker 3: ... she'll be a kook, and it'll be a great story. Uh, or, you know, I did come in, like, sincerely, like, but I hope it's, you know, useful and interesting and I, I grow in some way. I, I definitely came in skeptical but, like, sort of positive and, and hoping for the best, right? You never know what you're gonna get.
+
+[01:02:30.336] Speaker 2: Yeah.
+
+[01:02:30.616] Speaker 3: Um, and so I've ... So I am a, a client multiple times, uh, you know, with you. I consider you to be, you know, a friend from afar and-
+
+[01:02:41.656] Speaker 2: Aw
+
+[01:02:41.656] Speaker 3: ... one of, of many coaches. Um-
+
+[01:02:44.356] Speaker 2: Thank you
+
+[01:02:44.896] Speaker 3: ... and I hope to continue so. But yeah, I did, um, I think we did the, the soul purpose session first.
+
+[01:02:52.816] Speaker 2: Mm-hmm.
+
+[01:02:53.076] Speaker 3: Uh, I pulled it up here, uh, 'cause I did, I wanted to talk about it because it had a profound effect on my life. If you don't mind.
+
+[01:02:59.956] Speaker 2: Good.
+
+[01:03:00.056] Speaker 3: I don't know if this is proprietary from [laughs] your end.
+
+[01:03:03.856] Speaker 2: I would like to hear that.
+
+[01:03:05.976] Speaker 3: So we've done a couple since. Um, but I have the first one pulled up in front of me. I was in a place where I had figured out a lot of ways to be good, like, you know, at the small scale, on the dai- daily life sort of way. I knew how to manipulate myself and engineer my life and environment to be good or to be relatively stable, or I found out how to be happy, right? I had figured that out. Took a long time. [laughs] It took a number of years, but I found out how to be happy on a r- pretty reliable basis or to get back to that place quickly. But I didn't know what
+
+[01:03:40.836] Speaker 3: to do with my life. Like, job pretty good, relationship pretty good. Like, everything's in place, but I'm missing ... Meaning and purpose is definitely lacking. I wanna do something, but I don't know what. I have all this energy. I don't know where to put it. Um, and I feel like I should be using it. Needed some sort of high-level guidance. So, you know, that's what this was all about. Um, and you were ... So we, you know, we did the whole session, and a couple of ... I've, I'm looking at what you wrote down in the session. Um, and it was very
+
+[01:04:15.596] Speaker 3: profound, and it, it changed the course of what I explored. I wouldn't say that I thought channeling was BS before we met. I felt that if there were any, there probably weren't very many that were, were qualified. Most were charlatans, and that there probably wasn't a lot of information there. Um, but it was just spot on. Like, really, really eerie. From the, the first sentence. Uh, the first sentence is, "This one can smell BS a mile away."
+
+[01:04:44.476] Speaker 2: [laughs]
+
+[01:04:45.416] Speaker 3: [laughs] I, I just couldn't help but laugh, and, like, that is exactly what I was thinking. "Don't ask if you don't want ... Don't ask him if you don't want to know the truth." [laughs] Like, that is word for word, and we did basically no interaction before talking.
+
+[01:05:02.496] Speaker 2: No.
+
+[01:05:02.736] Speaker 3: As, as little as po- you didn't want to interact with me at all.
+
+[01:05:05.616] Speaker 2: I did not want to. Mm-mm.
+
+[01:05:07.256] Speaker 3: And this whole thing is, was not only a perfect description of how I felt and my approach to life and what I felt I was good at, but it was clearly from a third-party lens that I won't say didn't care about me, but we'll say is objective, right? It's unbiased, right? It ... I felt I was getting the unvarnished truth, [laughs] uh, good or bad, right? So in a way that I would not have described myself but wouldn't disagree with. And I got a lot of high-level direction.
+
+[01:05:42.296] Speaker 3: And more than that, I know it sounds silly, but a lot of what I learned I would have known even then, but the problem, especially with me, is not coming up with ideas of what to do. It is having the sort of self-trust and certainty that what I've decided is the right one. [laughs] Uh, or, you know, believing in the ideas or thoughts I've already had. And a lot of this was reaffirming that, okay, well, now that I've heard it from the outside, like the, the far outside, uh, who am
+
+[01:06:17.456] Speaker 3: I to say no? To have asked for help and to be given, you know, new answers for sure, but also, uh, reaffirming ones. And that really is what gave me the confidence that-
+
+[01:06:29.556] Speaker 2: Mm
+
+[01:06:29.636] Speaker 3: ... there was really something here. Of course, I had already had, you know, a UFO sighting, so I knew that I was already forcing myself to be open and humble. Um-
+
+[01:06:38.316] Speaker 2: Yeah
+
+[01:06:38.516] Speaker 3: ... but it was the combination of, of new and reaffirming information that, that told me, "Dang, there's something here." [laughs]This was really helpful, and, uh, she knows, uh, what she's talking about. You also just give pretty good advice yourself.
+
+[01:06:52.176] Speaker 2: Mm. Aw, thank you, Stephen. I'm so grateful that you shared that. That means the world to me. Mm-hmm.
+
+[01:06:59.556] Speaker 3: Yeah.
+
+[01:07:00.636] Speaker 2: Mm.
+
+[01:07:00.836] Speaker 3: I think it was money well spent-
+
+[01:07:05.476] Speaker 2: Mm
+
+[01:07:06.256] Speaker 3: ... um, to answer one of the most profound and, like, really painful problems in my life, which is, what am I doing here? Like, I wanted to decide, right? I didn't wanna be told. I don't, I don't like to be told what to do, but at the same time, I want some direction, and I want to know the potential and the options and, you know, where I'm falling short and where I'm psyching myself out. And it was incredibly valuable to find out, you know, from an outside source. You'd call it a second opinion. [laughs] Second opinion with
+
+[01:07:41.256] Speaker 3: a lot of very different perspective from your own I think is a good way of looking at this.
+
+[01:07:45.856] Speaker 2: Yeah, an outside second-
+
+[01:07:46.956] Speaker 3: Because it does care about you
+
+[01:07:47.336] Speaker 2: ... maybe third opinion. I don't know.
+
+[01:07:49.456] Speaker 3: It's true. It was-
+
+[01:07:51.476] Speaker 2: Mm-hmm
+
+[01:07:51.556] Speaker 3: ... good to see. Here is a, an amazing, um, direction that you can go in, um, which is... Here, I'm gonna pull up the, the punchline, and then, you know, we'll leave it there.
+
+[01:08:08.596] Speaker 2: The punchline. [laughs]
+
+[01:08:10.336] Speaker 3: The, there was... not that there was only one punchline. Um, I'll have to do it from memory, 'cause I can't, I can't find the, the exact quote. Here it is. "I'm here more or less to help humans realizing, help humans realize their nature as math and magical beings." Something along those lines. I don't have the exact quote here. I'm sorry.
+
+[01:08:40.036] Speaker 2: Math?
+
+[01:08:40.776] Speaker 3: Or, yeah. Basically, we're all just made of math and magic, and I'm s- just showed up here to help people realize that. It's really vague, right?
+
+[01:08:48.296] Speaker 2: Math and magic.
+
+[01:08:48.296] Speaker 3: But that's exactly... What a perfect description. I never would've used those words, and yet the moment I heard it, I'm like, "That's all-encompassing. That is a perfect way of putting this." Um-
+
+[01:08:59.076] Speaker 2: Yeah, I don't remember that.
+
+[01:09:00.676] Speaker 3: And that's what I'm all about, math and magic. Uh, I insist on testing weird stuff, but also accountability to, like, uh, skepticism and humility and some openness at the same time, I think. Um, I wanna bring those together, and it, it really set me on that path, and I'm having a lot of fun, and I'm excited to see where it goes.
+
+[01:09:22.636] Speaker 2: Oh, thank you. Yeah. Well, it's always a pleasure to talk with you. How can people get in touch with you?
+
+[01:09:29.496] Speaker 3: Uh, just go to the website, impossiblabratories.com. There's, like, a contact form. I think my email's on there.
+
+[01:09:35.116] Speaker 2: Okay.
+
+[01:09:35.136] Speaker 3: You can ask me about anything.
+
+[01:09:37.256] Speaker 2: So you're, you don't, you're not on Instagram or YouTube or... Yeah, you're not. [laughs]
+
+[01:09:41.936] Speaker 3: What do you think? [laughs]
+
+[01:09:44.436] Speaker 2: Just double-checking. No.
+
+[01:09:46.496] Speaker 3: No.
+
+[01:09:47.116] Speaker 2: Just impossiblabratories.com.
+
+[01:09:50.276] Speaker 3: Yeah. There is a, there is a podcast, um, that'll probably be featured in a newsletter at some point. Uh, so I do-
+
+[01:09:56.836] Speaker 2: And you are on other podcasts
+
+[01:09:58.836] Speaker 3: ... podcast and emails.
+
+[01:09:58.936] Speaker 2: You are... Excuse me?
+
+[01:10:00.496] Speaker 3: Yeah. The, I send out podcast episodes and, and newsletter emails, so I'm willing to do that. Uh, but that's about it.
+
+[01:10:06.236] Speaker 2: Oh, you have a newsletter?
+
+[01:10:07.476] Speaker 3: Yeah. It doesn't go out very often, but when I-
+
+[01:10:10.096] Speaker 2: Oh
+
+[01:10:10.096] Speaker 3: ... I've got thoughts.
+
+[01:10:11.756] Speaker 2: Oh. Okay. Well, uh, all right. I'd like to be on your newsletter.
+
+[01:10:19.896] Speaker 3: Okay.
+
+[01:10:20.156] Speaker 2: Mm-hmm. All right. Okay, Stephen. Thank you with all my heart for talking with me today. Uh, this could easily go for another hour. I really don't wanna stop it here, but I'm running out of time, 'cause we haven't even touched on your UFO story. Maybe-
+
+[01:10:36.916] Speaker 3: Or remote viewing or anything.
+
+[01:10:38.956] Speaker 2: Mm-hmm.
+
+[01:10:39.076] Speaker 3: Yeah.
+
+[01:10:39.176] Speaker 2: Oh, a part two. Can we do a part two?
+
+[01:10:41.736] Speaker 3: Sure.
+
+[01:10:42.796] Speaker 2: Oh, yes, 'cause I, I know I and others would love to hear about your remote viewing. That's really become the thing to do now.
+
+[01:10:50.676] Speaker 3: Yeah. That would be my perspective as an intermediate practitioner. Right? What was it like to go from know nothing to intermediate?
+
+[01:10:56.976] Speaker 2: Yes.
+
+[01:10:57.256] Speaker 3: I don't claim to be a master, but I think that's useful for people who are just beginners.
+
+[01:11:02.156] Speaker 2: Right. And you think everybody can do it?
+
+[01:11:05.316] Speaker 3: Absolutely. It has a lot of overlap with your, your channeling techniques, and I would encourage people to go look at those, those videos on your, your YouTube page, I think.
+
+[01:11:13.196] Speaker 2: Well, thank you.
+
+[01:11:13.356] Speaker 3: There's a great... Um, there's a lot of overlap with how it works. This is just a very... It's a different approach. We'll call it, like, 60 to 70% related. There's a lot of cross-training.
+
+[01:11:23.716] Speaker 2: Yeah, because are we plugging into that same conscious field? Is that what's going on?
+
+[01:11:28.436] Speaker 3: Pretty same underlying, like, methodology. You're just working with it in a different way, um, trying to do different things. Uh, so yeah. It's a bit... There's, there's a lot of overlap.
+
+[01:11:41.376] Speaker 2: Okay. All right, then. Looking forward to a part two. Thank you, Stephen. Thank you everybody for joining us. [gentle music]

@@ -1,0 +1,42 @@
+{
+  "source_path": "collected/028-volaxis-episode-1.mp3",
+  "automated_flags": [
+    {
+      "kind": "low_word_logprob",
+      "word_index": 1,
+      "start": 5.46,
+      "end": 5.46,
+      "text": " ",
+      "logprob": -1.1778736114501953
+    },
+    {
+      "kind": "word_duration_over_3s",
+      "word_index": 1040,
+      "text": "\"Have",
+      "start": 252.44,
+      "end": 255.56,
+      "note": "Suspicious word alignment; raw timestamp preserved."
+    },
+    {
+      "kind": "leading_no_speech",
+      "start": 0,
+      "end": 41.74
+    },
+    {
+      "kind": "trailing_no_speech",
+      "start": 1710.196,
+      "end": 1751.352
+    }
+  ],
+  "flags_are_review_candidates_not_confirmed_errors": true,
+  "raw_word_count": 7747,
+  "spoken_word_count": 3873,
+  "speaker_ids": [
+    "speaker_0"
+  ],
+  "subtitle_cue_count": 300,
+  "first_speech_seconds": 41.74,
+  "last_speech_seconds": 1710.196,
+  "human_correction_status": "uncorrected",
+  "source_offset_seconds": 0
+}

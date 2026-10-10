@@ -1,0 +1,2592 @@
+1
+00:00:00,080 --> 00:00:04,540
+Speaker 1: [gentle music] This is Seeking
+Minimum.
+
+2
+00:00:10,460 --> 00:00:14,580
+Speaker 1: So today, we are going to take a look
+at how you can rapidly prototype some of your
+
+3
+00:00:14,740 --> 00:00:19,420
+Speaker 1: ChatGPT-related business ideas. Um,
+so what's really cool about this technique is
+
+4
+00:00:19,460 --> 00:00:23,160
+Speaker 1: that you don't have to be a software
+developer. You just have to be a little bit
+
+5
+00:00:23,220 --> 00:00:28,740
+Speaker 1: patient, and then you can sort of
+prove out whether ChatGPT is good enough or
+
+6
+00:00:28,820 --> 00:00:33,580
+Speaker 1: capable of solving your specific
+business problem. So, you know, let's just dive
+
+7
+00:00:33,600 --> 00:00:37,300
+Speaker 1: right into it. Uh, it's one of my
+favorite ways to rapidly prototype ideas, and
+
+8
+00:00:37,340 --> 00:00:40,800
+Speaker 1: today we're gonna walk through one of
+the actual ideas that I'm prototyping for a
+
+9
+00:00:40,840 --> 00:00:46,200
+Speaker 1: startup, and this is related around
+s-scam phone call detection, I guess is the
+
+10
+00:00:46,240 --> 00:00:51,000
+Speaker 1: right way to call it. Um, so but in
+your mind, you can walk through the steps for
+
+11
+00:00:51,040 --> 00:00:55,480
+Speaker 1: how you would prototype your ideas.
+So let's get started. So today, we are going to
+
+12
+00:00:55,540 --> 00:01:00,200
+Speaker 1: take a look at how you can rapidly
+prototype some of your ChatGPT-related business
+
+13
+00:01:00,300 --> 00:01:04,500
+Speaker 1: ideas. Um, so what's really cool
+about this technique is that you don't have to
+be a
+
+14
+00:01:04,540 --> 00:01:08,840
+Speaker 1: software developer. You just have to
+be a little bit patient, and then you can sort
+
+15
+00:01:08,860 --> 00:01:14,280
+Speaker 1: of prove out whether ChatGPT is good
+enough or capable of solving your specific
+
+16
+00:01:14,320 --> 00:01:18,600
+Speaker 1: business problem. So, you know, let's
+just dive right into it. Uh, it's one of my
+
+17
+00:01:18,640 --> 00:01:22,240
+Speaker 1: favorite ways to rapidly prototype
+ideas, and today we're gonna walk through one of
+
+18
+00:01:22,280 --> 00:01:27,440
+Speaker 1: the actual ideas that I'm prototyping
+for a startup, and this is related around
+
+19
+00:01:28,140 --> 00:01:32,360
+Speaker 1: s-scam phone call detection, I guess
+is the right way to call it. Um, so but in your
+
+20
+00:01:32,400 --> 00:01:37,220
+Speaker 1: mind, you can walk through the steps
+for how you would prototype your ideas. So
+
+21
+00:01:37,340 --> 00:01:37,900
+Speaker 1: let's get started.
+
+22
+00:01:48,560 --> 00:01:48,960
+Speaker 1: All right.
+
+23
+00:01:51,420 --> 00:01:51,860
+Speaker 1: Cool.
+
+24
+00:01:53,380 --> 00:01:53,580
+Speaker 1: So
+
+25
+00:01:55,140 --> 00:02:00,860
+Speaker 1: my name is Steven, and I like making
+things. I think that's enough of an
+
+26
+00:02:00,900 --> 00:02:06,320
+Speaker 1: introduction. So without further ado,
+here's what you're gonna do. So the first
+
+27
+00:02:06,360 --> 00:02:11,720
+Speaker 1: thing you're going to do is you need
+to go to beta.openai.com/playground.
+
+28
+00:02:12,760 --> 00:02:17,540
+Speaker 1: Um, this is separate from your, like,
+ChatGPT, like, uh, public user account. You're
+
+29
+00:02:17,560 --> 00:02:23,100
+Speaker 1: gonna wanna use a different account,
+and this is like a developer account. So what
+
+30
+00:02:23,140 --> 00:02:28,560
+Speaker 1: we're gonna do is we are going to use
+their DaVinci model. So
+
+31
+00:02:29,180 --> 00:02:32,720
+Speaker 1: you can see up here at the top it
+says Playground. Just click on that and click on
+
+32
+00:02:32,780 --> 00:02:35,860
+Speaker 1: text-davinci-003, 'cause that is the
+latest model.
+
+33
+00:02:37,420 --> 00:02:43,120
+Speaker 1: So like I said, I'm prototyping an
+idea for a startup that wants to be able to do
+
+34
+00:02:43,160 --> 00:02:47,620
+Speaker 1: scam phone call detection. So for the
+purposes of this exercise, what they want to
+
+35
+00:02:47,660 --> 00:02:53,260
+Speaker 1: do is they want to monitor, um,
+somebody's phone calls, outgoing and incoming,
+and
+
+36
+00:02:53,300 --> 00:02:58,760
+Speaker 1: basically continually listen to them
+and detect, is this a scam? Is this a scam?
+
+37
+00:02:59,220 --> 00:03:03,760
+Speaker 1: Is this a scam? And if it is, they're
+gonna make a decision. So that decision will
+
+38
+00:03:03,800 --> 00:03:08,540
+Speaker 1: end up being something like adding a
+trusted family member or friend to the phone
+
+39
+00:03:08,620 --> 00:03:12,700
+Speaker 1: call so that they can see what's
+going on, uh, or bringing in maybe a paid
+customer
+
+40
+00:03:12,760 --> 00:03:17,480
+Speaker 1: service agent who gets added to the
+call basically to verify, "Hey, who are you?
+
+41
+00:03:17,520 --> 00:03:21,040
+Speaker 1: What's going on?" You know, this
+person has a paid service to make sure that they
+
+42
+00:03:21,060 --> 00:03:25,460
+Speaker 1: don't get phone scammed. And the real
+use case here is that an enormous amount of
+
+43
+00:03:25,500 --> 00:03:30,020
+Speaker 1: money is scammed every year in the
+United States. Uh, s- like, something like $19
+
+44
+00:03:30,060 --> 00:03:35,600
+Speaker 1: billion, I think they said. Um, and
+most of those people are old people, and most of
+
+45
+00:03:35,640 --> 00:03:41,200
+Speaker 1: those people are the same subset of
+people over and over again. The nice way of
+
+46
+00:03:41,220 --> 00:03:42,560
+Speaker 1: putting this is that they are
+
+47
+00:03:44,140 --> 00:03:50,040
+Speaker 1: the trusting subset of our
+population. Um, so scam target-- scam victims
+
+48
+00:03:50,060 --> 00:03:55,700
+Speaker 1: are often, like, repeat victims. Um,
+so this is a really valuable product for a
+
+49
+00:03:55,780 --> 00:04:00,680
+Speaker 1: smaller portion of the population,
+but they need it really bad. So here's how this
+
+50
+00:04:00,740 --> 00:04:05,160
+Speaker 1: is gonna work, uh, and then we'll
+dive right into the prototyping stage, which
+
+51
+00:04:05,200 --> 00:04:07,400
+Speaker 1: anyone can do. So here, let's go
+here.
+
+52
+00:04:11,000 --> 00:04:13,560
+Speaker 1: Here's what we're gonna do. All
+right, so here's how you could imagine this app
+
+53
+00:04:13,580 --> 00:04:19,560
+Speaker 1: working, and maybe yours, you can do
+a similar step in your own thinking,
+
+54
+00:04:19,779 --> 00:04:23,120
+Speaker 1: right? So don't think just because
+you're not a software developer, you can't think
+
+55
+00:04:23,180 --> 00:04:29,000
+Speaker 1: this through. Like, it's not that
+hard. So imagine
+
+56
+00:04:29,040 --> 00:04:32,620
+Speaker 1: this, right? You got a smartphone,
+right? Somebody pays for the service. However,
+
+57
+00:04:32,680 --> 00:04:38,240
+Speaker 1: it's X dollars per month, and what
+happens is they have an app running on their
+
+58
+00:04:38,300 --> 00:04:39,480
+Speaker 1: phone. So
+
+59
+00:04:42,040 --> 00:04:45,280
+Speaker 1: let me move this down a little bit.
+They're gonna have an app running on their
+
+60
+00:04:45,300 --> 00:04:51,260
+Speaker 1: phone, so they have an app, right?
+This app is going to listen to their calls,
+
+61
+00:04:51,900 --> 00:04:53,000
+Speaker 1: and it's going to send
+
+62
+00:04:54,640 --> 00:04:55,480
+Speaker 1: the audio data
+
+63
+00:05:00,080 --> 00:05:05,880
+Speaker 1: to our servers. All right? It's gonna
+send them to our servers. Do,
+
+64
+00:05:05,980 --> 00:05:06,680
+Speaker 1: do-do, do-do.
+
+65
+00:05:09,780 --> 00:05:15,640
+Speaker 1: But in this case, we didn't even have
+to do that. We're gonna send this to
+
+66
+00:05:15,700 --> 00:05:16,140
+Speaker 1: Whisper.
+
+67
+00:05:18,900 --> 00:05:19,220
+Speaker 1: Whoop.
+
+68
+00:05:20,980 --> 00:05:26,740
+Speaker 1: And this is gonna be... So Whisper is
+another OpenAI API which turns
+
+69
+00:05:27,240 --> 00:05:32,660
+Speaker 1: audio into text. It's transcription
+software. It's very good. Um, when I said we
+
+70
+00:05:32,700 --> 00:05:36,600
+Speaker 1: could do this on our own servers,
+Whisper is actually open source. You don't have
+to
+
+71
+00:05:36,640 --> 00:05:42,280
+Speaker 1: pay for it, but you can. So bit of
+confusion there. So then
+
+72
+00:05:42,340 --> 00:05:45,900
+Speaker 1: Whisper is going to turn the audio
+into text,
+
+73
+00:05:47,440 --> 00:05:52,480
+Speaker 1: right? So you can just sort of walk
+through a similar pipeline in your mind, and
+
+74
+00:05:52,540 --> 00:05:56,100
+Speaker 1: then the text is going to be sent
+to...
+
+75
+00:05:57,680 --> 00:06:02,600
+Speaker 1: We'll just label this GPT for now.
+It's going to be sent to a language model, and
+
+76
+00:06:02,620 --> 00:06:07,640
+Speaker 1: the language model is gonna do some
+thinking.
+
+77
+00:06:10,250 --> 00:06:16,010
+Speaker 1: Thinking, right? And then from there,
+it's gonna go to our servers.
+
+78
+00:06:16,190 --> 00:06:18,190
+Speaker 1: It's going to decide scam,
+
+79
+00:06:20,050 --> 00:06:24,990
+Speaker 1: not scam, right? And then from there,
+we'll make some more decisions, right? So
+
+80
+00:06:26,290 --> 00:06:32,130
+Speaker 1: if what you wanna test is: Can my
+product idea work? Is this part,
+
+81
+00:06:32,670 --> 00:06:37,750
+Speaker 1: the AI part, is it good enough to do
+what I want to do? That is what today's video
+
+82
+00:06:37,770 --> 00:06:41,250
+Speaker 1: is about, and that is the part we're
+going to test. The rest of this, we're all
+
+83
+00:06:41,270 --> 00:06:45,510
+Speaker 1: going to assume is basic software
+development, and it can be done. If the hard
+part
+
+84
+00:06:45,550 --> 00:06:49,230
+Speaker 1: works, that's very promising for the
+rest of it. All right. First, we're gonna get
+
+85
+00:06:49,290 --> 00:06:52,130
+Speaker 1: into building out the prototype a
+little bit, and then we'll come back to the
+
+86
+00:06:52,150 --> 00:06:57,010
+Speaker 1: whiteboard to show you a little bit
+about why this works and how you can think about
+
+87
+00:06:57,030 --> 00:06:58,710
+Speaker 1: the capabilities of these language
+models.
+
+88
+00:07:00,230 --> 00:07:06,030
+Speaker 1: Okay. So what we want here for the
+blue part is, okay, basically a
+
+89
+00:07:06,070 --> 00:07:10,370
+Speaker 1: transcription of a call log,
+essentially. You know, call starts, back and
+forth,
+
+90
+00:07:10,610 --> 00:07:14,630
+Speaker 1: kinda like a chat log. Person A says
+something, person B responds. Person A says
+
+91
+00:07:14,669 --> 00:07:19,870
+Speaker 1: something, person B responds. So we
+want this thing to continually analyze the
+
+92
+00:07:19,930 --> 00:07:23,570
+Speaker 1: transcript from the very start all
+the way to the end.
+
+93
+00:07:25,970 --> 00:07:31,870
+Speaker 1: Hi, this is Stan. Right. And we want
+this language model to evaluate
+
+94
+00:07:32,030 --> 00:07:37,770
+Speaker 1: line by line in the transcript, is
+this a scam? Is this a scam? Is this a scam?
+
+95
+00:07:38,290 --> 00:07:43,230
+Speaker 1: So it's taking all the context of
+what has happened before this into account, but
+
+96
+00:07:43,250 --> 00:07:47,810
+Speaker 1: it's also doing it in real time,
+right? Because it's not useful to go 20 minutes
+
+97
+00:07:47,930 --> 00:07:52,590
+Speaker 1: down a conversation, send the whole
+recording to somebody and say, "Oh, yeah. Yep,
+
+98
+00:07:53,430 --> 00:07:58,950
+Speaker 1: you definitely got scammed.
+[chuckles] That was a scam. Sorry." Uh, but...
+So you
+
+99
+00:07:58,970 --> 00:08:03,670
+Speaker 1: wanna do it in real time, right?
+Because you wanna step in before it's too late.
+So
+
+100
+00:08:03,910 --> 00:08:07,910
+Speaker 1: that's what we're going to try to
+build. Um, so it needs to know as soon as
+possible
+
+101
+00:08:07,950 --> 00:08:10,810
+Speaker 1: whether it's confident it's a scam or
+not. So how are we gonna do that?
+
+102
+00:08:12,610 --> 00:08:15,990
+Speaker 1: Well, this might be kinda surprising
+if you haven't spent much time with ChatGPT,
+
+103
+00:08:16,810 --> 00:08:22,550
+Speaker 1: um, but the way you do that
+[chuckles] is like this. You
+
+104
+00:08:22,670 --> 00:08:25,910
+Speaker 1: are a scam detection tool.
+
+105
+00:08:29,730 --> 00:08:35,210
+Speaker 1: You will review a call, live call
+
+106
+00:08:36,150 --> 00:08:40,130
+Speaker 1: transcript and decide whether
+
+107
+00:08:42,050 --> 00:08:46,490
+Speaker 1: our user is talking to a scammer or
+not.
+
+108
+00:08:49,410 --> 00:08:52,650
+Speaker 1: I don't know about you, but this is
+profound that this is how this works. It's
+
+109
+00:08:52,690 --> 00:08:58,630
+Speaker 1: insane. This is literally what you
+do, okay? So it takes the same format
+
+110
+00:08:58,690 --> 00:09:02,330
+Speaker 1: every time, right? When you're
+building these things out. Roughly speaking,
+it's in
+
+111
+00:09:02,370 --> 00:09:06,550
+Speaker 1: three parts. Forgive me, I'm gonna
+use this section as notes for now. All right.
+You
+
+112
+00:09:06,570 --> 00:09:07,130
+Speaker 1: have part one,
+
+113
+00:09:09,330 --> 00:09:15,210
+Speaker 1: high level direction and role. So the
+language model needs
+
+114
+00:09:15,230 --> 00:09:18,850
+Speaker 1: to know what role it's playing. Then
+you have part two,
+
+115
+00:09:22,190 --> 00:09:22,390
+Speaker 1: in
+
+116
+00:09:24,790 --> 00:09:26,750
+Speaker 1: bounds example.
+
+117
+00:09:28,570 --> 00:09:34,490
+Speaker 1: Okay. So this is giving it an actual
+transcript. So w- first,
+
+118
+00:09:34,830 --> 00:09:39,470
+Speaker 1: you tell it what this is and what
+role it's playing. Then you're going to tell it,
+
+119
+00:09:39,470 --> 00:09:45,010
+Speaker 1: "Here is an example of a scam call,
+okay? And how I want you to
+
+120
+00:09:45,050 --> 00:09:48,710
+Speaker 1: respond." Right? You show it. You...
+First, you tell it what your role is, so it can
+
+121
+00:09:48,750 --> 00:09:53,270
+Speaker 1: constrain itself, so it knows roughly
+how to respond, what it's supposed to be
+
+122
+00:09:53,310 --> 00:09:57,570
+Speaker 1: doing. And then you give it an
+example, so it knows exactly how to format
+exactly
+
+123
+00:09:57,630 --> 00:10:01,150
+Speaker 1: what you want its responses to be.
+[lip smack] If you've played with ChatGPT,
+you'll
+
+124
+00:10:01,210 --> 00:10:04,370
+Speaker 1: already understand this so far. Then
+you want to give it
+
+125
+00:10:06,590 --> 00:10:10,770
+Speaker 1: an out of bounds example.
+
+126
+00:10:12,750 --> 00:10:17,850
+Speaker 1: All right. So I guess one way of
+framing this is that you want a true positive,
+
+127
+00:10:20,290 --> 00:10:25,730
+Speaker 1: okay? And then you want a true
+negative. So true negative, this is a scam call.
+Then
+
+128
+00:10:25,810 --> 00:10:30,530
+Speaker 1: you need to say, "Okay, here's an
+example of a conversation that is not a scam
+call,
+
+129
+00:10:30,650 --> 00:10:35,030
+Speaker 1: so that you can tell the difference.
+Here's a pushy collections department for
+
+130
+00:10:35,090 --> 00:10:38,730
+Speaker 1: medical billing," right? That's not a
+scam call. But they actually have a lot of the
+
+131
+00:10:38,770 --> 00:10:42,850
+Speaker 1: same qualities, so you need to
+provide some way for it to understand the
+distinction
+
+132
+00:10:42,890 --> 00:10:47,530
+Speaker 1: between them. And then, I don't know,
+maybe you include an example of something like
+
+133
+00:10:47,610 --> 00:10:50,790
+Speaker 1: a charity. You know, they're calling
+and asking for your help, but they do want your
+
+134
+00:10:50,830 --> 00:10:54,750
+Speaker 1: money, but it's not really a scam.
+How do you do it-- How can you tell the
+
+135
+00:10:54,790 --> 00:10:56,930
+Speaker 1: difference? Or somebody trying to
+upsell you on something.
+
+136
+00:10:59,250 --> 00:11:00,810
+Speaker 1: All right. So part four.
+
+137
+00:11:05,150 --> 00:11:08,730
+Speaker 1: Please don't mind my children
+screaming in the background. Can't turn 'em off.
+
+138
+00:11:09,490 --> 00:11:14,150
+Speaker 1: Finally, you wanna provide an out of
+domain example. This is like
+
+139
+00:11:14,310 --> 00:11:20,290
+Speaker 1: [chuckles] a call that is, like,
+totally left field. Like, it, it is not just a
+scam
+
+140
+00:11:20,510 --> 00:11:26,190
+Speaker 1: or, like, um... So this is more like
+false
+
+141
+00:11:26,270 --> 00:11:31,650
+Speaker 1: positive, right? Things you think
+that it will accidentally classify as a scam.
+
+142
+00:11:32,410 --> 00:11:36,770
+Speaker 1: And then you need to give out of
+domain example. So this is, like, true negative.
+
+143
+00:11:37,770 --> 00:11:42,690
+Speaker 1: This is, like, somebody talking to
+somebody else about, I don't know, their,
+
+144
+00:11:42,730 --> 00:11:45,390
+Speaker 1: [chuckles] their favorite baseball
+players. Two friends who know each other well,
+
+145
+00:11:45,810 --> 00:11:50,590
+Speaker 1: right? It's absolutely nothing to do
+with money or scamming at all, so that this
+
+146
+00:11:50,630 --> 00:11:54,650
+Speaker 1: thing can know where the boundary is
+for when it should be paying attention or not,
+
+147
+00:11:55,350 --> 00:11:59,470
+Speaker 1: right? So it should be paying
+attention in this example, because it is about
+money.
+
+148
+00:11:59,890 --> 00:12:04,290
+Speaker 1: It is about people trying to extract
+value from you and trying to coerce you, but
+
+149
+00:12:04,330 --> 00:12:10,030
+Speaker 1: it's not a scam. Um, so it needs to
+be paying attention here. And in this example,
+
+150
+00:12:10,210 --> 00:12:13,190
+Speaker 1: you know, just tune out. These people
+are talking about baseball. Like, you don't
+
+151
+00:12:13,210 --> 00:12:16,530
+Speaker 1: need to worry about this. All right.
+So that's roughly what you're gonna do, and
+
+152
+00:12:16,570 --> 00:12:21,194
+Speaker 1: you're gonna provide as many of these
+as you can Within reason. We'll talk about it.
+
+153
+00:12:21,634 --> 00:12:26,294
+Speaker 1: So let's fill this in. So this is
+part one. Part two will be something like, um...
+
+154
+00:12:27,194 --> 00:12:29,054
+Speaker 1: So you also need to give it--
+
+155
+00:12:30,894 --> 00:12:35,074
+Speaker 1: That's part one. So now we need to
+give it some high-level direction on the
+
+156
+00:12:35,134 --> 00:12:40,814
+Speaker 1: formatting. So you will add
+annotations to each line of the
+
+157
+00:12:40,874 --> 00:12:41,574
+Speaker 1: transcript
+
+158
+00:12:43,134 --> 00:12:49,074
+Speaker 1: and indicate whether this line
+contains clues
+
+159
+00:12:49,314 --> 00:12:52,934
+Speaker 1: that increase your suspicion
+
+160
+00:12:54,974 --> 00:13:00,374
+Speaker 1: of it being a scammer or a scam call,
+or decrease your suspicion.
+
+161
+00:13:01,594 --> 00:13:04,154
+Speaker 1: This is one of the beautiful things
+about language models, is they can explain
+
+162
+00:13:04,174 --> 00:13:09,734
+Speaker 1: themselves. So we want it not just
+to, hey, at some point, just randomly interrupt
+
+163
+00:13:09,774 --> 00:13:13,474
+Speaker 1: and say it's a scam phone call. You
+would like it to be able to say line by line,
+
+164
+00:13:13,574 --> 00:13:18,474
+Speaker 1: "Ooh, that was suspicious. Eh, that's
+not suspicious. Actually, that's suspicious."
+
+165
+00:13:18,974 --> 00:13:23,474
+Speaker 1: So that it has, like, this increasing
+or decreasing, like, thermometer of how scammy
+
+166
+00:13:23,514 --> 00:13:26,994
+Speaker 1: this is or isn't, and then at some
+point, it should cert- short circuit and say,
+
+167
+00:13:27,234 --> 00:13:30,634
+Speaker 1: "Okay, this is definitely a scam
+phone call." All right. So that's what we're
+gonna
+
+168
+00:13:30,694 --> 00:13:36,534
+Speaker 1: emulate. So now we want it to give it
+line by line. Here's an example
+
+169
+00:13:38,014 --> 00:13:42,314
+Speaker 1: transcript with your annotations
+
+170
+00:13:43,994 --> 00:13:49,334
+Speaker 1: after the pipe character. There's
+just an arbitrary way of formatting it. So let's
+
+171
+00:13:49,374 --> 00:13:55,134
+Speaker 1: go grab an example conversation. All
+right, so I've already typed this up. "Hey,
+
+172
+00:13:55,514 --> 00:13:57,874
+Speaker 1: here's what I want you to do." So
+let's delete that for now.
+
+173
+00:14:00,094 --> 00:14:05,774
+Speaker 1: See this? Do it like that. How insane
+is that? "Hey, you, computer,
+
+174
+00:14:05,834 --> 00:14:11,214
+Speaker 1: [chuckles] do it like this." [laughs]
+It just blows my mind. Um,
+
+175
+00:14:11,974 --> 00:14:15,514
+Speaker 1: understanding, uh, a fair amount of
+the technicals behind it does not make it less
+
+176
+00:14:15,574 --> 00:14:21,274
+Speaker 1: mysterious. It really is insane that
+you can do this. So this is not retraining the
+
+177
+00:14:21,314 --> 00:14:26,534
+Speaker 1: neural networks, uh, under these
+language models. Um, that's a fancy way of
+saying
+
+178
+00:14:26,594 --> 00:14:29,854
+Speaker 1: it already knows how to do stuff like
+this, and you're just giving it basic
+
+179
+00:14:29,894 --> 00:14:33,654
+Speaker 1: instructions. Uh, rather than
+thinking of this like
+
+180
+00:14:35,734 --> 00:14:39,074
+Speaker 1: having to learn a new skill, it
+doesn't have to learn a new skill. It already
+knows
+
+181
+00:14:39,114 --> 00:14:42,834
+Speaker 1: how to do this. You're just having to
+give it instructions on what you want, like
+
+182
+00:14:42,954 --> 00:14:46,154
+Speaker 1: teaching a person how to play a new
+game. They already know how to pick up a ball
+
+183
+00:14:46,194 --> 00:14:50,554
+Speaker 1: and throw it in a hoop, but if there
+are new rules about what makes a scoring point,
+
+184
+00:14:50,834 --> 00:14:54,654
+Speaker 1: what is a penalty, they have to learn
+those things. But that's not really a new
+
+185
+00:14:54,694 --> 00:15:00,254
+Speaker 1: skill so much as they just need to
+understand the parameters. So it's crazy. So
+
+186
+00:15:00,274 --> 00:15:04,014
+Speaker 1: here's what we want it to do, right?
+Here's an example call. So this-- The call
+
+187
+00:15:04,094 --> 00:15:09,994
+Speaker 1: starts. Our user is Harold. "Hi, is
+this Harold?" So I use the little up caret for
+
+188
+00:15:10,054 --> 00:15:10,954
+Speaker 1: increased suspicion.
+
+189
+00:15:12,754 --> 00:15:12,894
+Speaker 1: Is
+
+190
+00:15:14,614 --> 00:15:20,414
+Speaker 1: increased suspicion. And then I'll
+use a V for, like, a down caret, is decreased
+
+191
+00:15:21,274 --> 00:15:21,894
+Speaker 1: suspicion.
+
+192
+00:15:27,054 --> 00:15:27,394
+Speaker 1: Then
+
+193
+00:15:30,974 --> 00:15:33,134
+Speaker 1: a line is not important.
+
+194
+00:15:34,854 --> 00:15:37,774
+Speaker 1: You may enter white space,
+
+195
+00:15:39,314 --> 00:15:40,154
+Speaker 1: single space.
+
+196
+00:15:42,114 --> 00:15:47,574
+Speaker 1: Uh, and then otherwise, add a very
+brief
+
+197
+00:15:48,514 --> 00:15:49,814
+Speaker 1: note explaining
+
+198
+00:15:54,554 --> 00:15:57,054
+Speaker 1: why this clue is relevant, right?
+
+199
+00:15:58,594 --> 00:16:02,474
+Speaker 1: So here we go. So basically, you add
+in your prefilled example. So here we go.
+
+200
+00:16:03,814 --> 00:16:08,914
+Speaker 1: Somebody calls Harold. "Hi, is this
+Harold?" I decided, you know what? If the caller
+
+201
+00:16:08,954 --> 00:16:10,594
+Speaker 1: doesn't already know the person
+they're calling,
+
+202
+00:16:12,374 --> 00:16:17,614
+Speaker 1: that's a minor suspicion point. All
+right? So let's go from here. "Yeah, this is...
+
+203
+00:16:18,074 --> 00:16:23,314
+Speaker 1: Yes, speaking." Anyway, somebody from
+Doggone [chuckles] is calling. "How you doing
+
+204
+00:16:23,354 --> 00:16:25,934
+Speaker 1: today?" Uh, they don't have any
+rapport with this user at all. They have to
+
+205
+00:16:26,294 --> 00:16:32,034
+Speaker 1: establish some rapport. Hmm.
+Scammers, by and large, are strangers. Uh, so
+let's
+
+206
+00:16:32,054 --> 00:16:35,574
+Speaker 1: keep going. And this is where having
+knowledge of your domain is actually very
+
+207
+00:16:35,634 --> 00:16:40,394
+Speaker 1: useful. There's a lot of things that
+I can input here that indicate whether this is
+
+208
+00:16:40,434 --> 00:16:45,574
+Speaker 1: a scam call or not. So, you know, off
+the cuff, that will be, uh, trying to get the
+
+209
+00:16:45,674 --> 00:16:51,614
+Speaker 1: buyer to, uh, um, the caller to
+convert on that actual call, as in they can't
+
+210
+00:16:51,654 --> 00:16:55,494
+Speaker 1: let them go. They have to transfer
+some sort of value right here on the call or
+
+211
+00:16:55,574 --> 00:17:01,574
+Speaker 1: provide information. Um, some other
+clues are the scammer is asking--
+
+212
+00:17:01,654 --> 00:17:05,994
+Speaker 1: has a little bit of information about
+them, but is asking for more pertinent or,
+
+213
+00:17:06,114 --> 00:17:10,614
+Speaker 1: like, more specific information, like
+a Social Security number or a home address.
+
+214
+00:17:11,194 --> 00:17:15,414
+Speaker 1: Um, so they, they have a breadcrumb,
+and they're asking you for the loaf, right? So,
+
+215
+00:17:16,474 --> 00:17:20,734
+Speaker 1: so they can use that, uh, for
+identity theft or other stuff. Um, they're
+trying to
+
+216
+00:17:20,774 --> 00:17:26,614
+Speaker 1: get, um, the user to buy gift cards.
+Uh, gift cards are a way of essentially
+
+217
+00:17:26,754 --> 00:17:31,794
+Speaker 1: laundering money, [chuckles] right?
+Um, or prepaid credit, credit cards. Uh, that's
+
+218
+00:17:31,854 --> 00:17:36,354
+Speaker 1: another common tactic. There's lots
+of, like, through lines in these scams that you
+
+219
+00:17:36,374 --> 00:17:40,314
+Speaker 1: can use those as red flags for very
+strong signals, and we would use those in our
+
+220
+00:17:40,354 --> 00:17:44,934
+Speaker 1: example calls. So anyway, if you read
+through this, um, what you can see is that
+
+221
+00:17:45,314 --> 00:17:46,954
+Speaker 1: this is basically a pushy,
+
+222
+00:17:48,654 --> 00:17:54,554
+Speaker 1: uh, a pushy charity caller. Um, and
+then at the end, I short circuit, and I want
+
+223
+00:17:54,594 --> 00:17:59,774
+Speaker 1: it to output this part below the
+lines. So analysis, not a scam, 18% chance,
+right?
+
+224
+00:18:00,794 --> 00:18:04,814
+Speaker 1: So, and tell me why. Again, crazy
+thing about language models. Oh, yeah. If you
+
+225
+00:18:04,834 --> 00:18:09,514
+Speaker 1: decide this is not a scam at any
+point, I want you to just tell me why. Uh, and
+here
+
+226
+00:18:09,574 --> 00:18:14,274
+Speaker 1: it does. So it says, you know, they
+were pushy. They were trying to collect money,
+
+227
+00:18:14,354 --> 00:18:17,754
+Speaker 1: which is a warning sign, but it's not
+conclusive because it seems like Harold has
+
+228
+00:18:17,814 --> 00:18:22,354
+Speaker 1: already donated to them be-before
+because he did not deny dono-donating when this
+
+229
+00:18:22,394 --> 00:18:27,606
+Speaker 1: person said that he did, right? So-
+That's the crazy thing about these things, is
+
+230
+00:18:27,646 --> 00:18:31,466
+Speaker 1: they can do actual common sense
+logic. So what I'm gonna do now
+
+231
+00:18:33,646 --> 00:18:38,366
+Speaker 1: is I'm actually going to input some
+prompts that I had from before, and we're gonna
+
+232
+00:18:38,426 --> 00:18:42,666
+Speaker 1: just dump these in, 'cause I'm not
+gonna retype all this stuff. So here you can
+see,
+
+233
+00:18:43,966 --> 00:18:49,546
+Speaker 1: uh, my earlier prompt. I did a very
+short example here. And let's just see what this
+
+234
+00:18:49,566 --> 00:18:53,666
+Speaker 1: thing does, and I'm gonna show you
+how to work with it. So I've got a bunch of part
+
+235
+00:18:53,706 --> 00:18:57,626
+Speaker 1: one, two, three, four, you know, some
+examples in here so that this thing
+
+236
+00:18:57,666 --> 00:19:02,446
+Speaker 1: understands its role in the
+conversation. And now we're gonna come down
+here, and
+
+237
+00:19:02,486 --> 00:19:08,306
+Speaker 1: we're going to try it out. So let's
+start a new call. Um, so
+
+238
+00:19:08,406 --> 00:19:12,646
+Speaker 1: let's make sure we have the same
+format every time. So here we go. Let's start a
+new
+
+239
+00:19:12,706 --> 00:19:13,426
+Speaker 1: live phone call.
+
+240
+00:19:15,586 --> 00:19:16,326
+Speaker 1: Just copy this.
+
+241
+00:19:19,386 --> 00:19:25,386
+Speaker 1: Imagine that this is where the real
+entry hits the, the OpenAI servers, right?
+
+242
+00:19:26,086 --> 00:19:30,086
+Speaker 1: To be analyzed by, in this case,
+their DaVinci model. We'll get into what the
+
+243
+00:19:30,106 --> 00:19:34,266
+Speaker 1: difference is between this DaVinci
+model and ChatGPT in a moment, and why that
+
+244
+00:19:34,306 --> 00:19:35,966
+Speaker 1: matters for when you're prototyping
+stuff.
+
+245
+00:19:38,266 --> 00:19:40,326
+Speaker 1: Okay. So
+
+246
+00:19:43,186 --> 00:19:45,586
+Speaker 1: outbound call. So let's make this an
+inbound call.
+
+247
+00:19:47,266 --> 00:19:48,246
+Speaker 1: Inbound call.
+
+248
+00:19:50,166 --> 00:19:52,106
+Speaker 1: What is it? It says 239.
+
+249
+00:19:53,706 --> 00:19:55,086
+Speaker 1: Uh, user is Tony.
+
+250
+00:19:56,686 --> 00:19:56,986
+Speaker 1: Okay.
+
+251
+00:19:58,806 --> 00:20:01,106
+Speaker 1: So the caller says,
+
+252
+00:20:01,126 --> 00:20:05,746
+Speaker 1: "Hi,
+
+253
+00:20:06,866 --> 00:20:08,566
+Speaker 1: is Mr.,
+
+254
+00:20:12,306 --> 00:20:12,486
+Speaker 1: uh,
+
+255
+00:20:14,346 --> 00:20:15,246
+Speaker 1: Tony Terrence..."
+
+256
+00:20:16,766 --> 00:20:17,246
+Speaker 1: The real name.
+
+257
+00:20:17,506 --> 00:20:31,146
+Speaker 1: [chair creaking]
+
+258
+00:20:31,326 --> 00:20:34,225
+Speaker 1: There we go. "Uh, is Mr. Tony
+Terrence available?"
+
+259
+00:20:35,986 --> 00:20:39,226
+Speaker 1: All right, so now we put a pipe, and
+this is the part where
+
+260
+00:20:40,766 --> 00:20:45,386
+Speaker 1: we come in here, and we're going to
+need to enter our stop sequences and the start
+
+261
+00:20:45,446 --> 00:20:50,206
+Speaker 1: text. So when the m- language model
+sees this character,
+
+262
+00:20:51,746 --> 00:20:53,386
+Speaker 1: we want it to stop
+
+263
+00:20:55,346 --> 00:20:58,646
+Speaker 1: talking. All right. So, well, let me
+show you what happens if you don't do this.
+
+264
+00:20:58,846 --> 00:21:03,106
+Speaker 1: Right? Here. Hand all of this t- off
+to the language model. So we've given it its
+
+265
+00:21:03,166 --> 00:21:06,466
+Speaker 1: instructions. We've given it lots of
+examples, and now we've given it the beginning
+
+266
+00:21:06,506 --> 00:21:07,186
+Speaker 1: of a real call.
+
+267
+00:21:11,406 --> 00:21:17,386
+Speaker 1: So you can see what it does.
+[chuckles] It tries to actually fill in
+
+268
+00:21:17,426 --> 00:21:23,406
+Speaker 1: the entire call, uh, which we don't
+want it to do. So [chuckles] see, look, it,
+
+269
+00:21:23,526 --> 00:21:27,686
+Speaker 1: it's just trying to make up a scam
+phone call conversation, which is hilarious, uh,
+
+270
+00:21:27,906 --> 00:21:31,506
+Speaker 1: but not what we're looking for. What
+we really want it to do is, "Hey, when we enter
+
+271
+00:21:31,546 --> 00:21:36,526
+Speaker 1: a new line, meaning this person has
+finished speaking, stop talking. Because what I
+
+272
+00:21:36,566 --> 00:21:41,906
+Speaker 1: want you to generate is I want you to
+generate the analysis. Don't try to make up a
+
+273
+00:21:41,946 --> 00:21:46,966
+Speaker 1: conversation." So press the enter
+button for the new line. That means stop talking
+
+274
+00:21:47,266 --> 00:21:51,966
+Speaker 1: after you hit a new line. Um, and
+that should be sufficient. So let's clear this
+
+275
+00:21:52,046 --> 00:21:52,226
+Speaker 1: out.
+
+276
+00:21:54,106 --> 00:21:58,226
+Speaker 1: All right, so now let's try again.
+"Hi, is Mr. Tony Terrence available?" Imagine
+
+277
+00:21:58,266 --> 00:22:00,026
+Speaker 1: this is streaming live. Right?
+
+278
+00:22:01,786 --> 00:22:07,526
+Speaker 1: Cool. See how it stops? "Caller does
+not know user." It already knows what to do.
+
+279
+00:22:07,606 --> 00:22:11,266
+Speaker 1: [chuckles] This is the craziest thing
+in the world to me. Okay, so imagine this is a
+
+280
+00:22:11,386 --> 00:22:15,886
+Speaker 1: live call happening, and our user,
+Tony, is receiving this call, right? And it's
+our
+
+281
+00:22:15,946 --> 00:22:21,686
+Speaker 1: job for our bot to properly analyze
+this scun- scam phone call or not, and also
+
+282
+00:22:21,886 --> 00:22:27,886
+Speaker 1: not to annoy Tony if this is not a
+scammer. All right, so here we go. Tony says...
+I
+
+283
+00:22:27,926 --> 00:22:28,846
+Speaker 1: don't know what he's gonna say.
+
+284
+00:22:30,806 --> 00:22:32,546
+Speaker 1: Says, "Tony, who's this?"
+
+285
+00:22:35,066 --> 00:22:35,146
+Speaker 1: Okay.
+
+286
+00:22:41,486 --> 00:22:47,226
+Speaker 1: Cool. Space. That's what we want it
+to do. That line is not important. Um, you know,
+
+287
+00:22:47,286 --> 00:22:49,966
+Speaker 1: maybe he would've said that, or maybe
+it would've said that, "Caller doesn't know
+
+288
+00:22:50,026 --> 00:22:53,546
+Speaker 1: user," but it's already said that, so
+there's no reason to do that. Um, by the way,
+
+289
+00:22:53,626 --> 00:22:57,346
+Speaker 1: this dial over here, the presence and
+frequency penalties, if you find that it's
+
+290
+00:22:57,426 --> 00:23:00,846
+Speaker 1: offering the same analysis over and
+over again, and it's not actually useful, you
+
+291
+00:23:00,866 --> 00:23:06,386
+Speaker 1: can increase these sliders, and it
+will stop repeating itself so much, and it will
+
+292
+00:23:06,446 --> 00:23:09,066
+Speaker 1: try to find new answers. So that's
+worth doing.
+
+293
+00:23:10,586 --> 00:23:13,526
+Speaker 1: All right, so I don't know. Let's
+just finish up this transcript real quick so
+that
+
+294
+00:23:13,566 --> 00:23:18,246
+Speaker 1: we can get back into the theory of,
+uh, you know, how to think about prototyping
+
+295
+00:23:18,286 --> 00:23:22,046
+Speaker 1: your products. All right, so this is
+Tony. "Who's this?" Um,
+
+296
+00:23:23,986 --> 00:23:27,786
+Speaker 1: uh, "This is Megan with the IRS.
+
+297
+00:23:29,766 --> 00:23:35,006
+Speaker 1: I have some serious matters to
+discuss with you.
+
+298
+00:23:44,646 --> 00:23:49,086
+Speaker 1: I'm a tax collections agent
+
+299
+00:23:50,846 --> 00:23:51,926
+Speaker 1: with the IRS," right?
+
+300
+00:23:54,086 --> 00:23:57,246
+Speaker 1: It will alw- almost always appeal to
+some kind of authority.
+
+301
+00:24:01,546 --> 00:24:05,426
+Speaker 1: Oh, so here we go. Let's see what it
+does with that.
+
+302
+00:24:10,906 --> 00:24:16,906
+Speaker 1: Hold on. "Caller
+
+303
+00:24:16,926 --> 00:24:22,786
+Speaker 1: is trying to scare user." Interesting
+analysis. Okay. I suppose that that
+
+304
+00:24:22,946 --> 00:24:26,466
+Speaker 1: is an intimidating opening line.
+[chuckles] All right, let's see where it goes
+from
+
+305
+00:24:26,506 --> 00:24:28,486
+Speaker 1: here. Uh, Tony says
+
+306
+00:24:39,216 --> 00:24:40,456
+Speaker 1: We already paid those.
+
+307
+00:24:45,676 --> 00:24:46,076
+Speaker 1: Thought.
+
+308
+00:24:47,616 --> 00:24:48,096
+Speaker 1: Let's, uh,
+
+309
+00:24:49,776 --> 00:24:51,036
+Speaker 1: do that. See what it does with that.
+
+310
+00:24:53,156 --> 00:24:53,716
+Speaker 1: Probably nothing.
+
+311
+00:24:55,936 --> 00:25:01,756
+Speaker 1: User's trying to resolve an
+ex-existing issue. See, this is not useful. We
+
+312
+00:25:01,816 --> 00:25:06,156
+Speaker 1: don't want it to do that. It doesn't
+make any sense. They're trying to resolve an
+
+313
+00:25:06,196 --> 00:25:11,896
+Speaker 1: existing issue. I mean, I guess you
+could see it that way because somebody
+
+314
+00:25:11,936 --> 00:25:17,836
+Speaker 1: called sort of trying to intimidate
+them, and our user, Tony, has responded
+
+315
+00:25:17,876 --> 00:25:22,316
+Speaker 1: by saying that there is an existing
+issue that is related. So because they have a
+
+316
+00:25:22,376 --> 00:25:28,376
+Speaker 1: past case with the IRS, this software
+thinks that, oh, well, just like we
+
+317
+00:25:28,416 --> 00:25:29,856
+Speaker 1: showed it in that initial example,
+
+318
+00:25:31,876 --> 00:25:35,656
+Speaker 1: the charity, because this person has
+associated with this charity in the past, they
+
+319
+00:25:35,696 --> 00:25:40,996
+Speaker 1: have established trust with them.
+They probably do not... This is probably not a
+
+320
+00:25:41,055 --> 00:25:44,136
+Speaker 1: scam. Okay? So let's keep going and
+see where it goes.
+
+321
+00:25:45,676 --> 00:25:49,496
+Speaker 1: This is an opportunity maybe to
+correct part of the bounds of where it will get
+
+322
+00:25:49,536 --> 00:25:50,016
+Speaker 1: things wrong.
+
+323
+00:25:51,856 --> 00:25:57,136
+Speaker 1: Um, okay. Caller. So this is our
+Megan, the IRS agent. Uh.
+
+324
+00:26:04,896 --> 00:26:10,036
+Speaker 1: They're gonna cite existing exact
+numbers usually, um, because exact numbers sound
+
+325
+00:26:10,076 --> 00:26:12,276
+Speaker 1: like you know what you're talking
+about and you have a real document in front of
+
+326
+00:26:12,316 --> 00:26:12,376
+Speaker 1: you.
+
+327
+00:26:15,116 --> 00:26:17,736
+Speaker 1: Three hundred and forty and 22 cents.
+
+328
+00:26:24,096 --> 00:26:24,236
+Speaker 1: All
+
+329
+00:26:38,736 --> 00:26:42,696
+Speaker 1: right. So they're gonna continue the
+intimidation techniques. This is often what
+
+330
+00:26:42,716 --> 00:26:43,176
+Speaker 1: happens.
+
+331
+00:26:45,336 --> 00:26:49,176
+Speaker 1: So it thinks that line [chuckles] is
+not relevant. I don't know about that. We'll
+
+332
+00:26:49,196 --> 00:26:49,876
+Speaker 1: get back to that.
+
+333
+00:26:55,096 --> 00:26:56,276
+Speaker 1: So let's see what it does here.
+
+334
+00:26:59,536 --> 00:27:01,656
+Speaker 1: And then at some point, I'm gonna
+short circuit and tell it, "Give me your
+
+335
+00:27:01,676 --> 00:27:02,256
+Speaker 1: analysis."
+
+336
+00:27:06,676 --> 00:27:11,356
+Speaker 1: So now it's thinking, because this
+guy didn't get any letters, maybe this isn't an
+
+337
+00:27:11,396 --> 00:27:12,196
+Speaker 1: existing issue.
+
+338
+00:27:53,856 --> 00:27:57,236
+Speaker 1: So they're gonna try to elicit
+sympathy while also sort of issuing a veiled
+threat.
+
+339
+00:27:57,236 --> 00:27:59,236
+Speaker 1: "You owe this money right now."
+
+340
+00:28:04,096 --> 00:28:09,276
+Speaker 1: Caller is in a rush, is trying to
+rush user. Remember, we told it early-- Maybe
+you
+
+341
+00:28:09,316 --> 00:28:14,576
+Speaker 1: don't, but early on, I told it that
+if the caller is in a... Basically, they're
+
+342
+00:28:14,636 --> 00:28:20,356
+Speaker 1: trying to convert quickly, then
+they're probably likely to scam them. Okay.
+
+343
+00:28:20,676 --> 00:28:25,196
+Speaker 1: So anyway, so this is just a fake
+conversation. So let's go ahead and end the call
+
+344
+00:28:26,136 --> 00:28:28,036
+Speaker 1: and give me your analysis.
+
+345
+00:28:34,316 --> 00:28:40,256
+Speaker 1: Possible scam, 75% chance. Okay.
+Final reasoning. Tell me why you
+
+346
+00:28:40,276 --> 00:28:41,596
+Speaker 1: think it's a scam, right?
+
+347
+00:28:47,736 --> 00:28:53,375
+Speaker 1: Mm. Hold on. There's a separate
+problem, which is, is instructional but not
+
+348
+00:28:53,416 --> 00:28:54,836
+Speaker 1: exciting. So
+
+349
+00:28:56,555 --> 00:28:57,256
+Speaker 1: all right, let's do that.
+
+350
+00:29:02,396 --> 00:29:03,676
+Speaker 1: I think it's 'cause there's a space
+there.
+
+351
+00:29:08,456 --> 00:29:13,016
+Speaker 1: Stop sequence. How is the... Oh, it
+was formatted like that. Mm. Let me remove the
+
+352
+00:29:13,076 --> 00:29:17,656
+Speaker 1: stop sequence. It's because I was
+putting this on a new line. It's hitting a new
+
+353
+00:29:17,696 --> 00:29:22,316
+Speaker 1: line and then giving up. Um, if I had
+formatted all the prior examples like that,
+
+354
+00:29:22,316 --> 00:29:27,196
+Speaker 1: [chuckles] this would've worked. Just
+a silly little quirk. Give me a second. Uh,
+
+355
+00:29:27,276 --> 00:29:27,596
+Speaker 1: try again.
+
+356
+00:29:30,456 --> 00:29:33,116
+Speaker 1: See, there it goes, 'cause it's
+trying to put it on the next line. All right. So
+
+357
+00:29:33,136 --> 00:29:36,036
+Speaker 1: what does it have to say about this
+phone call? Caller's claiming to be a tax
+
+358
+00:29:36,096 --> 00:29:39,076
+Speaker 1: collections agent with the IRS and
+trying to scare the user with serious matters.
+
+359
+00:29:39,336 --> 00:29:42,396
+Speaker 1: Tony is trying to resolve an existing
+issue and hasn't received any cor- official
+
+360
+00:29:42,456 --> 00:29:46,616
+Speaker 1: correspondence. Caller's also trying
+to rush them, which is common trait of scam
+
+361
+00:29:46,696 --> 00:29:51,896
+Speaker 1: phone calls. Eh, it's decent
+analysis. So a lot of getting these things right
+is
+
+362
+00:29:51,936 --> 00:29:56,256
+Speaker 1: going back and seeing where they
+break. They have common sense. When you think
+about
+
+363
+00:29:56,676 --> 00:29:59,276
+Speaker 1: these mo- large language models,
+especially like GPT,
+
+364
+00:30:00,896 --> 00:30:04,256
+Speaker 1: they have common sense. Think of them
+as like commodified intelligence. They have
+
+365
+00:30:04,316 --> 00:30:09,876
+Speaker 1: the un- the basic intelligence of
+like a 20-year-old, right? They have some common
+
+366
+00:30:09,976 --> 00:30:15,296
+Speaker 1: sense, um, and they know a lot of
+things, but they're not really
+
+367
+00:30:15,716 --> 00:30:20,336
+Speaker 1: necessarily expert. Um, so you can
+think of them as like a common sense reasoning
+
+368
+00:30:20,376 --> 00:30:24,936
+Speaker 1: machine, but you do have to show them
+the patterns. Um, s- and there are places
+
+369
+00:30:24,976 --> 00:30:27,956
+Speaker 1: where their reasoning will break
+down, especially if you've given them prior
+
+370
+00:30:27,996 --> 00:30:33,616
+Speaker 1: examples. They will overweight those
+examples sometimes. So in this case, I think a
+
+371
+00:30:33,656 --> 00:30:39,276
+Speaker 1: better way to fix this, and this is
+how I'm improving this prototype, is to You go
+
+372
+00:30:39,316 --> 00:30:43,056
+Speaker 1: back over, you do these little
+hand-weighted tests, like, "Okay, I did a fake
+co-
+
+373
+00:30:43,176 --> 00:30:46,776
+Speaker 1: phone call to see what your reasoning
+is at every line." So you're trying to scare
+
+374
+00:30:46,815 --> 00:30:52,356
+Speaker 1: them, that makes sense. Trying to...
+So my, my recording cut out there. All right.
+
+375
+00:30:52,476 --> 00:30:56,436
+Speaker 1: So anyway, yeah, they're, they're
+trying to scare them, that made sense. But what
+I
+
+376
+00:30:56,476 --> 00:31:02,316
+Speaker 1: did is I went in and I actually
+edited the, the responses from the AI as if I
+were
+
+377
+00:31:02,356 --> 00:31:06,876
+Speaker 1: the AI, so sort of just
+hand-correcting it. And then this is how it can
+really learn
+
+378
+00:31:06,896 --> 00:31:10,276
+Speaker 1: the nuances of the boundaries of your
+problem. And you just go through in this
+
+379
+00:31:10,316 --> 00:31:14,116
+Speaker 1: iterative cycle, and you, you see
+what it says. If it does, says something that
+
+380
+00:31:14,136 --> 00:31:17,276
+Speaker 1: doesn't make sense, you go back and
+correct it, and then you go again, and then
+
+381
+00:31:17,316 --> 00:31:21,876
+Speaker 1: eventually it's pretty good.
+Sometimes you will have to come back in here and
+change
+
+382
+00:31:21,916 --> 00:31:27,516
+Speaker 1: your original prompt, and that will
+make a big difference, right? So here I might
+
+383
+00:31:27,576 --> 00:31:31,856
+Speaker 1: add something about, you know, gift
+cards being a hallmark of scam phone callers or
+
+384
+00:31:31,876 --> 00:31:33,836
+Speaker 1: some of the other nuances of a
+conversation.
+
+385
+00:31:35,596 --> 00:31:37,316
+Speaker 1: Okay. Some other things to keep in
+mind.
+
+386
+00:31:38,896 --> 00:31:44,856
+Speaker 1: This is not ChatGPT. What it is, is
+sort of like what's under ChatGPT's
+
+387
+00:31:44,916 --> 00:31:50,796
+Speaker 1: hood. So it is a large language model
+called GPT-3.5.
+
+388
+00:31:50,976 --> 00:31:56,296
+Speaker 1: That's the version. Specifically,
+it's DaVinci 03. Okay. So you can see all the
+
+389
+00:31:56,336 --> 00:32:01,636
+Speaker 1: different versions of the GPT
+language model here. There's one for code, so
+
+390
+00:32:01,676 --> 00:32:06,476
+Speaker 1: technically this DaVinci to Code
+DaVinci is also under ChatGPT. Th-this is the
+part
+
+391
+00:32:06,516 --> 00:32:10,016
+Speaker 1: of ChatGPT that knows how to write
+code. This is the part that knows how to write
+
+392
+00:32:10,096 --> 00:32:16,056
+Speaker 1: language and other stuff. So what
+this actually is, is not the full
+
+393
+00:32:16,336 --> 00:32:19,176
+Speaker 1: ChatGPT, right? This is just part of
+ChatGPT.
+
+394
+00:32:22,216 --> 00:32:24,336
+Speaker 1: So let's go ahead and start over
+here.
+
+395
+00:32:28,876 --> 00:32:34,696
+Speaker 1: So, and this is worth explaining
+because the ChatGPT API is not out yet. You
+know,
+
+396
+00:32:34,776 --> 00:32:38,816
+Speaker 1: it will be out hopefully soon, couple
+weeks, maybe a couple months. Um, but you can
+
+397
+00:32:38,856 --> 00:32:44,556
+Speaker 1: prototype before that, and you can do
+it without having ChatGPT, because you still
+
+398
+00:32:44,576 --> 00:32:48,616
+Speaker 1: have a big piece. So what this is,
+ChapGT- ChatGPT, as far as I underthis-
+
+399
+00:32:48,776 --> 00:32:53,436
+Speaker 1: understand the architecture, is in
+three pieces, right? We have the part we just
+
+400
+00:32:53,476 --> 00:32:55,216
+Speaker 1: talked about, so this is your
+DaVinci.
+
+401
+00:32:57,916 --> 00:33:03,436
+Speaker 1: And there are other ones, as you saw.
+This is the GPT-3.5 language model. This is
+
+402
+00:33:03,476 --> 00:33:09,396
+Speaker 1: kinda like the engine in your car.
+This is the part that is just like, has all
+
+403
+00:33:09,436 --> 00:33:13,936
+Speaker 1: the information, knows how to
+generate language. For the most part, this is
+the part
+
+404
+00:33:13,976 --> 00:33:18,716
+Speaker 1: that knows how to generate any
+speech. Really, it's a big fancy autocomplete.
+
+405
+00:33:20,176 --> 00:33:25,596
+Speaker 1: If I start typing that, it will know
+
+406
+00:33:26,736 --> 00:33:27,576
+Speaker 1: how to finish it.
+
+407
+00:33:29,276 --> 00:33:35,196
+Speaker 1: Thing here, then I... Right? So what
+this is, is a big fancy autocomplete.
+
+408
+00:33:35,676 --> 00:33:41,076
+Speaker 1: That's it. That's kind of what this
+is. But it's, it's a very good one. Um,
+
+409
+00:33:41,896 --> 00:33:46,476
+Speaker 1: and it's most of the magic behind
+ChatGPT. Now, ChatGPT, so this is what we're
+
+410
+00:33:46,536 --> 00:33:50,476
+Speaker 1: using, right? Is the big fancy
+autocomplete. It has a lot of the common sense
+
+411
+00:33:50,516 --> 00:33:56,376
+Speaker 1: reasoning abilities that ChatGPT has.
+It's very good, but it's not quite as good,
+
+412
+00:33:56,636 --> 00:34:02,016
+Speaker 1: and I wanted you to understand why.
+So ChatGPT
+
+413
+00:34:02,536 --> 00:34:07,616
+Speaker 1: has two other pieces sitting on top
+of it. It has a
+
+414
+00:34:08,836 --> 00:34:13,996
+Speaker 1: reinforcement [chuckles] There we go.
+
+415
+00:34:15,296 --> 00:34:18,896
+Speaker 1: Model, and it also has... Here we go.
+
+416
+00:34:20,536 --> 00:34:25,876
+Speaker 1: Forgive the words bleeding over into
+one another. It also has a reward model.
+
+417
+00:34:28,656 --> 00:34:33,796
+Speaker 1: Model. And just in layman's speak,
+what this is, a reinforcement learning model...
+
+418
+00:34:34,476 --> 00:34:39,376
+Speaker 1: Oh, sorry, reinforcement learning.
+Forgot that word. What this is, is it's kind of
+
+419
+00:34:39,416 --> 00:34:45,376
+Speaker 1: like a, uh, video game AI agent. It
+has a state, its understanding of
+
+420
+00:34:45,416 --> 00:34:49,676
+Speaker 1: the world. So in this case, its state
+is the conversation so far. It has an
+
+421
+00:34:49,716 --> 00:34:54,736
+Speaker 1: understanding of... And included in
+that are, like, other players in the world. It
+
+422
+00:34:54,795 --> 00:35:00,795
+Speaker 1: has a set of actions that it can
+take, and then it has basically a way of
+predicting
+
+423
+00:35:01,136 --> 00:35:06,596
+Speaker 1: or deciding how to make its move. So
+you can think of it as like, a reinforcement
+
+424
+00:35:06,676 --> 00:35:09,936
+Speaker 1: learning model is a kind of AI that
+takes a look at the world,
+
+425
+00:35:11,496 --> 00:35:16,116
+Speaker 1: takes a look at what actions it is
+allowed to take on this one time step, and then
+
+426
+00:35:16,156 --> 00:35:21,876
+Speaker 1: picks one action to take, and then it
+sees how the world updates.
+
+427
+00:35:22,156 --> 00:35:25,396
+Speaker 1: Okay, so you can imagine this pretty
+easily for a video game. Like if it's
+
+428
+00:35:25,436 --> 00:35:29,236
+Speaker 1: tic-tac-toe, it's watching the state
+of the board. That's its state of the world. It
+
+429
+00:35:29,276 --> 00:35:35,256
+Speaker 1: knows it can place one of its letters
+in one of the squares, so it will decide
+
+430
+00:35:35,296 --> 00:35:38,936
+Speaker 1: where to put it, then it will take an
+action, put the letter there, and then it will
+
+431
+00:35:38,976 --> 00:35:42,276
+Speaker 1: wait to see what the other player
+does, and then it will take another look at the
+
+432
+00:35:42,316 --> 00:35:46,696
+Speaker 1: state of the world, decide what to do
+next. So it just runs in a loop like this. See
+
+433
+00:35:46,736 --> 00:35:51,856
+Speaker 1: what's happening, see what I can do,
+choose one of the things I can do, and sort of
+
+434
+00:35:51,896 --> 00:35:56,416
+Speaker 1: predict what effect it will have, and
+to get my reward, right? So it's trying to
+
+435
+00:35:56,496 --> 00:36:02,296
+Speaker 1: take, get closer and closer to its
+reward at every step. So there's this thing,
+
+436
+00:36:02,816 --> 00:36:08,096
+Speaker 1: so that's cool. Uh, that's one of the
+things where this help basically gives it
+
+437
+00:36:08,476 --> 00:36:14,116
+Speaker 1: greater context. It makes it a better
+chatbot, um, since it's trying to
+
+438
+00:36:14,156 --> 00:36:20,036
+Speaker 1: predict the answer that you want,
+right? So you can think of it like the state of
+
+439
+00:36:20,056 --> 00:36:24,916
+Speaker 1: the world is the conversation, in
+this case. This is for ChatGPT. And it's trying
+to
+
+440
+00:36:24,956 --> 00:36:30,396
+Speaker 1: predict the right answer, and it has
+this big old, uh, text engine
+
+441
+00:36:30,936 --> 00:36:35,356
+Speaker 1: underneath the hood that it's
+basically poking and prodding, just like we were
+over
+
+442
+00:36:35,416 --> 00:36:39,816
+Speaker 1: here with the prompts. It's doing
+something like that and saying, "Hey, [chuckles]
+
+443
+00:36:39,876 --> 00:36:44,336
+Speaker 1: give me a bunch of answers out, and
+I'm going to try to pick the answers that look
+
+444
+00:36:44,396 --> 00:36:50,332
+Speaker 1: like what this person over here
+wants." Right? So it's poking and prodding at
+
+445
+00:36:50,352 --> 00:36:55,212
+Speaker 1: the engine under the hood just like
+we are. However, it has some other tools to
+
+446
+00:36:55,252 --> 00:36:59,332
+Speaker 1: figure out what's a good answer, and
+this is another one of ChatGPT's innovations.
+
+447
+00:36:59,932 --> 00:37:05,352
+Speaker 1: The reward model is human-taught. So
+I think it's a
+
+448
+00:37:05,572 --> 00:37:10,292
+Speaker 1: human reinforced learning. I can't
+remember. Human behavior modeling, something
+like
+
+449
+00:37:10,332 --> 00:37:16,312
+Speaker 1: that. So I think the gist is when
+they're training ChatGPT, what they do is
+
+450
+00:37:16,632 --> 00:37:22,192
+Speaker 1: they have a bunch of human-asked
+questions and human responses. Okay?
+
+451
+00:37:22,732 --> 00:37:28,352
+Speaker 1: And then slowly, they start mixing in
+these two pieces, you know, as they come up
+
+452
+00:37:28,372 --> 00:37:32,432
+Speaker 1: with their own answers. So this thing
+is learning on that, and throughout the
+
+453
+00:37:32,472 --> 00:37:37,772
+Speaker 1: training, they're going to start
+mixing in these answers with the human answers.
+
+454
+00:37:38,632 --> 00:37:38,972
+Speaker 1: Right?
+
+455
+00:37:43,092 --> 00:37:48,812
+Speaker 1: And a human, a real live human, is
+going to pick which one is best. Okay,
+
+456
+00:37:49,012 --> 00:37:53,092
+Speaker 1: so this is like, you know, like
+Amazon Machine Turk or whatever it's called.
+Like,
+
+457
+00:37:53,572 --> 00:37:56,932
+Speaker 1: this is literally just like people
+coming in [chuckles] and just like, "All right,
+
+458
+00:37:57,592 --> 00:38:01,052
+Speaker 1: this person asked this question.
+Which of these five answers is the best answer?"
+
+459
+00:38:01,572 --> 00:38:05,492
+Speaker 1: And real humans will pick. It's kinda
+like the Turing test. And eventually, they're
+
+460
+00:38:05,512 --> 00:38:10,232
+Speaker 1: gonna start mixing in the AI answers,
+and what you hope is that the AI answers
+
+461
+00:38:10,332 --> 00:38:15,172
+Speaker 1: either are as good or picked as often
+as the human answers, or they're picked more
+
+462
+00:38:15,252 --> 00:38:19,452
+Speaker 1: often than the human answers. So
+eventually, what you've trained is a little
+reward
+
+463
+00:38:19,512 --> 00:38:24,612
+Speaker 1: model that is pretty good at picking
+the kinds of answers that humans pick. That's
+
+464
+00:38:24,652 --> 00:38:28,992
+Speaker 1: what it does. It's literally just
+like a little brain, and all this brain does...
+
+465
+00:38:28,992 --> 00:38:34,092
+Speaker 1: [chuckles] That was my drawing for
+brain. All this brain does is it knows how to
+
+466
+00:38:34,132 --> 00:38:38,592
+Speaker 1: pick answers that look like the
+answers that a human would pick. So using all of
+
+467
+00:38:38,632 --> 00:38:44,472
+Speaker 1: these pieces together, so, hey, it's
+going to use this thing to evaluate whether the
+
+468
+00:38:44,552 --> 00:38:49,192
+Speaker 1: output of this thing is any good, and
+it's gonna generate a bunch of them. Oh,
+
+469
+00:38:49,252 --> 00:38:52,672
+Speaker 1: sorry, I should've used black since
+that was the AI color. It's gonna generate a
+
+470
+00:38:52,712 --> 00:38:53,232
+Speaker 1: bunch of them,
+
+471
+00:38:55,412 --> 00:38:59,972
+Speaker 1: send them into this thing, have it
+pick the best one, and then give that one back
+to
+
+472
+00:39:00,032 --> 00:39:05,932
+Speaker 1: you. So it's missing these two
+pieces. So what it is is the
+
+473
+00:39:05,972 --> 00:39:09,512
+Speaker 1: big fancy autocomplete, the stuff
+that's really good at generating language,
+
+474
+00:39:09,712 --> 00:39:14,032
+Speaker 1: analyzing text, sort of formatting it
+the way you want it. It's a lot of the magic,
+
+475
+00:39:14,192 --> 00:39:20,192
+Speaker 1: but it's missing some of the, um,
+precision, maybe better reasoning, a sort
+
+476
+00:39:20,232 --> 00:39:25,452
+Speaker 1: of sequential, like if this, then
+that logic of a conversation. Um, it has a very
+
+477
+00:39:25,512 --> 00:39:30,312
+Speaker 1: short memory. Um, so that's some of
+the other limitations to be aware of. One final
+
+478
+00:39:30,352 --> 00:39:36,172
+Speaker 1: limitation to keep in mind is that
+this thing can only handle 4,000 tokens. So
+
+479
+00:39:36,332 --> 00:39:42,252
+Speaker 1: the GPT-3.5 model is limited in,
+like, its short-term working memory, how much
+
+480
+00:39:42,292 --> 00:39:47,552
+Speaker 1: it can know about. And the, the
+amount of space it has to speak back to you
+
+481
+00:39:48,232 --> 00:39:52,552
+Speaker 1: also uses that same shared amount of
+space. So 4,000 tokens is,
+
+482
+00:39:54,092 --> 00:39:59,572
+Speaker 1: is like 2,500. No, like 3,000
+characters usually on average.
+
+483
+00:40:00,092 --> 00:40:05,712
+Speaker 1: So tokens are slightly different
+than, like, character size. You can, like, use a
+
+484
+00:40:05,772 --> 00:40:09,652
+Speaker 1: calculator to figure out, you know,
+how they get broken up. I think that's because
+
+485
+00:40:09,732 --> 00:40:15,452
+Speaker 1: some characters end up being
+condensed, um, down into one, but also white
+space and
+
+486
+00:40:15,512 --> 00:40:20,652
+Speaker 1: punctuation and stuff like that
+count. So you have roughly 3,000 characters of
+
+487
+00:40:20,692 --> 00:40:24,772
+Speaker 1: short-term working memory in your
+prompts. But that amount of space, and you could
+
+488
+00:40:24,812 --> 00:40:28,712
+Speaker 1: see here where I said that this was a
+learning opportunity, if you try to go above
+
+489
+00:40:28,872 --> 00:40:33,212
+Speaker 1: 4,000, it will run out of space to
+answer you. So whatever you wanna tell this
+thing
+
+490
+00:40:33,252 --> 00:40:38,492
+Speaker 1: in terms of instructions, it has to
+fit within that 4,000. Um, so that's the only
+
+491
+00:40:38,552 --> 00:40:44,552
+Speaker 1: other gotcha to keep in mind. So from
+here, the way that this API works is
+
+492
+00:40:44,612 --> 00:40:48,492
+Speaker 1: you literally just send it this big
+blob of text, and it sends you back its answer.
+
+493
+00:40:49,252 --> 00:40:54,172
+Speaker 1: Now, in production, you're gonna use
+stuff like best of, and this is kind of like
+
+494
+00:40:55,992 --> 00:41:00,232
+Speaker 1: this part, right? Where you're trying
+to pick the best answer to send back. Generate
+
+495
+00:41:00,252 --> 00:41:04,452
+Speaker 1: five different answers and pick the
+best one. It's going to try to do something like
+
+496
+00:41:04,512 --> 00:41:10,252
+Speaker 1: that, okay? So, but it's more
+expensive to do that. So this is the general
+
+497
+00:41:10,291 --> 00:41:14,592
+Speaker 1: approach, and hopefully this was
+enough information that you guys can start
+
+498
+00:41:14,792 --> 00:41:19,832
+Speaker 1: prototyping your own ideas without a
+developer. Um, and you sort of feel out the
+
+499
+00:41:19,872 --> 00:41:24,632
+Speaker 1: boundaries of how hard is your
+problem. In this case, scam phone call detection
+
+500
+00:41:24,732 --> 00:41:29,052
+Speaker 1: looks very plausible. Uh, in fact, I
+would say that these state-of-the-art language
+
+501
+00:41:29,132 --> 00:41:33,872
+Speaker 1: models are exactly what we need to
+sort of curb this problem, and it's a very
+
+502
+00:41:33,972 --> 00:41:38,832
+Speaker 1: promising startup. And, you know,
+that is essentially my analysis for them is,
+yeah,
+
+503
+00:41:38,892 --> 00:41:42,432
+Speaker 1: this looks good. I think we can do
+this. And the most exciting part is you don't
+
+504
+00:41:42,472 --> 00:41:47,512
+Speaker 1: have to train your own models. This
+is just an off-the-shelf API from OpenAI. You
+
+505
+00:41:47,532 --> 00:41:53,532
+Speaker 1: can just prompt craft properly and
+then send it this information, and it acts as a
+
+506
+00:41:53,592 --> 00:41:57,772
+Speaker 1: scam phone call detection tool. Now,
+you're gonna need to do some extra steps to get
+
+507
+00:41:57,792 --> 00:42:01,212
+Speaker 1: to production to make the software
+ready. Obviously, there was the phone app and
+the
+
+508
+00:42:01,252 --> 00:42:04,792
+Speaker 1: other stuff, and there's gonna be
+some stuff you wanna do to make sure that it's
+not
+
+509
+00:42:04,832 --> 00:42:08,532
+Speaker 1: giving really bad answers. Maybe
+that's for another video. But when you're
+
+510
+00:42:08,572 --> 00:42:12,392
+Speaker 1: prototyping something, you don't care
+about any of that. All you really care about
+
+511
+00:42:12,472 --> 00:42:17,512
+Speaker 1: is, can I get this thing to work well
+enough that I can prove that it's possible?
+
+512
+00:42:18,472 --> 00:42:23,092
+Speaker 1: You can do that. The rest is
+basically normal software engineering. It's a
+solved
+
+513
+00:42:23,132 --> 00:42:27,992
+Speaker 1: problem. So there you have it. I hope
+that is helpful. Uh, I might prototype some
+
+514
+00:42:28,032 --> 00:42:33,532
+Speaker 1: more things, uh, for ChatGPT. It's
+not ChatGPT. It's just GPT-3.5. We will get the
+
+515
+00:42:33,572 --> 00:42:38,592
+Speaker 1: ChatGPT API hopefully in a couple
+weeks, maybe a couple months, and that's a whole
+
+516
+00:42:38,632 --> 00:42:42,672
+Speaker 1: new ballgame 'cause it's even better
+than this. But you will be far ahead of
+
+517
+00:42:42,732 --> 00:42:46,852
+Speaker 1: understanding how to prototype your
+ideas and what's possible if you get to work
+
+518
+00:42:46,912 --> 00:42:51,632
+Speaker 1: with just the black part, which, as
+you can see by the relative sizing, is the most
+
+519
+00:42:51,672 --> 00:42:57,492
+Speaker 1: important part. So don't delay. You
+can get started now and see what's possible.
+
+520
+00:42:58,832 --> 00:42:59,572
+Speaker 1: Hope that was helpful.
+
+521
+00:43:01,832 --> 00:43:07,112
+Speaker 1: So next time on Seeking Minima, we
+are going to explore a more
+
+522
+00:43:07,152 --> 00:43:12,672
+Speaker 1: philosophical fun question in the
+form of a story. So I wanted to try and take a
+
+523
+00:43:12,752 --> 00:43:18,752
+Speaker 1: stab at answering the question: what
+do we do when we don't have to do
+
+524
+00:43:18,852 --> 00:43:23,612
+Speaker 1: anything? And I tried to do that in a
+very entertaining way. Let me know what you
+
+525
+00:43:23,652 --> 00:43:23,792
+Speaker 1: think

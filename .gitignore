@@ -1,0 +1,8 @@
+.private/
+output/
+qa/
+__pycache__/
+.wrangler/
+node_modules/
+site/collection-files
+.DS_Store

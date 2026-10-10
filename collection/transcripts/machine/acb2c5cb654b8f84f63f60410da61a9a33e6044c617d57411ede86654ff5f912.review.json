@@ -1,0 +1,30 @@
+{
+  "source_path": "collected/026-soulbinder-episode-1.mp3",
+  "automated_flags": [
+    {
+      "kind": "word_duration_over_3s",
+      "word_index": 5986,
+      "text": "more.",
+      "start": 1366.864,
+      "end": 1410.004,
+      "note": "Suspicious word alignment; raw timestamp preserved."
+    },
+    {
+      "kind": "speech_gap_over_20s",
+      "start": 15.3,
+      "end": 65.72,
+      "note": "May be music, silence or an omission; review audio."
+    }
+  ],
+  "flags_are_review_candidates_not_confirmed_errors": true,
+  "raw_word_count": 5987,
+  "spoken_word_count": 2992,
+  "speaker_ids": [
+    "speaker_0"
+  ],
+  "subtitle_cue_count": 236,
+  "first_speech_seconds": 0.92,
+  "last_speech_seconds": 1410.004,
+  "human_correction_status": "uncorrected",
+  "source_offset_seconds": 0
+}

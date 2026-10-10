@@ -1,0 +1,850 @@
+1
+00:00:00,980 --> 00:00:05,740
+Speaker 1: Hello. So I wanted to take some time
+to introduce myself, talk about what this
+
+2
+00:00:05,780 --> 00:00:09,920
+Speaker 1: podcast is about, and then with a
+little bit of time left, I'm going to talk about
+
+3
+00:00:09,960 --> 00:00:15,840
+Speaker 1: the most recent episode,
+"Planescarred" one and two. Okay, so hello. Uh,
+
+4
+00:00:15,940 --> 00:00:21,440
+Speaker 1: Collected Forge is a podcast where I
+get to take my writing and turn them into audio
+
+5
+00:00:21,560 --> 00:00:26,040
+Speaker 1: stories. So I'm learning the art of
+sound design, and this is a place for me to
+
+6
+00:00:26,080 --> 00:00:30,500
+Speaker 1: practice and share, and hopefully,
+uh, give you some entertaining stories along the
+
+7
+00:00:30,540 --> 00:00:36,300
+Speaker 1: way. So right now I'm in the process
+of publishing 12 stories, two episodes each.
+
+8
+00:00:36,400 --> 00:00:40,420
+Speaker 1: This is a sorta- sort of shotgun
+approach. We're gonna see what sticks, what's
+
+9
+00:00:40,480 --> 00:00:45,440
+Speaker 1: exciting, what makes me excited, and
+then I'm gonna take two of those story worlds,
+
+10
+00:00:46,020 --> 00:00:51,460
+Speaker 1: maybe the same stories, and I'm going
+to go much deeper into them. Uh, about 12 to
+
+11
+00:00:51,500 --> 00:00:56,840
+Speaker 1: 13 episodes, so probably a full
+season, and those episodes will be more
+polished.
+
+12
+00:00:57,500 --> 00:01:01,520
+Speaker 1: Uh, so that's where I'm going with
+the podcast, right? Uh, I'm gonna slowly dive
+
+13
+00:01:01,560 --> 00:01:06,660
+Speaker 1: deeper, less of this sporadic new
+story every week thing. Um, I'm really just
+trying
+
+14
+00:01:06,700 --> 00:01:11,780
+Speaker 1: to figure things out right now. So a
+little bit about the format. Uh, you're gonna
+
+15
+00:01:11,840 --> 00:01:17,600
+Speaker 1: keep getting two episodes per week.
+Uh, I have designated episodes that do not have
+
+16
+00:01:17,680 --> 00:01:23,120
+Speaker 1: any sound design, uh, as raw. That's
+what the word raw at the end means there. And
+
+17
+00:01:23,160 --> 00:01:27,100
+Speaker 1: when I get a chance, sometimes I will
+go back and remaster sections of the episodes,
+
+18
+00:01:27,820 --> 00:01:33,060
+Speaker 1: uh, with, uh, full sound design, uh,
+audio cleanup, music, stuff like that. And if I
+
+19
+00:01:33,120 --> 00:01:38,300
+Speaker 1: do that, I'll post it again. So
+that's what that format means. If you don't see
+raw
+
+20
+00:01:38,340 --> 00:01:42,320
+Speaker 1: next to it, that means I've done some
+amount of sound design. So that means there's
+
+21
+00:01:42,400 --> 00:01:48,160
+Speaker 1: atmosphere tracks, music, Foley sound
+effects, there's spot effects, um,
+
+22
+00:01:48,700 --> 00:01:52,040
+Speaker 1: all that sort of stuff. Uh, and
+usually I don't get all the way through the full
+
+23
+00:01:52,120 --> 00:01:57,120
+Speaker 1: episode. I kind of just focus on
+certain pieces that are interesting to me or
+that I
+
+24
+00:01:57,180 --> 00:02:02,060
+Speaker 1: think, uh, will teach me something.
+So it's a little sporadic, uh, so bear with me.
+
+25
+00:02:02,100 --> 00:02:06,560
+Speaker 1: When we start getting into the full
+seasons, the episodes will be more and more
+
+26
+00:02:06,620 --> 00:02:11,860
+Speaker 1: polished as I not only get better and
+more efficient, but, you know, I s- I'm gonna
+
+27
+00:02:11,940 --> 00:02:15,980
+Speaker 1: spend a little bit more time, and the
+release schedule will slow down to one episode
+
+28
+00:02:16,020 --> 00:02:17,140
+Speaker 1: per week instead of two.
+
+29
+00:02:18,760 --> 00:02:24,220
+Speaker 1: So that's where we're going. Uh,
+that's what it is currently. Uh, I have much
+bigger
+
+30
+00:02:24,260 --> 00:02:28,660
+Speaker 1: plans, and maybe I'll get into the
+master plan another time. But for now, it's just
+
+31
+00:02:28,700 --> 00:02:34,080
+Speaker 1: gonna be new stories every week, and
+we can treat them like short stories. Okay. So
+
+32
+00:02:34,160 --> 00:02:39,600
+Speaker 1: I think that's enough backstory. And
+so let's talk a little bit about "Planescarred"
+
+33
+00:02:40,140 --> 00:02:41,600
+Speaker 1: episode one and two.
+
+34
+00:02:43,180 --> 00:02:48,960
+Speaker 1: What I love so much about this story
+is really the world. Uh, I knew about the world
+
+35
+00:02:49,000 --> 00:02:53,400
+Speaker 1: and the magic system long before I
+knew about the characters, and that's really how
+
+36
+00:02:53,460 --> 00:02:57,720
+Speaker 1: I've been approaching, uh, each of
+these stories really is I, I come up with the
+
+37
+00:02:57,780 --> 00:03:02,840
+Speaker 1: magic system. I come up with the
+rules of the universe beyond the magic system,
+uh,
+
+38
+00:03:02,940 --> 00:03:08,120
+Speaker 1: which is a super set, and then I
+think about, what kind of people would this
+create?
+
+39
+00:03:08,520 --> 00:03:12,600
+Speaker 1: What kind of cultures might you get
+out of this? And then you sorta zoom in from
+
+40
+00:03:12,640 --> 00:03:16,780
+Speaker 1: there. Okay, what kind of cultures
+might be in conflict? What would their problems
+
+41
+00:03:16,840 --> 00:03:21,600
+Speaker 1: be, uh, if they could have this? Like
+if you've got magic that can purify food
+
+42
+00:03:22,040 --> 00:03:27,620
+Speaker 1: [laughs] or make food appear, right,
+you have a very different kind of problem, uh,
+
+43
+00:03:27,660 --> 00:03:33,160
+Speaker 1: from people who can see the future or
+who can go into the past. Uh, who knows,
+
+44
+00:03:33,240 --> 00:03:38,000
+Speaker 1: right? Uh, the magic systems have a
+profound effect on how the world works, just
+
+45
+00:03:38,060 --> 00:03:42,720
+Speaker 1: like how the rules of our world has a
+profound effect on how the world works. So
+
+46
+00:03:43,100 --> 00:03:48,460
+Speaker 1: once I know the magic system and then
+the world and I start to dial in on the
+
+47
+00:03:48,540 --> 00:03:53,940
+Speaker 1: setting and the time period, uh,
+that's when I start creating characters. Uh,
+
+48
+00:03:54,480 --> 00:03:56,560
+Speaker 1: so the characters in this story
+
+49
+00:03:58,280 --> 00:04:03,020
+Speaker 1: are at war, uh, and it's two
+different planes. And we haven't gotten into,
+you know,
+
+50
+00:04:03,080 --> 00:04:06,920
+Speaker 1: how many different planes there are,
+how you move between them, uh, but most of that
+
+51
+00:04:06,980 --> 00:04:10,140
+Speaker 1: is already spelled out. This one was
+pretty well flashed out-- fleshed out, the
+
+52
+00:04:10,180 --> 00:04:16,160
+Speaker 1: world anyway. Uh, so we've got a
+delegation of magical people who
+
+53
+00:04:16,300 --> 00:04:21,700
+Speaker 1: are on the physical plane or the
+mundane plane, which is basically where we live,
+
+54
+00:04:22,800 --> 00:04:28,480
+Speaker 1: uh, and they have dwindling
+resources, and they've been cut off, and, oh,
+spoiler by
+
+55
+00:04:28,520 --> 00:04:32,860
+Speaker 1: the way, if you haven't [laughs]
+listened to this episode, you should, uh, you
+
+56
+00:04:32,900 --> 00:04:35,500
+Speaker 1: should, you should pause. But I don't
+think you should be surprised that there's
+
+57
+00:04:35,540 --> 00:04:40,320
+Speaker 1: conflict. Spoiler, there's conflict.
+Uh, you should pause this and go listen to it
+
+58
+00:04:40,380 --> 00:04:45,660
+Speaker 1: first. So they're stranded, uh, and
+they have to make friends quickly in order to
+
+59
+00:04:45,720 --> 00:04:51,280
+Speaker 1: survive. They've basically been left
+out to dry, and I won't go too into detail on
+
+60
+00:04:51,360 --> 00:04:56,240
+Speaker 1: what's going wrong, but suffice to
+say, many things are going wrong, uh, uh, all
+
+61
+00:04:56,320 --> 00:05:01,180
+Speaker 1: over the place. Uh, and they may have
+to save the people that they were more or less
+
+62
+00:05:01,220 --> 00:05:07,140
+Speaker 1: sent here to fight. So that's the
+story. Uh, what really drew me to
+
+63
+00:05:07,200 --> 00:05:12,840
+Speaker 1: this story, uh, is the magic systems.
+Uh, sometimes it plays a central focus, uh,
+
+64
+00:05:12,960 --> 00:05:18,120
+Speaker 1: sometimes it doesn't. Uh, in this
+one, it was fairly important for the magical
+
+65
+00:05:18,160 --> 00:05:23,680
+Speaker 1: people, uh, for obvious reasons. Uh,
+the one that was most exciting to me,
+
+66
+00:05:24,240 --> 00:05:29,840
+Speaker 1: uh, is the School of Villomancy, the
+ability to have magical diseases that you can
+
+67
+00:05:29,880 --> 00:05:34,100
+Speaker 1: derive from the environment, and you
+can shape and tailor the effects that it has on
+
+68
+00:05:34,160 --> 00:05:39,500
+Speaker 1: people. Uh, it's just really cool.
+Uh, it's-- it has a lot of room
+
+69
+00:05:39,980 --> 00:05:45,720
+Speaker 1: [laughs] for use and I guess abuse,
+uh, and I very quickly turned it
+
+70
+00:05:45,820 --> 00:05:51,580
+Speaker 1: into a weapon. Uh, so it has-- not
+only is it an interesting plot
+
+71
+00:05:51,620 --> 00:05:57,180
+Speaker 1: device and the main character's stash
+of magical diseases is now stolen and
+
+72
+00:05:57,840 --> 00:06:01,000
+Speaker 1: somewhere [laughs] in the hands of a
+nefarious group of actors-
+
+73
+00:06:02,512 --> 00:06:06,572
+Speaker 1: Uh, so it is not only a plot device,
+but it's just a really cool school of magic,
+
+74
+00:06:06,612 --> 00:06:09,992
+Speaker 1: and we'll get to explore a little bit
+more about what it can do and what its limits
+
+75
+00:06:10,092 --> 00:06:15,712
+Speaker 1: are. Uh, but I just thought it was
+interesting 'cause I, I had never seen a magic
+
+76
+00:06:15,752 --> 00:06:20,752
+Speaker 1: school quite like this. You know,
+there's lots of gross magic, [laughs] like body
+
+77
+00:06:20,812 --> 00:06:26,512
+Speaker 1: magic, transformation stuff. Um,
+there's lots of gross schools of magic, uh,
+
+78
+00:06:26,672 --> 00:06:32,352
+Speaker 1: in stories. Uh, but this wasn't, in,
+isn't just gross. It's gross in a very weird
+
+79
+00:06:32,392 --> 00:06:36,892
+Speaker 1: and not obviously useful way. Like,
+what, what are you gonna do with magical
+
+80
+00:06:36,932 --> 00:06:41,232
+Speaker 1: diseases? How, [laughs] how useful
+could this really be? Uh, and what makes a
+
+81
+00:06:41,272 --> 00:06:46,912
+Speaker 1: disease magical instead of just
+mundane? Uh, and the answer is it has lots of
+very
+
+82
+00:06:46,992 --> 00:06:50,792
+Speaker 1: interesting effects that, you know,
+don't really seem to make a lot of sense. But,
+
+83
+00:06:51,672 --> 00:06:57,552
+Speaker 1: uh, as an author, I write for, at
+least in part, what is cool and
+
+84
+00:06:57,612 --> 00:07:03,572
+Speaker 1: interesting to read. Uh, I try to
+make it coherent within the rules of the w-
+
+85
+00:07:03,612 --> 00:07:08,372
+Speaker 1: the world that it's in, and that's
+really the rule of thumb. It's not, does it make
+
+86
+00:07:08,452 --> 00:07:14,012
+Speaker 1: sense, but does it make sense in
+their world? So I just have to construct the
+rules
+
+87
+00:07:14,052 --> 00:07:17,592
+Speaker 1: of the universe and keep them
+consistent, and that's really what readers are
+looking
+
+88
+00:07:17,652 --> 00:07:22,632
+Speaker 1: for when you're looking for logic.
+Uh, it just, it has to be internally consistent,
+
+89
+00:07:22,872 --> 00:07:28,132
+Speaker 1: not necessarily [laughs] consistent
+with our world. Uh, that's one of the rules that
+
+90
+00:07:28,232 --> 00:07:32,952
+Speaker 1: I try to follow with magic systems. I
+don't always succeed. Uh, you gotta follow the
+
+91
+00:07:33,012 --> 00:07:38,892
+Speaker 1: rule of cool sometimes, uh, and I
+think that that's perfectly fine. So yeah,
+that's
+
+92
+00:07:38,932 --> 00:07:43,052
+Speaker 1: the story. It's the School of
+Villomancy. There are eight schools of magic.
+I'm sure
+
+93
+00:07:43,072 --> 00:07:47,032
+Speaker 1: we'll get around to all of them. Uh,
+we briefly saw a few others. I think Mother
+
+94
+00:07:47,092 --> 00:07:52,812
+Speaker 1: Lissandra was, uh, using Gristview,
+the, basically the ability to spray magical
+
+95
+00:07:52,872 --> 00:07:57,852
+Speaker 1: concrete. Uh, it's really not more
+com- complicated than that. Uh, but yeah, we'll
+
+96
+00:07:57,912 --> 00:08:02,312
+Speaker 1: explore the world a little bit more,
+uh, and the cultures and the clash between
+
+97
+00:08:02,352 --> 00:08:06,752
+Speaker 1: them, uh, and what makes the physical
+plane physical, what makes the magical plane
+
+98
+00:08:06,792 --> 00:08:12,612
+Speaker 1: magical. What are the other planes?
+How do you get there? So I'll explore all that.
+
+99
+00:08:12,731 --> 00:08:17,472
+Speaker 1: Uh, it's a pretty cool setting. It's
+one that I've thought about for a long time. So
+
+100
+00:08:17,512 --> 00:08:22,632
+Speaker 1: yeah, that's Planesguard. Next week,
+we are also going to be revisiting an older
+
+101
+00:08:22,712 --> 00:08:28,412
+Speaker 1: story of mine. Uh, it's a character
+from a book I wrote. Um, this is basically the
+
+102
+00:08:28,472 --> 00:08:33,852
+Speaker 1: backstory to his story. Uh, and it is
+in a place called
+
+103
+00:08:33,932 --> 00:08:38,452
+Speaker 1: Everhouse. So we'll get to that next
+week. I'm excited to write that one. It's
+
+104
+00:08:38,492 --> 00:08:44,372
+Speaker 1: definitely lower magic. The setting
+is a little more wild. Um, but there's
+
+105
+00:08:44,412 --> 00:08:49,952
+Speaker 1: definitely less magic. Uh, but
+there's always some. There's always some. So
+yeah,
+
+106
+00:08:50,492 --> 00:08:56,312
+Speaker 1: that'll be The Lightslinger, I think
+is what the name of the book or story will be.
+
+107
+00:08:57,252 --> 00:09:01,232
+Speaker 1: Uh, yeah, and I think that about does
+it. I'll try to publish episodes where I talk
+
+108
+00:09:01,312 --> 00:09:07,092
+Speaker 1: about the stories and really what I
+think makes a good story. Uh, it's really a
+
+109
+00:09:07,152 --> 00:09:12,132
+Speaker 1: theory, right, a work in progress,
+and what I'm learning about sound design and,
+uh,
+
+110
+00:09:12,232 --> 00:09:17,432
+Speaker 1: the struggles I had in creating the
+episodes and, you know, stuff like that. Uh, so
+
+111
+00:09:17,572 --> 00:09:21,492
+Speaker 1: speaking of which, moving on to the
+sound design of Planesguard. Um,
+
+112
+00:09:25,172 --> 00:09:30,552
+Speaker 1: you know, there was a lot of outdoor
+scenes. Uh, so I spent a lot of time going
+
+113
+00:09:30,612 --> 00:09:35,012
+Speaker 1: through, uh, sound effects for, you
+know, people in crowds. But you know what's
+
+114
+00:09:35,072 --> 00:09:40,132
+Speaker 1: difficult is when your time period
+doesn't have cars or trucks or planes and
+
+115
+00:09:40,192 --> 00:09:45,692
+Speaker 1: somebody flies a plane overhead on
+your sound effects. [laughs] Like, okay. Uh,
+it's
+
+116
+00:09:45,772 --> 00:09:50,572
+Speaker 1: actually exceptionally difficult to
+get, um, the right time periods for atmospheres,
+
+117
+00:09:50,912 --> 00:09:56,152
+Speaker 1: and there's a lot of times where I
+try to cover it up or [laughs] hide the fact
+that
+
+118
+00:09:56,192 --> 00:10:00,932
+Speaker 1: there's a car driving by, cut it off
+in editing. Um, so that's always an interesting
+
+119
+00:10:01,012 --> 00:10:06,952
+Speaker 1: challenge. Uh, uh, I got to do sound
+design for a fryer. Uh, that ended
+
+120
+00:10:07,012 --> 00:10:11,972
+Speaker 1: up being... That scene ended up being
+a little longer than intended, [laughs] the
+
+121
+00:10:12,032 --> 00:10:17,612
+Speaker 1: Fry Anything stand. Uh, but it was
+funny, so, uh, hopefully that was
+
+122
+00:10:17,672 --> 00:10:21,771
+Speaker 1: appreciated. I, I poured a lot of
+love into that scene specifically for sound
+
+123
+00:10:21,812 --> 00:10:27,792
+Speaker 1: design. Um, yeah. Uh, I think on this
+episode I really spent a long... I
+
+124
+00:10:27,972 --> 00:10:32,832
+Speaker 1: spread my sound design evenly,
+whereas in some past episodes, I've really
+focused on
+
+125
+00:10:32,912 --> 00:10:37,152
+Speaker 1: just a few minutes, and then most of
+the rest of the episode is basically dead air,
+
+126
+00:10:37,972 --> 00:10:42,812
+Speaker 1: uh, other than my voice. But on this
+one, I really did spread it out fairly evenly.
+
+127
+00:10:43,112 --> 00:10:46,672
+Speaker 1: Uh, I wish I could have spent a
+little more time on the action scenes at the
+end,
+
+128
+00:10:46,792 --> 00:10:52,412
+Speaker 1: but action scenes take a lot of time
+to do sound design for. It's the kind of thing
+
+129
+00:10:52,452 --> 00:10:56,692
+Speaker 1: you just, you don't notice until
+you're actually in there making it. Every little
+
+130
+00:10:56,852 --> 00:11:02,032
+Speaker 1: scuff of the foot, uh, move it,
+movement of clothing, grabbing clothing, uh,
+
+131
+00:11:02,272 --> 00:11:08,032
+Speaker 1: footsteps, uh, bouncing off walls,
+and that's just the sounds of movement. That's
+
+132
+00:11:08,092 --> 00:11:12,712
+Speaker 1: not even the sounds of, you know, all
+the magic that is happening or gunfire or
+
+133
+00:11:12,732 --> 00:11:16,792
+Speaker 1: everybody else who's moving around
+and saying things and they grunt and go, "Ugh,"
+
+134
+00:11:17,152 --> 00:11:22,432
+Speaker 1: when they get hit. So it's got a very
+high density of sound, so it takes an enormous
+
+135
+00:11:22,512 --> 00:11:26,492
+Speaker 1: amount of effort to do an action
+scene. Uh, but they are very exciting, and I
+will
+
+136
+00:11:26,552 --> 00:11:31,112
+Speaker 1: say that the sounds really add a lot
+of depth and immersion to an action scene.
+
+137
+00:11:31,952 --> 00:11:37,632
+Speaker 1: There's something that you get with
+sound that you just can't get with words. I can
+
+138
+00:11:37,692 --> 00:11:42,152
+Speaker 1: say, "She swung her head back and hit
+him in the face," and you can imagine that,
+
+139
+00:11:42,292 --> 00:11:47,032
+Speaker 1: but when you hear... [whooshing]
+[imitates punching] [laughs] "Ugh," it's just so
+
+140
+00:11:47,092 --> 00:11:51,172
+Speaker 1: much more descriptive of what
+happened, right? I don't have to say, "And then
+his
+
+141
+00:11:51,232 --> 00:11:56,712
+Speaker 1: bones broke," when I can just make
+the sound of crunching. [laughs] And you know
+
+142
+00:11:56,772 --> 00:12:01,232
+Speaker 1: exactly how bad the hit was, right? I
+don't need to dive into whether it was a
+
+143
+00:12:01,272 --> 00:12:05,792
+Speaker 1: glancing blow or not. You hear that,
+the huge crunch. Like, oh man, that was a big
+
+144
+00:12:05,832 --> 00:12:11,832
+Speaker 1: hit. Um, so I find that it, it's
+really, it really adds another channel of
+
+145
+00:12:11,872 --> 00:12:13,652
+Speaker 1: information to action scenes that
+
+146
+00:12:15,212 --> 00:12:20,012
+Speaker 1: is really hard to get in another
+format. Uh, so that's cool, uh, but it is
+
+147
+00:12:20,072 --> 00:12:20,992
+Speaker 1: time-consuming.
+
+148
+00:12:22,892 --> 00:12:28,432
+Speaker 1: Um, what else would I like to say
+about this episode? Uh, I enjoyed it. Uh, I
+wrote
+
+149
+00:12:28,472 --> 00:12:33,812
+Speaker 1: it in basically one, maybe two long
+sessions. Uh, it was,
+
+150
+00:12:34,772 --> 00:12:39,732
+Speaker 1: it was fun to write. It's got a lot
+of humor in it. Uh, I think that I reflexively
+
+151
+00:12:39,772 --> 00:12:45,132
+Speaker 1: put a lot of humor in my stories. I
+like dark grittiness every now and then,
+
+152
+00:12:45,592 --> 00:12:50,672
+Speaker 1: um, but I like lightheartedness too.
+Uh, and I think I... There's a mix of that in
+
+153
+00:12:50,712 --> 00:12:54,512
+Speaker 1: this story. There's a lot of, uh,
+gross-out moments. Sorry to give you two stories
+
+154
+00:12:54,552 --> 00:12:59,012
+Speaker 1: like that in a row. [laughs] I
+promise that is not usually how I write. It just
+so
+
+155
+00:12:59,072 --> 00:13:03,652
+Speaker 1: happens that, uh, both of these
+stories have magic systems that are, eh, a
+little
+
+156
+00:13:03,672 --> 00:13:09,412
+Speaker 1: bit nasty. Um, but yeah, uh, I
+enjoyed writing it. Uh,
+
+157
+00:13:09,952 --> 00:13:15,312
+Speaker 1: it was really cool. Uh, it's sort of
+a urban setting.
+
+158
+00:13:16,352 --> 00:13:20,812
+Speaker 1: Uh, next, next week's setting will be
+interior.
+
+159
+00:13:20,812 --> 00:13:26,412
+Speaker 1: [laughs] 100% interior. Uh, I'm
+really
+
+160
+00:13:26,472 --> 00:13:31,152
+Speaker 1: excited about the next one. It's one
+of my favorite settings. Uh, you'll, you'll
+
+161
+00:13:31,212 --> 00:13:36,912
+Speaker 1: recognize, uh, what novels it's
+inspired by, uh, if you listen to it.
+
+162
+00:13:37,652 --> 00:13:41,332
+Speaker 1: But, uh, I think that's it for me.
+I'm not gonna keep droning on, but this was my
+
+163
+00:13:41,372 --> 00:13:45,212
+Speaker 1: first developer commentary. As
+always, I want your feedback. The reason I'm
+even
+
+164
+00:13:45,312 --> 00:13:50,452
+Speaker 1: releasing this podcast at all is
+because I want feedback. Uh, I believe that you
+
+165
+00:13:50,492 --> 00:13:56,292
+Speaker 1: need to share things in order to get
+better. And yeah, so here's to getting
+
+166
+00:13:56,332 --> 00:13:59,012
+Speaker 1: better and thanks for listening. See
+you next week

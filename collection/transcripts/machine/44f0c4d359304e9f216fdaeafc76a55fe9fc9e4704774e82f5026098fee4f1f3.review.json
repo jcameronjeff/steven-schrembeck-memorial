@@ -1,0 +1,81 @@
+{
+  "source_path": "collected/008-mortal-steel-episode-8.mp3",
+  "automated_flags": [
+    {
+      "kind": "low_word_logprob",
+      "word_index": 4095,
+      "start": 1066.156,
+      "end": 1066.236,
+      "text": " ",
+      "logprob": -1.7479524612426758
+    },
+    {
+      "kind": "low_word_logprob",
+      "word_index": 4096,
+      "start": 1066.236,
+      "end": 1066.916,
+      "text": "compulsion",
+      "logprob": -1.7479524612426758
+    },
+    {
+      "kind": "low_word_logprob",
+      "word_index": 4405,
+      "start": 1140.892,
+      "end": 1141.432,
+      "text": "Promise",
+      "logprob": -1.6130099296569824
+    },
+    {
+      "kind": "low_word_logprob",
+      "word_index": 4602,
+      "start": 1186.932,
+      "end": 1186.932,
+      "text": " ",
+      "logprob": -2.022332191467285
+    },
+    {
+      "kind": "low_word_logprob",
+      "word_index": 4603,
+      "start": 1187.032,
+      "end": 1188.072,
+      "text": "capability,",
+      "logprob": -1.8385626602579246
+    },
+    {
+      "kind": "low_word_logprob",
+      "word_index": 5128,
+      "start": 1324.052,
+      "end": 1324.072,
+      "text": " ",
+      "logprob": -1.0155353546142578
+    },
+    {
+      "kind": "speech_gap_over_20s",
+      "start": 1390.932,
+      "end": 1475.44,
+      "note": "May be music, silence or an omission; review audio."
+    },
+    {
+      "kind": "leading_no_speech",
+      "start": 0,
+      "end": 54.8
+    }
+  ],
+  "flags_are_review_candidates_not_confirmed_errors": true,
+  "raw_word_count": 6377,
+  "spoken_word_count": 3183,
+  "speaker_ids": [
+    "speaker_0",
+    "speaker_1",
+    "speaker_2",
+    "speaker_3",
+    "speaker_4",
+    "speaker_5",
+    "speaker_6"
+  ],
+  "subtitle_cue_count": 319,
+  "first_speech_seconds": 54.8,
+  "last_speech_seconds": 1692.76,
+  "human_correction_status": "uncorrected",
+  "source_offset_seconds": 0
+}

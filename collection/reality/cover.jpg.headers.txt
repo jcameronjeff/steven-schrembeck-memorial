@@ -1,0 +1,13 @@
+HTTP/1.1 200 OK
+Content-Type: image/png
+Content-Length: 1046538
+Accept-Ranges: bytes
+Last-Modified: Mon, 25 May 2026 03:30:20 GMT
+x-rgw-object-type: Normal
+ETag: "225b0042c432d23909d6e15d07b7e899"
+x-amz-request-id: tx000000be9505bd5909c76-006ac67050-11bc74e8c-default
+Date: Sat, 10 Oct 2026 17:33:08 GMT
+Alt-Svc: h3=":443"; ma=93600,h3-29=":443"; ma=93600
+Connection: keep-alive
+Strict-Transport-Security: max-age=86400 ; includeSubDomains ; preload
+

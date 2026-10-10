@@ -1,0 +1,19 @@
+HTTP/2 200 
+cache-control: public, max-age=60
+cf-ray: a4875e510b586e20-IAD
+content-disposition: inline; filename="steven-schrembeck.jpg"; filename*=UTF-8''steven-schrembeck.jpg
+content-security-policy: default-src 'none'; sandbox
+content-type: image/jpeg
+date: Sat, 10 Oct 2026 17:33:08 GMT
+etag: "r0001790821620766"
+nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+report-to: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=bExBr4q9mN3oEmVwKz5xdkEPG4KH9sqGRwqKZWGY3U4gRjD9X%2FFFPwhXeAizsy91j024UNFJsqFVrIX8BGl3FDFo6Cjli10DyDlo0LNavacfpa1me503NtT4dngiG0qI%2B7ZyJ5z3HaqRFM1AQitb2jZ9gpAGeeNaySFq%2FmU9Alg%3D"}]}
+server: Vercel
+strict-transport-security: max-age=63072000
+x-content-type-options: nosniff
+x-oz-file-id: file_01M3TMJQ0YQXHGR4VV1KX901XX
+x-oz-revision: r0001790821620766
+x-vercel-cache: MISS
+x-vercel-id: iad1::rvmnt-1791653588592-67e27ed343fa
+content-length: 7663
+

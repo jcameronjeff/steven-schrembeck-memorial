@@ -1,0 +1,72 @@
+{
+  "source_path": "collected/005-mortal-steel-episode-10.mp3",
+  "automated_flags": [
+    {
+      "kind": "word_duration_over_3s",
+      "word_index": 3519,
+      "text": "L.A.",
+      "start": 918.32,
+      "end": 922.4,
+      "note": "Suspicious word alignment; raw timestamp preserved."
+    },
+    {
+      "kind": "low_word_logprob",
+      "word_index": 3656,
+      "start": 961.4,
+      "end": 961.9,
+      "text": " ",
+      "logprob": -1.4691812992095947
+    },
+    {
+      "kind": "low_word_logprob",
+      "word_index": 4058,
+      "start": 1113.764,
+      "end": 1113.844,
+      "text": " ",
+      "logprob": -1.2202569246292114
+    },
+    {
+      "kind": "low_word_logprob",
+      "word_index": 4059,
+      "start": 1113.844,
+      "end": 1114.324,
+      "text": "Maser.",
+      "logprob": -1.1728945473829906
+    },
+    {
+      "kind": "word_duration_over_3s",
+      "word_index": 6719,
+      "text": "Exterminate",
+      "start": 1854.78,
+      "end": 1858.82,
+      "note": "Suspicious word alignment; raw timestamp preserved."
+    },
+    {
+      "kind": "speech_gap_over_20s",
+      "start": 1552.34,
+      "end": 1608.18,
+      "note": "May be music, silence or an omission; review audio."
+    },
+    {
+      "kind": "leading_no_speech",
+      "start": 0,
+      "end": 53.38
+    }
+  ],
+  "flags_are_review_candidates_not_confirmed_errors": true,
+  "raw_word_count": 6930,
+  "spoken_word_count": 3449,
+  "speaker_ids": [
+    "speaker_0",
+    "speaker_1",
+    "speaker_2",
+    "speaker_3",
+    "speaker_4",
+    "speaker_5"
+  ],
+  "subtitle_cue_count": 365,
+  "first_speech_seconds": 53.38,
+  "last_speech_seconds": 1913.18,
+  "human_correction_status": "uncorrected",
+  "source_offset_seconds": 0
+}

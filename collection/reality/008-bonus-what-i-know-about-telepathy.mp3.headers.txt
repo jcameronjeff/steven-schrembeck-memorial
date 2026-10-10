@@ -1,0 +1,24 @@
+HTTP/1.1 302 Moved Temporarily
+Location: https://podcasts.captivate.fm/media/a9bba398-b468-4551-9c36-d05af0fbf2c2/TGE-3-telepathy-how-to.mp3
+Expires: Sat, 10 Oct 2026 17:33:16 GMT
+Cache-Control: max-age=0, no-cache, no-store
+Pragma: no-cache
+Date: Sat, 10 Oct 2026 17:33:16 GMT
+Alt-Svc: h3=":443"; ma=93600,h3-29=":443"; ma=93600
+Connection: close
+Strict-Transport-Security: max-age=86400 ; includeSubDomains
+
+HTTP/1.1 200 OK
+Content-Type: audio/mpeg
+Content-Length: 55479404
+Accept-Ranges: bytes
+Last-Modified: Fri, 24 Jul 2026 16:43:06 GMT
+x-rgw-object-type: Normal
+ETag: "86a1d0031416b728876a38335ae3287b-6"
+x-amz-tagging-count: 0
+x-amz-request-id: tx00000f875f0f62c699bbf-006abe320c-11bc7810f-default
+Date: Sat, 10 Oct 2026 17:33:16 GMT
+Alt-Svc: h3=":443"; ma=93600,h3-29=":443"; ma=93600
+Connection: keep-alive
+Strict-Transport-Security: max-age=86400 ; includeSubDomains ; preload
+

@@ -1,0 +1,35 @@
+name: Verify and preserve complete collection
+on:
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  preserve:
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+    env:
+      ARCHIVE_UPLOAD_URL: https://steven-schrembeck-archive-files.ja-cameron.workers.dev
+      ARCHIVE_UPLOAD_TOKEN: ${{ secrets.ARCHIVE_UPLOAD_TOKEN }}
+      GH_TOKEN: ${{ github.token }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          lfs: false
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Restore and checksum media from the independent copy
+        run: python3 scripts/hydrate_lfs.py
+      - name: Populate and upload Git LFS objects
+        run: |
+          git lfs install --local
+          git add collection
+          git diff --cached --exit-code
+          git lfs push --all origin main
+          git lfs fsck
+      - name: Build complete, ordinary-file packages
+        run: python3 scripts/package.py
+      - name: Publish complete ZIP to the archive
+        run: node scripts/upload-archive.mjs output/steven-schrembeck-complete.zip output/steven-schrembeck-complete.zip.sha256
+      - name: Preserve downloadable ZIP parts on GitHub
+        run: gh release create archive-2026-10-10 output/releases/* --title "Steven Schrembeck archive · October 10, 2026" --notes-file RELEASE-NOTES.md --target "$GITHUB_SHA"

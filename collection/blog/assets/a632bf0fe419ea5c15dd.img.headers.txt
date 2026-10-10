@@ -1,0 +1,15 @@
+HTTP/2 200 
+age: 1446316
+cache-control: public, max-age=31536000, must-revalidate
+content-disposition: attachment; filename="photo-1622636867718-6b2cd12132a6.jpg"
+content-security-policy: default-src 'self'; script-src 'none'; sandbox;
+content-type: image/jpeg
+date: Wed, 23 Sep 2026 23:51:46 GMT
+last-modified: Tue, 22 Sep 2026 22:49:50 GMT
+server: Vercel
+strict-transport-security: max-age=63072000
+vary: Accept
+x-vercel-cache: HIT
+x-vercel-id: iad1::22h7s-1791653822202-03b8a78da20c
+content-length: 1414333
+

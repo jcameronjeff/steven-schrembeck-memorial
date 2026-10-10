@@ -1,0 +1,55 @@
+[
+  {
+    "id": "the-basement-in-the-attic",
+    "title": "The Basement in the Attic: Basement Society Book 1",
+    "kind": "book",
+    "series": "Novel",
+    "date": "2020-01-30",
+    "date_basis": "Paperback publication date on Amazon",
+    "format": "BOOK",
+    "origin": "https://www.amazon.com/dp/B084DFZH7J",
+    "links": [
+      ["Paperback", "https://www.amazon.com/dp/B084DFZH7J"],
+      ["Kindle", "https://www.amazon.com/dp/B084D1BY9R"],
+      ["The Woodsman: author’s book link", "https://www.reddit.com/r/nosleep/comments/d9zoh8/the_woodsman/"],
+      ["Podcast credit connecting Kasai_Ryane to Steven", "https://www.buzzsprout.com/2286732/episodes/18410079-an-unwelcome-audience"]
+    ],
+    "note": "A novel by Steven Schrembeck. His Reddit account, Kasai_Ryane, links the Kindle edition beneath The Woodsman; podcast credits explicitly connect that account to Steven and Mortal Steel. Neither edition is saved in this collection."
+  },
+  {
+    "id": "an-unwelcome-audience-inside-your-house",
+    "title": "An Unwelcome Audience — The Podcast Inside Your House",
+    "kind": "audio",
+    "series": "Adaptations · The Podcast Inside Your House",
+    "date": "2026-03-06",
+    "date_basis": "Publisher’s podcast feed publication date",
+    "format": "AUDIO",
+    "duration": "31 min 24 sec",
+    "origin": "https://www.buzzsprout.com/2286732/episodes/18410079-an-unwelcome-audience",
+    "links": [
+      ["Publisher’s episode page", "https://www.buzzsprout.com/2286732/episodes/18410079-an-unwelcome-audience"],
+      ["Amazon Music", "https://music.amazon.com/podcasts/78cafb1d-5011-438d-960b-735dba5fbe0c/episodes/7964d65a-7bbd-4982-9d7b-5d024d1039d2/the-podcast-inside-your-house---horror-stories-an-unwelcome-audience"],
+      ["Original story", "https://www.reddit.com/r/nosleep/comments/56rkmd/an_unwelcome_audience/"]
+    ],
+    "note": "A performance of Steven’s story by The Podcast Inside Your House. This is a separate adaptation from Lighthouse Horror’s recording. The publisher’s download returned HTTP 403 on October 10, 2026, so no audio copy is saved here."
+  },
+  {
+    "id": "an-unwelcome-audience-lighthouse-horror",
+    "title": "If You’re Alone in the Woods and They See You, Don’t Even Breathe",
+    "kind": "audio",
+    "series": "Adaptations · Lighthouse Horror",
+    "date": "2023-08-30",
+    "date_basis": "Publisher’s podcast feed publication date",
+    "format": "MP3",
+    "duration": "25 min 55 sec",
+    "path": "adaptations/an-unwelcome-audience-lighthouse-horror.mp3",
+    "origin": "https://podcasters.spotify.com/pod/show/lighthouse-horror/episodes/If-Youre-Alone-In-The-Woods-And-They-See-You--Dont-Even-Breathe--Scary-Stories-e2882bd",
+    "links": [
+      ["Publisher’s episode page", "https://podcasters.spotify.com/pod/show/lighthouse-horror/episodes/If-Youre-Alone-In-The-Woods-And-They-See-You--Dont-Even-Breathe--Scary-Stories-e2882bd"],
+      ["Amazon Music", "https://music.amazon.es/podcasts/ddc65522-1d21-4b3f-96dc-7ea623593168/episodes/55ff46d9-5ef4-466d-9499-c93fe77da7bc/lighthouse-horror-podcast-if-you%27re-alone-in-the-woods-and-they-see-you-don%27t-even-breathe-scary-stories"],
+      ["YouTube", "https://www.youtube.com/watch?v=YsNxQCWk4A0"],
+      ["Original story", "https://www.reddit.com/r/nosleep/comments/56rkmd/an_unwelcome_audience/"]
+    ],
+    "note": "Lighthouse Horror’s performance of An Unwelcome Audience, credited to Kasai_Ryane. A separate adaptation from The Podcast Inside Your House. The MP3 was saved from the publisher’s public podcast feed on October 10, 2026; duration reflects the downloaded file and may include inserted advertisements."
+  }
+]

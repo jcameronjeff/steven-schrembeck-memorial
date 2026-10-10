@@ -1,0 +1,24 @@
+HTTP/1.1 302 Moved Temporarily
+Location: https://podcasts.captivate.fm/media/e8e7ee9d-3d51-4b91-9dfe-0a78e4c85f1a/ep-0-ruptures-and-roots-converted.mp3
+Expires: Sat, 10 Oct 2026 17:33:10 GMT
+Cache-Control: max-age=0, no-cache, no-store
+Pragma: no-cache
+Date: Sat, 10 Oct 2026 17:33:10 GMT
+Alt-Svc: h3=":443"; ma=93600,h3-29=":443"; ma=93600
+Connection: close
+Strict-Transport-Security: max-age=86400 ; includeSubDomains
+
+HTTP/1.1 200 OK
+Content-Type: audio/mpeg
+Content-Length: 80239860
+Accept-Ranges: bytes
+Last-Modified: Wed, 27 May 2026 19:37:28 GMT
+x-rgw-object-type: Normal
+ETag: "f995a013acf98559271407cdcbf46bc1-8"
+x-amz-tagging-count: 0
+x-amz-request-id: tx000000ab312753a358171-006ab9b5d4-11bc7810f-default
+Date: Sat, 10 Oct 2026 17:33:10 GMT
+Alt-Svc: h3=":443"; ma=93600,h3-29=":443"; ma=93600
+Connection: keep-alive
+Strict-Transport-Security: max-age=86400 ; includeSubDomains ; preload
+

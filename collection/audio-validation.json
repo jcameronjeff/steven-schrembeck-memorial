@@ -1,0 +1,1144 @@
+[
+  {
+    "path": "reality/005-3-see-wake-up-remember-pt-2.mp3",
+    "readable": true,
+    "probe": {
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "mp3",
+          "codec_type": "audio"
+        }
+      ],
+      "format": {
+        "duration": "4109.815873"
+      }
+    },
+    "error": ""
+  },
+  {
+    "path": "reality/009-bonus-what-i-know-about-transcendence.mp3",
+    "readable": true,
+    "probe": {
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "mp3",
+          "codec_type": "audio"
+        }
+      ],
+      "format": {
+        "duration": "3525.013333"
+      }
+    },
+    "error": ""
+  },
+  {
+    "path": "reality/006-4-see-wake-up-remember-pt-3.mp3",
+    "readable": true,
+    "probe": {
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "mp3",
+          "codec_type": "audio"
+        }
+      ],
+      "format": {
+        "duration": "3533.052521"
+      }
+    },
+    "error": ""
+  },
+  {
+    "path": "reality/002-1-reality-101.mp3",
+    "readable": true,
+    "probe": {
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "mp3",
+          "codec_type": "audio"
+        }
+      ],
+      "format": {
+        "duration": "4407.334331"
+      }
+    },
+    "error": ""
+  },
+  {
+    "path": "reality/004-2-see-wake-up-remember-pt-1.mp3",
+    "readable": true,
+    "probe": {
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "mp3",
+          "codec_type": "audio"
+        }
+      ],
+      "format": {
+        "duration": "4290.906916"
+      }
+    },
+    "error": ""
+  },
+  {
+    "path": "reality/001-0-prologue-from-ruptures-and-roots.mp3",
+    "readable": true,
+    "probe": {
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "mp3",
+          "codec_type": "audio"
+        }
+      ],
+      "format": {
+        "duration": "5014.778750"
+      }
+    },
+    "error": ""
+  },
+  {
+    "path": "reality/010-bonus-food-and-frequency.mp3",
+    "readable": true,
+    "probe": {
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "mp3",
+          "codec_type": "audio"
+        }
+      ],
+      "format": {
+        "duration": "1020.107714"
+      }
+    },
+    "error": ""
+  },
+  {
+    "path": "reality/003-trailer-surprise-you-can-learn-how-it-all-works.mp3",
+    "readable": true,
+    "probe": {
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "mp3",
+          "codec_type": "audio"
+        }
+      ],
+      "format": {
+        "duration": "109.344558"
+      }
+    },
+    "error": ""
+  },
+  {
+    "path": "reality/008-bonus-what-i-know-about-telepathy.mp3",
+    "readable": true,
+    "probe": {
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "mp3",
+          "codec_type": "audio"
+        }
+      ],
+      "format": {
+        "duration": "3467.413333"
+      }
+    },
+    "error": ""
+  },
+  {
+    "path": "reality/007-5-reality-102.mp3",
+    "readable": true,
+    "probe": {
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "mp3",
+          "codec_type": "audio"
+        }
+      ],
+      "format": {
+        "duration": "4270.032336"
+      }
+    },
+    "error": ""
+  },
+  {
+    "path": "interviews/1300-empowering-minds-with-ai-steven-schrembeck-on-technology-self-control-and-mental-clarity.mp3",
+    "readable": true,
+    "probe": {
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "mp3",
+          "codec_type": "audio"
+        }
+      ],
+      "format": {
+        "duration": "1724.316313"
+      }
+    },
+    "error": ""
+  },
+  {
+    "path": "interviews/nosleep-podcast-s9e09.mp3",
+    "readable": true,
+    "probe": {
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "mp3",
+          "codec_type": "audio"
+        },
+        {
+          "codec_name": "mjpeg",
+          "codec_type": "video"
+        }
+      ],
+      "format": {
+        "duration": "4658.006313"
+      }
+    },
+    "error": ""
+  },
+  {
+    "path": "interviews/unlocking-human-and-machine-consciousness-with-steven-schrembeck.mp3",
+    "readable": true,
+    "probe": {
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "mp3",
+          "codec_type": "audio"
+        }
+      ],
+      "format": {
+        "duration": "2299.147029"
+      }
+    },
+    "error": ""
+  },
+  {
+    "path": "interviews/107-unraveling-the-future-of-ai-the-developer-s-perspective-with-steven-schrembeck.mp3",
+    "readable": true,
+    "probe": {
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "mp3",
+          "codec_type": "audio"
+        }
+      ],
+      "format": {
+        "duration": "2785.940000"
+      }
+    },
+    "error": ""
+  },
+  {
+    "path": "interviews/beyond-logic-steven-schrembeck-on-mind-sight-soul-families-and-the-edges-of-consciousness.mp3",
+    "readable": true,
+    "probe": {
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "mp3",
+          "codec_type": "audio"
+        },
+        {
+          "codec_name": "png",
+          "codec_type": "video"
+        }
+      ],
+      "format": {
+        "duration": "4975.000839"
+      }
+    },
+    "error": ""
+  },
+  {
+    "path": "interviews/steven-schrembeck.mp3",
+    "readable": true,
+    "probe": {
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "mp3",
+          "codec_type": "audio"
+        }
+      ],
+      "format": {
+        "duration": "4319.085714"
+      }
+    },
+    "error": ""
+  },
+  {
+    "path": "collected/042-the-stillness-episode-2-raw.mp3",
+    "readable": true,
+    "probe": {
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "mp3",
+          "codec_type": "audio"
+        }
+      ],
+      "format": {
+        "duration": "1249.949333"
+      }
+    },
+    "error": ""
+  },
+  {
+    "path": "collected/028-volaxis-episode-1.mp3",
+    "readable": true,
+    "probe": {
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "mp3",
+          "codec_type": "audio"
+        }
+      ],
+      "format": {
+        "duration": "1751.357333"
+      }
+    },
+    "error": ""
+  },
+  {
+    "path": "collected/010-mortal-steel-episode-7.mp3",
+    "readable": true,
+    "probe": {
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "mp3",
+          "codec_type": "audio"
+        }
+      ],
+      "format": {
+        "duration": "1691.013917"
+      }
+    },
+    "error": ""
+  },
+  {
+    "path": "collected/023-mortal-steel-pilot-episode-1.mp3",
+    "readable": true,
+    "probe": {
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "mp3",
+          "codec_type": "audio"
+        }
+      ],
+      "format": {
+        "duration": "1707.365333"
+      }
+    },
+    "error": ""
+  },
+  {
+    "path": "collected/045-fractality-episode-1.mp3",
+    "readable": true,
+    "probe": {
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "mp3",
+          "codec_type": "audio"
+        }
+      ],
+      "format": {
+        "duration": "2012.453333"
+      }
+    },
+    "error": ""
+  },
+  {
+    "path": "collected/031-developer-commentary-2.mp3",
+    "readable": true,
+    "probe": {
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "mp3",
+          "codec_type": "audio"
+        }
+      ],
+      "format": {
+        "duration": "428.881882"
+      }
+    },
+    "error": ""
+  },
+  {
+    "path": "collected/008-mortal-steel-episode-8.mp3",
+    "readable": true,
+    "probe": {
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "mp3",
+          "codec_type": "audio"
+        }
+      ],
+      "format": {
+        "duration": "1698.082500"
+      }
+    },
+    "error": ""
+  },
+  {
+    "path": "collected/001-reverie.mp3",
+    "readable": true,
+    "probe": {
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "mp3",
+          "codec_type": "audio"
+        }
+      ],
+      "format": {
+        "duration": "1045.325442"
+      }
+    },
+    "error": ""
+  },
+  {
+    "path": "collected/033-planescarred-episode-1.mp3",
+    "readable": true,
+    "probe": {
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "mp3",
+          "codec_type": "audio"
+        }
+      ],
+      "format": {
+        "duration": "1835.789333"
+      }
+    },
+    "error": ""
+  },
+  {
+    "path": "collected/019-from-between-the-woodsman.mp3",
+    "readable": true,
+    "probe": {
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "mp3",
+          "codec_type": "audio"
+        }
+      ],
+      "format": {
+        "duration": "1469.044750"
+      }
+    },
+    "error": ""
+  },
+  {
+    "path": "collected/012-mortal-steel-trailer.mp3",
+    "readable": true,
+    "probe": {
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "mp3",
+          "codec_type": "audio"
+        }
+      ],
+      "format": {
+        "duration": "87.887256"
+      }
+    },
+    "error": ""
+  },
+  {
+    "path": "collected/005-mortal-steel-episode-10.mp3",
+    "readable": true,
+    "probe": {
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "mp3",
+          "codec_type": "audio"
+        }
+      ],
+      "format": {
+        "duration": "1912.044083"
+      }
+    },
+    "error": ""
+  },
+  {
+    "path": "collected/017-developer-commentary-4-release-schedule-other-updates.mp3",
+    "readable": true,
+    "probe": {
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "mp3",
+          "codec_type": "audio"
+        }
+      ],
+      "format": {
+        "duration": "189.835465"
+      }
+    },
+    "error": ""
+  },
+  {
+    "path": "collected/030-everhouse-episode-1.mp3",
+    "readable": true,
+    "probe": {
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "mp3",
+          "codec_type": "audio"
+        }
+      ],
+      "format": {
+        "duration": "1712.117333"
+      }
+    },
+    "error": ""
+  },
+  {
+    "path": "collected/039-dust-episode-1.mp3",
+    "readable": true,
+    "probe": {
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "mp3",
+          "codec_type": "audio"
+        }
+      ],
+      "format": {
+        "duration": "1532.597333"
+      }
+    },
+    "error": ""
+  },
+  {
+    "path": "collected/047-allegiance-episode-1-raw.mp3",
+    "readable": true,
+    "probe": {
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "mp3",
+          "codec_type": "audio"
+        }
+      ],
+      "format": {
+        "duration": "1854.845333"
+      }
+    },
+    "error": ""
+  },
+  {
+    "path": "collected/024-developer-commentary-3-updates-sound-in-layers-the-two-stories.mp3",
+    "readable": true,
+    "probe": {
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "mp3",
+          "codec_type": "audio"
+        }
+      ],
+      "format": {
+        "duration": "843.181633"
+      }
+    },
+    "error": ""
+  },
+  {
+    "path": "collected/043-the-stillness-episode-1.mp3",
+    "readable": true,
+    "probe": {
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "mp3",
+          "codec_type": "audio"
+        }
+      ],
+      "format": {
+        "duration": "1802.261333"
+      }
+    },
+    "error": ""
+  },
+  {
+    "path": "collected/032-planescarred-episode-2-raw.mp3",
+    "readable": true,
+    "probe": {
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "mp3",
+          "codec_type": "audio"
+        }
+      ],
+      "format": {
+        "duration": "1573.277333"
+      }
+    },
+    "error": ""
+  },
+  {
+    "path": "collected/016-mortal-steel-episode-2.mp3",
+    "readable": true,
+    "probe": {
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "mp3",
+          "codec_type": "audio"
+        }
+      ],
+      "format": {
+        "duration": "1326.238500"
+      }
+    },
+    "error": ""
+  },
+  {
+    "path": "collected/011-mortal-steel-episode-6.mp3",
+    "readable": true,
+    "probe": {
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "mp3",
+          "codec_type": "audio"
+        }
+      ],
+      "format": {
+        "duration": "1670.251583"
+      }
+    },
+    "error": ""
+  },
+  {
+    "path": "collected/041-the-eighth-self-episode-1-raw.mp3",
+    "readable": true,
+    "probe": {
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "mp3",
+          "codec_type": "audio"
+        }
+      ],
+      "format": {
+        "duration": "1678.589333"
+      }
+    },
+    "error": ""
+  },
+  {
+    "path": "collected/044-fractality-episode-2-raw.mp3",
+    "readable": true,
+    "probe": {
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "mp3",
+          "codec_type": "audio"
+        }
+      ],
+      "format": {
+        "duration": "2015.141333"
+      }
+    },
+    "error": ""
+  },
+  {
+    "path": "collected/040-the-eighth-self-episode-2-raw.mp3",
+    "readable": true,
+    "probe": {
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "mp3",
+          "codec_type": "audio"
+        }
+      ],
+      "format": {
+        "duration": "1256.813333"
+      }
+    },
+    "error": ""
+  },
+  {
+    "path": "collected/014-mortal-steel-episode-4.mp3",
+    "readable": true,
+    "probe": {
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "mp3",
+          "codec_type": "audio"
+        }
+      ],
+      "format": {
+        "duration": "1766.394750"
+      }
+    },
+    "error": ""
+  },
+  {
+    "path": "collected/007-mortal-steel-episode-9.mp3",
+    "readable": true,
+    "probe": {
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "mp3",
+          "codec_type": "audio"
+        }
+      ],
+      "format": {
+        "duration": "1738.433417"
+      }
+    },
+    "error": ""
+  },
+  {
+    "path": "collected/037-remaster-dust-episode-2-final-scene-only.mp3",
+    "readable": true,
+    "probe": {
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "mp3",
+          "codec_type": "audio"
+        }
+      ],
+      "format": {
+        "duration": "274.277333"
+      }
+    },
+    "error": ""
+  },
+  {
+    "path": "collected/013-mortal-steel-episode-5.mp3",
+    "readable": true,
+    "probe": {
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "mp3",
+          "codec_type": "audio"
+        }
+      ],
+      "format": {
+        "duration": "1677.346250"
+      }
+    },
+    "error": ""
+  },
+  {
+    "path": "collected/018-mortal-steel-episode-1.mp3",
+    "readable": true,
+    "probe": {
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "mp3",
+          "codec_type": "audio"
+        }
+      ],
+      "format": {
+        "duration": "1639.447167"
+      }
+    },
+    "error": ""
+  },
+  {
+    "path": "collected/004-delays-and-discord.mp3",
+    "readable": true,
+    "probe": {
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "mp3",
+          "codec_type": "audio"
+        }
+      ],
+      "format": {
+        "duration": "116.415250"
+      }
+    },
+    "error": ""
+  },
+  {
+    "path": "collected/020-imagiserum-episode-2-raw.mp3",
+    "readable": true,
+    "probe": {
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "mp3",
+          "codec_type": "audio"
+        }
+      ],
+      "format": {
+        "duration": "1216.061333"
+      }
+    },
+    "error": ""
+  },
+  {
+    "path": "collected/021-imagiserum-episode-1.mp3",
+    "readable": true,
+    "probe": {
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "mp3",
+          "codec_type": "audio"
+        }
+      ],
+      "format": {
+        "duration": "1101.941333"
+      }
+    },
+    "error": ""
+  },
+  {
+    "path": "collected/003-mine-an-unofficial-merry-modz-audio-short.mp3",
+    "readable": true,
+    "probe": {
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "mp3",
+          "codec_type": "audio"
+        }
+      ],
+      "format": {
+        "duration": "178.702250"
+      }
+    },
+    "error": ""
+  },
+  {
+    "path": "collected/029-everhouse-episode-2.mp3",
+    "readable": true,
+    "probe": {
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "mp3",
+          "codec_type": "audio"
+        }
+      ],
+      "format": {
+        "duration": "1369.421333"
+      }
+    },
+    "error": ""
+  },
+  {
+    "path": "collected/009-developer-commentary-5-what-is-collected-what-do-you-mean-by-it-s-ours-season-2-updates.mp3",
+    "readable": true,
+    "probe": {
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "mp3",
+          "codec_type": "audio"
+        }
+      ],
+      "format": {
+        "duration": "608.033917"
+      }
+    },
+    "error": ""
+  },
+  {
+    "path": "collected/025-soulbinder-episode-2-raw.mp3",
+    "readable": true,
+    "probe": {
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "mp3",
+          "codec_type": "audio"
+        }
+      ],
+      "format": {
+        "duration": "1172.261333"
+      }
+    },
+    "error": ""
+  },
+  {
+    "path": "collected/034-developer-commentary-1.mp3",
+    "readable": true,
+    "probe": {
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "mp3",
+          "codec_type": "audio"
+        }
+      ],
+      "format": {
+        "duration": "839.789333"
+      }
+    },
+    "error": ""
+  },
+  {
+    "path": "collected/006-dev-commentary-6-interview-with-the-creative-mindset-mortal-steel-wrapup-season-2-updates.mp3",
+    "readable": true,
+    "probe": {
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "mp3",
+          "codec_type": "audio"
+        }
+      ],
+      "format": {
+        "duration": "4753.249417"
+      }
+    },
+    "error": ""
+  },
+  {
+    "path": "collected/015-mortal-steel-episode-3.mp3",
+    "readable": true,
+    "probe": {
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "mp3",
+          "codec_type": "audio"
+        }
+      ],
+      "format": {
+        "duration": "1633.813167"
+      }
+    },
+    "error": ""
+  },
+  {
+    "path": "collected/046-allegiance-episode-2-raw.mp3",
+    "readable": true,
+    "probe": {
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "mp3",
+          "codec_type": "audio"
+        }
+      ],
+      "format": {
+        "duration": "1470.269333"
+      }
+    },
+    "error": ""
+  },
+  {
+    "path": "collected/026-soulbinder-episode-1.mp3",
+    "readable": true,
+    "probe": {
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "mp3",
+          "codec_type": "audio"
+        }
+      ],
+      "format": {
+        "duration": "1410.053333"
+      }
+    },
+    "error": ""
+  },
+  {
+    "path": "collected/022-mortal-steel-pilot-episode-2-raw.mp3",
+    "readable": true,
+    "probe": {
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "mp3",
+          "codec_type": "audio"
+        }
+      ],
+      "format": {
+        "duration": "1225.565333"
+      }
+    },
+    "error": ""
+  },
+  {
+    "path": "collected/038-dust-episode-2-raw.mp3",
+    "readable": true,
+    "probe": {
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "mp3",
+          "codec_type": "audio"
+        }
+      ],
+      "format": {
+        "duration": "1710.053333"
+      }
+    },
+    "error": ""
+  },
+  {
+    "path": "collected/035-the-summoner-s-rulebook-episode-2-raw.mp3",
+    "readable": true,
+    "probe": {
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "mp3",
+          "codec_type": "audio"
+        }
+      ],
+      "format": {
+        "duration": "1772.525333"
+      }
+    },
+    "error": ""
+  },
+  {
+    "path": "collected/002-dev-commentary-7-puzzl-web-3-short-story-the-project.mp3",
+    "readable": true,
+    "probe": {
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "mp3",
+          "codec_type": "audio"
+        }
+      ],
+      "format": {
+        "duration": "795.573083"
+      }
+    },
+    "error": ""
+  },
+  {
+    "path": "collected/036-the-summoner-s-rulebook-episode-1.mp3",
+    "readable": true,
+    "probe": {
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "mp3",
+          "codec_type": "audio"
+        }
+      ],
+      "format": {
+        "duration": "1581.365333"
+      }
+    },
+    "error": ""
+  },
+  {
+    "path": "collected/027-volaxis-episode-2.mp3",
+    "readable": true,
+    "probe": {
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "mp3",
+          "codec_type": "audio"
+        }
+      ],
+      "format": {
+        "duration": "1535.477333"
+      }
+    },
+    "error": ""
+  }
+]

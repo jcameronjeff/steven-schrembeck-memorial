@@ -1,0 +1,15 @@
+{
+  "source_path": "youtube/20230518-sNeD2zNnZl0-High Impact Foods Part 01.mkv",
+  "automated_flags": [],
+  "flags_are_review_candidates_not_confirmed_errors": true,
+  "raw_word_count": 247,
+  "spoken_word_count": 123,
+  "speaker_ids": [
+    "speaker_0"
+  ],
+  "subtitle_cue_count": 11,
+  "first_speech_seconds": 1.74,
+  "last_speech_seconds": 49.14,
+  "human_correction_status": "uncorrected",
+  "source_offset_seconds": 0.0
+}

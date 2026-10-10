@@ -1,0 +1,49 @@
+{
+  "source_path": "reality/007-5-reality-102.mp3",
+  "automated_flags": [
+    {
+      "kind": "low_word_logprob",
+      "word_index": 4349,
+      "start": 712.02,
+      "end": 712.72,
+      "text": " ",
+      "logprob": -1.1608617305755615
+    },
+    {
+      "kind": "low_word_logprob",
+      "word_index": 4350,
+      "start": 712.72,
+      "end": 712.82,
+      "text": "How",
+      "logprob": -1.1608617305755615
+    },
+    {
+      "kind": "low_word_logprob",
+      "word_index": 11759,
+      "start": 1943.708,
+      "end": 1943.748,
+      "text": " ",
+      "logprob": -1.0224978923797607
+    },
+    {
+      "kind": "low_word_logprob",
+      "word_index": 12927,
+      "start": 2145.928,
+      "end": 2145.948,
+      "text": " ",
+      "logprob": -1.2554430961608887
+    }
+  ],
+  "flags_are_review_candidates_not_confirmed_errors": true,
+  "raw_word_count": 26312,
+  "spoken_word_count": 13092,
+  "speaker_ids": [
+    "speaker_0",
+    "speaker_1"
+  ],
+  "subtitle_cue_count": 1019,
+  "first_speech_seconds": 10.02,
+  "last_speech_seconds": 4259.34,
+  "human_correction_status": "uncorrected",
+  "source_offset_seconds": 0
+}

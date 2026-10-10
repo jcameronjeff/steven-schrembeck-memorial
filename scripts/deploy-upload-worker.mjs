@@ -1,0 +1,10 @@
+import fs from 'node:fs';import crypto from 'node:crypto';import {cf,account} from './cf-api.mjs';
+const secretPath=new URL('../.private/upload-token',import.meta.url);
+const token=fs.existsSync(secretPath)?fs.readFileSync(secretPath,'utf8'):crypto.randomBytes(32).toString('hex');fs.writeFileSync(secretPath,token,{mode:0o600});
+const name='steven-schrembeck-archive-files';
+const metadata={main_module:'worker.mjs',compatibility_date:'2026-10-10',bindings:[{type:'r2_bucket',name:'ARCHIVE',bucket_name:'opzero-src'},{type:'secret_text',name:'UPLOAD_TOKEN',text:token}]};
+const form=new FormData();form.append('metadata',new Blob([JSON.stringify(metadata)],{type:'application/json'}));form.append('worker.mjs',new Blob([fs.readFileSync(new URL('../hosting/archive-worker.mjs',import.meta.url))],{type:'application/javascript+module'}),'worker.mjs');
+await cf(`/accounts/${account}/workers/scripts/${name}`,'PUT',form);
+await cf(`/accounts/${account}/workers/scripts/${name}/subdomain`,'POST',{enabled:true});
+const sub=await cf(`/accounts/${account}/workers/subdomain`);const url=`https://${name}.${sub.subdomain}.workers.dev`;
+fs.writeFileSync(new URL('../output/media-host.json',import.meta.url),JSON.stringify({name,url,bucket:'opzero-src',prefix:'memorial/steven-schrembeck-archive-20261010/'},null,2));console.log({url});

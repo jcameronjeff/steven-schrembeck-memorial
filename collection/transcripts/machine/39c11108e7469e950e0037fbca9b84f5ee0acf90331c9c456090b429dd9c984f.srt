@@ -1,0 +1,859 @@
+1
+00:00:00,820 --> 00:00:06,300
+Speaker 1: Hello, this is Steven. So for today's
+developer commentary number three,
+
+2
+00:00:06,800 --> 00:00:11,480
+Speaker 1: I wanted to go over a couple
+different things. So we'll talk briefly about
+the story
+
+3
+00:00:11,560 --> 00:00:15,920
+Speaker 1: I just released, which was Soul
+Binder. And then I wanna talk about the upcoming
+
+4
+00:00:15,980 --> 00:00:20,720
+Speaker 1: production schedule and a little bit
+about what's coming up next. And then I wanna
+
+5
+00:00:20,800 --> 00:00:26,560
+Speaker 1: save the rest of the time to talk
+about really how I think about sound a-as,
+
+6
+00:00:27,580 --> 00:00:32,439
+Speaker 1: as it pertains to story. So we'll
+talk a little bit about that at the end, and how
+I
+
+7
+00:00:32,500 --> 00:00:38,460
+Speaker 1: think about sound design and how it
+contributes to the story. So first off, uh,
+
+8
+00:00:38,600 --> 00:00:42,820
+Speaker 1: Soul Binder just came out. Uh, as per
+usual, there's not a lot of sound design
+
+9
+00:00:42,880 --> 00:00:47,520
+Speaker 1: lately, which saddens me, but I
+really wanna keep a production schedule. I've
+got an
+
+10
+00:00:47,580 --> 00:00:51,840
+Speaker 1: arbitrary goal of how many stories to
+release in one hundred days, and I really
+
+11
+00:00:51,880 --> 00:00:57,280
+Speaker 1: wanna hit that goal. So you'll-- as
+I've mentioned in the past, you'll see after
+
+12
+00:00:57,340 --> 00:01:01,900
+Speaker 1: these twelve stories are released,
+uh, the next two coming up, by the way, are
+
+13
+00:01:02,620 --> 00:01:07,800
+Speaker 1: Mortal Steel, which I'm working on
+now, uh, that's a fun one, and the last one is
+
+14
+00:01:07,860 --> 00:01:13,620
+Speaker 1: Imagiserum. And after that, I'll have
+all twelve stories out with two episodes each.
+
+15
+00:01:14,400 --> 00:01:19,320
+Speaker 1: Um, and then I'm gonna slow down. I'm
+gonna slow down and do some proper sound
+
+16
+00:01:19,360 --> 00:01:24,880
+Speaker 1: design, really polish. Uh, and I
+think that's where I can kinda strut my stuff,
+
+17
+00:01:25,100 --> 00:01:30,240
+Speaker 1: and that'll be a great time for
+critical feedback on sound design especially. As
+I
+
+18
+00:01:30,420 --> 00:01:36,260
+Speaker 1: move away from focusing on narrative,
+uh, mostly writing, and I start focusing
+
+19
+00:01:36,320 --> 00:01:42,280
+Speaker 1: primarily on production, uh,
+directing, I'll have real voice actors. [laughs]
+
+20
+00:01:42,360 --> 00:01:46,080
+Speaker 1: So after these twelve stories are
+out, I'll probably just release a few developer
+
+21
+00:01:46,120 --> 00:01:51,560
+Speaker 1: commentaries to tie you over, maybe
+some teaser stuff. And then I'm going to do a
+
+22
+00:01:51,620 --> 00:01:56,920
+Speaker 1: full production of one of these
+twelve stories. Uh, right now the front runners
+are
+
+23
+00:01:57,780 --> 00:02:03,780
+Speaker 1: probably Dust, uh, Fractality, maybe
+Velaxis. I think those
+
+24
+00:02:03,820 --> 00:02:08,039
+Speaker 1: three are all pretty good. I know I'm
+gonna do Summoner's Rulebook at some point. I
+
+25
+00:02:08,080 --> 00:02:12,700
+Speaker 1: don't know when. Uh, so we'll do a
+thirteen-episode season for each of these
+
+26
+00:02:12,760 --> 00:02:17,120
+Speaker 1: stories. I'm planning on doing two
+full seasons, and then I have something much
+
+27
+00:02:17,180 --> 00:02:22,500
+Speaker 1: bigger planned. Uh, so that's enough
+about what's coming up. Uh, let's talk about
+
+28
+00:02:22,540 --> 00:02:27,680
+Speaker 1: Soul Binder. So Soul Binder came out.
+It is one of the sadder stories,
+
+29
+00:02:28,600 --> 00:02:34,420
+Speaker 1: uh, but, you know, sadness is a
+meaningful emotion as well. Uh, not everything
+can
+
+30
+00:02:34,460 --> 00:02:37,980
+Speaker 1: be fun and happy, although it
+certainly will have its lighthearted moments
+like
+
+31
+00:02:38,060 --> 00:02:43,200
+Speaker 1: everything. I can't help myself with
+that. Uh, it's got a very cool magic system. We
+
+32
+00:02:43,220 --> 00:02:48,780
+Speaker 1: got to see a little bit. Um, I won't
+give away too much, uh, but the way the magic
+
+33
+00:02:48,840 --> 00:02:54,740
+Speaker 1: system works is you can take, uh,
+attributes of anything in the real world around
+
+34
+00:02:54,800 --> 00:02:59,720
+Speaker 1: you and more or less copy and paste
+them onto something else. Uh, there's a lot more
+
+35
+00:02:59,800 --> 00:03:04,340
+Speaker 1: to it than that, and you can combine
+things in interesting and dangerous ways. Uh,
+
+36
+00:03:04,440 --> 00:03:08,760
+Speaker 1: but it's called binding, and I think
+it's cool. And it's sort of a backdrop to the,
+
+37
+00:03:09,420 --> 00:03:14,340
+Speaker 1: the main story of Estus Darkwater,
+who is on a journey north.
+
+38
+00:03:16,260 --> 00:03:20,820
+Speaker 1: Yeah. So that's Soul Binder. Uh,
+we'll probably hear more of that story at some
+
+39
+00:03:20,880 --> 00:03:26,060
+Speaker 1: later date. Uh, yeah. And moving on
+to some more
+
+40
+00:03:26,160 --> 00:03:31,860
+Speaker 1: general how I think about story and
+sound stuff. So I wanted to talk about
+
+41
+00:03:32,000 --> 00:03:36,980
+Speaker 1: sound in layers and how I go about
+creating sound for a story.
+
+42
+00:03:39,100 --> 00:03:43,280
+Speaker 1: So I think about my sound in layers.
+First, obviously, I do the voiceover for the
+
+43
+00:03:43,320 --> 00:03:47,420
+Speaker 1: narration and all of the characters
+first. So what I have at the beginning is
+
+44
+00:03:47,480 --> 00:03:52,980
+Speaker 1: basically a long audio track of just
+me speaking. In the future, we will have real
+
+45
+00:03:53,040 --> 00:03:57,460
+Speaker 1: voice actors, but I will continue to
+do the narration. So we're gonna have a
+
+46
+00:03:57,520 --> 00:04:02,280
+Speaker 1: voiceover track or voiceover tracks,
+and then where I start from there is creating
+
+47
+00:04:02,400 --> 00:04:08,300
+Speaker 1: atmospheres. So atmospheres are
+really your lowest layer of sound. Uh,
+
+48
+00:04:08,400 --> 00:04:14,240
+Speaker 1: if you're an artist, a painter, this
+will be like, um, uh... it's like the
+
+49
+00:04:14,300 --> 00:04:18,959
+Speaker 1: background layers, you know, painting
+the scenery behind it, you know, broad colors.
+
+50
+00:04:21,500 --> 00:04:26,160
+Speaker 1: It's really the backdrop. So
+atmospheres are the bottom layer. Uh, they serve
+a
+
+51
+00:04:26,200 --> 00:04:31,620
+Speaker 1: couple purposes like immersion. So
+imagine getting onto a train,
+
+52
+00:04:32,660 --> 00:04:37,640
+Speaker 1: and you hear the sound of trains in
+the background, and you hear clinking, and you
+
+53
+00:04:37,680 --> 00:04:43,280
+Speaker 1: hear people talking. Just from that
+sound alone, you can get a sense of
+
+54
+00:04:43,340 --> 00:04:49,300
+Speaker 1: place. So it's also important for
+clarity. So I can communicate an enormous amount
+
+55
+00:04:49,340 --> 00:04:54,040
+Speaker 1: of information simply by playing some
+sounds in the background. Uh, so that's what
+
+56
+00:04:54,120 --> 00:04:57,740
+Speaker 1: atmospheres are for. They're for
+immer-immersion, uh, and for the first few
+seconds,
+
+57
+00:04:57,800 --> 00:05:02,320
+Speaker 1: especially in a scene, they tell you
+where you are, uh, really where the characters
+
+58
+00:05:02,380 --> 00:05:07,280
+Speaker 1: are, which is where you are, at least
+in your mind. So that's what atmospheres are
+
+59
+00:05:07,320 --> 00:05:11,740
+Speaker 1: important for. For the first ten,
+fifteen seconds, uh, I play them pretty loud
+just
+
+60
+00:05:11,800 --> 00:05:15,020
+Speaker 1: so you can hear, "Okay, here's where
+they are. They're in a cave. They're on a
+
+61
+00:05:15,100 --> 00:05:19,520
+Speaker 1: train. They're climbing stairs,"
+right? "They're in a crowd." That sort of thing.
+
+62
+00:05:19,900 --> 00:05:23,100
+Speaker 1: Uh, so they're important for clarity
+at the beginning, and then they just kind of
+
+63
+00:05:23,180 --> 00:05:28,320
+Speaker 1: fall away into immersion. Uh, they
+don't ever completely disappear. Uh, I play
+
+64
+00:05:28,380 --> 00:05:32,520
+Speaker 1: around with atmospheres for other
+reasons as well, uh, but they really provide a
+
+65
+00:05:32,600 --> 00:05:38,100
+Speaker 1: sense of place. You know, chatter in
+the background, people talking, shopping, doors
+
+66
+00:05:38,160 --> 00:05:42,440
+Speaker 1: opening and closing, that kind of
+thing. So they're important for that. Uh, and
+for
+
+67
+00:05:42,480 --> 00:05:48,460
+Speaker 1: the most part, you don't notice them.
+So the next layer of sound is, uh,
+
+68
+00:05:48,620 --> 00:05:54,560
+Speaker 1: foley. So this is the term for people
+picking things up. This is stuff that happens
+
+69
+00:05:54,920 --> 00:05:59,820
+Speaker 1: because people are doing things in
+the story. Uh, so you don't even notice it in
+
+70
+00:05:59,860 --> 00:06:05,544
+Speaker 1: things like film and TV, uh, because
+it's just kind of- Just part of the experience.
+
+71
+00:06:05,624 --> 00:06:11,524
+Speaker 1: But in sound, especially for an audio
+drama or audio drama audiobook,
+
+72
+00:06:12,904 --> 00:06:17,784
+Speaker 1: which is really what I'm making,
+somewhere between the two, it happens when
+people
+
+73
+00:06:17,824 --> 00:06:23,624
+Speaker 1: are walking, clapping, picking stuff
+up, setting stuff down. So it's
+
+74
+00:06:24,064 --> 00:06:28,284
+Speaker 1: kind of boring, but also necessary.
+And what's interesting about Foley in a
+
+75
+00:06:28,344 --> 00:06:33,904
+Speaker 1: sound-only medium is that I can
+choose what sounds I want to play. In film and
+TV,
+
+76
+00:06:33,964 --> 00:06:38,224
+Speaker 1: they have a little less freedom there
+because, you know, somebody picks up a coffee
+
+77
+00:06:38,284 --> 00:06:42,684
+Speaker 1: cup and sets it down, you expect it
+to make some sound. But because I am painting
+
+78
+00:06:42,724 --> 00:06:46,644
+Speaker 1: the scene however I like, I can
+choose what to emphasize. So I have a little
+more
+
+79
+00:06:46,704 --> 00:06:50,984
+Speaker 1: freedom in Foley, and there's a
+little bit less of it. But it is important for
+
+80
+00:06:51,044 --> 00:06:55,164
+Speaker 1: immersion, but it's also important
+for communicating. There are some things which
+
+81
+00:06:55,204 --> 00:07:01,024
+Speaker 1: are easier to say. You know, he
+grabbed him by the back of the shirt and pulled
+him
+
+82
+00:07:01,064 --> 00:07:06,544
+Speaker 1: close. And then put his arm around
+his neck. That can be easy to say in words.
+
+83
+00:07:07,344 --> 00:07:11,784
+Speaker 1: But sometimes it's easier to just say
+he slammed him against the wall by making the
+
+84
+00:07:11,844 --> 00:07:15,744
+Speaker 1: sound of somebody being slammed
+against the wall. And that communicates way more
+
+85
+00:07:15,784 --> 00:07:20,444
+Speaker 1: information. I don't have to tell you
+how hard he slammed him. I can tell you that
+
+86
+00:07:20,484 --> 00:07:24,404
+Speaker 1: by the grunt that they make when they
+hit the wall. Do they grunt loud in pain? Do
+
+87
+00:07:24,444 --> 00:07:30,364
+Speaker 1: you hear something break? Or is it
+just a gentle nudge, a push out of the way? I
+
+88
+00:07:30,404 --> 00:07:34,004
+Speaker 1: can communicate all of that with just
+a sound, right? I don't have to use words for
+
+89
+00:07:34,064 --> 00:07:39,444
+Speaker 1: it. So Foley is useful for that. And
+the next layer is
+
+90
+00:07:39,944 --> 00:07:45,184
+Speaker 1: sitting on top of Foley, going up in
+importance, I guess. They're all important.
+
+91
+00:07:45,204 --> 00:07:50,504
+Speaker 1: They serve different roles. Certainly
+becoming less prevalent as we go up in layers.
+
+92
+00:07:50,544 --> 00:07:56,184
+Speaker 1: There's more atmospheres. There's
+less Foley. And even less is spot sounds.
+
+93
+00:07:57,404 --> 00:08:03,304
+Speaker 1: So these are the sounds that you
+notice immediately. The sound of gunshots or
+
+94
+00:08:03,464 --> 00:08:09,224
+Speaker 1: magic happening. These are the cool
+spotlight-taking sound effects. So the
+
+95
+00:08:09,284 --> 00:08:14,384
+Speaker 1: spot effects, you spend a lot of time
+on them because they're cool and they step
+
+96
+00:08:14,424 --> 00:08:20,364
+Speaker 1: into the spotlight, which is a
+concept I'll talk about in a second. But spot
+effects
+
+97
+00:08:20,464 --> 00:08:23,984
+Speaker 1: are definitely the most noticeable
+ones. They're supposed to sort of
+
+98
+00:08:26,344 --> 00:08:31,364
+Speaker 1: break into your conscious attention.
+Whereas Foley and atmospheres kind of fade into
+
+99
+00:08:31,404 --> 00:08:35,544
+Speaker 1: the background most of the time. They
+certainly contribute and you notice when
+
+100
+00:08:35,584 --> 00:08:40,304
+Speaker 1: they're not there. And they convey
+information. But spot effects are really in your
+
+101
+00:08:40,364 --> 00:08:44,884
+Speaker 1: face. You know, this is the sound of
+like a creature growling, right? It's immediate
+
+102
+00:08:44,944 --> 00:08:49,944
+Speaker 1: and important. And there are very few
+of them. But they're kind of what you think
+
+103
+00:08:50,024 --> 00:08:53,904
+Speaker 1: about when you think about sound.
+Even though they're actually some of the most
+
+104
+00:08:54,404 --> 00:08:57,584
+Speaker 1: uncommon sound effects. At least by
+volume.
+
+105
+00:08:59,244 --> 00:09:03,124
+Speaker 1: So those are the different layers.
+And there's also voice modulation. I do this
+
+106
+00:09:03,184 --> 00:09:09,144
+Speaker 1: some. So some of it is not so much
+creating a new sound as modulating existing
+
+107
+00:09:09,204 --> 00:09:14,464
+Speaker 1: sounds. So if a character is in a
+cave or in a tiny room or they have a mask on,
+
+108
+00:09:14,564 --> 00:09:19,164
+Speaker 1: they're going to sound different. And
+that's important for immersion. I don't do it
+
+109
+00:09:19,204 --> 00:09:23,864
+Speaker 1: too often, but I do it some. So
+that's the last kind of sound design that I'll
+talk
+
+110
+00:09:23,924 --> 00:09:29,324
+Speaker 1: about. So now that we've got those
+pieces of sound, what do we do with them,
+
+111
+00:09:29,924 --> 00:09:30,084
+Speaker 1: right?
+
+112
+00:09:31,964 --> 00:09:35,144
+Speaker 1: I don't know if you've heard this
+before, but it's very easy to make sound design
+
+113
+00:09:35,184 --> 00:09:38,544
+Speaker 1: annoying. I'm sure you've heard it,
+you know, in some of my stories as I've been
+
+114
+00:09:38,584 --> 00:09:44,504
+Speaker 1: practicing. It's very easy to make
+the sound like an atmosphere take over
+
+115
+00:09:44,604 --> 00:09:49,064
+Speaker 1: everything. It's too loud. It's too
+intrusive. And you may not have noticed this
+
+116
+00:09:49,124 --> 00:09:53,244
+Speaker 1: consciously. You may have just turned
+off the story, whatever you're listening to,
+
+117
+00:09:54,004 --> 00:09:58,404
+Speaker 1: without knowing why. Maybe just a
+sense of anxiousness. And it's because the
+
+118
+00:09:58,444 --> 00:10:01,064
+Speaker 1: background sounds may be too loud or
+too intrusive.
+
+119
+00:10:02,964 --> 00:10:07,384
+Speaker 1: So that brings up the idea of telling
+two stories. I like to think of sound design
+
+120
+00:10:08,064 --> 00:10:13,964
+Speaker 1: and the written story as two
+different tellings of the
+
+121
+00:10:14,024 --> 00:10:18,024
+Speaker 1: same story. And they each contribute
+in their own way. So there's two stories.
+
+122
+00:10:18,144 --> 00:10:23,304
+Speaker 1: There's the first story, which is the
+one that you're being told, like right now.
+
+123
+00:10:24,084 --> 00:10:28,604
+Speaker 1: These are my words, or the actor's
+words in the case of dialogue. So if you were to
+
+124
+00:10:28,664 --> 00:10:34,324
+Speaker 1: print out the script, that would be
+the first story. The second story is the story
+
+125
+00:10:34,364 --> 00:10:38,704
+Speaker 1: being told by sound. And it's often
+in the background, which is the reason it's
+
+126
+00:10:38,744 --> 00:10:43,064
+Speaker 1: called the second story. For the most
+part, the second story supports the first
+
+127
+00:10:43,164 --> 00:10:48,504
+Speaker 1: story in interesting and meaningful
+ways. Like I've described, sometimes it is
+
+128
+00:10:48,624 --> 00:10:54,244
+Speaker 1: easier to tell the story with the
+second story. Instead of saying, wasting all of
+
+129
+00:10:54,284 --> 00:10:58,664
+Speaker 1: our time with, he picked up the
+coffee cup and set it back down. I can just pick
+up
+
+130
+00:10:58,704 --> 00:11:02,584
+Speaker 1: the coffee cup and set it back down
+with sound. And that's the second story telling
+
+131
+00:11:02,624 --> 00:11:08,584
+Speaker 1: the story. So sometimes they tell the
+same story. In an action scene, you know, I
+
+132
+00:11:08,624 --> 00:11:12,744
+Speaker 1: can say he ran down the hallway, and
+then you hear some footsteps going down a
+
+133
+00:11:12,784 --> 00:11:17,164
+Speaker 1: hallway, right? So they're both
+telling the same story. But there are times when
+
+134
+00:11:17,264 --> 00:11:22,124
+Speaker 1: only the first story is happening.
+These are like the character's inner thoughts.
+Or
+
+135
+00:11:22,184 --> 00:11:27,024
+Speaker 1: I'm giving some background on the
+world or their past, right? So in that case, the
+
+136
+00:11:27,084 --> 00:11:31,064
+Speaker 1: first story is telling one story, but
+the second story is either muted, there is no
+
+137
+00:11:31,104 --> 00:11:36,324
+Speaker 1: background sound, or it's playing
+some sort of atmospheric music, right? It's
+
+138
+00:11:36,364 --> 00:11:39,224
+Speaker 1: supporting the first story a little
+bit, but for the most part, it's telling a
+
+139
+00:11:39,264 --> 00:11:44,244
+Speaker 1: different story. And then there are
+times when the first story is not at all
+
+140
+00:11:44,284 --> 00:11:47,944
+Speaker 1: important, and the second story is
+far more important. Like when a creature is
+
+141
+00:11:48,024 --> 00:11:53,804
+Speaker 1: growling at you. It's just easier to
+tell the sound, the story with
+
+142
+00:11:53,864 --> 00:11:58,784
+Speaker 1: sound, than it is to actually come in
+and write it with words. It's kind of lame. So
+
+143
+00:11:58,824 --> 00:12:02,864
+Speaker 1: there's a balance there. Most of the
+time, the second story supports the first
+
+144
+00:12:02,944 --> 00:12:08,264
+Speaker 1: story. But there are times when the
+second story becomes more important. That is, it
+
+145
+00:12:08,464 --> 00:12:14,024
+Speaker 1: steps into the spotlight. And knowing
+when to say something with words and when to
+
+146
+00:12:14,104 --> 00:12:19,624
+Speaker 1: say it with sound is a constant
+balancing act, which I am still learning.
+
+147
+00:12:21,544 --> 00:12:26,164
+Speaker 1: And there are times when redundancy
+is annoying. He walked down the hall. You hear
+
+148
+00:12:26,224 --> 00:12:31,344
+Speaker 1: walking sound effects. If you do that
+every time, it will be so annoying. Trust me.
+
+149
+00:12:31,664 --> 00:12:32,124
+Speaker 1: I've done it.
+
+150
+00:12:33,864 --> 00:12:37,704
+Speaker 1: It gets obnoxious, right? There
+becomes a time when the second story, the sound
+
+151
+00:12:37,764 --> 00:12:43,244
+Speaker 1: story, becomes intrusive. It's
+ruining your imagination because it's too much
+sound.
+
+152
+00:12:43,904 --> 00:12:48,924
+Speaker 1: So you want just enough sound to
+indicate what is happening, but not so much that
+
+153
+00:12:48,964 --> 00:12:53,964
+Speaker 1: it's overwhelming. So that is a
+constant challenge, the balance between the
+first
+
+154
+00:12:53,984 --> 00:12:59,064
+Speaker 1: and second story, knowing which one
+has the spotlight. Which one am I focused on?
+
+155
+00:12:59,164 --> 00:13:02,304
+Speaker 1: For the most part, it's the first
+story. But there are times when you need to move
+
+156
+00:13:02,344 --> 00:13:08,224
+Speaker 1: the sound into the spotlight. And
+that's something I'm still learning. But it's
+very
+
+157
+00:13:08,304 --> 00:13:13,744
+Speaker 1: interesting. And it provides really a
+second channel of information that you can't
+
+158
+00:13:13,824 --> 00:13:15,344
+Speaker 1: get from just audiobooks.
+
+159
+00:13:16,944 --> 00:13:20,764
+Speaker 1: So there you have it. I think that's
+all I wanted to say about sound. So there's
+
+160
+00:13:20,844 --> 00:13:25,504
+Speaker 1: sound in layers in review. I approach
+it constructing from the ground up. I start
+
+161
+00:13:25,544 --> 00:13:30,504
+Speaker 1: with the voiceover. I add the
+atmospheres. And then I add the Foley. Then I
+add the
+
+162
+00:13:30,604 --> 00:13:35,324
+Speaker 1: spot effects. And then somewhere in
+there, I do voice modulation for reverb and
+
+163
+00:13:35,424 --> 00:13:40,084
+Speaker 1: other stuff like that. And then the
+other concept we talked about is the two
+
+164
+00:13:40,164 --> 00:13:44,184
+Speaker 1: stories. There's the first story,
+which is the written story, what I sit down and
+
+165
+00:13:44,204 --> 00:13:50,084
+Speaker 1: write. And then there's the second
+story, the story I'm telling with sound. There
+
+166
+00:13:50,124 --> 00:13:53,404
+Speaker 1: you have it. Well, I hope you enjoyed
+that. I hope you enjoyed getting a little bit
+
+167
+00:13:53,444 --> 00:13:58,004
+Speaker 1: of my thought process. I'd love to
+hear your feedback as I improve. Thanks so much
+
+168
+00:13:58,024 --> 00:14:02,484
+Speaker 1: for listening. And you'll hear more
+from me next week with Mortal Steel.

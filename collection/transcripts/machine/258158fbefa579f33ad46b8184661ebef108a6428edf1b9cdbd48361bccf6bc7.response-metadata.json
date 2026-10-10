@@ -1,0 +1,29 @@
+{
+  "http_status": 200,
+  "headers": {
+    "date": "Sat, 10 Oct 2026 18:11:01 GMT",
+    "server": "uvicorn",
+    "Content-Length": "675115",
+    "content-type": "application/json",
+    "transcription-id": "JHQTuO3YGx21LgHVMeEF",
+    "access-control-expose-headers": "current-concurrent-requests, maximum-concurrent-requests, workspace-concurrent-requests, character-cost, fiat-cost-before-overages, fiat-currency, transcription-id",
+    "character-cost": "446",
+    "fiat-cost-before-overages": "0.08109091",
+    "fiat-currency": "usd",
+    "current-concurrent-requests": "6",
+    "workspace-concurrent-requests": "6",
+    "maximum-concurrent-requests": "20",
+    "vary": "Accept-Language, Accept-Encoding",
+    "access-control-allow-origin": "*",
+    "access-control-allow-headers": "*",
+    "access-control-allow-methods": "POST, PATCH, OPTIONS, DELETE, GET, PUT",
+    "access-control-max-age": "600",
+    "Strict-Transport-Security": "max-age=1800;",
+    "x-trace-id": "35314d9e8595602a4954dea3862225f3",
+    "x-region": "us-central1",
+    "Via": "1.1 google",
+    "Alt-Svc": "h3=\":443\"; ma=2592000"
+  },
+  "received_utc": "2026-10-10T18:11:23.616904+00:00",
+  "local_attempt_id": "97f3aa3b-dabe-4955-a9d6-b25562342a55"
+}

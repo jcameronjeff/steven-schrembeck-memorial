@@ -1,0 +1,15 @@
+{
+  "source_path": "youtube/20230303-WX5SHE6mzjQ-The Fix Episode 01.mkv",
+  "automated_flags": [],
+  "flags_are_review_candidates_not_confirmed_errors": true,
+  "raw_word_count": 18441,
+  "spoken_word_count": 9210,
+  "speaker_ids": [
+    "speaker_0"
+  ],
+  "subtitle_cue_count": 747,
+  "first_speech_seconds": 1.24,
+  "last_speech_seconds": 3836.55,
+  "human_correction_status": "uncorrected",
+  "source_offset_seconds": 0.0
+}

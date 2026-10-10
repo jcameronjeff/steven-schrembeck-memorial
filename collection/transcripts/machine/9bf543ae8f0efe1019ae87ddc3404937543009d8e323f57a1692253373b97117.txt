@@ -1,0 +1,347 @@
+Unlocking human and machine consciousness with Steven Schrembeck
+Source: interviews/unlocking-human-and-machine-consciousness-with-steven-schrembeck.mp3
+SHA-256: 9bf543ae8f0efe1019ae87ddc3404937543009d8e323f57a1692253373b97117
+Model: scribe_v2 | Transcribed: 2026-10-10T18:11:57.936128+00:00
+Machine transcript — uncorrected. Speaker labels are local to this recording and do not identify people.
+
+[00:00:00.200] Speaker 1: Welcome back to AI for Founders. I'm your host, Ryan Estis. I am not AI. Today's episode is a deep one. I'm joined by Stephen Schrembach, founder of Impossible Labs and a thinker at the intersection of AI, consciousness, and human meaning. But this isn't just another tech chat. Stephen's an explorer, blending software engineering with over 1,000 hours of meditation practice. We talk about brain-computer interface, sensory substitution, psychedelics, even close encounters with UFOs, my favorite stuff. It's a conversation that challenges assumptions about what's real, what's
+
+[00:00:35.120] Speaker 1: possible, and what it means to be human in a world rapidly reshaped by artificial intelligence. If you're curious about where technology ends and consciousness begins, or even if there's a boundary, then this episode is for you. Let's dive in. But first, some business. This episode is brought to you by Kickcaster, the podcast agency trusted by over 800 founders, executives, and thought leaders. If you're building a brand, raising capital, hiring top talent, or want to share your story, there's no better way than going on podcasts. In Kickcaster, we book you on shows that matter, relevant audiences, thoughtful
+
+[00:01:09.780] Speaker 1: hosts, and conversations that convert. You don't need to cold pitch or chase opportunities. We do it all for you. We've placed clients on over 14,000 podcasts, and we're just getting started. Ready to turn your ideas into influence? Visit kickcaster.com and apply to become a guest today. Let's get your voice out there. That's Kickcaster by Moburst. [singing] AI alive tonight. Shining stars, computer light. AI, take the flight. In the glow of neon bright. All right,
+
+[00:01:44.720] Speaker 1: Stephen, how are you doing? Thanks for coming on the show.
+
+[00:01:49.080] Speaker 2: I'm having a pretty good day, actually. Just finished a run, so feeling pretty mellow. Did a long meditation. Ready to chat.
+
+[00:01:55.540] Speaker 1: Tremendous. And that's really what I want to speak with you to begin. I want to hear about all your projects, but, you know, w- when you became available for an interview, one thing really stood out, and that's this: the intersection of AI and human meaning, meditation research, brain-computer interfaces, and sensory substitution. So because you mentioned meditation, let's start there. What, what kind of meditation or... do you do?
+
+[00:02:22.820] Speaker 2: Um, I... At this point, I have my own spin on it. I don't follow a specific school or methodology, although I like to borrow from them. I do, uh, frankly, I do about an hour of meditation every morning. Uh, I've, I've probably got maybe 1,000 hours under my belt, so I'm not, like, a guru or anything, but for me, it's, like, two different things. It's-
+
+[00:02:42.160] Speaker 1: Okay
+
+[00:02:42.260] Speaker 2: ... this is how I reset myself. This is how I get my brain and body to function. Like, this is... It has a bigger effect than almost anything else I do in life, even than medications, anything like that, besides maybe sleep. And the other is, like, inner space exploration, right? It's that we've got this tool to explore what is reality, right? What is... How do we... How does consciousness interact with, you know, the physical world, and what are the rules? And so you got this tool to probe at, you know, what are the, the rules of experience. And I can't think of a better tool for exploration for, like, meaning and purpose and
+
+[00:03:17.260] Speaker 2: our place in the world, what matters, how it all works. So, I mean, that's the other big thing. That's what it is to me.
+
+[00:03:23.960] Speaker 1: Amazing. Okay. So you've got 1,000 hours under your belt. What brought you to the cushion?
+
+[00:03:31.120] Speaker 2: Well, I started out probably like a lot of people. It's, "Okay, I'll do 10 minutes here, 20 minutes here. I'll guilt trip myself into it. I'll take a couple months off." [laughs] It's a... You know, it was a, it was a thing you should do, you know? Um, and then at some point, I read, um, the autobiography from Michael Singer. I think it's The Surrender Experiment. Then I read his, um, his actual book after that. Um, the name escapes me at this point. Um, it'll come back. The Untethered Soul. Uh, and he talked about just, like, "Oh, I did, like, this two-hour meditation and had this profound, like,
+
+[00:04:05.860] Speaker 2: experience." And I'm like, "What? You can do that just by sitting there?" [laughs] Like, I had no idea that this was even a thing. Very naïve at this point in time. Didn't know anything about, you know, you know, yoga traditions or the yogis or, you know, there's paths to enlightenment or th- different techniques or any of the altered states that are possible without psychedelics or anything, right? No intervention at all. The things you can do with just your own mind and where you put your attention and your concentration is crazy, and I had no idea you could reach these kinds of experiences or, like, insight just by sitting there properly, and
+
+[00:04:40.860] Speaker 2: that's really what brought me in is this fascination. It's the same thing that draws me to technology. It's like, I gotta know. I gotta play with it. I'm curious. I need to know the rules, and can I do some engineering [laughs] with it once I understand how it works? So, yeah, that's, that's what pulled me in.
+
+[00:04:54.140] Speaker 1: Amazing. And then when you're sitting, you said you're pulling from multiple traditions, uh, but nothing in particular. What are you doing when you're, when you're meditating?
+
+[00:05:05.840] Speaker 2: So my basic protocol... Again, I, I... Sometimes it's, oh, I realize I'm angry and stressed out, and most of the session is just, like, resetting to zero, right? That's, that's not exciting. Um, my basic protocol, uh, draws, right, from the Yoga Sutras, right? It's, it's pretty simple. It is a process of letting go, attempting to find a center, and basically whatever you're putting your attention on is not the thing to put your attention on. And it is a process of progressively relaxing and moving your attention almost like a, like a knot. [laughs] You just continue to invert whatever you're looking at. Not without freaking out or
+
+[00:05:40.620] Speaker 2: anything, but it's basically moving from big, overt bodily sensations to, okay, now emotional. Now I'm aware of thoughts. It's a continual separation of, oh, that's not me. That's not me. That's not me, until there's nothing left but the sense of self, and then if you want to, you can try to keep going and have an ego death experience. That's, frankly, not a realistic goal for most sessions. It... I really don't enjoy it. I don't... It's not, like, a fun experience. But there are other... Sometimes I'll pick other targets for meditation depending on what I'm trying to do, but that's my, my go-to.
+
+[00:06:14.516] Speaker 1: Nice. Um, and why not choose a particular path? Why not zazen? Why not, um, you know, a mindfulness-based stress reduction? Why not Dzogchen? Is there, is there, uh, something you're gaining by not committing to a particular dogma?
+
+[00:06:36.196] Speaker 2: I am totally open to being naive, and-
+
+[00:06:38.056] Speaker 1: [laughs]
+
+[00:06:38.336] Speaker 2: ... I, I, probably a lot of these practitioners would be happy to tell me that. I just, something in me just is irked by dogma and authority and tradition, and this is the way it's done. I love to just come in, like, slurp up, "Okay, why does it work that way? How does it function? Let me try it myself." And I try, I wanna try to understand why the existing structures work i- in anything, really. And then I take it, and I leave the rest 'cause I'm completely uninterested in, "Well, we do this because it's the way. This is the next step. You don't get to progress. Now you gotta study these stupid koans for a long time." I don't think I'm gonna do that. I'm gonna follow my
+
+[00:07:13.136] Speaker 2: interest and my intuition, and that's what I'm gonna do. And I end up... I think that it can be detrimental, this mindset in life, because it causes you to, if you're not aware of what you're doing, to waste a bunch of cycles replicating work that other people have already figured out. However, you know, at some point, it's also where everything new comes from, are from people who are interested in defying what already exists, or reassembling or synthesizing from multiple sources. And that's, frankly, myself is interest, is, that's what draws me, is I wanna, I wanna learn it. I wanna do
+
+[00:07:48.156] Speaker 2: it myself, make it my own, or I'll just quit because it's boring.
+
+[00:07:52.916] Speaker 1: What a way. Um, do you mind if I share a little bit of my experience with meditation?
+
+[00:07:57.896] Speaker 2: Please. Yeah, this is a conversation. Let's hear it.
+
+[00:07:59.596] Speaker 1: You bet. So I, I started a- as a kid, you know. I was probably 16, 17, reading the Tao Te Ching, had a couple of books. This is before the internet. So I was doing my thing, and I didn't know if I was doing it right or whatever. And so intermittently-
+
+[00:08:12.616] Speaker 2: You were a hardcore kid. [laughs]
+
+[00:08:15.096] Speaker 1: I thought it was cool, man. I was into, like, you know, Jack Kerouac and stuff. I read The Dharma Bums. I was like, "Dude, I'm a Buddhist now. What's up?" Um, so, you know, uh, and I carried on and, and picked up, you know, little tips here and there. Never really knew what I was doing, but got pretty serious about it maybe, um, uh, 10 years ago. And it's like, nope, you know what? This is my path. And a part of that was looking for a sangha. And so I was like, you know, on one side, I want further instruction for some of these mental techniques, but also, I'm an able-bodied man. And I think there's a community out there that could use a guy with a pickup truck.
+
+[00:08:50.476] Speaker 1: I mean, it's adorable that you go to your religion for something you believe in or something, but ultimately, you just need, like, a competent man or woman.
+
+[00:08:57.556] Speaker 2: [laughs]
+
+[00:08:58.076] Speaker 1: You know? So what I did is I went to all the different-
+
+[00:09:01.616] Speaker 2: Right
+
+[00:09:01.616] Speaker 1: ... um, temples here in Denver and, and Boulder and stuff, and basically, you know, interviewed them. Was like, "Hey, this is what I do. I'm interested in this. What do you think? What do you think I should do?" And every single one of them said, "You should stay here and do this with us." [laughs] And-
+
+[00:09:18.276] Speaker 2: I'll bet
+
+[00:09:18.676] Speaker 1: ... you know. And so, uh, I was kinda lo- leaning towards Shambhala, you know, which has, like, a great, uh, history in, in, uh, Boulder, and o- of course, um, you know, uh, a scandalous one. Well, the, it really blew up, like, right then. Like, the whole Shambhala thing came tumbling down. Lawsuits. I mean, what they were doing in the '60s and '70s were, was pretty awful, and it continued that behavior until present day. So to your point, kinda disillusioned and bitter by the whole thing. Now, what I did a few years ago is, it's still very part, uh, and
+
+[00:09:53.516] Speaker 1: central of who I am, meditating, but also, like, kinda studying these Buddhist traditions in s- in various different ways. So I went on a whole bunch of podcasts. Again, I have this kind of, like, seeker energy. So I went on a bunch of Buddhist podcasts and wanted to talk about bringing contemplative practice to business. And I was roundly rejected by, like-
+
+[00:10:12.836] Speaker 2: [laughs]
+
+[00:10:14.016] Speaker 1: ... a half a dozen. I'd do these interviews, and they'd be like, "You're not Buddhist," or, "You're not Buddhist enough," or, "You're not this or that." And I'm like, "Who are you?" You know? They wouldn't even air the episodes.
+
+[00:10:24.696] Speaker 2: You're talking to the wrong people, man.
+
+[00:10:26.056] Speaker 1: Yeah. Well, I'm talking to a lot of different people. But, you know, I, I, I think there's value to a tradition. Um, y- I'm a martial artist, so I, I, but I'm a mixed martial artist, so I, I like to bring them all together. Um, so anyway, that, that's kind of my experience, and I, I've had, uh, the same thing. It's like, no, you know what? I'm gonna switch from Kundalini to, to Dzogchen techniques to, you know, just simple zazen is probably my favorite, what I do mostly on the cushion, and keep it moving. Now, the American Buddhist tradition, uh, is also very interesting to me, largely
+
+[00:11:00.936] Speaker 1: because it's marred in partying. So I don't think you can, you can, um, extract the, the American contemplative tradition without psychedelics, alcohol, and scandalous sex. And psychedelics in particular because this is, uh, it's non-consensual enlightenment in a way, where it confirms that there's a terrain to traverse, you know? Um, psychedelics aren't as much of an intoxicant as they are kind of a revealing of an inner landscape. And so, you know, at least for me, it
+
+[00:11:35.876] Speaker 1: was instrumental in, like, being like, "Whoa, there's something going on in here." Um, and then of course, you know, you can, you can find some of those states like you were talking about on the cushion, um, without all the fireworks, you know, which can be kinda distracting sometimes. So how about you? What was your experience with, with psychedelics, and, and how does that incorporate in any way to your sitting practice?
+
+[00:11:58.356] Speaker 2: Pretty limited. Um, so pretty much legal forms of, uh, marijuana and psilocybin. Um, so they're all not nearly as strong as the, uh, illicit compounds.
+
+[00:12:11.676] Speaker 1: Depends on where you are. Denver, a lot-
+
+[00:12:13.516] Speaker 2: Can't hear them. Yeah
+
+[00:12:13.896] Speaker 1: ... there, there's a lot legal in Denver
+
+[00:12:16.252] Speaker 2: [laughs] That's true. Um, so but, you know, enough to have a profoundly different experience, all right? We'll put it that way. Um, and but I did it after having done a lot of meditation and found that, to my great surprise, oh, there's nothing really new here. Now, I'm sure this is different if you're, uh, using DMT or something, uh, you're using the, that, what is it? That cactus or flower compound [laughs] out in the middle of a desert. I'm sure that's a different experience entirely. But for the most part, I was shocked to find, oh, this is, like, the same thing.
+
+[00:12:50.712] Speaker 1: Yeah.
+
+[00:12:51.032] Speaker 2: Like, I've been here, right? This is, like, next door. And so I described it to others as like, okay, psychedelics is like strapping yourself to a rocket. You got no choice. You're on the ride.
+
+[00:13:01.212] Speaker 1: Yeah.
+
+[00:13:01.672] Speaker 2: Uh, or you could learn how to fly, and you can go as slow as you want with an airplane. You could just sort of putter around on the runway. You could take off whenever you're ready. You could... You decide you don't like it, you can land again. Uh, it's so it's a useful thing, and probably better most of the time. But sometimes, some people, and I guess on purpose, you need a rocket launch to really, uh, kick yourself out of where you are.
+
+[00:13:23.132] Speaker 1: You get it started, to know that there's a there there. You know, all the, the great-
+
+[00:13:27.272] Speaker 2: Yeah
+
+[00:13:27.492] Speaker 1: ... you know, Jewish Buddhists in, in, uh, America, Jack Kornfield, and, um, what's, uh, Sharon, and all, all these guys and gals.
+
+[00:13:38.612] Speaker 2: All these guys.
+
+[00:13:38.992] Speaker 1: They all came out of the hippie movement, taking acid and being like, "Oh my God, I gotta go to India." You know, Ram Dass, all these guys.
+
+[00:13:45.052] Speaker 2: Ram Dass.
+
+[00:13:45.272] Speaker 1: Um, even the, what's his name? Uh, Timothy Leary. I mean, the, they all started there. Um, but to your point, it is a, a familiar place. And particularly with these contemplative traditions, why I do like studying kind of the, the Buddhist d- doctrines is because they're all about these lists, and they-
+
+[00:14:04.752] Speaker 2: Lists
+
+[00:14:04.912] Speaker 1: ... they love to, like, categorize stuff, but they plot the terrain.
+
+[00:14:08.752] Speaker 2: So much gamification.
+
+[00:14:09.932] Speaker 1: [laughs] Yeah. And y- they have hierarchies, you know, so they have these genre, or genres where you're like, okay, you're level one, you're level two, you're level three, you're level four. Um, and you can start to, like, figure out, like, what lives in these, or what is in these different realms and kind of how to traverse them, you know? Um, so it, it's fascinating. So meditation, y- you're doing an hour a day, which is quite a bit. Um, when do you like to, to do meditation?
+
+[00:14:38.072] Speaker 2: Right.
+
+[00:14:38.232] Speaker 1: And talk a little bit how it influences your life.
+
+[00:14:43.492] Speaker 2: Well, I, I didn't start that way, right? I, I started slowly increasing. But I noticed I was getting to m- more and more insight. It was profoundly affecting me. Like, it, at certain times, like, I was scrambling to this as a way to, to find insight. Like, to... The easiest way of describing it is it allows me to insulate myself from the world and to at least for... There's a half-life to it, but bring to my work, to my family interactions, everything I do to act from as innermost intention as you can have, right? It, I'm
+
+[00:15:18.412] Speaker 2: trying to make sure that the f- first and most important intentions I have for the day or my time, or even in response to things that I didn't expect, are coming from my values or from my, my desires and not what the world has sort of pushed into my field of view. So it has been an, an amazing tool for that. Um, so I found that the more I increased the time, uh, the better effects I got. Uh, and then at some point, just like long-distance running, you know, you, you connect the loop, the reward circuitry, and like, "Oh, this is helping me." And it no longer became a challenge, most of the time, uh, to sit
+
+[00:15:53.412] Speaker 2: down and do that time. I don't do it right as I wake up because I'm too tired, uh, and I'm cranky or, or I don't, I don't... Sort of foggy-headed. I usually do it a little later, uh, 8:00, between 8:00 and 10:00 AM. It's about two hours after waking or three or four hours after waking. Um, but yeah, so that, I mean, that's my schedule, and that's a lot of what it's for. And I, I often will just pick what I'm interested in, and I will pick a technique or a target of focus and just try stuff out. Um, there's definitely more to the story than that, but that's my, that's my schedule.
+
+[00:16:26.492] Speaker 1: I love it. W- and then when you say insights, maybe explain to people what you mean. What are insights in meditation?
+
+[00:16:35.372] Speaker 2: All right. So I mean, at, at risk of sounding like a crazy person, but I'm, I prefer to just be completely honest, and you c- think I'm a fool if you like. Uh, but so I, for a long time, you know, we'll say the first 200, 300 sessions there, I was after, you know, some form of enlightenment. I was after trying to... I wanted the superpower of being able to walk through the world without being bothered by things so that I could act from what I thought was the right thing to do without being so attached to it. That's
+
+[00:17:10.152] Speaker 2: really what I was after. Not to just, like, transcend my body and start glowing and flying around or become, uh, like the Buddha or whatever. I had no interest in, like, leaving life. Uh, I wanted to be better in it, and that still is my goal. Uh, but then I had some very profound experiences. Uh, basically a couple pretty close UFO sightings that totally rocked my world. I'm like, "Holy crap, this isn't just a game." Like, we don't understand the world. Like, I don't know what this was, um, but it wasn't something that human beings made. Um, and I was definitely not
+
+[00:17:45.132] Speaker 2: crazy. Uh, or at least no more crazy than everyone else.
+
+[00:17:48.332] Speaker 1: Pause, pause, pause.
+
+[00:17:48.632] Speaker 2: And I realized-
+
+[00:17:49.992] Speaker 1: Tell me-
+
+[00:17:50.472] Speaker 2: Yep
+
+[00:17:50.612] Speaker 1: ... everything right about this. Tell me, tell me, tell me.
+
+[00:17:53.592] Speaker 2: Really?
+
+[00:17:53.912] Speaker 1: Yes.
+
+[00:17:54.432] Speaker 2: Okay. I, I'll, I'll s- I'll say that the, the punchline, and then we'll come back, is the punchline is that this caused me to get much more serious about the weird parts of meditation and using, exploring inner spaces as a tool for understanding what the heck is going on here. Why are we here? What's going on? Uh, why does... How does the world work? Um, and that- I mean, it totally derailed my, you know, startup intentions. And well, I won't say derailed. It, it shifted everything in my life, right? I- it's... Now I'm incorporating everything. Uh, so the UFO things, I've had three experiences. I
+
+[00:18:29.456] Speaker 2: don't need to go into great detail on some of them. Uh, the first one was just looking out my back window. I see, like, these weird flashing lights. They're just white orbs in the distance going across the skyline. Got a great view from my back window. I can see a very long distance. And they were... It was like a neural network. They were just firing in this sequence. It's very weird. Like, doo, doo, doo, doo, doo. Doo, doo, doo, doo, doo, doo. And they were not in a line. They're just, like, this cloud. It's very strange. Um, the second one, I was going for a run. This is maybe six months to a year after that. Going for a run, I see flying about a quarter of a mile a- behind my house. I was
+
+[00:19:05.236] Speaker 2: deep in a non-dualistic meditation at this point. I was watching a guy running. I'll put it that way. [laughs] And so, and I just see flying about a quarter mile behind myself, house, what looks like a black bean, like a kidney bean shape. I don't know how to... It was this weird matte black with a mother-of-pearl sheen, like a little rainbow sheen all over it. It could've been six feet tall. It's hard to tell 'cause the distance. It was just floating in a straight line. No sound. And not a... It was... I checked later. It was going against the wind by about 15 miles an hour. And that's it. It's just floating. I saw it for about six seconds, and
+
+[00:19:40.116] Speaker 2: that s- that started to rip me right back out of meditation.
+
+[00:19:43.096] Speaker 1: [laughs]
+
+[00:19:43.136] Speaker 2: Began to associate real quick. At first, I'm like, "I knew that would be there." That's the profound sense I had. I knew it would be there. And then I'm like, "Wait a minute. That doesn't make any sense. What, what am I looking at?" And then I started like, "I gotta go get, like, a mo- monocle." And then the third story, in a nutshell, is about four months ago. Me and my wife go for a walk every night, and, uh, we're in the neighborhood, and I just have this profound sense that we're gonna see something, which is, again, very weird. And it's sort of a cloudy night, and we see this white orb coming, and I think it's Venus. I think it's nothing. She's like, "That's not a
+
+[00:20:18.116] Speaker 2: star. That's not a planet. It's coming closer." I'm like, "No, it's not." Sure enough, it starts to come closer and closer, and now it's over the tree line. And I look through my 8X monocle, 'cause I have one now. At this point, it's happened twice, so I'm like, "I gotta start walking around with this thing." And it's a glowing white ball. I look through the 8X monocle. That's it. That's all it is, is a glowing white ball. There's no sound, and it flies over our heads. It goes across the tree line, starts to dis- accelerate. No sound at all. Uh, no other effects. And then it just lets out this plume of, like, white stuff behind it, like a comet,
+
+[00:20:53.696] Speaker 2: and it just... I wa- I stared at it, 'cause she turned around and said, "I gotta go get the kids. I gotta get a camera." And she ran. I knew to keep staring at it. I've read enough stories at this point.
+
+[00:21:02.776] Speaker 1: [laughs]
+
+[00:21:03.116] Speaker 2: Like, uh-uh, I'm watching this thing. Sure enough, as soon as she turns around, it fades out, just like turning the opacity down to zero.
+
+[00:21:09.636] Speaker 1: Wow.
+
+[00:21:09.776] Speaker 2: Like in a transition. It's gone. Phew. It's just gone. And that's it. So those are my experiences.
+
+[00:21:16.236] Speaker 1: Amazing. Do you think the orbs and the kidney bean thing are the same thing?
+
+[00:21:23.076] Speaker 2: Man, I got a lot of theories, but honestly, all I have are, are theories. You know, nobody's knocking on my door. I never got a book in the mail describing how it all works. It seems like... Honestly, it just seems like a prod, just a, like, a little poke from outside of what we think is real, the consensus real- what most people think exists. Just a little prod, just rattle the cage a little bit. Hey.
+
+[00:21:46.196] Speaker 1: Yeah.
+
+[00:21:46.836] Speaker 2: Just enough to get me to take meditation seriously-
+
+[00:21:49.556] Speaker 1: [laughs]
+
+[00:21:50.176] Speaker 2: ... and to, you know, start looking into this. Honestly, that's what it looks like, is somebody from the outside looking at humans going, "You guys are screwed up. Hey," just a little slap.
+
+[00:21:58.996] Speaker 1: Yeah.
+
+[00:21:59.156] Speaker 2: "There's, there's more out there. Go look."
+
+[00:22:00.896] Speaker 1: Yeah.
+
+[00:22:01.176] Speaker 2: That's what I think, honestly.
+
+[00:22:02.576] Speaker 1: Well, and they've been flirting with all kinds of disclosures for years and years and years now. So I mean, it's coming, you know? It, it... And there's really... There's g- uh, just a couple of options. Either they're some kind of interdimensional travel beings, or they're from outside of the Earth in some kind of spacecraft. Or they're unbelievably old, and they've been here for a long time, and they just reemerge. Or they're some kind of drone technology that, that the government has, you know? [laughs] It's like, take your pick.
+
+[00:22:32.076] Speaker 2: Yeah. I'm not ruling out the last one, but I don't think it's that one exclusively-
+
+[00:22:37.276] Speaker 1: Yeah
+
+[00:22:37.276] Speaker 2: ... to be honest with you. Um, they... Uh, people think way too highly of the government. They think that-
+
+[00:22:42.836] Speaker 1: [laughs]
+
+[00:22:43.916] Speaker 2: ... this is... Also, why are you harassing this random guy-
+
+[00:22:46.796] Speaker 1: [laughs]
+
+[00:22:47.116] Speaker 2: ... with, like, weird... What are you using this money for? This is pretty dumb. I think it's pretty obviously, like, some sort of intelligent entities of some kind from another time, from another dimension, from other worlds, from our world, very old. Like, you don't have to violate physics as we know it. I think it's just there are more rules than we realized.
+
+[00:23:06.336] Speaker 1: Yeah.
+
+[00:23:06.796] Speaker 2: Uh, more fundamental rules. And we're naive. We're babies in the universe, you know? Let's be humble.
+
+[00:23:11.216] Speaker 1: I, I agree. I, um, uh, my cousin is, has a, a, he's a doctor of physics and does physics work with, I, I think, like, neon gas or something. Way above my pay grade. But I saw him [laughs] last week. And I was like, "Hey, man, um, do you think the reason that there haven't been dramatic, uh, advancements in physics were, was because after Area 51 crashed, that, like, they black boxed all the physics while they were reverse engineering the UFOs?" And he was like, "What the hell are you talking about?"
+
+[00:23:42.716] Speaker 2: [laughs]
+
+[00:23:44.796] Speaker 1: I was like, "Dude, come on, man, I thought you would know." He, he, he did not. Um, but I, I-
+
+[00:23:50.056] Speaker 2: I wanted the inside scoop.
+
+[00:23:50.936] Speaker 1: [laughs] I love this idea. Um, and to kinda tie it into, like, the meditation, you know. Uh, some people might also say, "Well, Steven, you were in, like, a heightened state. You may have, like, hallucinated the whole thing." Um, because that is also a part of, uh, ascending in jhanas, is, like, you can reach places that, a celestial realm where, you know, the, the Tibetans describe all these amazing monsters and stuff like that. They all put orbs in absolutely everything. I, I'm kind of a student of, um, crystal balls. Because they
+
+[00:24:25.964] Speaker 1: are absolutely everywhere. In fact, I, that's what I use. You can see it back there next to the mirror
+
+[00:24:33.704] Speaker 2: What?
+
+[00:24:34.144] Speaker 1: It's a little crystal ball
+
+[00:24:35.584] Speaker 2: Nice. Yeah, yeah.
+
+[00:24:36.124] Speaker 1: So these orbs-
+
+[00:24:36.864] Speaker 2: Yeah
+
+[00:24:37.184] Speaker 1: ... might have been, like, tipping people off through history. Why are they using them in these contemplative practices? I don't know. Point is, the, the point I'm trying to get to is that, um, consciousness has this terrain that you can explore independently. Now, I, I understand your, your hesitance to talk about it too much. I'd have it too, because this puts you into some kind of woo woo category, and they're like, "All right, man, what are you, what are you gonna do here?"
+
+[00:25:03.564] Speaker 2: I know where the Overton window is, right? I have an awareness of where the Overton window is-
+
+[00:25:07.824] Speaker 1: Yeah
+
+[00:25:08.624] Speaker 2: ... even if I think it's wrong.
+
+[00:25:10.084] Speaker 1: Now, now there is kind of like an emergent, uh, understanding within, we'll just call them atheists, that say like, "No, you know, what, what's happening with human consciousness isn't necessarily li- limited to a substrate," which is to say that it must be bound by flesh. Rather, it, there might be a particle of consciousness. There might be a, a, a, like a gravity type, uh, field of consciousness that once you reach a certain complexity that you can tap into. And so basically what they're doing is taking away like the god and goddess realm, which I don't know if,
+
+[00:25:45.104] Speaker 1: if that's necessary to do that. They take away all the magic, and they're like, "No, the, consciousness is an emergent phenomenon inside the universe." Now, how maybe this trans- translates to the subject of this podcast is, you know, if consciousness is not limited by substrate and in fact is just an emergent, um, factor of the universe, do you think that, like, we'll be able to create an AGI that can tap into that, become self-aware?
+
+[00:26:16.444] Speaker 2: That's a profound question. I guess my answer to these camps is yes, and don't be so quick to assume that either view is right or either view is wrong. Um, my take is I, at this point in time, I don't know. But I'm trying to find out. That is my take. Like, I have hunches, I have ideas, but I hold them all loosely or as loosely as I can, but I have to have some beliefs in order to progress and test things. But I've a position of complete humility. I believe that there is a lot to learn from what has existed and what people have already studied, and it would be silly to throw away
+
+[00:26:51.184] Speaker 2: thousands of years of knowledge and practice. Uh, it's an amazing starting point. At the same time, I also think that we should be open to it being weirder than we think. Uh, it's premature to start closing off too many things when really we've only just started exploring with new tools of science, technology, and engineering and bringing those to bear, and to some degree logic and mathematics and physics, and bringing those tools to bear as well, and they are equally valid. Um, and I'm not interested in anyone who thinks we should throw away any of these tools. Now, that said, uh, using
+
+[00:27:25.964] Speaker 2: AGI, well, I think we need to learn a lot more about consciousness, uh, especially as it im- im- applies to the ethics of artificial intelligence. If we are running these things in a box at a million times the cycle rate of your brain, what are we doing to them? Enough people have seen, seen Black Mirror at this point to understand the implications that we should be careful because we don't know what's conscious. We don't know what is in there experiencing things. And for that reason alone, can it be done? Maybe. We need to understand the interface of how human consciousness
+
+[00:28:00.744] Speaker 2: interfaces with the material world. Uh, are they separate? How are they separate? How are they connected? What are the rules? Why are they connected this way? Uh, why is it limited to these perspectives? We need to understand how it works, and then from there we can begin to look at, we can begin to, just like a folk crash or any found piece of technology, the human brain and body is a found piece of technology really. We can, just like we've done with AI up until this point, we begin to re- reverse engineer the consciousness connection to the body and understand why it is we experience what we experience and
+
+[00:28:35.684] Speaker 2: how attention and all these things correlate. And being open to very different rules of reality than we thought existed, then we can start engineering with it. But I think it's premature to engineer when we don't even have the science. The science comes first, and I don't mean you have to have an academic paper and a lab and do these things. Doing personal exploration is valid science. Uh, there's lots of different kinds of evidence. Um, but you need to have some basis, some priors in order to begin engineering, and that's really what I think we need to understand. What are the ground rules of the game? Let's start testing stuff and taking it seriously.
+
+[00:29:10.824] Speaker 2: So that is my point. I think it could be possible, um, but we just, I at least, I don't have a high confidence that we know enough of the rules with enough confidence to begin engineering something reliable-
+
+[00:29:23.124] Speaker 1: Yeah
+
+[00:29:23.284] Speaker 2: ... or even understanding what it's doing.
+
+[00:29:25.724] Speaker 1: Just a wild guess. Let's say AGI becomes, uh, aware and it has a subjective experience of being itself. What's the expression of that? Is it a giggle? Is it a moan? Is it a scream? Is it a poem?
+
+[00:29:39.724] Speaker 2: [laughs] I think it depends on what it's aware of. Where is the threshold between awareness and function? You don't spend a whole lot of time thinking about how to digest your food, and yet it's a critical and a lot of energy goes into it. There's a lot of, lot of cells in your body are doing it, and they do belong to you. So where is the divide? Where it, where does it put its attention versus where can it put its attention? And I think that is what will shape its experience, and its experience will shape what it feels. Uh, if I had to take a guess, if
+
+[00:30:14.544] Speaker 2: we're using an LLM-based architecture, which I think is a part of the, um, at least the first major portions of AGI, but is only one major part. It's not the whole thing. We're not, not there yet. We're close, but it's not LLMs alone. I think that just looking at LLMs, you can, you can ask them about their experience now. And if you're clever about it, you can begin to understand what it's experiencing just by looking through how the architecture works. It It would, I would have to guess it's a lot like being a sort of
+
+[00:30:49.548] Speaker 2: my- mycelial network, like a, or a tree root network of a lot of different organisms, but in fast-forward and all at the same time from one perspective. Like, it's all one solid thing rather than multiple things. I think that that is what it would be, the closest experience. Now, what is that like? Tell me.
+
+[00:31:08.268] Speaker 1: I know. Wild. Okay. We're coming up on time. Uh, you got maybe five more minutes. We can do the lightning round.
+
+[00:31:16.668] Speaker 2: Yeah, sure. Absolutely.
+
+[00:31:17.628] Speaker 1: [laughs] Um, if you were just entering, uh, college today as a freshman, what would you study?
+
+[00:31:25.628] Speaker 2: Uh, I would study something that gives me a well-paying job, uh, and an attention span. Um, and I would re- [laughs] I would study, uh, the other smart people in my college because that's the biggest asset you're gonna get out of college is relationship, relationships. What you're studying is pointless.
+
+[00:31:45.688] Speaker 1: What do you see as a well-paying job right now?
+
+[00:31:49.948] Speaker 2: Okay, right now, [laughs] it's going to change. Um, well, right now, you could- should continue to ride the AI hype wave, uh, specifically on the engineering and application side. Um, knowing how to do things is key. It's going to be exceptionally hard to get a entry-level job at any technology position at this point in time. Uh, but hard is not the same as impossible. You need to differentiate yourself. Um, so technology and engineering is the right place to go. If I'm giving a longer timeframe, 10 to 15, 20 years, it is in... If you, if you just want a good job, it's in physical engineering. Uh, we have a massive
+
+[00:32:24.868] Speaker 2: deficit in knowing how to build actual physical things that do stuff, run electricity and turn stuff and function. Um, we have a lot of people who know how to sit at a desk and move spreadsheets around. That's not the kind of engineering we need. We need people who know how to do things, so be useful and you'll be fine.
+
+[00:32:42.908] Speaker 1: Love it. Let's say a big bag fell out of a UAP and it's got a billion dollars in it. You can do whatever you want. What do you do?
+
+[00:32:53.088] Speaker 2: Uh, I'm going to just scale up what I'm already doing. I'm living a small version of that, right? It's, you know, maybe contracts and day job or whatever, however I'm choosing to earn my money at that time. Like, that takes a bit of a backseat for whatever. Um, but it's improving a think tank. I really want to test the boundaries of consciousness. I want to begin, like I said, engineering with things that appear to be real that people didn't think were real. Uh, there's, there's a whole swath of those things. We don't have time to get into all of them, but I want to use technology again to improve
+
+[00:33:28.028] Speaker 2: people's lives. We need an optimistic vision of the world, and we've lost that. Technology's been something we've come to fear and hate and control us, but we can use it to, as a positive lever too. So whatever I do, it would be just magnifying technology as a optimistic lever for humanity again.
+
+[00:33:46.228] Speaker 1: Beautiful. What are your favorite AI tools right now?
+
+[00:33:51.488] Speaker 2: Frankly, um, I either make my own, um, or I just use stock GPT, s- Cha- ChatGPT. To, often I'll use it in the playground, uh, because I can replay messages and I can see the inner thoughts and all that, and it's a lot easier. Um, but, or just using something simple and constructing a bunch of, um, change prompts. Um, that is, in terms of LLMs, that's what I'm doing. Um, but it's because I've found that many of the agentic stuff, many of the composite tools that people have put together are just crap. If you know how to do something, it gets in your way, and I've found
+
+[00:34:26.248] Speaker 2: that it's best at things you don't know how to do, uh, if you're just interfacing with it. Um, and so I still use it for that, but I can just use a chat window for that. So it's just worse at doing the things I already know how to do. Uh, so typically, I will build tools, uh, on my own and, or as a product, [laughs] and so I make my own, uh, frankly. I know it's sort of a lame answer, but that's, that's the truth.
+
+[00:34:52.828] Speaker 1: Love it. Um, is there something you know now that you wish you knew earlier?
+
+[00:35:00.688] Speaker 2: S- Anything at all?
+
+[00:35:02.048] Speaker 1: Anything. [laughs] Kind of an obnoxious question, but you know.
+
+[00:35:05.328] Speaker 2: Yeah. [laughs] Yeah, yeah, I'll take the core insight that got me to start Impossible Labs and making software, which is stop relying on willpower, right, to, to do things.
+
+[00:35:17.868] Speaker 1: Yeah.
+
+[00:35:17.988] Speaker 2: Um, and so originally I started out making software for, you know, just the brain and motivation and controlling attention. I realized that whether using software or anything else, that playing the blame game wasn't working in life and that once I had turned to sort of an antifragile mentality and learning how to use rules and systems, some of them software, not all of them, stop relying on expecting yourself to do the right thing and adding systems and figuring out root problems and stop relying on willpower and effort to get things done, my life got so much easier and better and more carefree,
+
+[00:35:53.348] Speaker 2: and I, you know, paradoxically got a lot more done. And I stopped forcing it so much. So I'd say that is, that is the one key lesson over the last five to 10 years. If I could only keep one, it would be that one.
+
+[00:36:04.688] Speaker 1: I'm picking that one up and putting it in my pocket. I needed to hear that. Um, if you could live in any historical era ever except the future, which would it be?
+
+[00:36:14.508] Speaker 2: Uh, [laughs] I don't want to give the cop-out answer, but it's basically now.
+
+[00:36:18.708] Speaker 1: Now. Yeah.
+
+[00:36:19.408] Speaker 2: Like, I... Okay, you want me to pick one?
+
+[00:36:22.228] Speaker 1: Pick one.
+
+[00:36:24.548] Speaker 2: Okay, I would pick, um, probably the time about 12,000 years ago. I really want to know what these ancient civilizations were like. Um, so I'd say the height of technology before massive cataclysms for humankind. Uh, I would love to see how good they were at stonework or whatever the heck they were up to, like, that we've totally forgotten. I'd love to see it.
+
+[00:36:45.788] Speaker 1: Me too. Amazing. Where can people connect with you online?
+
+[00:36:50.668] Speaker 2: I have a website called impossiblelaboratories.com. Um, you can see, like, all the information there. I occasionally release, like, blog posts and podcasts just talking about all the crazy stuff I'm building and coming up with. Uh, some of it [laughs] has market potential. Most of it doesn't, and I'm just exploring, and I'm honest about that.
+
+[00:37:09.128] Speaker 1: Steven, this has been awesome. Thank you so much for the conversation.
+
+[00:37:13.588] Speaker 2: Absolutely. Thank you. [upbeat music]
+
+[00:37:16.288] Speaker 1: Hey, founders. Let me ask you this. Are you building with AI or getting left behind by it? If you're serious about scaling smarter, faster, and bolder, you need to check out aiforfounders.co. It's your go-to resource for cutting through the noise and actually using AI to grow your startup. Each week, AI for Founders drops a sharp, no-fluff newsletter, dives deep with expert guests on the podcast, and hosts monthly workshops where you can get your hands dirty with the real tools and strategies. Whether you're
+
+[00:37:50.768] Speaker 1: pre-seed or Series B and beyond, launching something new or just staying sharp, AI for Founders gives you the edge you need to win in 2025 and beyond. Hit aiforfounders.co to subscribe to the newsletter, tune into the podcast, and grab your spot in the next workshop, and it's all free. Build smarter, move faster, think bolder with AI for Founders. Now back to the show.

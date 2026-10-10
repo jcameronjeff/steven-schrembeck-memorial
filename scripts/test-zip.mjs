@@ -1,0 +1,2 @@
+import fs from 'node:fs';import {zipStream} from '../hosting/zip-stream.mjs';
+const text=new TextEncoder().encode('hello');const f=[{path:'hello.txt',size:5,crc32:0x3610a686}];const z=zipStream(f,async()=>new ReadableStream({start(c){c.enqueue(text);c.close();}}));let bytes=new Uint8Array(await new Response(z.stream).arrayBuffer());if(bytes.length!==z.length)throw Error('length mismatch');fs.writeFileSync(new URL('../qa/zip-fixture.zip',import.meta.url),bytes);console.log('ZIP stream length verified',z.length);

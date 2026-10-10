@@ -1,0 +1,7 @@
+This Is A Problem That All Of Humanity Has
+Source: youtube/20230324-NIkBID7yMu0-This Is A Problem That All Of Humanity Has.mkv
+SHA-256: c2c24f1517595cbe73309429fa18af09d0bf1aae2e64235c13fdf3fd012d08c9
+Model: scribe_v2 | Transcribed: 2026-10-10T18:21:01.281581+00:00
+Machine transcript — uncorrected. Speaker labels are local to this recording and do not identify people.
+
+[00:00:01.360] Speaker 1: This is Seeking Minima. of the dopamine stimulation ladder all on their own. Now, those of us with ADHD will tend to rise higher, faster, and that is a separate conversation. But this is a problem that all of humanity has.

@@ -1,0 +1,54 @@
+{
+  "status": "not_started_credentials_required",
+  "pilot_review_passed": true,
+  "pilots": [
+    {
+      "category": "two-speaker conversation (initially selected as solo; corrected after pilot)",
+      "source_path": "reality/002-1-reality-101.mp3"
+    },
+    {
+      "category": "interview",
+      "source_path": "interviews/107-unraveling-the-future-of-ai-the-developer-s-perspective-with-steven-schrembeck.mp3"
+    },
+    {
+      "category": "audio fiction; verify music in pilot",
+      "source_path": "collected/018-mortal-steel-episode-1.mp3"
+    },
+    {
+      "category": "solo speech",
+      "source_path": "collected/034-developer-commentary-1.mp3"
+    }
+  ],
+  "request_parameters": {
+    "model_id": "scribe_v2",
+    "timestamps_granularity": "word",
+    "diarize": true,
+    "tag_audio_events": true,
+    "no_verbatim": false
+  },
+  "maximum_parallel_requests": 2,
+  "account_limits_verified": false,
+  "budget_usd": 15,
+  "base_rate_usd_per_hour": 0.22,
+  "review_requirements": [
+    "Inspect beginning, middle and end against source audio.",
+    "Check omissions, neutral speaker labels, timestamp validity and transcription errors.",
+    "Record review flags separately; retain untouched responses.",
+    "Verify video timeline offsets using saved stream/format start times."
+  ],
+  "resume_requirements": [
+    "Check account subscription and usage before any paid request.",
+    "Use an exclusive process lock and atomically persist budget reservation and submitting status before POST.",
+    "Save raw response bytes and request ID before converting formats.",
+    "Never automatically resubmit a request with unknown outcome; reconcile account history first.",
+    "Skip completed jobs and associate every source with its result.",
+    "Do not scale beyond pilots until pilot review passes."
+  ],
+  "pilot_review_type": "Machine-assisted inspection plus independent local Whisper small.en crosschecks; not a human listening review",
+  "review_date_utc": "2026-10-10T18:04:51.654245+00:00",
+  "known_issues": [
+    "Reality 101 self-introduction has Stephen Schrimbeck rather than verified catalog spelling Steven Schrembeck; raw text retained.",
+    "Mortal Steel Episode 1 opening word Mortal spans 9.08–49.64 seconds in Scribe. Independent local recognizer places it about 49.08–49.74 seconds. Raw timing retained and flagged.",
+    "Speaker labels are provisional; dramatic voices and speaker changes may be merged or split."
+  ]
+}

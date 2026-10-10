@@ -1,0 +1,45 @@
+{
+  "source_path": "collected/013-mortal-steel-episode-5.mp3",
+  "automated_flags": [
+    {
+      "kind": "low_word_logprob",
+      "word_index": 1699,
+      "start": 410.208,
+      "end": 410.308,
+      "text": " ",
+      "logprob": -1.1319191455841064
+    },
+    {
+      "kind": "low_word_logprob",
+      "word_index": 2981,
+      "start": 686.548,
+      "end": 686.608,
+      "text": " ",
+      "logprob": -1.5565499067306519
+    },
+    {
+      "kind": "speech_gap_over_20s",
+      "start": 1496.896,
+      "end": 1537.116,
+      "note": "May be music, silence or an omission; review audio."
+    },
+    {
+      "kind": "leading_no_speech",
+      "start": 0,
+      "end": 53.92
+    }
+  ],
+  "flags_are_review_candidates_not_confirmed_errors": true,
+  "raw_word_count": 7110,
+  "spoken_word_count": 3539,
+  "speaker_ids": [
+    "speaker_0",
+    "speaker_1",
+    "speaker_2"
+  ],
+  "subtitle_cue_count": 324,
+  "first_speech_seconds": 53.92,
+  "last_speech_seconds": 1678.496,
+  "human_correction_status": "uncorrected",
+  "source_offset_seconds": 0
+}

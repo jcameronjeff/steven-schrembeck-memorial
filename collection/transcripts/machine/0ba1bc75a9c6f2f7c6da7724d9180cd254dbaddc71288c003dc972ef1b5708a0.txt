@@ -1,0 +1,745 @@
+Beyond Logic: Steven Schrembeck on Mind Sight, Soul Families, and the Edges of Consciousness
+Source: interviews/beyond-logic-steven-schrembeck-on-mind-sight-soul-families-and-the-edges-of-consciousness.mp3
+SHA-256: 0ba1bc75a9c6f2f7c6da7724d9180cd254dbaddc71288c003dc972ef1b5708a0
+Model: scribe_v2 | Transcribed: 2026-10-10T18:14:44.669500+00:00
+Machine transcript — uncorrected. Speaker labels are local to this recording and do not identify people.
+
+[00:00:00.060] Speaker 1: [gentle music] Welcome to the circle. This is Ruptures and Roots, and I'm your fellow traveler, Joshua Swenson. This is a space for deep listening and the sharing of stories of rupture and transformation in unprecedented times, and a life that roots into the cracks. Sitting in the circle with me today is Steven Schrembeck. I first met Steven through a class I joined last fall called Techniques of Transcendence. I was immediately struck by his curiosity and tenacity in exploring the edges of consciousness. I've loved
+
+[00:00:35.080] Speaker 1: hearing Steven reflect on his encounters with anomalous phenomena and the ways he's learned to listen to and work with psychic and intuitive capacities. Steven is a lifelong tinkerer with interests ranging from sensory substitution to societal incentives. By trade, he's a software engineer, and by avocation, a writer and explorer of meaning. He's the author of horror short stories and fantasy novels, and he also writes nonfiction on intuition, consciousness, extrasensory abilities, and how we make sense of the unknown at differentcompass.ink. In this
+
+[00:01:09.980] Speaker 1: conversation, we sit together in curiosity, exploring rupture, perception, and what happens when our understanding of reality begins to stretch beyond its familiar bounds. Welcome to the circle today, Steven. I'm honored to be holding space for your story. Is there anything more you'd like to say or share by way of introduction?
+
+[00:01:28.680] Speaker 2: You said it way better than I would say it myself, so I better not.
+
+[00:01:33.180] Speaker 1: All right. Well, before we open the space for your story, um, I always like to check in, if you'd like to share, uh, what's alive for you today, what's on your heart and mind, how you're arriving in the space.
+
+[00:01:45.640] Speaker 2: Uh, I arrived poring through some old journals about what's happened to me over the past few years, and I knew that it was time to record with you 'cause I heard a really high-pitched sound and felt that sort of pressure in my head and went, "Oh, cool. Guess it's time to go record." Sure enough, I look up like, "All right. Who needs an alarm?" Uh, so that's how I'm arriving. [chuckles]
+
+[00:02:07.580] Speaker 1: [chuckles]
+
+[00:02:07.960] Speaker 2: How are you?
+
+[00:02:09.080] Speaker 1: I've similarly been noticing high-pitched noises. It's not quite the same, like, intensity as tinnitus, right? But it's like it comes and goes at, like, unique moments. I think we were-- I was, like, reading a text you sent once about it coming up for you at one point, and as I was reading the text, that ringing came in my own ears. Um-
+
+[00:02:31.180] Speaker 2: So sorry.
+
+[00:02:32.840] Speaker 1: No, it's interesting. It's like a-- feels to me like a signal of synchronicity. So thank you for sharing, and thank you for arriving today.
+
+[00:02:38.520] Speaker 2: Let's see how many listeners get it at the-
+
+[00:02:40.280] Speaker 1: Yeah
+
+[00:02:40.380] Speaker 2: ... at that exact same time right now. [chuckles]
+
+[00:02:43.720] Speaker 1: I'm arriving today with, um, a feeling of accomplishment. Um, I've been working on a trailer for the television series I've been working on called The Lost Years, which is about the forgotten years of Jesus' journey, uh, as he travels through mys-mystery school initiations. And, um, so I've been kind of deep diving on AI filmmaking and, um, put together a pretty badass trailer I'm really excited about with some cool music and images. And, um, yeah, feeling really accomplished and also just really excited about this conversation and,
+
+[00:03:19.460] Speaker 1: yeah, hearing more about your story. So that's what I'm arriving with today. I'd like to invite us both to take a breath before we begin. And whenever you're ready, what was life like before the rupture or wherever it feels right to begin?
+
+[00:03:39.160] Speaker 2: I think I would like to preface this with how hilarious and ironic it is that I would be describing, uh, my life before and after a rupture, as we'll get into any sort of supernatural occurrence or [chuckles] mystical experience. You, you'd have to know me that, you know, like every child, I had magical thinking, but at a pretty young age, I don't know, nine, 10, start to figure out, "Oh, that's not cool." And from that, more likely, you know, others will judge me or, "Oh, this isn't
+
+[00:04:14.200] Speaker 2: real. I, I gotta shut that down." And I think I did that very successfully. But I never stopped liking stories and fantastical worlds. Uh, that's not unique among humans, but, you know, I would-- In high school, I started writing creative fiction. Uh, I loved humor, absurdist humor, fantasy, uh, and then eventually I would get into horror. That was an escape, and so was reading, and, uh, I never stopped, like, loving fictional magical worlds, but I think I needed a world that made sense to me. I became logical. Uh, I
+
+[00:04:49.120] Speaker 2: liked things that made sense. A lot of this would end up being coping mechanisms for, uh, ADHD, uh, various other acronyms that are useful blueprints, and I wouldn't find that out until much later in life. But nonetheless, it affected my social life, and it helped me to see the world in terms of systems and functions and things that happen because of reasons, uh, in ways that can be predicted and modeled. You know, 12-year-old Steven wasn't using those words, but, you know, at the same time, you know, we're clever. We find ways around our problems. Why am I hyperactive? Why do
+
+[00:05:24.160] Speaker 2: I just blurt things out without saying things? Why can't I sit here? Why am I so slow on these tests? We find ways around all those things, whether we realize it or not. And so I had evolved into a person that was fascinated with the natural world, was also fascinated with very separate [chuckles] fictional worlds, some of which I was creating. I loved science. Uh, I went to, uh, college to become a software developer. I never thought I would get into that college. I never thought I would be a software developer. Uh, I didn't think I was smart enough. Uh, most of my life I didn't think I was
+
+[00:05:59.020] Speaker 2: smart enough, which was counter to what I was told.[chuckles] Which was very difficult for me. Um, what I hadn't realized until much later on is that I had some basic learning disabilities and that I was actually very slow at thinking. Had my thought process measured, and I'm well below average in terms of how slow I think. But I've got a pretty good verbal intelligence, so I can just kinda make stuff up until eventually my brain catches up. But it explained why I felt like I understood things, but I struggled so much. And in a school setting that was very rigorous and had timed things,
+
+[00:06:34.616] Speaker 2: um, I was just slow, and I, I mistook being slow for being dumb. Uh, but that wouldn't hit me until later. All that to say is that, you know, I'm a person who is very orderly and logical, and, um, I've just straight up made fun of anything I didn't understand that I felt was well outside the realm of materialism, even when I didn't use those words. Uh, reason. I felt that everything could be explained. If you could put the whole physical universe, uh, you can know the state of everything, and you had just enough understanding of how it all
+
+[00:07:09.496] Speaker 2: worked, you could predict everything forever, right? I, I had that belief, uh, as recent as six years ago, maybe five years ago. [chuckles] So all of the important context, that's who I was. Later in my adult life, I would, uh, come to call myself an atheist, uh, and it felt right. I never liked religion. Uh, I still don't. I don't dislike people who are religious, but it does not feel right for me. Uh, I didn't like dogma. I never liked being told what to do or what to think or what I couldn't ask. Um, that bothered me a lot. I always liked
+
+[00:07:44.256] Speaker 2: questions. Um, and I've always had an accountability to truth, which, you know, led me to questioning religion and a lo- a lot of things. I became vegan. I've-- We parent our children in pretty unusual ways.
+
+[00:07:57.896] Speaker 1: Mm-hmm.
+
+[00:07:58.176] Speaker 2: Uh, we've-- you know, we don't go to a traditional schooling system. [chuckles] We do a lot of things that are not normal and weren't easy to make those choices, but it felt right. Uh, so that's what life was like before a rupture for me. I had systems, I had rules, I thought in structure. I had a spreadsheet that I reviewed every morning of here's who I wanna be, here's how I work. I had a whole life that was architected to keep me together and keep everything working. I got pretty good at it. [chuckles] I got pretty good at it, but it was still so much work, um, just to be happy.
+
+[00:08:33.476] Speaker 2: Um, I mean, I can pause there, uh, but that, you know, that leads me into, I guess, um, the beginning of change.
+
+[00:08:41.336] Speaker 1: I resonate a lot with what you've shared, and, um, I really relate to that escape into fantasy. I remember I didn't feel in my skin or comfortable with my relatives, and anytime we would go to visit them, I would just, like, read "Animorphs" and fantasy novels and things like that, and I would always get in trouble for just, like, wanting to stay in the room and read, you know? But it felt safer for me. A- and I guess I also-- you know, the way you framed it was, like, this imaginal realm that children are
+
+[00:09:16.256] Speaker 1: more in touch with. Imaginary friends, you know, we think of them as not real. For children inhabiting that space, it is real. Like, their imagination is so much more active. They're just, like, constantly role-playing and playing and pretending. But we think of it as pretending, right? But they are really in that world. And at some point, that begins to be shut down by all the voices around us and, you know, society telling us, "You need to grow up. You need to be serious." Kids are just, like, in this realm that are more in touch with this, um,
+
+[00:09:51.476] Speaker 1: maybe, like, the ground of reality, like consciousness, um.
+
+[00:09:55.976] Speaker 2: Sure. Um, well, I think we'll come back to the, the kid thing, uh, later 'cause, um, I think this is a common belief that especially in, like, spiritual circles or a lot of these, like, extrasensory perception circles, there's a belief that, like, children are, are better. There's this weird diminishment of adults and older people, which I'm happy to say is not true. Uh, it's not fundamental, right? It's-
+
+[00:10:25.416] Speaker 1: Yeah
+
+[00:10:25.476] Speaker 2: ... correlated, uh, but not causative. I didn't get rid of statistics and logical thinking. I've just, uh, incorporated it now into a bigger worldview. Um, so-
+
+[00:10:35.856] Speaker 1: We could take a, we could take a minute on that if you wanna go deeper on that. You know, that's a really good point.
+
+[00:10:40.476] Speaker 2: Um, sure. Uh, one of the ways I know this is true is that children just take the world as it is. They're extremely malleable, but they're also sponges, right?
+
+[00:10:51.356] Speaker 1: Mm-hmm.
+
+[00:10:51.576] Speaker 2: We, we need our world models to function in the world.
+
+[00:10:54.396] Speaker 1: Mm-hmm.
+
+[00:10:54.656] Speaker 2: The ch- the world could not be run by children. It would fall apart.
+
+[00:10:57.536] Speaker 1: Mm-hmm.
+
+[00:10:57.596] Speaker 2: It wouldn't work. We need adult selves, and I think the real goal is to have the capacity to shift in and out of being childlike when it's appropriate, and that should be the real goal, is to adult and wear pants and do taxes when you have to, but then also be able to dance and not care and have fun and see the world as it is. And, um, this can be shown. Um, there are a number of psi abilities, so extrasensory abilities that we'll get into, that people thought only kids could do. And in fact, the only instructors, which there weren't very many, would only teach children because they just straight up thought adults
+
+[00:11:32.496] Speaker 2: couldn't do it. And I'm happy to report that is absolutely not the case.
+
+[00:11:36.576] Speaker 1: Mm-hmm.
+
+[00:11:36.836] Speaker 2: And there is no real difference between the performance in, between children and adults, especially when you don't tell the adults that kids are better at it and that adults are bad at it.
+
+[00:11:47.516] Speaker 1: Mm-hmm.
+
+[00:11:47.536] Speaker 2: If you leave all that out and just tell them they can do it, they get basically the same performance, which I thought is very inspiring. It has nothing to do with being a child or not. It's just that, yeah, they don't have as much baggage. [chuckles] That's for sure.
+
+[00:12:01.276] Speaker 1: There's a phrase that came to mind. Uh, I think this is from Ken Wilber, the post trans fallacy. It's a jargony phrase, but it's essentially saying that like children are in this flow state, you know, everything really expression- expressional, [chuckles] very expressive, there we go.
+
+[00:12:20.664] Speaker 2: Mm-hmm.
+
+[00:12:21.224] Speaker 1: But they are not enlightened. You know, you have to go through that journey of losing touch with that state, going through this process of, um, self-identification in order to transcend the ego, right?
+
+[00:12:35.604] Speaker 2: Um, I mean, they also hit people who take their toys and pee themselves.
+
+[00:12:38.624] Speaker 1: [chuckles] I know. Yeah. I have two young ones also.
+
+[00:12:40.604] Speaker 2: There's, there's downsides to being a child, you know? [both laughing]
+
+[00:12:44.844] Speaker 1: I think just in this context of, like, being in touch with the imaginal that, you know, I was witnessing in your story, you know, and that I resonate with. In our culture, there's this, like, idea that that is not as valid as, like, the logical way of being. That's kind of like, oh, you forget that and, like, you grow up and you become a serious, focused, rational adult. [chuckles] In a lot of circles, that's kind of like what, what it means to grow up and mature in our society.
+
+[00:13:14.184] Speaker 2: Well, I think the maturation extends from there. I do think it's mostly true. Gotta learn how to do that.
+
+[00:13:21.924] Speaker 1: Yeah.
+
+[00:13:22.044] Speaker 2: And that parallels this arc perfectly. Okay, so towards rupture, there isn't a single break. I've broken a bunch of times over and over again, and there's a few that stand out, and we'll get to those. A lot of things happened to me that I can't explain. They, they happen with increasing frequency and magnitude, and we'll get into some of those. But it all started, uh, I'd say two thousand twenty-two, maybe '21, is when I started getting very serious about meditation and being happy, right? I wrote down here that
+
+[00:13:57.224] Speaker 2: I was very reactive, hurried. I felt like I was n- never doing enough. I was very controlling, um, and I, I control... The way I maintained stability was through systems and control, and it was very-- It was oppressive, right? It was a system that had to be maintained of self, emotional control, relations, everything, right? And if I fail, like it falls apart. I- [chuckles] So it's difficult. I got very good at understanding the mind and motivation,
+
+[00:14:32.084] Speaker 2: emotions in humans, but you can only understand something so much by taking it apart into pieces and building tools and systems. At some point, you reach a limit, was I was effective, but I was unhappy, or it was difficult to maintain it, and I hated it, and I wanted a way to be happy. Like, just by default, I wanted to not have to try so hard all the time, and that led me to, as with many people, uh, to schools of Eastern thought, um, and I started to get very serious about meditation. And that is when I started setting a
+
+[00:15:07.124] Speaker 2: daily habit of twice a day for thirty minutes, which would eventually turn into, uh, an hour, and then now it's closer to two hours, uh, a day of meditation. But I've kept it up since then. I don't-- In terms of recorded meditations, I'm near six hundred, but many of them never got written down. And that is when things started to change. Uh, so I started doing those meditations, and I had tried with, like many people, to do it as a prescriptive thing. "Oh, it's de-stress. Let's, uh..." [chuckles] Uh, this is like a thing I have to do, like exercise. And now it was beginning to be
+
+[00:15:41.904] Speaker 2: about self-exploration. And I think what really kicked it off was the book, "The Untethered Soul," just, just an incredible piece of work. If you could only read one book, oh, that's a good one. I realized, oh, wait a minute, you can use meditation for more than just feeling better? Like, and it's more than just meditation, right? You carry these practices throughout your life. It's a way of seeing the world. And, um, so I start doing it like, "Oh, you can do inner exploration." [chuckles] What does that even mean? And so I- I'm like, "I want that experience." I thought you could only get this with drugs. Um, and so I start doing it,
+
+[00:16:17.084] Speaker 2: and I start to have fascinating experiences, which are mostly like, you know, a sense of floating or zooming or conscious-- shifts in consciousness. Nothing extraordinary, something that anyone could get with thirty minutes of serious meditation. But now I've brought a sense of intention to this, and that has changed everything. And I want more of it. [chuckles] Right. Like, I don't just, like, feel de-stressed. Like, I feel like a different person. Like, my second half of my day now is like, I'm less reactive. Like, I feel more free. I don't feel like I have to do things in the same way. I feel like
+
+[00:16:52.204] Speaker 2: stuff is just coming to me easier, and this becomes pretty good motivation [chuckles] to keep exploring. I'll pause there if you have any questions, but that's really what kicks it off.
+
+[00:17:03.344] Speaker 1: Hmm. I relate to that. A shift in meditation, um, I've been meditating for about twenty years now, but for the first, like, thirteen, fourteen years of that time, you know, it was really like this focus training. When you're breathing, if you had noticed a thought, come back to your breath. Like, don't, don't think, just be present, like pushing away emotion, pushing away thought. And for me, there was a big shift when I began to kind of become more present with my body and my emotions and grief especially. And then meditation became, I'm just gonna be
+
+[00:17:38.324] Speaker 1: present and sit with what's here and feel deeply into my body, and there's just, like, so much that opens up. Um, but yeah, really interesting to hear the difference. I've never heard of "Untethered Soul," so I'm, I'm always, like, interested in new book recommendations too.
+
+[00:17:53.444] Speaker 2: Yeah, it's very practical.
+
+[00:17:54.864] Speaker 1: Hmm.
+
+[00:17:56.124] Speaker 2: Um, so I, I begin to come at meditation from I wanna understand how I work, how consciousness works. Uh, this begins to become a clear mystery of like, I learn about the hard problem of consciousness. It can't be explained easily by material things. There's just a few sticking points that just don't make sense. And the question of- Why the hell is anything here? Why does this exist at all? That never left me since childhood. I will say I held onto a few big questions, and I never, I never bought [chuckles] any popular lines for these things like, "I don't know, man. Time is weird."
+
+[00:18:29.688] Speaker 2: [chuckles] Existence is weird. Why am I here? Why am I feeling anything? This doesn't make any sense. And so I start to try to answer those. Where are thoughts coming from? Uh, like, why-- how does my body work? How does it move? Where do my emotions come from? What is my sense of self? Why does it seem to stop at my skin, or does it? And you begin to poke all these things, and you go, "Holy crap, it does not."
+
+[00:18:55.568] Speaker 1: Hmm.
+
+[00:18:55.748] Speaker 2: And I can see where all these things are coming from, and they're coming from not me. Well, what is this? And you can peel these pieces back, and I begin to have insights that, oh, there is something here. And so I dive even deeper, and I start taking it apart, right? I'm trying to... This is still very left-brained, which is hilarious, but this is what draws me in. And then I begin to realize I read the Yoga Sutras. I'm like, "I'll just go to the source of this." Like, here we go. [chuckles] Let's see what these guys had to say. And it's great. And I begin to start to change the way I set goals. Now, all of this does eventually turn into,
+
+[00:19:30.808] Speaker 2: uh, ghosts, aliens, and psychic powers, but-
+
+[00:19:33.308] Speaker 1: Mm-hmm
+
+[00:19:33.328] Speaker 2: ... it starts with self-improvement. And actually, that never stops. Um, this whole path is self-improvement. I've-- I think I've mentioned to you that the most uncanny thing is that spiritual improvement and self-improvement, the ability to do things that do not make sense or comport with standard material physics, is directly in line with and really the same thing as personal development. Working through your problems is [chuckles] what gives you psychic powers. It's, it's the most hilarious thing in the world. Um, I could never have
+
+[00:20:08.128] Speaker 2: predicted that.
+
+[00:20:09.108] Speaker 1: Hmm.
+
+[00:20:09.488] Speaker 2: Um, but we'll touch on that. I start becoming interested in unconditional states. How can I be unconditionally okay or happy? Or what is unconditional love? Can I extend that to other people? And I start thinking more in terms of non-duality of, of self. Um, I am not just me, um, but I'm also sort of connected to other things. I can feel it in meditation. I feel these things start to happen. I start to think about non-polarities, like good versus evil is not really a real thing. Like, I start to see the world differently. Like, they are real, but they're like, uh, forces
+
+[00:20:44.508] Speaker 2: or they're just like characters on a stage. Like, it's, it feels like not ultimately true. Or it's... Th- I see everything in shades of gray now. It's more nuanced. Um, and then weird things start to happen to me. [chuckles] And you wouldn't think that, oh, you know, meditating a lot and going, uh, trying to learn these things, being nice to people, realizing that you are connected to, to other people. Uh, at this time, like, I still consider myself an atheist, a materialist. Like, nothing has really changed, but everything has started to change, right? Um, at the
+
+[00:21:19.508] Speaker 2: same time, and I'm living these things, not just in meditation, but I'm-- 'cause it's making my life better. I'm happier. It's easy to be happy. And I start to change how I set goals, more from like how do I get a thing in five years to like it being more important how I feel right now and like how am I carrying myself? What am I living my values right now? And more present-focused. It seems so token to say those sort of things. It's very token advice. But I really leaned into it because it [chuckles] obsessively because it made my life better. And the more I did, the
+
+[00:21:54.508] Speaker 2: more things I did not expect to start happening to me started happening. So I guess that would be the moment of rupture if I had to, to pick it.
+
+[00:22:03.248] Speaker 1: Hmm.
+
+[00:22:03.828] Speaker 2: Long lead-up. But I felt it was important 'cause it wasn't a magical thing. Didn't light a bunch of candles. Uh, I didn't, you know, read any spells. I didn't get into any of that stuff. Like, I didn't-
+
+[00:22:14.948] Speaker 1: Hmm
+
+[00:22:15.188] Speaker 2: ... see any of this coming. I was just trying to be happier and understand myself and the world. That was it.
+
+[00:22:21.748] Speaker 1: Hmm. The question about like where do thoughts begin, I resonate with, um, and I'm curious about, you know, your experience being a fiction writer for such a long time. I read this book called "Big Magic" by Elizabeth Gilbert, and that was a paradigm-shifting book for me because she talks about like stories as these beings that exist outside your own mind. And I think when I first began writing, I thought all my ideas came from my own head and maybe my life history and, you know, my interests.
+
+[00:22:57.188] Speaker 1: But the more I sat with it, the more like I became comfortable sitting in the uncertainty and opening to what wanted to come through me. My idea of like where the stories come from totally shifted, where now I think, yeah, I, I think that the story is a being that exists outside space-time or in another realm, another frequency of consciousness, I guess, and that I'm kind of this conduit, and it is expressing itself into the world through me. I'll have no idea what I'm gonna write, um, or I'll just have like an inkling of it, and I'll just sit
+
+[00:23:32.128] Speaker 1: down with my notebook, pen in hand, and I'll just sit there in a kind of receptive state, and then an idea strikes me, and an image comes to me. And it's not like I thought of an image. I thought of y- it comes to me. And yeah, and then the more I thought about that and practicing meditation, you're really like exploring your thoughts, exploring your consciousness. Um, I'm also like, I don't know where, where are these words coming from right now? How am I forming words? How am I talking to you? How are we holding the thread of this conversation? Like, all of that is just a
+
+[00:24:06.688] Speaker 1: mystery. It's pretty weird. [chuckles]
+
+[00:24:09.428] Speaker 2: Yeah. Uh, nothing but mysteries. Uh, I-- even though I accepted the value, you know, I had those models for materialism and the, the belief in reason and logic and scientific method and all of these tools and models for understanding the world. They were very foundational, but they were not the most foundational beliefs I had. Those were really an accountability to truth and curiosity, and ultimately those won out. [chuckles] It was, it was not easy, um, but I pursued a
+
+[00:24:43.600] Speaker 2: firsthand exploration, right? That is another way of truth. You can prove something through mathematics, through... Or you can come near to proving a theory w-with science, right? To a degree of sufficiency anyway, right? Those are excellent tools. They're still awesome. They're still great. However, firsthand exploration is also just as valid, right? If you hear a crazy idea, and I've heard many- [chuckles] ... I just started following up on them. Like- Mm ... I'll try it. Mm-hmm. We'll see what happens. I kept doing that, and it kept surprising me, and it kept working, and [chuckles] I haven't stopped.
+
+[00:25:18.840] Speaker 2: Not everything worked, but enough of them did that I began to realize... Uh, well, I guess we'll go with the moment of rupture here. Uh, that would probably be the first UFO experience that I had, a sighting. Um, I think at that point in time, I h- the, like, congressional hearings with David Grusch had happened recently, and I'm like, "What? Uh, what is this?" [chuckles] I looked into this, and I'm like, "Did he just say what I thought he said?" And so I start looking into this, and, and then of course, then I see one. Um, I mean, I can describe the experience, but this
+
+[00:25:53.780] Speaker 2: one is not spectacular. Um, I'm just looking out the back window, and I see just, like, almost like a swarm of, like, jellyfish. There's just these flashing white lights in the distance on the horizon, and they're firing like a neural networks, like do, do, do, do, do- Mm ... like in a series, and it's just like a cloud. Um, they weren't drones. Uh, the light was weird. It was different. It was so bright, it was almost, like, angry. It was, like, piercing. Like, it was kinda like the sunlight is much brighter than a flashlight, but you can't tell because our eyes have, like, a, a logar- logarithmic, um, like,
+
+[00:26:29.220] Speaker 2: curve to them in terms of sensitivity. So a sunlight and flashlight might look similar, but the sun is way, way brighter [chuckles] than you think it is. This was like that. It was exceedingly bright, but only for a second. And I'm like, "Am I really seeing this?" Like, that's crazy. And that's it. They just float by, and that started, of course, this UFOs are a gateway drug, as many people know. [chuckles] Uh, not by accident, as I later find out, uh, of course, and, you know, become obsessed about this. I needed to know, because this doesn't fit my
+
+[00:27:04.140] Speaker 2: world model. And, um, I continue to meditate, I continue to explore, but now I'm starting to look into other things as well, uh, and they start to come across my path. Um, so those are extrasensory abilities. Even, like, traditional stuff. Dean Radin's books, get into those. Great stuff. These are modern takes on, on magic. The Yoga Sutras even describe siddhis. I start looking into that. I'm like, "What is this?" Like, all these people are talking about this. Maybe there's something... I was wrong about this. What else am I wrong about, right? That is the one crack that shatters everything else, is, okay, well,
+
+[00:27:39.940] Speaker 2: I was really wrong. Like, why would I not be really wrong about all this other stuff? So now I have to go do another, uh, on my own. Fine. All right. Let's go look into [chuckles] cryptozoology. Look into all of these things, because I don't know what else is wrong. And to my great surprise, um, many of them end up being true. So I start testing them firsthand. Um, and I have another UFO experience. Uh, I'm in a pretty deep non-dual meditative state after a child's birthday party. Only somebody with y- very young children could possibly understand why that would be necessary. [chuckles] It's like a four-hour
+
+[00:28:14.580] Speaker 2: party, and by the end, it's at an arcade. I'm just like, "I'm either gonna die or I'm gonna have to enter some sort of trance state here to survive." [chuckles] So I do, and I'm pretty deep in it. I don't have, like, complete ego dissolution, but I'm, I'm a field of awareness. And I decide... We get home. I decide to go for a run, and I'm running, and I'm just, like, watching a person run. [chuckles] It's like, cool. Uh, I'm pretty out there. And then I look up. I have a feeling I'm going to see something on the way home. I'm in the passenger seat. My wife is driving. I
+
+[00:28:49.599] Speaker 2: get home, and I go for a run, and I look up over my house, and I see a four-foot-ish tall, uh, matte black kidney bean-shaped object floating in a straight line about a quarter of a mile behind my house, and it goes behind a tree line. It's just flight- floating in a straight line. Um, and of course, I see it. I'm pretty deep in, and I go, "Oh yeah, that makes sense." That's literally the thought that comes to my mind after having almost no thoughts for a while. I'm like, "Yeah, that makes sense." And then I start to get pulled out of that real quick, and I go, "Wait a
+
+[00:29:24.320] Speaker 2: minute. What the hell? No, no, no. [chuckles] What, what am I looking at?" Uh, that actually shouldn't exist, and I snap back to association pretty quickly, and then I start to panic. Like, I wanna go, like, jump some fences and go, like, run at this thing, 'cause it's, like, in a cul-de-sac in the neighborhood behind us. I'm like, "I wanna go look at this." Um, it's got this, like, mother-of-pearl sheen on it, and it's floating in a, in a line. Like, this thing is not moving. Um, and then I start to get very scared. I'm like, "Oh, I can't do that." Like,
+
+[00:29:59.460] Speaker 2: if I go run and try to find this thing, like, nobody's gonna know. If I, [chuckles] if I disappear, literally nobody on this planet could help me if this goes wrong. Um, and but so that one really rocks my world because I know what I've seen, right? This isn't just some lights in the distance. Like, this is a physical appearing thing, right? Uh, I, and I know what I saw. I drew pictures immediately afterward. I tried to describe everything I could in my own journals, and that rocked my world. And I took a lot of these things much more seriously. And then of course,
+
+[00:30:34.756] Speaker 2: after that, I do end up having two more UFO experiences, but that is when I start to have more personal and profound experiences that are not, like, in the sky or not happening outside of me, uh, but are definitely happening to me. It feels much more personal and directed. So I mean, we can get into that, but-
+
+[00:30:53.956] Speaker 1: Mm-hmm
+
+[00:30:54.036] Speaker 2: ... whatever you wanna get into.
+
+[00:30:55.496] Speaker 1: [chuckles] Uh, thank you for sharing that. I love the impulse that you had to run at the being, but then you're like, "Maybe I shouldn't." [chuckles]
+
+[00:31:04.896] Speaker 2: I, actually, that's a bad idea. [chuckles]
+
+[00:31:07.336] Speaker 1: I don't know where this thing could take me or what this thing is. Yeah. [chuckles]
+
+[00:31:11.236] Speaker 2: Yeah. Who's gonna save me? [chuckles]
+
+[00:31:13.716] Speaker 1: I feel like I'm a similar kind of thing. Like, if I saw something, I'd be like, "Yes, like finally." [chuckles]
+
+[00:31:19.716] Speaker 2: You think you'd be excited-
+
+[00:31:21.036] Speaker 1: Yeah
+
+[00:31:21.056] Speaker 2: ... but when you're actually there-
+
+[00:31:22.836] Speaker 1: Mm
+
+[00:31:22.876] Speaker 2: ... and it's actually in front of you, you're like, "Holy shit."
+
+[00:31:27.436] Speaker 1: Yeah. Yeah, ontological shock-
+
+[00:31:28.716] Speaker 2: I am-
+
+[00:31:28.796] Speaker 1: ... terror. Yeah
+
+[00:31:29.456] Speaker 2: ... I'm legitimately horrified.
+
+[00:31:32.356] Speaker 1: Mm.
+
+[00:31:32.596] Speaker 2: But I was also fascinated at the same time. I was really being ripped-
+
+[00:31:35.476] Speaker 1: Yeah
+
+[00:31:35.556] Speaker 2: ... apart there. [chuckles]
+
+[00:31:38.036] Speaker 1: Being ripped apart. [chuckles]
+
+[00:31:41.036] Speaker 2: [chuckles]
+
+[00:31:41.356] Speaker 1: Um, I, I like the phrase you used, "UFOs were a gateway drug." I mean, you had an experience that shattered your reality. You know, you could've just been like, "Oh, that didn't really happen," or maybe it was not... I was seeing something or I wasn't in my right mind, which is maybe how a lot of people would write that off. But I think it happened because you were, you know, already doing all this inner work and meditation, and you're already on this process of experiencing paradigm shift. Um, and it kind of was like, uh, the experience that could, like, invite you into something deeper maybe. My own experience, um,
+
+[00:32:16.296] Speaker 1: encountering my, like, the chakras in my body, um, I had like a, what I understand to be a kundalini awakening, um, and energy experiences, big, really big energy, state energy body experiences-
+
+[00:32:31.836] Speaker 2: Mm-hmm
+
+[00:32:31.876] Speaker 1: ... um, in many psychedelic journeys, and outside of them too, that, uh, shatter- like, that were... I mean, like, similar to you, there were all these ruptures along the way, but that was a really big paradigm shift where I was like... I mean, I knew about them. I'd studied, like, meditation. I was fascinated with the siddhis when I was, uh, in undergrad and beginning to study Buddhism, you know, loving fantasy novels. I was like, "Oh, yogic superpowers." Like, I'd love to have-
+
+[00:32:59.376] Speaker 2: Yeah
+
+[00:32:59.456] Speaker 1: ... some of those. [chuckles] Um, but yeah, you know, it was like, it was finally an experience that happened to me that was, like, outside of the, you know, the, the paradigm I had been inhabiting, and it was just, like, really personal and intimate and real. And I don't know what I thought about. Like, these things exist on our peripheries. Like, everybody knows that people tell stories about UFOs or that there are people out there who claim to have had experiences with UFOs. Like, when we're growing up, you know, or, you know, in the mainstream culture,
+
+[00:33:34.496] Speaker 1: all of these traditions that talk about body energy, chakra, chi, prana, like kundalini, like all over the world. But somehow, you're just kind of like, I don't know where, what I thought of it. I can't even relate to myself back then. Like, what did I think that was?
+
+[00:33:50.956] Speaker 2: Yep.
+
+[00:33:51.476] Speaker 1: Until I had an experience and I was like, "Oh my God, the chakras are real."
+
+[00:33:55.216] Speaker 2: You have to. You have to experience it firsthand.
+
+[00:33:57.976] Speaker 1: Yeah.
+
+[00:33:58.016] Speaker 2: There's no replacement.
+
+[00:33:59.416] Speaker 1: Mm.
+
+[00:33:59.536] Speaker 2: You can't be told, and that is also a running theme here, is that you have to be shown. Being told is enough to get you to go, but you have to seek it out. This is so clear over and over again. You have to seek this out with your own curiosity, your own desire to do it firsthand. You have to struggle through it. You have to get shattered over and over again and put your world back together, and you have to keep coming back for more, and then this whole world opens up to you.
+
+[00:34:23.956] Speaker 1: Mm.
+
+[00:34:24.176] Speaker 2: Um, and yeah, you don't have to start with UFOs. A- any... It's really a curiosity and a drive and openness, uh, to eventually accept what you have experienced and to make meaning of it, and then it will keep happening. That's what happened to me. So you described a sort of chakra experience. I'm, wasn't steeped in this world. Like, I didn't know what that was. Uh, I started to have experiences like that late 2024. I was doing a meditation. It was
+
+[00:34:59.156] Speaker 2: a long one. It went up about two hours, and I was seeing, like, visuals. Like, it looked like music visuals, like, uh, uh, visualizations you might expect, looking through, like, tunnels of various geometric colored shapes. I was seeing it in my visual field with my eyes closed. Like, it was there. It wasn't super bright, but I could see it. There was all sorts of symbols, and then I felt a burning sensation in my chest. Like, it was a bonfire in there. And when I was done, and it was still going, and then I was starting to get worried. Like, after, I was feeling better than I'd ever felt
+
+[00:35:34.076] Speaker 2: before. Uh, but at the same time, um, I was like, "Why is there, like, literal fire and heat in my chest? Like, what is happening?" And so I had to go learn about these things afterward. But for me, that was also very validating because it's not like I imagined it. I didn't know what this was. I had no idea what I was experiencing. It was just happening to me. Like, I just stumbled into it, and so I had to make sense of events like that. Like, "Oh, okay. I guess inner, this energy stuff is a thing. I always thought that this was made up and stupid."
+
+[00:36:07.096] Speaker 1: Mm-hmm.
+
+[00:36:07.216] Speaker 2: Uh, but, uh, I am absolutely feeling this and various other things. Like, this is definitely happening. Like somatically, I can feel it. This isn't just imagination. Like, this is bordering on pain, it's so strong.
+
+[00:36:21.476] Speaker 1: Mm.
+
+[00:36:21.496] Speaker 2: Like, I... [chuckles] Okay, something's going on. I gotta go figure this out, which of course leads to the next domino, right? The, and these events just keep happening. I'm waking up in the middle of the night I'm having profoundly vivid and strange dreams. I'm waking up in the middle of conversations. I didn't get the first part of the conversation, but I see myself talking. Or I'm waking up, like, in a liminal state, and my thoughts are going. I'm well aware of, like, my thoughts are not always my own. Some are more mine, less mine. It's like a spectrum. And I'm talking. I'm watching myself talk,
+
+[00:36:56.432] Speaker 2: and I'm slowly waking up like, "Who the hell am I talking to? [laughs] What is happening? Who am I talking to?"
+
+[00:37:02.492] Speaker 1: Hmm.
+
+[00:37:02.712] Speaker 2: These things keep happening. I have nightmares that feel extremely vivid, and there's, like, something there. I feel this instinctive, like, terror, sense that, oh, no, there... This is, like, happening. Like, I'm in a dream, but I'm not alone in my dream. There's some- somebody or something else in my dream. Or I would wake up, and I would feel the sense of a presence. Or deep in meditation, I started to get thoughts that did not feel like my own. And I can say that because when you've been meditating for 45 minutes and you haven't had a thought in 20 minutes,
+
+[00:37:37.672] Speaker 2: and it is just still as the ocean, and you're just like, "Yeah." [laughs]
+
+[00:37:42.712] Speaker 1: Hmm.
+
+[00:37:42.872] Speaker 2: And then you get a thought like, "Why do you come in here?" That was one of the ones I wrote down. It's from one of the first verbal thoughts I got. I was like, "Why do you come in here?" Like, 'cause I meditate in a closet. [laughs] I'm like... It was loud. That is jarring. When you're just... You're not trying to make anything happen. There's nothing on your mind. You're just still as the ocean, just like, "Hey, why do you come in here?" [laughs] What's going on? Where did that come from? Um-
+
+[00:38:07.932] Speaker 1: Are you hearing this, like, audibly?
+
+[00:38:10.612] Speaker 2: That one was a verbal thought. I do get clairaudience sometimes, which is a sense of sound.
+
+[00:38:19.312] Speaker 1: Hmm.
+
+[00:38:19.412] Speaker 2: It doesn't usually have a source, but it is heard in the same way that you hear sounds. It just sounds like it's coming from everywhere. If you were to play a sound through headphones, and it's the same in both speakers, it's kinda like that. I do get those sometimes. They're not as common. It's mostly verbal thoughts. But it was the out of context nature of the thought that was like, I absolutely did not make that happen. Wherever it comes from, however you wanna claim the, the cognitive science of it, this was directed. It was inserted into my head. [laughs] And I start to get those, at first during
+
+[00:38:53.852] Speaker 2: meditation, um, and usually it's, like, helpful. [laughs] Um, I went through my old journals, and, like, I start to go through these, like, what are they saying? It's like advice. You cannot give to others what you deny yourself, right? Just hear that thought. I'm staring at a fire. I'm, like, super, like, uh, dissociated. Then I hear, "You are the fire. You're the same thing." [laughs] Like, just comes out of nowhere. So that starts to happen. And then I start to get out of context emotions, as in I'm feeling an emotion that is completely dissimilar to what I'm doing. I'm
+
+[00:39:28.852] Speaker 2: just chilling, just, like, walking around, doing chores, and I feel, like, a profound, like, sadness or longing or, like, curiosity and the impression of, like, a smile or that somebody is watching me. It's like, "What the hell is happening to me?" [laughs]
+
+[00:39:44.952] Speaker 1: Hmm.
+
+[00:39:44.992] Speaker 2: Where is this coming from? [laughs] Like, there's somebody there, but there's nobody physically present, right? And so that starts to happen more, uh, and more. And, um, I have to start taking it seriously because, I mean, it's scary. [laughs] I don't know what else to put that. Like, it's, um, it's frightening, uh, because I have no model for this. I don't come from any sort of background. None of my friends talk about this, none of my family. This is not normal. I've got some pretty, like, watered-down, uh, modern Christian, like, parents,
+
+[00:40:20.752] Speaker 2: but for the most part, [laughs] they don't even go to church. Like, uh, I have no grounding. I have no idea what's happening to me. Uh, and that's the, the sort of stage I'm in, I don't know, starting a year or so ago, I guess, is when this starts to happen, but I, I'm pushing it away, right? I'm not... This is not good. Like, [laughs] you can't... Everyone talks to themselves. This is not how talking to myself feels, and I already have a pretty fractured and chaotic mind on a regular basis, but this is new, right? This is not how I normally experience things.
+
+[00:40:53.472] Speaker 1: Yeah. That's... I mean, what comes to mind is, like, how our culture would make sense of those experiences would probably say schizophrenia, right? Hearing voices in your head, seeing things that aren't there, things like that, versus there's another way of understanding it as spiritual emergence, the shattering of a paradigm emerging into a greater reality, a broader universe where weird shit happens. Like, it's like the weirdness and strangeness-
+
+[00:41:26.192] Speaker 2: Yeah
+
+[00:41:26.252] Speaker 1: ... you know? And, um, I'm curious, like, how do you remain grounded as all of these, uh, anomalous things begin happening to you? How do you not lose yourself in them?
+
+[00:41:37.812] Speaker 2: I'd struggled profoundly with a chaotic mind and lack of self-control, uh, emotional instability my entire life. Like, I, I had learned how, frankly, to not trust myself but still rely on myself. I'd learned that I couldn't, right? I already had that humility. Like, I already knew what it was like to fall apart over and over again and put yourself back together 'cause you gotta go to work next week, right? It doesn't matter that you have literally zero motivation for no reason. It doesn't matter that you're incredibly depressed with no apparent cause. Uh, you gotta get it together, right? [laughs] You gotta just get it together. I had already
+
+[00:42:12.772] Speaker 2: learned, like, how to, like, control myself and a level of humility, [laughs] put it that way, and those tools really came in h- And I'd been meditating at this point for years, so I knew how to sort of take an observer perspective. I knew how to step back and to be okay. So I had these things to fall back on, and I really needed every single one of those tools And ultimately, I wanted to know what was true. And although I've mentioned some scary things, most of the experiences, even now and especially now more so,
+
+[00:42:47.816] Speaker 2: were very loving and, like, strange, but not bad, right? [chuckles] Uh, so it's not like it was getting worse, like it was, uh, like a haunting movie or like, [chuckles] you know? Or things just continue to get worse. Um, it was getting magnified, but it wasn't bad. And, and so that, that helped a lot as well. And I wanted to know. Ultimately, I couldn't rest because I, I needed to know. And of course, I ruled everything out. You know, I, I seek psychiatric help. I, I obsessively
+
+[00:43:22.536] Speaker 2: research on my own. It doesn't fit any of these models. Like, I go through it. I'm reading books. Like, [chuckles] doing everything.
+
+[00:43:29.016] Speaker 1: Mm-hmm. Mm-hmm.
+
+[00:43:29.156] Speaker 2: And I'm being honest because I want it. At this point, I'm like, "I would love for this to be insanity. That would be great." [chuckles] That would be way easier. Give me the label, so I'm all for it.
+
+[00:43:38.636] Speaker 1: Mm.
+
+[00:43:38.796] Speaker 2: But none of them fit, and no one would diagnose me with that because it didn't fit. It's like, "You're good." Like, "Dude, just don't worry about it. Like, pursue this." Uh, a very enlightened psychiatrist is like, "The worst thing you could do is suppress this. You need to go-
+
+[00:43:53.236] Speaker 1: Mm.
+
+[00:43:53.256] Speaker 2: "You need to go see this through and check it out. And as long as you're not hurting anyone or you don't feel like you're in any danger or, like, you can function, you're... And it feels good and not bad, go. Like, go explore this. You need to find out who you are and what's happening to you. I'm not here to tell you what's not true. I'm here to tell you that you're not crazy in the ways that we have learned to call, like, DSM-5 labels. You don't have any of these, or to the degree you do, you're not dysfunctional. It's not that. I'm not here to tell you what's true. You go figure that out on your own." [chuckles] Like, oh, cool. Pretty good psychiatrist. Um, so I do.
+
+[00:44:28.696] Speaker 2: And I start learning other skills, um, like telekinesis. Uh, you can move things around, and that profoundly changes [chuckles] your whole world when you learn how to do that. It took me a long time. I stared at a piece of tinfoil sitting on a needle, commonly called a psi wheel, and it has very little friction, so it spins very easily. It's just a piece of little tent of aluminum foil over a needle stuck into, like, a sponge or eraser.
+
+[00:44:54.296] Speaker 1: Hmm.
+
+[00:44:54.536] Speaker 2: It's got very little friction. That thing will turn easily. Basically a pinwheel. And, um, you can use that to train, right? The goal is, uh, move. [chuckles] Just however you do it. I stared at that thing for 30 hours. Like, I read a book on telekinesis. I'm like, I was on board for an idealistic universe at this point. Like, I mean, what else could explain all this crazy stuff? And, um-
+
+[00:45:16.156] Speaker 1: Could you pause just for a second and explain what idealistic universe means?
+
+[00:45:19.336] Speaker 2: [chuckles] Sure. Uh, that, um, matter is not fundamental. It is ideas and non-physical concepts, energy, consciousness is fundamental. It is consciousness and the things in its contents. Doesn't mean there's not rules, uh, but that nothing is off limits, basically. It's imagination, right? There is no real line between imagination and material reality. It's mostly a matter of patience and preference. But eventually, those two always converge.
+
+[00:45:50.536] Speaker 1: Hmm.
+
+[00:45:50.916] Speaker 2: Uh, it's more like a spectrum. Uh, so you have to take my word for it for now, but that's my view of reality. But yeah, once you've... After about 30 hours, I got that thing to move without touching it. And, um, I recorded it, and I cried because I... You know, it was so validating, right? You can have these crazy experiences, but it wasn't you doing it, right? It felt like things that were happening to me. This was, like, the first time that, like, oh, I can use this. Like, this is not only real, but, like, I can do something. I'm not just a helpless victim. Like, I can participate. Uh, this is,
+
+[00:46:26.096] Speaker 2: I can do stuff. So I got better at that, and I start to get into remote viewing, and I start to use that as a way of exploring reality as well. And I've been practicing that almost daily for more than a year now. And then I, as you well know, I learned other skills. I go... I start learning about these things, like, well, that's probably true, so let's go find out. Sure enough, it is. Cool. So I go learn mindsight, the ability to see without eyes. I can do that. The viewers will have to take my word for it. I don't mind demoing it if you want me to, but, um, that's not really the point. You can do this stuff. And I began to take very seriously
+
+[00:47:01.096] Speaker 2: its intention. It's all just intention and energy and consciousness. Yes, there are rules, and there's a lot of us on this rock, and of course, there are structures and patterns and friction. There are sort of metaphysical rules, but all of them are soft rules. Nothing is fundamental. It's all just like, um, has inertia to it. But ultimately, if you will hard enough, like, you can change the rules. Um, otherwise, senses like mindsight don't make sense. You can't see without eyeballs. It doesn't make sense. I can close my eyes, put on a blindfold, and see like I have eyes. And that, once you can do that, your whole world changes.
+
+[00:47:36.336] Speaker 2: As I do these things, it's like stairsteps. The experiences that are coming back to me, it's like I have a doorbell and a mailbox now and a front door, and I have a cell, a cell phone for the first time into the spiritual world, and they're like, "Hey, what's up? [chuckles] Hey, you can talk now. You can see things. You can touch things. You can interact. What's up, man? You wanna, you wanna talk?" And that starts to scare the hell out of me as... I guess that's really sort of the next leg of the journey is not only could I do things, and I kind of understand some of how reality works. Now it's reaching back to me.
+
+[00:48:09.216] Speaker 1: Mm.
+
+[00:48:09.356] Speaker 2: "Hey, [chuckles] what's up? Looks like you kinda see what's going on now. You wanna talk?" And, um, that's more or less the stage I'm in now.
+
+[00:48:20.816] Speaker 1: I met you in this class last fall, and, uh, during the class, you went on this mindsight training, and you were giving updates in the class feed about, uh, the training and then afterwards. Um, I just, I just like Love hearing about your willingness and your capacity to explore and, like, the focus you bring into all of these ways that you've learned to train your mind, your consciousness, um, and just your, yeah, your
+
+[00:48:55.848] Speaker 1: openness to, like, try it, you know? Like, [chuckles] to-- You, like, feel like, "Well, let's see if telekinesis is real. I'm gonna invest 30 hours in trying," you know? [chuckles]
+
+[00:49:04.948] Speaker 2: And how amazing that finally you got that little piece of aluminum foil to move.
+
+[00:49:09.788] Speaker 1: Yeah. [chuckles] And I've s- I, I, I don't have a... I'm, I'm not gonna share a video, but I've seen Steven do a, um, demo of his mindsight, uh, abilities, and pretty, pretty incredible to see it firsthand. Like, I've heard about people having these skills, and Steven's told me himself about that, but... Or you've told me yourself about that. But when I saw it firsthand, it did something to me.
+
+[00:49:36.888] Speaker 2: It's real, man.
+
+[00:49:37.908] Speaker 1: Yeah.
+
+[00:49:38.108] Speaker 2: Just imagine how it feels doing it. You don't have to. Like, you can do it. Anyone can do it. Like, that's... This story is not really my story so much it is, it's a template, you know? It's a blueprint for one way to do all this yourself. Like, it's not unique to me. Anyone can do it. I just was obsessively curious, and I had to make sense of my world, and it kept not making sense. And [chuckles] I kept having to figuring it out, and I was... More things kept being true, and I didn't like it.
+
+[00:50:05.768] Speaker 1: Yeah.
+
+[00:50:05.848] Speaker 2: A lot of this, it sounds very happy, this journey, but this was really an obsessive-
+
+[00:50:11.448] Speaker 1: Mm.
+
+[00:50:11.528] Speaker 2: I had the sort of meditation, yoga practices to fall back on. Like, I'm unconditionally okay, but sometimes only barely. Like, my whole world doesn't make sense anymore. Like, I don't-
+
+[00:50:23.628] Speaker 1: Mm-hmm
+
+[00:50:23.848] Speaker 2: ... know what to do with this. I keep... [chuckles] I don't know, how do I walk around after realizing stuff's all made up, man? Like, this is... I mean, it's real, but this is just a projection. Like, this is... I'm not this body. I'm not this person. Just sort of a field of consciousness. We all are. It's, we're kinda making a lot of this stuff up, stuff up as we go. None of these things are fundamentally real, but I know. I can just close my eyes and, and know. [chuckles]
+
+[00:50:52.408] Speaker 1: Mm.
+
+[00:50:52.408] Speaker 2: "Okay. [chuckles] Yeah, that's still a thing. Uh, cool. I can still..." I was able to see out b- the back of my head for a little while. I stopped training that one because it's very disorienting.
+
+[00:51:02.548] Speaker 1: I like when you were telling me, telling our group about, um, zooming in on the sun. You wanna share that story?
+
+[00:51:07.208] Speaker 2: Yeah.
+
+[00:51:07.828] Speaker 1: [chuckles]
+
+[00:51:08.728] Speaker 2: Yeah. Uh, so that one gets weirder, but, uh, I'll leave that part out. But I was just sitting there. Uh, I wanted to see... Just having fun. Like, a lot of this is play for me now because, yeah, it's cool. Uh, I'm like, "I wonder what water looks like," [chuckles] I... now if I just close my eyes. Um, 'cause the cameras sort of come out from where my eyes are. Um, but I s-see through my eyelids as if they're not there. And, um, I like, "Oh, I'll just pour water on my face." And I was laughing 'cause it was so cool. Normally, water isn't in focus 'cause it's on your eyes. And I could see it. It's like you're
+
+[00:51:43.508] Speaker 2: pouring water on the other side of a piece of glass. That's what it looks like.
+
+[00:51:46.128] Speaker 1: Huh.
+
+[00:51:46.128] Speaker 2: And I was laughing. I thought it was hilarious.
+
+[00:51:48.088] Speaker 1: Wow.
+
+[00:51:48.208] Speaker 2: I'm like, "What else can I do?" So I go to sit down and read a book, and I'm like, "I'll read this book without my eyeballs." Um, so I start doing it, and I'm like, the sun is in my eyes, my fake eyes. [chuckles] Like, it's still bright by contrast. Like, it's funny how much carries over. Like, you're still using parts of your brain's visual system, of course. I don't know how it gets there. I don't know. Don't ask me. It just does. And it's too bright by contrast. It's really hard to read the book. I'm like, "What is this?" Like, coming in through the window on my couch. And I'm like, "But you know what? I can just look at the sun. [chuckles] Why have
+
+[00:52:23.188] Speaker 2: I never thought of this?" So I do. I, I stare at the sun, and I can start to see sunspots.
+
+[00:52:27.608] Speaker 1: With your eyes closed. You stare at the sun with your eyes closed.
+
+[00:52:28.968] Speaker 2: Eyes closed. Don't ever-
+
+[00:52:29.948] Speaker 1: Yes.
+
+[00:52:30.368] Speaker 2: Uh, don't do it with your eyes open.
+
+[00:52:31.548] Speaker 1: [chuckles]
+
+[00:52:31.568] Speaker 2: You'll fry your eyeballs. Um, like-
+
+[00:52:33.288] Speaker 1: Don't stare at the sun unless you have mindsight, guys. [chuckles]
+
+[00:52:36.248] Speaker 2: Or, or those special glasses or whatever, right?
+
+[00:52:38.008] Speaker 1: Oh, okay, yeah.
+
+[00:52:39.308] Speaker 2: But I'm like, "Holy crap, I'm looking at the sun." Like, look, I can see the little tiny sunspots on it.
+
+[00:52:44.048] Speaker 1: Mm.
+
+[00:52:44.068] Speaker 2: Like, this is so cool. And like, I wonder if I can zoom in on the sun. So I do this, and as I'm doing it, I get, like, this parallax, like, second image, like, kind of like a lens flare over the first image. I'm like, "Ah, what is this thing?" I start panning around, and I can see, like, little black spots, and I can move to the edge, and it looks like it's a ball with, like, fire at the edge of it. And I'm like, "Holy crap, am I, like, [chuckles] staring at the sun, man? What's going on?" And like, it's just intention. Um, was I? I, I don't know.
+
+[00:53:19.228] Speaker 2: I don't... I couldn't tell you, but it's, I have an openness to exploring it. Um, it correlates, uh, [chuckles] with the sun. I mean, how much crazy is it to say you can't zoom in? It's already not real photons. Well, it, it's already not hitting your eyes and turning into electrical-
+
+[00:53:34.568] Speaker 1: Right
+
+[00:53:34.708] Speaker 2: ... chemical signals. Why not? How is it crazy to say you can't zoom in? Like, that's-
+
+[00:53:38.768] Speaker 1: Yeah.
+
+[00:53:39.048] Speaker 2: [chuckles] We're already categorically insane. You may as well explore.
+
+[00:53:41.248] Speaker 1: The other crazy thing I thought when you told me that story was that then you pulled up the image of the sun 'cause you had made a drawing.
+
+[00:53:47.808] Speaker 2: Yeah, I did. I, I tried to draw where the sunspots were, and it correlated-
+
+[00:53:50.968] Speaker 1: Yeah
+
+[00:53:50.968] Speaker 2: ... with the solar activity, uh, on that day at that time from my location in the world. Uh, I will say that since then, um, I, I think I'm also looking at artifacts in my cornea. It's very con- This... There's no instruction manual for this. Like, [chuckles] the, the number of people that can do real-time mindsight is still only in the hundreds for the world, uh, maybe a little above a thousand now. It's growing. Uh, but we need people to explore this. Nobody knows how it works or what it means. Um, so was I? I don't know. Was I looking at my own, like, parts of my eye? I can see
+
+[00:54:25.928] Speaker 2: my own eyelashes. I learned that two days ago. I'm like, "What are these, like, bright lines coming out of everything when I look at them?" And it took me forever. I'd never been able to figure it out, and I touched my eyelashes, and then I saw them move, and I just started laughing.
+
+[00:54:37.888] Speaker 1: [chuckles]
+
+[00:54:38.088] Speaker 2: Like, I'm staring at my own eyelashes. Like, you don't normally get to do that. So was it something more mundane? How's that mundane? I don't know.
+
+[00:54:46.756] Speaker 1: What happens when you go to sleep? Can you turn it off?
+
+[00:54:50.816] Speaker 2: I can just turn it on by intention, so I can, I can already see, or I'll tap the side of my head to signal that I want to turn it on. It's just a trained thing. Um, and then when I wanna turn it off, I just do like this. But yeah, sometimes it, it will turn on with my eyes closed.
+
+[00:55:06.536] Speaker 1: Yeah.
+
+[00:55:06.856] Speaker 2: Most people train with an eye- with a blindfold because they don't want the, the cue to close their eyes and see through their eyelids-
+
+[00:55:13.456] Speaker 1: Hmm
+
+[00:55:13.456] Speaker 2: ... 'cause that freaks them out. But I'm lazy and adventurous, so [chuckles] this is, this is how I choose to do it. But yeah, sometimes it does turn on at night or I'll wake up in the middle of the night.
+
+[00:55:22.556] Speaker 1: God, I feel like we're living in a sci-fi novel right now. [laughs]
+
+[00:55:25.736] Speaker 2: You telling me, buddy. We didn't even get to the craziest parts. [chuckles]
+
+[00:55:29.296] Speaker 1: Oh, man. Well, you've talked, shared about, like, this relationship you've cultivated with your double. You wanna say something about that? Or where, where do you feel like the next, the next place you wanna go on your story?
+
+[00:55:44.676] Speaker 2: Yeah, I mean, I'll, I'll go to the next events, which are probably starting November, December last year, uh, maybe a little before that. When we're in the techniques of Transcendence course, um, Darren King, you and I are in that course, things really start to pick up, especially the telepathy, and it feels very intrusive. Like, I am getting thoughts and feelings that are not mine. They are, [chuckles] they are... They don't make any sense. They're completely out of step, and it's a person. Uh, and later I'll discover it's more than one. You know, just take me at my word. This is what I experienced. I'm not telling anyone what, what is true,
+
+[00:56:19.676] Speaker 2: but this is what's happening to me, right? Uh, so it doesn't stop. I can't rule it out. I can't make it stop. Like, normally you can make your thoughts stop. I know how to meditate. Nothing stops it. Like, it's just... [chuckles] And the more, uh, this goes, it starts to pick up, especially as I start to do, uh, a lot of the stuff in that course, uh, which is again, mostly personal development, removing distortions, trying to see the world as it is, letting go of judgment. It doesn't seem like those things should give you more extrasensory perception, uh, but it does. Uh, that is what gives you [chuckles] extrasensory perception. Um,
+
+[00:56:54.496] Speaker 2: they're the same thing somehow. They're tied together. And the desire to know, right? You have to be curious and want to know on some level, which I did. So these things start reaching into my life or people, right? Um, and I don't know what to do with it. It's waking state, or I'll wake up, uh, in the middle of the night, um, in the middle of a conversation, or I'm having a dream and it starts-- I realize I'm, I become lucid, and it's like a quiz. Somebody's grilling me with questions. "What does that mean to you?" Like, they're training my discernment. "Why did that scare you? What did you think about that? How do you know?" And then I go, "What the hell? Who are you?"
+
+[00:57:29.596] Speaker 2: Like, I had been, like I was being puppeted, like, through a conversat- or just, like, sort of, like, in a malleable state until I became lucid, and then I start to panic. And then it's like I can feel the emotion, like an eye roll, like, "Ah, he's awake. All right. Ugh. Party's over. All right, everyone go home." That happens. It keeps happening. And I'm like, [chuckles] "Wait, where, who are you? What's going on?" And then it's in waking state, not just meditative state. But traditionally, it's like when my mind is wandering. I'm going for a run. I'm doing chores. Sitting in the hammock. "Hey, what's up?" [chuckles] So stuff like that. And
+
+[00:58:04.616] Speaker 2: I'm like, or I feel a strong emotion, and it's, like, completely out of tune with what I am, and somebody, like, wants to reach out to me, or they wanna talk to me, and I keep pushing them away. Like, naturally, as somebody who's [chuckles]... I'm worried I'm going crazy, um, and I can't figure out what's wrong with me, and I'm treating it that way. And every time I push them away, it makes, I feel this intense, like, sadness, like a betrayal, like, uh, they're hurt. Like, they feel rejected. Uh, and but I don't feel that way. I'm like, "Ugh, go away. What is this? These aren't real thoughts. You're not real."
+
+[00:58:39.836] Speaker 2: And then I just feel this pain, like, "You jerk." Or, or just, like, "I feel sad that you've pushed me away. Like, I'm trying to talk to you." And you can only do that so many times before you're like, "Man, I feel... Like, if this is, there's any truth to this, like, I feel like the asshole." [chuckles] Like, I've already accepted that things are pretty much idealistic. Like, I'm not in my body. I'm something beyond it. Uh, I couldn't tell you what that was at that time. Why not? Why couldn't there be non-physical things? And of course, this is when they would start reaching out. Like, you've done the groundwork. You have the abilities. You've got
+
+[00:59:14.596] Speaker 2: enough world models that, like, I'm not gonna just have a psychotic break right away pushing me to the edge here. So I start to take it seriously, and the more I try to engage with it... But it's like a pretense. Uh, I'm gonna pretend to have a conversation in my head. I'll just act like it's just me. And the more I do, and the more I entertain it, the more real it becomes. Um, and that's pretty crazy. And then the experiences at night and meditation, they don't stop, uh, as you well know. So these are, like, a recurring cast of characters. And I,
+
+[00:59:49.656] Speaker 2: I wanna know at some point. I... A lot of this is intuitive. Like, I just have feelings that important things are happening or what it means. Like, intuition is starting to go off the charts because I'm leaning into it, and I just have a feeling that I know these people. I know them.
+
+[01:00:03.756] Speaker 1: Mm.
+
+[01:00:03.916] Speaker 2: I already have feelings about them, but I can't remember them. It's very difficult to describe how jarring that is. Like, "Oh, yeah, I know who you are." Like, I could tell you a whole, exactly how I feel about you and what our relationship is like, but I don't have any memories. I don't have, like, a lot of knowledge. I just have a felt sense of who they are, and it's familiar. That's very jarring. Um, and then I start to have liminal experiences, so waking up or falling asleep, that are extremely vivid. So not only do I see symbols and stuff in the visual field, this is not imaginary. I get those too, the imaginary field also, the imagined visuals.
+
+[01:00:38.956] Speaker 2: But, like-
+
+[01:00:39.276] Speaker 1: Mm
+
+[01:00:39.636] Speaker 2: ... close your eyes and, like, if, as if, like, you could see, you know, stare at something, you see an after image and it's painted in the blackness. I see stuff drawn like that. Sometimes the visuals snap into perfect clarity. I don't know how to do that consciously, but it-- that started happening too, [chuckles] and mostly symbolic stuff. Um, I realized, you know, we can communicate, but I'm in this weird state where I don't know what the hell's happening to me. I'm falling apart constantly, but it's, it's not bad. And then I start to have experiences at night where it's very vivid. Uh, I think the one experience that I mentioned to
+
+[01:01:14.516] Speaker 2: you is like the one story I'd tell before we move on to, you know, what's going on now, is that I had a sense I would talk to somebody at night. Um, I wanted to know, did I have a soul family? And I, I-- at, at this point, like I'm pretty on board for that's who this probably is. I think maybe they're spirit guides. Like, I don't know, man. Like, I'm just guessing, right? [chuckles] Deceased loved ones. Who, who knows? I don't know who they are. It's difficult, it's messy, it's very frustrating, this form of communication, 'cause it feels like your own thoughts. It feels like writing dialogue in a book a lot of the time.
+
+[01:01:48.376] Speaker 1: Mm-hmm.
+
+[01:01:48.456] Speaker 2: It's like I just know what the next line is. Like it's not like... It feels like you're talking to yourself, but when it's really strong, this is what people would call telepathy, basically, the thoughts just come, and it's a person talking to you. And so this one night, I have an experience where I have a sense I'm gonna meet somebody. And so I, I wake up around 2:00 a.m., and I'm aware of my body, and I'm sitting in bed, uh, and I'm awake. And, but I can feel drawn into my imagined
+
+[01:02:23.056] Speaker 2: visuals is a person and a scene. It's a white plain. There's no... There's a floor, but no ceiling and walls. And it's a girl, and she's standing there, and she's talking to me. You know, just a little small talk like, "Hey, what's up? Hey, good to see you," this basic intro stuff. And I'm awake. Like I'm not sleeping. Like I can move my body, and when I move my body or put my attention on my body, I start to wake up. Um, and so it starts to dissolve, kinda like a dream dissolves. And so I'm putting my focus on this, but it's crystal clear, and it's stable, and it's like somebody's drawing
+
+[01:02:58.056] Speaker 2: a scene and a person into your own imagination. Like it's happening. I'm not making it happen. You can imagine the scene on your own. Imagine that being forced into your imagination, and it's static. Like it's happening whether you want it to or not. I feel like I can shut it down and turn it off if I want to, but it's like a shared thing. And so I'm just standing... I don't have a body. I'm just like f-floating in front of this person, dumbfounded, and she's like talking to me. And I'm not saying anything, just like sort of knocking on the glass like, "Hey. Hello. I'm trying to talk
+
+[01:03:33.096] Speaker 2: to you. Can you answer me?" And then I just say, "Holy shit, this is real." Like, "You, you are actually real. Uh, I can see you now." Like I'm in a... I guess you could call this like astral projection. I don't know. I don't know the terms. Uh, but I was there. It was more than imagination, but less than a physical reality, right? It's like I was being given an imagined space, and I had my senses, but they were like 50% volume, right? Um, and so I stop paying attention to my body, and I'm focused
+
+[01:04:08.096] Speaker 2: on this space. Now we're talking, and she's laughing, and, uh, I start to panic because [chuckles] this is very scary. Uh, she's like, "Don't do that." And I can feel the whole place start to like dissolve, like waking up from a nightmare. Um, and she's like, "Don't... No, you can't do that. Hey, you're fine. Don't, don't freak out. Just, just go with it. Nothing's hurting you. You're gonna be okay."
+
+[01:04:29.416] Speaker 1: Hmm.
+
+[01:04:30.016] Speaker 2: So I try to. Uh, I keep pausing mid-conversation because I'm expecting it to not be real. And so I'm in that state for about four hours, and, um, it's stable. [chuckles] I can ask whatever I want. I can do whatever I want, and we talk. And this is basically like a sibling, like a twin. You can imagine a twin that wasn't born.
+
+[01:04:51.296] Speaker 1: Hmm.
+
+[01:04:51.476] Speaker 2: Uh, just chose not to, to be born. But, "Hey, you can hear me now, so I miss you. Hello. [chuckles] Hey." Uh, and, um, yeah, I mean, uh, we talk about a lot of things. I have a lot of questions, as you might imagine, but I'm dumbstruck. Um, and then, of course, there's a second part of that story if you, you want me to tell it, but I think you get the gist. Like the... I get info dumped as well as conversation, just regular catching up. And yeah, this, I have a, like a soul family of sorts, not just human. But like,
+
+[01:05:26.756] Speaker 2: you have a life beyond your life as well, and I think everyone does. Um-
+
+[01:05:30.176] Speaker 1: Hmm
+
+[01:05:30.376] Speaker 2: ... people, if you've lived more than once, if you believe in reincarnation, you might have people from other lives. Like they're there, and they're not here, and once they can talk to you, yeah, they love you. They miss you. Of course, "Hey, you've g- you've got a mailbox now. I'm gonna send you messages." And that's what was happening.
+
+[01:05:47.996] Speaker 1: Hmm. Wow. Sounds like a, just like a major relief to kind of like meet this... You're kind of like getting all of these communications coming through and, um, wondering if they're real, wondering if they're really your own thoughts, and then finally having this experience where you visually meet this person and feel as if you're in their presence. You, you are in their presence. Your experience was you are in their presence.
+
+[01:06:18.976] Speaker 2: Yeah.
+
+[01:06:19.576] Speaker 1: But they're there all the time too, right? [chuckles] Like the... It's just like-
+
+[01:06:22.736] Speaker 2: Yeah
+
+[01:06:22.736] Speaker 1: ... in that liminal state, you were able to, uh, to meet them more fully.
+
+[01:06:31.176] Speaker 2: Yeah, I was a real participant, and it was more, like rich, a more vivid experience than just feeling like my own thoughts, which was great, uh, 'cause I, I, I needed that. I-- we are-- You-- A lot of this is about belief, and you have to, like Wile E. Coyote, you have to walk out on the edge and just like, "I, I believe I can move the tinfoil." And you have to really sit with that for a long time.
+
+[01:06:52.196] Speaker 1: Hmm.
+
+[01:06:52.216] Speaker 2: Like, "No, I know I can. I know I can." And then eventually One day it happens and you're like, "Holy crap, I knew..." We'll get to that in the poem at the end. Uh, but that's, um-
+
+[01:07:03.228] Speaker 1: Hmm
+
+[01:07:03.368] Speaker 2: ... it's, uh, it's happened to me so many times now with it. Every... But I still do it. I still like, "I don't know. Maybe I'm making it up. Maybe that didn't really happen." Like, "I'm just gonna try to hold this belief. I'm just gonna try to hold it. It's gonna happen."
+
+[01:07:18.728] Speaker 1: Hmm.
+
+[01:07:18.748] Speaker 2: This is how it works, I know. And then you go, it sounds easy, but then eventually it happens and you're like, "Holy crap. [chuckles] Okay. All right, cool." And for those wondering, like I've asked for real world validation, like definitions to terms I've never heard of before. I've, I will lose stuff around the house and just randomly go, "Ugh." It's like somebody's frustrated with me. Like, it's in the bottom drawer near the sink. I'm like, "That's not where I put that." Then like I'll look everywhere else around the house, like there's no way. I go and I'm like, "Fine." I go look in the bottom drawer near the sink and there it is, and there's just this
+
+[01:07:53.648] Speaker 2: sense of like laughter. And it's like, "Man."
+
+[01:07:57.568] Speaker 1: That would be helpful. I need, I need that. [chuckles] Having two young kids, like- [chuckles]
+
+[01:08:02.788] Speaker 2: Yeah, well-
+
+[01:08:03.208] Speaker 1: ... your mind is just like a, a chaos.
+
+[01:08:07.088] Speaker 2: Yeah. So, but it's not, you know, they're not always there. It's like-
+
+[01:08:10.248] Speaker 1: Yeah
+
+[01:08:10.988] Speaker 2: ... I don't know. It's just like, just checking in on you.
+
+[01:08:13.388] Speaker 1: Hmm.
+
+[01:08:13.408] Speaker 2: "Hey, what's up?" Uh, or they could always be there, right? There's not always presence.
+
+[01:08:16.368] Speaker 1: How does that shift your, like sense of self and autonomy-
+
+[01:08:19.648] Speaker 2: [chuckles]
+
+[01:08:20.788] Speaker 1: ... knowing that you're like always being watched essentially, right? [chuckles]
+
+[01:08:24.248] Speaker 2: Well, surprise, everyone's always being watched.
+
+[01:08:26.888] Speaker 1: Yeah. Yeah, but we don't-
+
+[01:08:27.868] Speaker 2: Everyone's got a loved one or a guide or someone.
+
+[01:08:29.368] Speaker 1: We don't realize that we are, right? But now you know.
+
+[01:08:33.488] Speaker 2: Yeah. Like time is a thing here beyond like the 3D material linear space time world. Like there's no scarcity of time, and if somebody cares about you, their grandma, whatever, they're probably watching all the time. I got a crazy medium story where after the mindsight training, some of the ladies there were mediums. So I go... They're training, right? They, there's five old ladies, they bring me into a mediumship session. Like I've never done this before, not like this. Like cool, I'll just sit there. So they stare at me for 20 minutes over Zoom, and then they take turns reading impressions of whoever showed up, like deceased loved ones. And it's interesting, and I
+
+[01:09:08.468] Speaker 2: have this experience of, well, that was cool and all. It's kinda hard to place some of this stuff. Um, like, eh, that was neat, I guess. No dead ringers or anything. And um, but I just have this sense of like sadness that I didn't expect, and I realized I kinda just wanted them to tell me that they loved me. And instead I got like a lot of, you know, "This is about my life. Here's some advice," a little bit of lecturing.
+
+[01:09:32.948] Speaker 1: [chuckles]
+
+[01:09:33.768] Speaker 2: Like 'cause like, okay cool, but like that's all I really wanted was that you think about me and you care about me. I didn't know, I didn't know to ask for that. There's nobody else's fault.
+
+[01:09:43.928] Speaker 1: Yeah.
+
+[01:09:44.448] Speaker 2: And um, so after that happened, you know, I didn't expect to feel those emotions. I didn't really share that with anybody. It was just a private internal thing. Like, "Oh man, I feel a little hurt actually." [chuckles] I didn't think I would. Uh, and so the next morning I get, uh, a text message from somebody who was in that mindsight training, and she messages me and she says, "I was thinking about you when I was making my coffee this morning," 'cause we shared like the same like living space, uh, while we were training. And she's like, "I also had this really weird feeling that I needed to reach out to you. Something about
+
+[01:10:19.488] Speaker 2: grandmas and like loving you. Uh, does that mean anything to you? I'm sorry if it doesn't because I, I know that's totally out of the blue. We haven't talked in a long time. I just felt like I had to tell you that for some reason." And I'm like, "Oh my God, grandmas." So I mean, if you buy the story, like, I mean, that happened. Some grandma is like, "Oh no, this boy needs to know I love him." Like hold up. But go grab the nearest person you can possibly-
+
+[01:10:43.188] Speaker 1: I forgot to say, I had so much to say, I forgot to say the most important thing. [chuckles]
+
+[01:10:46.968] Speaker 2: Well, I think it's more like, "Oh, you don't think that we-"
+
+[01:10:49.808] Speaker 1: Oh.
+
+[01:10:50.168] Speaker 2: "You didn't know that?" Like-
+
+[01:10:51.288] Speaker 1: Gotcha
+
+[01:10:51.368] Speaker 2: ... "Well, you need to know that." No, this is much more like, "You, I'm gonna make sure you know we love you."
+
+[01:10:56.028] Speaker 1: Hmm.
+
+[01:10:56.368] Speaker 2: And so I just, that's, if that's not such a grandma thing, but I get validation like this all the time. I don't get a lot of it because I think it's counterproductive.
+
+[01:11:08.548] Speaker 1: Hmm.
+
+[01:11:09.068] Speaker 2: And that's supposed, you're supposed to start trusting, trusting your non-primary physical senses more. But yeah, so I mean, all this stuff is what happens to me, um, at this stage, and I guess, you know, we can round it out with that-
+
+[01:11:24.428] Speaker 1: Yeah
+
+[01:11:24.448] Speaker 2: ... where I'm at now, if that's okay with you.
+
+[01:11:26.468] Speaker 1: Yeah. Yeah, this feels like a good place to begin landing. I'm curious-
+
+[01:11:30.628] Speaker 2: Yeah
+
+[01:11:30.648] Speaker 1: ... to hear like, you know, having shared all of that and gone through this process of reflecting, what meaning do you make of your journey?
+
+[01:11:38.468] Speaker 2: Well, I never expected this. What a plot twist of a life. I like to think of my life as a story now at this point. It, uh, a co-created story, [chuckles] but less attached to events. Um, I think that's a better way of looking at it. I realize the power of intention and that we can kind of have almost any experience we want within reason. You know, we're in a place where there are rules and order and physics, and that's, that's good. That's like a different thing. Like you're not gonna be able to snap your fingers and make a giant block of gold appear. Well, I mean,
+
+[01:12:13.328] Speaker 2: probably not. I, I don't... And that's good because it would defeat the purpose of a lot of the re- reason we're here. And so I think a stage of development I'm in now is I have everything I want in life for the most part. I'm happy, I'm healthy, I'm stable, and that's really when this started to pick up. And now I have a sense of why am I here? Both me authoring why I'm here, but also being receptive to more of being used like a tool, like in a sort of pre-agreement. You could call that a calling or a purpose, but a scribe.
+
+[01:12:48.348] Speaker 2: They actually kind of line up, and I feel like intuitively, much more directly, like literally just being told sometimes, "Yeah, why are you here?" Um, but it's more like a menu, like it's an offer. Here's what you're good at, here's what the world needs. Do this. Like, uh, just, uh, but mostly it's an intuitive sense. So I'm moving into a stage where I have a feeling like I know what I want out of life, and now I'm more interested in helping what you do with the good thing. Like, all of this is awesome. A surprise, like, uh, [chuckles] for those who are unaware, like, you're not gonna
+
+[01:13:23.276] Speaker 2: die when you're dead. You get to live forever, and reality is way, way better than you thought it was, and you can have almost anything you want.
+
+[01:13:29.136] Speaker 1: Mm-hmm.
+
+[01:13:29.316] Speaker 2: So, uh, there's the gift. In fact, uh, [chuckles] one of these journals is me waking up in the middle of the night, somebody very surprised, uh, like a surprise party and just like, "What is this thing?" Ha- telling me happy birthday. I think, uh, like, "What are you talking about?" [chuckles] It's like, "Well, you're about to get a gift," and then it's like, "What's the gift?" "It's the gift of everything. You're about to learn that it's all awesome, and you can have almost anything you want, and you're not gonna die." Like, "Oh, cool." Uh, but now I know it, right? I, I know it on a deeper
+
+[01:14:04.056] Speaker 2: level. Uh, so life is more playful and more, "What can I do with this?" Right? "How can I have fun? How can I live into this? How can I do something meaningful?" And that's sort of the stage I'm in. I feel like I... in, I'm in the rarefied position of, from my perspective, kinda understanding the 80/20 of how reality and consciousness works and who I am and f- how it all works, the big questions. I wrote yesterday in a journal that I feel like I have satisfactory and first-hand
+
+[01:14:39.816] Speaker 2: validated answers to all the big questions I've ever come up with. That is a very strange position to be in as a human being. [chuckles] Um, well, now that those boxes are checked, I guess I'm just gonna have fun and try to help other people have fun too. Uh, so that's where I'm at.
+
+[01:14:58.296] Speaker 1: Hmm.
+
+[01:15:00.016] Speaker 2: I recommend it.
+
+[01:15:01.136] Speaker 1: I really like that you said reality is way better than you think it is. [chuckles]
+
+[01:15:05.776] Speaker 2: Yeah.
+
+[01:15:06.176] Speaker 1: I love that.
+
+[01:15:06.436] Speaker 2: And it keeps happening.
+
+[01:15:07.816] Speaker 1: Yeah. Yeah, and so much of your story just testifies to that. So I'm-
+
+[01:15:12.436] Speaker 2: Hmm. Yeah
+
+[01:15:12.936] Speaker 1: ... you know, thanking you for bringing that up and-
+
+[01:15:15.636] Speaker 2: Sure. [clears throat]
+
+[01:15:16.956] Speaker 1: If anyone listening is moving through their own rupture, what would you like them to hear?
+
+[01:15:22.656] Speaker 2: I would say that your thoughts, emotions, feelings, beliefs are, um, not just-- They are not you, so chill out. Uh, they're part of an experience, but they are also what's controlling what you get to a large degree, eventually, right? It's y- imagination. All of these things that I treated as secondary or ephemeral or just like icing on a reality cake, turns out they are what determines the cake, like eventually. Think of it as like steering something very slowly, but
+
+[01:15:57.416] Speaker 2: sometimes not so slowly. And the more you can lean into that, the more you'll get what you want. Like, you're always creating your own reality to a degree, or largely influencing here, uh, eventually creating, um, whole cloth. And that, um, the good news is you were, you have inherited a unconditionally loving and completely connected universe that wants nothing but to give you everything you want and cares about you and fundamentally, like no conditions. Uh, it didn't have to be this good.
+
+[01:16:32.416] Speaker 2: Uh, it doesn't always feel that way from our current seat, um, but we're playing on hard mode right now. And, um, don't worry so much because the big things are already sorted out. You already inherited, like, everything you could ever want, and even if you screw up here completely, it doesn't really matter. You're already good [chuckles] forever. So don't worry too much. And if that doesn't feel true yet, the advice I keep getting over and over again every time I hit a moment where it's like, "Holy crap, like, what is reality? How do I go to work tomorrow?
+
+[01:17:07.896] Speaker 2: I can see through my eyelids, and [chuckles] I'm talking to people in my head that appear to be real. Like, I don't know. How do I keep going? Like, how do I integrate this? Like, how do I make sense of anything? What is even real anymore?" The answer is just keep going.
+
+[01:17:22.076] Speaker 1: Mm-hmm.
+
+[01:17:22.276] Speaker 2: If you can do that, if you can somehow get yourself to a positive orientation and just keep going, you'll make it. Like you'll, you'll find your own experiences. You have your own revelations. You'll have your own... It won't be the same as mine. We're all different. And so you get your own personalized experience, um, and it'll keep happening. The magic will be in the world as long as you expect it to be there and as long as you keep playing.
+
+[01:17:53.876] Speaker 1: Hmm.
+
+[01:17:53.936] Speaker 2: So hopefully that's helpful. Just don't stop playing.
+
+[01:17:57.256] Speaker 1: Hmm. Don't stop playing. I dig it. Do you have any, um, anywhere people can find out about your work or your writing, your thinking?
+
+[01:18:08.396] Speaker 2: Yeah. I have-- I write fiction, but it's not super relevant to this. Um, but I, I've been trying to write about my experiences or distilling, I think, important lessons on a blog. That's, that was the differentcompass.ink. I don't get anything out of this. It's just read it. Uh, I don't need anything. I'm in the, a wonderful position of I've got what I need. I just wanna-
+
+[01:18:31.156] Speaker 1: Good
+
+[01:18:31.456] Speaker 2: ... have good times with good people. Um, so by all means, if you found this useful, please go read that. Uh, but you kinda already have everything you need. This is the advice I give to everyone else. But if I can help you make sense of it or, uh, Joshua can, by all means, borrow and cheat and steal. I've cheated every opportunity I get.
+
+[01:18:49.616] Speaker 1: [chuckles]
+
+[01:18:50.176] Speaker 2: Why wait in line?
+
+[01:18:51.976] Speaker 1: Yeah. All right. Thank you, Steven. Um, as we're closing, I'm just like feeling gratitude and, you know, awe in hearing your story and reinvigorated on my own path and practice. And, um, so many of the things you've brought into the circle that we've initiated together and, you know, in our conversations have motivated me to, you know, try new things and go in new paths. And every time I close my eyes now, I'm like, I tell myself, "I can see without my
+
+[01:19:26.708] Speaker 1: eyes." And I'm just-
+
+[01:19:27.768] Speaker 2: Mm.
+
+[01:19:28.248] Speaker 1: ... you know, even as the-- at the end of my meditation, I've been trying to affirm that, remember to affirm that. And, uh-
+
+[01:19:34.248] Speaker 2: Heck yeah.
+
+[01:19:34.908] Speaker 1: So I'm excited to know you and be inspired on the path, the path that you're, you're treading your, for your own life. Yeah, in a couple words, like, how are you checking out today?
+
+[01:19:45.808] Speaker 2: I'm just grateful to have fellow people to be on the journey with, you know? And, um, I just hope that-- I don't want anyone to ever... Inspired is, is exactly what I hope for, because I kinda just want other people to go get their own version of this. It's waiting for them. You don't have to live in mundane reality anymore. If you just ask, just say, "Hey, I want my version of this," and then take whatever breadcrumb comes your way, and something will, and just keep following those. The universe, the universe will play with you however you wanna frame it. Um, it'll give you the next step.
+
+[01:20:20.848] Speaker 2: Keep following those steps, and you can have your own version of this, and I, I hope that everyone does that, you included. 'Cause I, I wanna live in that world with other people. Who wants to do it alone? That's no fun.
+
+[01:20:31.768] Speaker 1: Let's all become yogis with yogic superpowers, flying around-
+
+[01:20:36.088] Speaker 2: Yeah, whatever your version is, yeah
+
+[01:20:36.668] Speaker 1: ... communicating with our mind, and build a world like that. [laughs]
+
+[01:20:41.628] Speaker 2: Sure.
+
+[01:20:41.648] Speaker 1: That's a fun-
+
+[01:20:41.888] Speaker 2: Whatever you want
+
+[01:20:42.248] Speaker 1: ... that's a fun world. I, I wanna live it. Cool. Thank you, Steven. Um, we always like to close with a little offering from the guest, so if you have something, please share it with us.
+
+[01:20:53.568] Speaker 2: Cool. Um, I did select something. I wrote a poem. I don't usually like poetry because it makes me do too much work, and that stresses me out. Like, did I understand it correctly? I don't know. So I don't actually enjoy it because it's, I'm too psyched out about it. But I decided to write one, um, and this happened after one of, one of many things that I, I never thought could actually be true ended up being true. So that's the context to know. Uh, it's, the poem itself is called To Know. To know that you really are the
+
+[01:21:28.068] Speaker 2: person you hoped you'd be, that the things you told yourself you didn't need were fundamental truths from a changed heart and not the lamentations of a spurned one. When this life offers you opportunity to prove, you will feel that solitary triumph. No one knows if the tension held so long even you forgot it was there. It was true. Oh, it was true all along. This is what it feels like to know they were not just words.
+
+[01:22:02.908] Speaker 1: [outro music] Thank you again for joining us in this circle of ruptures and roots. These stories remind us that rupture isn't the end. It's where roots begin to reach once more for life. If this conversation touched something in you, then I invite you to sit with it, let it ripple, and maybe share it with someone who might also feel the resonance. This work is offered in the spirit of the gift. If you feel called to honor the energy and commitment that goes into creating this podcast, then I invite you to become a paid subscriber on Substack
+
+[01:22:37.868] Speaker 1: at gospelsofrupture.substack.com. Until next time, may you find nourishment in the roots beneath you and courage in the ruptures that open your path. [outro music]

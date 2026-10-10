@@ -1,0 +1,59 @@
+{
+  "source_path": "collected/011-mortal-steel-episode-6.mp3",
+  "automated_flags": [
+    {
+      "kind": "word_duration_over_3s",
+      "word_index": 2,
+      "text": "Mortal",
+      "start": 8.86,
+      "end": 54.44,
+      "note": "Suspicious word alignment; raw timestamp preserved."
+    },
+    {
+      "kind": "word_duration_over_3s",
+      "word_index": 6014,
+      "text": "feed",
+      "start": 1590.118,
+      "end": 1593.178,
+      "note": "Suspicious word alignment; raw timestamp preserved."
+    },
+    {
+      "kind": "low_word_logprob",
+      "word_index": 6091,
+      "start": 1611.578,
+      "end": 1611.658,
+      "text": " ",
+      "logprob": -1.4509881734848022
+    },
+    {
+      "kind": "low_word_logprob",
+      "word_index": 6092,
+      "start": 1611.658,
+      "end": 1613.198,
+      "text": "come?",
+      "logprob": -1.1684726901352405
+    },
+    {
+      "kind": "speech_gap_over_20s",
+      "start": 1463.428,
+      "end": 1514.318,
+      "note": "May be music, silence or an omission; review audio."
+    }
+  ],
+  "flags_are_review_candidates_not_confirmed_errors": true,
+  "raw_word_count": 6297,
+  "spoken_word_count": 3135,
+  "speaker_ids": [
+    "speaker_0",
+    "speaker_1",
+    "speaker_2",
+    "speaker_3",
+    "speaker_4",
+    "speaker_5"
+  ],
+  "subtitle_cue_count": 316,
+  "first_speech_seconds": 8.86,
+  "last_speech_seconds": 1672.238,
+  "human_correction_status": "uncorrected",
+  "source_offset_seconds": 0
+}

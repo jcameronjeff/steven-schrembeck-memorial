@@ -1,0 +1,33 @@
+{
+  "source_path": "interviews/beyond-logic-steven-schrembeck-on-mind-sight-soul-families-and-the-edges-of-consciousness.mp3",
+  "automated_flags": [
+    {
+      "kind": "low_word_logprob",
+      "word_index": 3580,
+      "start": 627.356,
+      "end": 627.416,
+      "text": " ",
+      "logprob": -1.0616559982299805
+    },
+    {
+      "kind": "word_duration_over_3s",
+      "word_index": 30899,
+      "text": "gospelsofrupture.substack.com.",
+      "start": 4958.028,
+      "end": 4962.248,
+      "note": "Suspicious word alignment; raw timestamp preserved."
+    }
+  ],
+  "flags_are_review_candidates_not_confirmed_errors": true,
+  "raw_word_count": 30944,
+  "spoken_word_count": 15345,
+  "speaker_ids": [
+    "speaker_0",
+    "speaker_1"
+  ],
+  "subtitle_cue_count": 1216,
+  "first_speech_seconds": 4.019,
+  "last_speech_seconds": 4968.268,
+  "human_correction_status": "uncorrected",
+  "source_offset_seconds": 0
+}

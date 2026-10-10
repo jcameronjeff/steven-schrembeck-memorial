@@ -1,0 +1,14 @@
+HTTP/2 200 
+age: 234784
+cache-control: public, max-age=0, must-revalidate
+content-type: text/html; charset=utf-8
+date: Tue, 11 Aug 2026 02:56:59 GMT
+etag: "kiqjm3vd564b45"
+server: Vercel
+strict-transport-security: max-age=63072000
+x-matched-path: /what-are-you-what-am-i
+x-powered-by: Next.js
+x-vercel-cache: STALE
+x-vercel-id: iad1::iad1::86xzz-1791653592447-29824471589f
+content-length: 201643
+

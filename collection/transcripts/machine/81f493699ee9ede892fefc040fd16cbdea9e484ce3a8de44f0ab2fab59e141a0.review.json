@@ -1,0 +1,32 @@
+{
+  "source_path": "collected/046-allegiance-episode-2-raw.mp3",
+  "automated_flags": [
+    {
+      "kind": "word_duration_over_3s",
+      "word_index": 0,
+      "text": "Allegiance.",
+      "start": 0.26,
+      "end": 15.8,
+      "note": "Suspicious word alignment; raw timestamp preserved."
+    },
+    {
+      "kind": "word_duration_over_3s",
+      "word_index": 3988,
+      "text": "\"Mornin',",
+      "start": 811.872,
+      "end": 815.472,
+      "note": "Suspicious word alignment; raw timestamp preserved."
+    }
+  ],
+  "flags_are_review_candidates_not_confirmed_errors": true,
+  "raw_word_count": 7141,
+  "spoken_word_count": 3571,
+  "speaker_ids": [
+    "speaker_0"
+  ],
+  "subtitle_cue_count": 268,
+  "first_speech_seconds": 0.26,
+  "last_speech_seconds": 1469.842,
+  "human_correction_status": "uncorrected",
+  "source_offset_seconds": 0
+}

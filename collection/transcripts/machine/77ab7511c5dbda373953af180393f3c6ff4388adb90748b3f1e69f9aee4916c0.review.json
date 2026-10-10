@@ -1,0 +1,29 @@
+{
+  "source_path": "collected/041-the-eighth-self-episode-1-raw.mp3",
+  "automated_flags": [
+    {
+      "kind": "word_duration_over_3s",
+      "word_index": 0,
+      "text": "The",
+      "start": 0.1,
+      "end": 29.58,
+      "note": "Suspicious word alignment; raw timestamp preserved."
+    },
+    {
+      "kind": "trailing_no_speech",
+      "start": 1656.948,
+      "end": 1678.584
+    }
+  ],
+  "flags_are_review_candidates_not_confirmed_errors": true,
+  "raw_word_count": 8455,
+  "spoken_word_count": 4227,
+  "speaker_ids": [
+    "speaker_0"
+  ],
+  "subtitle_cue_count": 302,
+  "first_speech_seconds": 0.1,
+  "last_speech_seconds": 1656.948,
+  "human_correction_status": "uncorrected",
+  "source_offset_seconds": 0
+}

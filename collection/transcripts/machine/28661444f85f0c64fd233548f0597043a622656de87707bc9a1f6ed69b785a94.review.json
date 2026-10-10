@@ -1,0 +1,54 @@
+{
+  "source_path": "interviews/1300-empowering-minds-with-ai-steven-schrembeck-on-technology-self-control-and-mental-clarity.mp3",
+  "automated_flags": [
+    {
+      "kind": "low_word_logprob",
+      "word_index": 1231,
+      "start": 219.04,
+      "end": 219.3,
+      "text": " ",
+      "logprob": -1.1696635484695435
+    },
+    {
+      "kind": "low_word_logprob",
+      "word_index": 1471,
+      "start": 261.16,
+      "end": 261.22,
+      "text": " ",
+      "logprob": -1.0226802825927734
+    },
+    {
+      "kind": "low_word_logprob",
+      "word_index": 10611,
+      "start": 1721.226,
+      "end": 1721.246,
+      "text": " ",
+      "logprob": -2.551910877227783
+    },
+    {
+      "kind": "low_word_logprob",
+      "word_index": 10612,
+      "start": 1721.246,
+      "end": 1721.406,
+      "text": "Visit",
+      "logprob": -2.551910877227783
+    }
+  ],
+  "flags_are_review_candidates_not_confirmed_errors": true,
+  "raw_word_count": 10623,
+  "spoken_word_count": 5291,
+  "speaker_ids": [
+    "speaker_0",
+    "speaker_1",
+    "speaker_2",
+    "speaker_3",
+    "speaker_4",
+    "speaker_5",
+    "speaker_6"
+  ],
+  "subtitle_cue_count": 383,
+  "first_speech_seconds": 0.46,
+  "last_speech_seconds": 1723.006,
+  "human_correction_status": "uncorrected",
+  "source_offset_seconds": 0
+}

@@ -1,0 +1,15 @@
+{
+  "source_path": "youtube/20230216-BHegBC0tO6M-Reverie - The Answer.mkv",
+  "automated_flags": [],
+  "flags_are_review_candidates_not_confirmed_errors": true,
+  "raw_word_count": 4493,
+  "spoken_word_count": 2247,
+  "speaker_ids": [
+    "speaker_0"
+  ],
+  "subtitle_cue_count": 185,
+  "first_speech_seconds": 1.64,
+  "last_speech_seconds": 1021.172,
+  "human_correction_status": "uncorrected",
+  "source_offset_seconds": 0.0
+}

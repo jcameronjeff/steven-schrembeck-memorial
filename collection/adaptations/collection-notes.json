@@ -1,0 +1,15 @@
+{
+  "retrieved": "2026-10-10",
+  "inside_your_house": {
+    "feed": "https://www.buzzsprout.com/2286732.rss",
+    "download": "HTTP 403; not saved"
+  },
+  "lighthouse_horror": {
+    "feed": "https://anchor.fm/s/e5471e64/podcast/rss",
+    "download": "https://traffic.megaphone.fm/APO7801767676.mp3",
+    "saved": true,
+    "duration_seconds": 1555.435,
+    "bytes": 24962141,
+    "sha256": "ad601d7a3b927cc04b204282f20b6c1ba0fb9c0ed3f4dfc988363d50ad388163"
+  }
+}

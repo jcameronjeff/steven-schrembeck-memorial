@@ -1,0 +1,82 @@
+{
+  "source_path": "collected/042-the-stillness-episode-2-raw.mp3",
+  "automated_flags": [
+    {
+      "kind": "low_word_logprob",
+      "word_index": 1569,
+      "start": 321.76,
+      "end": 321.8,
+      "text": " ",
+      "logprob": -3.1472160816192627
+    },
+    {
+      "kind": "low_word_logprob",
+      "word_index": 1570,
+      "start": 321.8,
+      "end": 321.92,
+      "text": "they",
+      "logprob": -3.1472160816192627
+    },
+    {
+      "kind": "low_word_logprob",
+      "word_index": 1571,
+      "start": 321.92,
+      "end": 321.98,
+      "text": " ",
+      "logprob": -1.197369933128357
+    },
+    {
+      "kind": "low_word_logprob",
+      "word_index": 1572,
+      "start": 321.98,
+      "end": 322.14,
+      "text": "got",
+      "logprob": -1.197369933128357
+    },
+    {
+      "kind": "low_word_logprob",
+      "word_index": 4887,
+      "start": 961.26,
+      "end": 961.26,
+      "text": " ",
+      "logprob": -1.377256989479065
+    },
+    {
+      "kind": "low_word_logprob",
+      "word_index": 6009,
+      "start": 1156.636,
+      "end": 1156.696,
+      "text": " ",
+      "logprob": -1.6886128187179565
+    },
+    {
+      "kind": "low_word_logprob",
+      "word_index": 6010,
+      "start": 1156.696,
+      "end": 1157.196,
+      "text": "Ermia",
+      "logprob": -1.2156133890151977
+    },
+    {
+      "kind": "leading_no_speech",
+      "start": 0,
+      "end": 32.0
+    },
+    {
+      "kind": "trailing_no_speech",
+      "start": 1196.136,
+      "end": 1249.944
+    }
+  ],
+  "flags_are_review_candidates_not_confirmed_errors": true,
+  "raw_word_count": 6221,
+  "spoken_word_count": 3111,
+  "speaker_ids": [
+    "speaker_0"
+  ],
+  "subtitle_cue_count": 221,
+  "first_speech_seconds": 32.0,
+  "last_speech_seconds": 1196.136,
+  "human_correction_status": "uncorrected",
+  "source_offset_seconds": 0
+}

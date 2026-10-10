@@ -1,0 +1,24 @@
+{
+  "source_path": "reality/008-bonus-what-i-know-about-telepathy.mp3",
+  "automated_flags": [
+    {
+      "kind": "low_word_logprob",
+      "word_index": 19881,
+      "start": 3271.376,
+      "end": 3271.416,
+      "text": " ",
+      "logprob": -1.137819766998291
+    }
+  ],
+  "flags_are_review_candidates_not_confirmed_errors": true,
+  "raw_word_count": 21075,
+  "spoken_word_count": 10472,
+  "speaker_ids": [
+    "speaker_0"
+  ],
+  "subtitle_cue_count": 745,
+  "first_speech_seconds": 5.12,
+  "last_speech_seconds": 3464.886,
+  "human_correction_status": "uncorrected",
+  "source_offset_seconds": 0
+}

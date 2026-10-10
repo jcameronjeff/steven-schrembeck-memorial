@@ -1,0 +1,54 @@
+{
+  "source_path": "collected/007-mortal-steel-episode-9.mp3",
+  "automated_flags": [
+    {
+      "kind": "word_duration_over_3s",
+      "word_index": 2,
+      "text": "Mortal",
+      "start": 8.86,
+      "end": 55.44,
+      "note": "Suspicious word alignment; raw timestamp preserved."
+    },
+    {
+      "kind": "word_duration_over_3s",
+      "word_index": 4253,
+      "text": "clear.",
+      "start": 1078.004,
+      "end": 1081.504,
+      "note": "Suspicious word alignment; raw timestamp preserved."
+    },
+    {
+      "kind": "speech_gap_over_20s",
+      "start": 636.108,
+      "end": 670.548,
+      "note": "May be music, silence or an omission; review audio."
+    },
+    {
+      "kind": "speech_gap_over_20s",
+      "start": 1193.388,
+      "end": 1216.288,
+      "note": "May be music, silence or an omission; review audio."
+    },
+    {
+      "kind": "speech_gap_over_20s",
+      "start": 1558.08,
+      "end": 1612.78,
+      "note": "May be music, silence or an omission; review audio."
+    }
+  ],
+  "flags_are_review_candidates_not_confirmed_errors": true,
+  "raw_word_count": 6552,
+  "spoken_word_count": 3220,
+  "speaker_ids": [
+    "speaker_0",
+    "speaker_1",
+    "speaker_2",
+    "speaker_3",
+    "speaker_4"
+  ],
+  "subtitle_cue_count": 327,
+  "first_speech_seconds": 8.86,
+  "last_speech_seconds": 1735.82,
+  "human_correction_status": "uncorrected",
+  "source_offset_seconds": 0
+}

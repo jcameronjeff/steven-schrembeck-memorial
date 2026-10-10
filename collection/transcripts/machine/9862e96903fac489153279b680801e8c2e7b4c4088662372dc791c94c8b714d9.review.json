@@ -1,0 +1,53 @@
+{
+  "source_path": "collected/033-planescarred-episode-1.mp3",
+  "automated_flags": [
+    {
+      "kind": "word_duration_over_3s",
+      "word_index": 0,
+      "text": "Planesguard.",
+      "start": 0.42,
+      "end": 56.02,
+      "note": "Suspicious word alignment; raw timestamp preserved."
+    },
+    {
+      "kind": "low_word_logprob",
+      "word_index": 965,
+      "start": 268.36,
+      "end": 268.42,
+      "text": " ",
+      "logprob": -1.1885225772857666
+    },
+    {
+      "kind": "word_duration_over_3s",
+      "word_index": 4118,
+      "text": "\"You",
+      "start": 924.732,
+      "end": 928.032,
+      "note": "Suspicious word alignment; raw timestamp preserved."
+    },
+    {
+      "kind": "low_word_logprob",
+      "word_index": 7747,
+      "start": 1684.46,
+      "end": 1684.54,
+      "text": " ",
+      "logprob": -1.1489511728286743
+    },
+    {
+      "kind": "trailing_no_speech",
+      "start": 1763.2,
+      "end": 1835.784
+    }
+  ],
+  "flags_are_review_candidates_not_confirmed_errors": true,
+  "raw_word_count": 8127,
+  "spoken_word_count": 4059,
+  "speaker_ids": [
+    "speaker_0"
+  ],
+  "subtitle_cue_count": 310,
+  "first_speech_seconds": 0.42,
+  "last_speech_seconds": 1763.2,
+  "human_correction_status": "uncorrected",
+  "source_offset_seconds": 0
+}

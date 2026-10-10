@@ -1,0 +1,29 @@
+{
+  "source_path": "collected/003-mine-an-unofficial-merry-modz-audio-short.mp3",
+  "automated_flags": [
+    {
+      "kind": "leading_no_speech",
+      "start": 0,
+      "end": 25.0
+    },
+    {
+      "kind": "trailing_no_speech",
+      "start": 153.48,
+      "end": 178.964898
+    }
+  ],
+  "flags_are_review_candidates_not_confirmed_errors": true,
+  "raw_word_count": 263,
+  "spoken_word_count": 112,
+  "speaker_ids": [
+    "speaker_1",
+    "speaker_2",
+    "speaker_3",
+    "speaker_4"
+  ],
+  "subtitle_cue_count": 33,
+  "first_speech_seconds": 25.0,
+  "last_speech_seconds": 153.48,
+  "human_correction_status": "uncorrected",
+  "source_offset_seconds": 0
+}

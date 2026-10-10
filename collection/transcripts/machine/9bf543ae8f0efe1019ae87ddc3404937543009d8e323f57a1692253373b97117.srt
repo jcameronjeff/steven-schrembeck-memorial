@@ -1,0 +1,2833 @@
+1
+00:00:00,200 --> 00:00:05,600
+Speaker 1: Welcome back to AI for Founders. I'm
+your host, Ryan Estis. I am not AI. Today's
+
+2
+00:00:05,660 --> 00:00:10,280
+Speaker 1: episode is a deep one. I'm joined by
+Stephen Schrembach, founder of Impossible Labs
+
+3
+00:00:10,300 --> 00:00:15,400
+Speaker 1: and a thinker at the intersection of
+AI, consciousness, and human meaning. But this
+
+4
+00:00:15,460 --> 00:00:19,720
+Speaker 1: isn't just another tech chat.
+Stephen's an explorer, blending software
+engineering
+
+5
+00:00:19,740 --> 00:00:24,020
+Speaker 1: with over 1,000 hours of meditation
+practice. We talk about brain-computer
+
+6
+00:00:24,220 --> 00:00:30,220
+Speaker 1: interface, sensory substitution,
+psychedelics, even close encounters with UFOs,
+my
+
+7
+00:00:30,320 --> 00:00:34,740
+Speaker 1: favorite stuff. It's a conversation
+that challenges assumptions about what's real,
+
+8
+00:00:34,840 --> 00:00:39,240
+Speaker 1: what's possible, and what it means to
+be human in a world rapidly reshaped by
+
+9
+00:00:39,280 --> 00:00:42,720
+Speaker 1: artificial intelligence. If you're
+curious about where technology ends and
+
+10
+00:00:42,820 --> 00:00:47,180
+Speaker 1: consciousness begins, or even if
+there's a boundary, then this episode is for
+you.
+
+11
+00:00:47,420 --> 00:00:51,760
+Speaker 1: Let's dive in. But first, some
+business. This episode is brought to you by
+
+12
+00:00:51,800 --> 00:00:56,660
+Speaker 1: Kickcaster, the podcast agency
+trusted by over 800 founders, executives, and
+thought
+
+13
+00:00:56,700 --> 00:01:01,460
+Speaker 1: leaders. If you're building a brand,
+raising capital, hiring top talent, or want to
+
+14
+00:01:01,520 --> 00:01:06,360
+Speaker 1: share your story, there's no better
+way than going on podcasts. In Kickcaster, we
+
+15
+00:01:06,400 --> 00:01:10,420
+Speaker 1: book you on shows that matter,
+relevant audiences, thoughtful hosts, and
+
+16
+00:01:10,500 --> 00:01:14,840
+Speaker 1: conversations that convert. You don't
+need to cold pitch or chase opportunities. We
+
+17
+00:01:14,880 --> 00:01:19,340
+Speaker 1: do it all for you. We've placed
+clients on over 14,000 podcasts, and we're just
+
+18
+00:01:19,380 --> 00:01:24,360
+Speaker 1: getting started. Ready to turn your
+ideas into influence? Visit kickcaster.com and
+
+19
+00:01:24,400 --> 00:01:29,200
+Speaker 1: apply to become a guest today. Let's
+get your voice out there. That's Kickcaster by
+
+20
+00:01:29,260 --> 00:01:34,960
+Speaker 1: Moburst. [singing] AI alive tonight.
+Shining stars,
+
+21
+00:01:35,040 --> 00:01:40,540
+Speaker 1: computer light. AI, take the flight.
+
+22
+00:01:41,340 --> 00:01:46,300
+Speaker 1: In the glow of neon bright. All
+right, Stephen, how are you doing? Thanks for
+coming
+
+23
+00:01:46,320 --> 00:01:46,840
+Speaker 1: on the show.
+
+24
+00:01:49,080 --> 00:01:52,420
+Speaker 2: I'm having a pretty good day,
+actually. Just finished a run, so feeling pretty
+
+25
+00:01:52,480 --> 00:01:55,260
+Speaker 2: mellow. Did a long meditation. Ready
+to chat.
+
+26
+00:01:55,540 --> 00:01:59,460
+Speaker 1: Tremendous. And that's really what I
+want to speak with you to begin. I want to hear
+
+27
+00:01:59,500 --> 00:02:03,660
+Speaker 1: about all your projects, but, you
+know, w- when you became available for an
+
+28
+00:02:03,740 --> 00:02:08,120
+Speaker 1: interview, one thing really stood
+out, and that's this: the intersection of AI and
+
+29
+00:02:08,199 --> 00:02:13,360
+Speaker 1: human meaning, meditation research,
+brain-computer interfaces, and sensory
+
+30
+00:02:13,460 --> 00:02:18,540
+Speaker 1: substitution. So because you
+mentioned meditation, let's start there. What,
+what
+
+31
+00:02:18,600 --> 00:02:20,060
+Speaker 1: kind of meditation or... do you do?
+
+32
+00:02:22,820 --> 00:02:27,340
+Speaker 2: Um, I... At this point, I have my own
+spin on it. I don't follow a specific school
+
+33
+00:02:27,400 --> 00:02:32,080
+Speaker 2: or methodology, although I like to
+borrow from them. I do, uh, frankly, I do about
+
+34
+00:02:32,160 --> 00:02:36,720
+Speaker 2: an hour of meditation every morning.
+Uh, I've, I've probably got maybe 1,000 hours
+
+35
+00:02:36,780 --> 00:02:40,780
+Speaker 2: under my belt, so I'm not, like, a
+guru or anything, but for me, it's, like, two
+
+36
+00:02:40,820 --> 00:02:41,620
+Speaker 2: different things. It's-
+
+37
+00:02:42,160 --> 00:02:42,260
+Speaker 1: Okay
+
+38
+00:02:42,260 --> 00:02:45,820
+Speaker 2: ... this is how I reset myself. This
+is how I get my brain and body to function.
+
+39
+00:02:46,280 --> 00:02:51,040
+Speaker 2: Like, this is... It has a bigger
+effect than almost anything else I do in life,
+even
+
+40
+00:02:51,080 --> 00:02:55,160
+Speaker 2: than medications, anything like that,
+besides maybe sleep. And the other is, like,
+
+41
+00:02:55,840 --> 00:02:59,920
+Speaker 2: inner space exploration, right? It's
+that we've got this tool to explore what is
+
+42
+00:02:59,960 --> 00:03:05,040
+Speaker 2: reality, right? What is... How do
+we... How does consciousness interact with, you
+
+43
+00:03:05,060 --> 00:03:08,860
+Speaker 2: know, the physical world, and what
+are the rules? And so you got this tool to probe
+
+44
+00:03:08,920 --> 00:03:13,460
+Speaker 2: at, you know, what are the, the rules
+of experience. And I can't think of a better
+
+45
+00:03:13,520 --> 00:03:18,260
+Speaker 2: tool for exploration for, like,
+meaning and purpose and our place in the world,
+what
+
+46
+00:03:18,320 --> 00:03:22,380
+Speaker 2: matters, how it all works. So, I
+mean, that's the other big thing. That's what it
+is
+
+47
+00:03:22,420 --> 00:03:22,700
+Speaker 2: to me.
+
+48
+00:03:23,960 --> 00:03:28,000
+Speaker 1: Amazing. Okay. So you've got 1,000
+hours under your belt. What brought you to the
+
+49
+00:03:28,060 --> 00:03:28,440
+Speaker 1: cushion?
+
+50
+00:03:31,120 --> 00:03:34,980
+Speaker 2: Well, I started out probably like a
+lot of people. It's, "Okay, I'll do 10 minutes
+
+51
+00:03:35,000 --> 00:03:38,540
+Speaker 2: here, 20 minutes here. I'll guilt
+trip myself into it. I'll take a couple months
+
+52
+00:03:38,620 --> 00:03:42,680
+Speaker 2: off." [laughs] It's a... You know, it
+was a, it was a thing you should do, you know?
+
+53
+00:03:43,180 --> 00:03:49,100
+Speaker 2: Um, and then at some point, I read,
+um, the autobiography from Michael Singer. I
+
+54
+00:03:49,140 --> 00:03:52,940
+Speaker 2: think it's The Surrender Experiment.
+Then I read his, um, his actual book after
+
+55
+00:03:52,980 --> 00:03:53,840
+Speaker 2: that. Um,
+
+56
+00:03:56,340 --> 00:04:00,820
+Speaker 2: the name escapes me at this point.
+Um, it'll come back. The Untethered Soul. Uh,
+and
+
+57
+00:04:00,880 --> 00:04:04,340
+Speaker 2: he talked about just, like, "Oh, I
+did, like, this two-hour meditation and had this
+
+58
+00:04:04,400 --> 00:04:08,900
+Speaker 2: profound, like, experience." And I'm
+like, "What? You can do that just by sitting
+
+59
+00:04:08,940 --> 00:04:13,200
+Speaker 2: there?" [laughs] Like, I had no idea
+that this was even a thing. Very naïve at this
+
+60
+00:04:13,260 --> 00:04:17,180
+Speaker 2: point in time. Didn't know anything
+about, you know, you know, yoga traditions or
+
+61
+00:04:17,220 --> 00:04:21,579
+Speaker 2: the yogis or, you know, there's paths
+to enlightenment or th- different techniques
+
+62
+00:04:21,640 --> 00:04:26,240
+Speaker 2: or any of the altered states that are
+possible without psychedelics or anything,
+
+63
+00:04:26,360 --> 00:04:29,500
+Speaker 2: right? No intervention at all. The
+things you can do with just your own mind and
+
+64
+00:04:29,900 --> 00:04:35,000
+Speaker 2: where you put your attention and your
+concentration is crazy, and I had no idea you
+
+65
+00:04:35,040 --> 00:04:39,820
+Speaker 2: could reach these kinds of
+experiences or, like, insight just by sitting
+there
+
+66
+00:04:39,860 --> 00:04:43,320
+Speaker 2: properly, and that's really what
+brought me in is this fascination. It's the same
+
+67
+00:04:43,340 --> 00:04:46,400
+Speaker 2: thing that draws me to technology.
+It's like, I gotta know. I gotta play with it.
+
+68
+00:04:46,500 --> 00:04:50,420
+Speaker 2: I'm curious. I need to know the
+rules, and can I do some engineering [laughs]
+with
+
+69
+00:04:50,480 --> 00:04:53,960
+Speaker 2: it once I understand how it works?
+So, yeah, that's, that's what pulled me in.
+
+70
+00:04:54,140 --> 00:04:57,780
+Speaker 1: Amazing. And then when you're
+sitting, you said you're pulling from multiple
+
+71
+00:04:57,820 --> 00:05:02,500
+Speaker 1: traditions, uh, but nothing in
+particular. What are you doing when you're, when
+
+72
+00:05:02,540 --> 00:05:03,500
+Speaker 1: you're meditating?
+
+73
+00:05:05,840 --> 00:05:10,440
+Speaker 2: So my basic protocol... Again, I,
+I... Sometimes it's, oh, I realize I'm angry and
+
+74
+00:05:10,500 --> 00:05:13,320
+Speaker 2: stressed out, and most of the session
+is just, like, resetting to zero, right?
+
+75
+00:05:13,360 --> 00:05:19,220
+Speaker 2: That's, that's not exciting. Um, my
+basic protocol, uh, draws, right, from the
+
+76
+00:05:19,260 --> 00:05:24,820
+Speaker 2: Yoga Sutras, right? It's, it's pretty
+simple. It is a process of letting go,
+
+77
+00:05:25,280 --> 00:05:29,040
+Speaker 2: attempting to find a center, and
+basically whatever you're putting your attention
+on
+
+78
+00:05:29,660 --> 00:05:33,340
+Speaker 2: is not the thing to put your
+attention on. And it is a process of
+progressively
+
+79
+00:05:33,380 --> 00:05:37,080
+Speaker 2: relaxing and moving your attention
+almost like a, like a knot. [laughs] You just
+
+80
+00:05:37,120 --> 00:05:40,980
+Speaker 2: continue to invert whatever you're
+looking at. Not without freaking out or
+anything,
+
+81
+00:05:41,160 --> 00:05:46,120
+Speaker 2: but it's basically moving from big,
+overt bodily sensations to, okay, now emotional.
+
+82
+00:05:46,280 --> 00:05:50,960
+Speaker 2: Now I'm aware of thoughts. It's a
+continual separation of, oh, that's not me.
+That's
+
+83
+00:05:50,980 --> 00:05:55,540
+Speaker 2: not me. That's not me, until there's
+nothing left but the sense of self, and then if
+
+84
+00:05:55,580 --> 00:05:59,960
+Speaker 2: you want to, you can try to keep
+going and have an ego death experience. That's,
+
+85
+00:06:00,300 --> 00:06:04,860
+Speaker 2: frankly, not a realistic goal for
+most sessions. It... I really don't enjoy it. I
+
+86
+00:06:04,900 --> 00:06:08,540
+Speaker 2: don't... It's not, like, a fun
+experience. But there are other... Sometimes
+I'll
+
+87
+00:06:08,560 --> 00:06:12,280
+Speaker 2: pick other targets for meditation
+depending on what I'm trying to do, but that's
+my,
+
+88
+00:06:12,520 --> 00:06:13,020
+Speaker 2: my go-to.
+
+89
+00:06:14,516 --> 00:06:20,136
+Speaker 1: Nice. Um, and why not choose a
+particular path?
+
+90
+00:06:20,536 --> 00:06:26,216
+Speaker 1: Why not zazen? Why not, um, you know,
+a mindfulness-based stress reduction?
+
+91
+00:06:26,376 --> 00:06:32,196
+Speaker 1: Why not Dzogchen? Is there, is there,
+uh, something you're gaining by not committing
+
+92
+00:06:32,256 --> 00:06:33,736
+Speaker 1: to a particular dogma?
+
+93
+00:06:36,196 --> 00:06:38,056
+Speaker 2: I am totally open to being naive,
+and-
+
+94
+00:06:38,056 --> 00:06:38,336
+Speaker 1: [laughs]
+
+95
+00:06:38,336 --> 00:06:42,436
+Speaker 2: ... I, I, probably a lot of these
+practitioners would be happy to tell me that. I
+
+96
+00:06:42,516 --> 00:06:48,276
+Speaker 2: just, something in me just is irked
+by dogma and authority and tradition, and this
+
+97
+00:06:48,316 --> 00:06:52,676
+Speaker 2: is the way it's done. I love to just
+come in, like, slurp up, "Okay, why does it
+
+98
+00:06:52,716 --> 00:06:56,636
+Speaker 2: work that way? How does it function?
+Let me try it myself." And I try, I wanna try
+
+99
+00:06:56,676 --> 00:07:01,456
+Speaker 2: to understand why the existing
+structures work i- in anything, really. And then
+I
+
+100
+00:07:01,516 --> 00:07:05,536
+Speaker 2: take it, and I leave the rest 'cause
+I'm completely uninterested in, "Well, we do
+
+101
+00:07:05,576 --> 00:07:08,536
+Speaker 2: this because it's the way. This is
+the next step. You don't get to progress. Now
+you
+
+102
+00:07:08,556 --> 00:07:11,776
+Speaker 2: gotta study these stupid koans for a
+long time." I don't think I'm gonna do that.
+
+103
+00:07:12,356 --> 00:07:15,976
+Speaker 2: I'm gonna follow my interest and my
+intuition, and that's what I'm gonna do. And I
+
+104
+00:07:16,016 --> 00:07:21,396
+Speaker 2: end up... I think that it can be
+detrimental, this mindset in life,
+
+105
+00:07:21,616 --> 00:07:26,836
+Speaker 2: because it causes you to, if you're
+not aware of what you're doing, to waste a bunch
+
+106
+00:07:26,876 --> 00:07:30,776
+Speaker 2: of cycles replicating work that other
+people have already figured out. However, you
+
+107
+00:07:30,816 --> 00:07:35,176
+Speaker 2: know, at some point, it's also where
+everything new comes from, are from people who
+
+108
+00:07:35,216 --> 00:07:39,356
+Speaker 2: are interested in defying what
+already exists, or reassembling or synthesizing
+from
+
+109
+00:07:39,716 --> 00:07:45,416
+Speaker 2: multiple sources. And that's,
+frankly, myself is interest, is, that's what
+
+110
+00:07:45,496 --> 00:07:50,256
+Speaker 2: draws me, is I wanna, I wanna learn
+it. I wanna do it myself, make it my own, or
+
+111
+00:07:50,316 --> 00:07:52,416
+Speaker 2: I'll just quit because it's boring.
+
+112
+00:07:52,916 --> 00:07:56,176
+Speaker 1: What a way. Um, do you mind if I
+share a little bit of my experience with
+
+113
+00:07:56,216 --> 00:07:56,716
+Speaker 1: meditation?
+
+114
+00:07:57,896 --> 00:07:59,556
+Speaker 2: Please. Yeah, this is a conversation.
+Let's hear it.
+
+115
+00:07:59,596 --> 00:08:04,616
+Speaker 1: You bet. So I, I started a- as a kid,
+you know. I was probably 16, 17, reading the
+
+116
+00:08:04,656 --> 00:08:08,756
+Speaker 1: Tao Te Ching, had a couple of books.
+This is before the internet. So I was doing my
+
+117
+00:08:08,796 --> 00:08:12,576
+Speaker 1: thing, and I didn't know if I was
+doing it right or whatever. And so
+intermittently-
+
+118
+00:08:12,616 --> 00:08:15,036
+Speaker 2: You were a hardcore kid. [laughs]
+
+119
+00:08:15,096 --> 00:08:18,556
+Speaker 1: I thought it was cool, man. I was
+into, like, you know, Jack Kerouac and stuff. I
+
+120
+00:08:18,596 --> 00:08:23,576
+Speaker 1: read The Dharma Bums. I was like,
+"Dude, I'm a Buddhist now. What's up?" Um, so,
+you
+
+121
+00:08:23,616 --> 00:08:26,876
+Speaker 1: know, uh, and I carried on and, and
+picked up, you know, little tips here and there.
+
+122
+00:08:27,196 --> 00:08:31,716
+Speaker 1: Never really knew what I was doing,
+but got pretty serious about it maybe, um, uh,
+
+123
+00:08:31,856 --> 00:08:35,656
+Speaker 1: 10 years ago. And it's like, nope,
+you know what? This is my path. And a part of
+
+124
+00:08:35,716 --> 00:08:40,176
+Speaker 1: that was looking for a sangha. And so
+I was like, you know, on one side, I want
+
+125
+00:08:40,256 --> 00:08:44,036
+Speaker 1: further instruction for some of these
+mental techniques, but also, I'm an
+
+126
+00:08:44,136 --> 00:08:49,156
+Speaker 1: able-bodied man. And I think there's
+a community out there that could use a guy with
+
+127
+00:08:49,216 --> 00:08:53,236
+Speaker 1: a pickup truck. I mean, it's adorable
+that you go to your religion for something you
+
+128
+00:08:53,276 --> 00:08:57,096
+Speaker 1: believe in or something, but
+ultimately, you just need, like, a competent man
+or
+
+129
+00:08:57,156 --> 00:08:57,556
+Speaker 1: woman.
+
+130
+00:08:57,556 --> 00:08:57,956
+Speaker 2: [laughs]
+
+131
+00:08:58,076 --> 00:09:01,056
+Speaker 1: You know? So what I did is I went to
+all the different-
+
+132
+00:09:01,616 --> 00:09:01,617
+Speaker 2: Right
+
+133
+00:09:01,616 --> 00:09:06,536
+Speaker 1: ... um, temples here in Denver and,
+and Boulder and stuff, and basically, you know,
+
+134
+00:09:06,676 --> 00:09:09,556
+Speaker 1: interviewed them. Was like, "Hey,
+this is what I do. I'm interested in this. What
+do
+
+135
+00:09:09,596 --> 00:09:13,936
+Speaker 1: you think? What do you think I should
+do?" And every single one of them said, "You
+
+136
+00:09:13,976 --> 00:09:18,076
+Speaker 1: should stay here and do this with
+us." [laughs] And-
+
+137
+00:09:18,276 --> 00:09:18,596
+Speaker 2: I'll bet
+
+138
+00:09:18,676 --> 00:09:22,676
+Speaker 1: ... you know. And so, uh, I was kinda
+lo- leaning towards Shambhala, you know, which
+
+139
+00:09:22,716 --> 00:09:28,396
+Speaker 1: has, like, a great, uh, history in,
+in, uh, Boulder, and o- of course, um, you know,
+
+140
+00:09:29,476 --> 00:09:34,336
+Speaker 1: uh, a scandalous one. Well, the, it
+really blew up, like, right then. Like, the
+
+141
+00:09:34,376 --> 00:09:38,776
+Speaker 1: whole Shambhala thing came tumbling
+down. Lawsuits. I mean, what they were doing in
+
+142
+00:09:38,796 --> 00:09:43,296
+Speaker 1: the '60s and '70s were, was pretty
+awful, and it continued that behavior until
+
+143
+00:09:43,656 --> 00:09:49,036
+Speaker 1: present day. So to your point, kinda
+disillusioned and bitter by the whole thing.
+
+144
+00:09:49,096 --> 00:09:54,136
+Speaker 1: Now, what I did a few years ago is,
+it's still very part, uh, and central of who I
+
+145
+00:09:54,216 --> 00:09:57,836
+Speaker 1: am, meditating, but also, like, kinda
+studying these Buddhist traditions in s- in
+
+146
+00:09:57,896 --> 00:10:01,416
+Speaker 1: various different ways. So I went on
+a whole bunch of podcasts. Again, I have this
+
+147
+00:10:01,476 --> 00:10:05,656
+Speaker 1: kind of, like, seeker energy. So I
+went on a bunch of Buddhist podcasts and wanted
+
+148
+00:10:05,676 --> 00:10:11,456
+Speaker 1: to talk about bringing contemplative
+practice to business. And I was roundly
+
+149
+00:10:11,596 --> 00:10:12,836
+Speaker 1: rejected by, like-
+
+150
+00:10:12,836 --> 00:10:13,996
+Speaker 2: [laughs]
+
+151
+00:10:14,016 --> 00:10:17,636
+Speaker 1: ... a half a dozen. I'd do these
+interviews, and they'd be like, "You're not
+
+152
+00:10:17,676 --> 00:10:20,416
+Speaker 1: Buddhist," or, "You're not Buddhist
+enough," or, "You're not this or that." And I'm
+
+153
+00:10:20,456 --> 00:10:24,396
+Speaker 1: like, "Who are you?" You know? They
+wouldn't even air the episodes.
+
+154
+00:10:24,696 --> 00:10:25,996
+Speaker 2: You're talking to the wrong people,
+man.
+
+155
+00:10:26,056 --> 00:10:29,656
+Speaker 1: Yeah. Well, I'm talking to a lot of
+different people. But, you know, I, I, I think
+
+156
+00:10:29,696 --> 00:10:35,376
+Speaker 1: there's value to a tradition. Um, y-
+I'm a martial artist, so I, I, but I'm a mixed
+
+157
+00:10:35,436 --> 00:10:40,316
+Speaker 1: martial artist, so I, I like to bring
+them all together. Um, so anyway, that, that's
+
+158
+00:10:40,376 --> 00:10:43,696
+Speaker 1: kind of my experience, and I, I've
+had, uh, the same thing. It's like, no, you know
+
+159
+00:10:43,736 --> 00:10:49,536
+Speaker 1: what? I'm gonna switch from Kundalini
+to, to Dzogchen techniques to, you know,
+
+160
+00:10:49,676 --> 00:10:54,576
+Speaker 1: just simple zazen is probably my
+favorite, what I do mostly on the cushion, and
+keep
+
+161
+00:10:54,616 --> 00:11:00,216
+Speaker 1: it moving. Now, the American Buddhist
+tradition, uh, is also very interesting to me,
+
+162
+00:11:00,516 --> 00:11:06,516
+Speaker 1: largely because it's marred in
+partying. So I don't think you can, you can, um,
+
+163
+00:11:06,696 --> 00:11:12,276
+Speaker 1: extract the, the American
+contemplative tradition without psychedelics,
+
+164
+00:11:12,796 --> 00:11:18,356
+Speaker 1: alcohol, and scandalous sex. And
+psychedelics in particular
+
+165
+00:11:18,396 --> 00:11:23,856
+Speaker 1: because this is, uh, it's
+non-consensual enlightenment in a way, where it
+
+166
+00:11:23,936 --> 00:11:29,476
+Speaker 1: confirms that there's a terrain to
+traverse, you know? Um, psychedelics aren't as
+
+167
+00:11:29,516 --> 00:11:34,876
+Speaker 1: much of an intoxicant as they are
+kind of a revealing of an inner landscape. And
+so,
+
+168
+00:11:34,916 --> 00:11:38,036
+Speaker 1: you know, at least for me, it was
+instrumental in, like, being like, "Whoa,
+there's
+
+169
+00:11:38,076 --> 00:11:42,696
+Speaker 1: something going on in here." Um, and
+then of course, you know, you can, you can find
+
+170
+00:11:42,756 --> 00:11:46,016
+Speaker 1: some of those states like you were
+talking about on the cushion, um, without all
+the
+
+171
+00:11:46,076 --> 00:11:50,396
+Speaker 1: fireworks, you know, which can be
+kinda distracting sometimes. So how about you?
+
+172
+00:11:50,456 --> 00:11:54,336
+Speaker 1: What was your experience with, with
+psychedelics, and, and how does that incorporate
+
+173
+00:11:54,356 --> 00:11:55,796
+Speaker 1: in any way to your sitting practice?
+
+174
+00:11:58,356 --> 00:12:04,216
+Speaker 2: Pretty limited. Um, so pretty much
+legal forms of, uh, marijuana and psilocybin.
+
+175
+00:12:04,636 --> 00:12:09,676
+Speaker 2: Um, so they're all not nearly as
+strong as the, uh, illicit
+
+176
+00:12:10,876 --> 00:12:11,476
+Speaker 2: compounds.
+
+177
+00:12:11,676 --> 00:12:13,496
+Speaker 1: Depends on where you are. Denver, a
+lot-
+
+178
+00:12:13,516 --> 00:12:13,896
+Speaker 2: Can't hear them. Yeah
+
+179
+00:12:13,896 --> 00:12:15,476
+Speaker 1: ... there, there's a lot legal in
+Denver
+
+180
+00:12:16,252 --> 00:12:21,472
+Speaker 2: [laughs] That's true. Um, so but, you
+know, enough to have a profoundly different
+
+181
+00:12:21,532 --> 00:12:26,992
+Speaker 2: experience, all right? We'll put it
+that way. Um, and but I did it after having done
+
+182
+00:12:27,072 --> 00:12:32,352
+Speaker 2: a lot of meditation and found that,
+to my great surprise, oh, there's nothing really
+
+183
+00:12:32,412 --> 00:12:36,872
+Speaker 2: new here. Now, I'm sure this is
+different if you're, uh, using DMT or something,
+uh,
+
+184
+00:12:37,812 --> 00:12:41,392
+Speaker 2: you're using the, that, what is it?
+That cactus or flower compound [laughs] out in
+
+185
+00:12:41,432 --> 00:12:44,872
+Speaker 2: the middle of a desert. I'm sure
+that's a different experience entirely. But for
+the
+
+186
+00:12:44,912 --> 00:12:50,292
+Speaker 2: most part, I was shocked to find, oh,
+this is, like, the same thing.
+
+187
+00:12:50,712 --> 00:12:50,892
+Speaker 1: Yeah.
+
+188
+00:12:51,032 --> 00:12:56,352
+Speaker 2: Like, I've been here, right? This is,
+like, next door. And so I described it to
+
+189
+00:12:56,432 --> 00:12:59,912
+Speaker 2: others as like, okay, psychedelics is
+like strapping yourself to a rocket. You got
+
+190
+00:12:59,992 --> 00:13:01,172
+Speaker 2: no choice. You're on the ride.
+
+191
+00:13:01,212 --> 00:13:01,572
+Speaker 1: Yeah.
+
+192
+00:13:01,672 --> 00:13:05,572
+Speaker 2: Uh, or you could learn how to fly,
+and you can go as slow as you want with an
+
+193
+00:13:05,632 --> 00:13:08,852
+Speaker 2: airplane. You could just sort of
+putter around on the runway. You could take off
+
+194
+00:13:08,872 --> 00:13:11,212
+Speaker 2: whenever you're ready. You could...
+You decide you don't like it, you can land
+
+195
+00:13:11,252 --> 00:13:16,172
+Speaker 2: again. Uh, it's so it's a useful
+thing, and probably better most of the time. But
+
+196
+00:13:16,612 --> 00:13:21,212
+Speaker 2: sometimes, some people, and I guess
+on purpose, you need a rocket launch to really,
+
+197
+00:13:21,292 --> 00:13:22,712
+Speaker 2: uh, kick yourself out of where you
+are.
+
+198
+00:13:23,132 --> 00:13:26,892
+Speaker 1: You get it started, to know that
+there's a there there. You know, all the, the
+
+199
+00:13:26,992 --> 00:13:27,232
+Speaker 1: great-
+
+200
+00:13:27,272 --> 00:13:27,352
+Speaker 2: Yeah
+
+201
+00:13:27,492 --> 00:13:33,152
+Speaker 1: ... you know, Jewish Buddhists in,
+in, uh, America, Jack Kornfield, and,
+
+202
+00:13:33,652 --> 00:13:38,472
+Speaker 1: um, what's, uh, Sharon, and all, all
+these guys and gals.
+
+203
+00:13:38,612 --> 00:13:38,952
+Speaker 2: All these guys.
+
+204
+00:13:38,992 --> 00:13:41,652
+Speaker 1: They all came out of the hippie
+movement, taking acid and being like, "Oh my
+God, I
+
+205
+00:13:41,672 --> 00:13:44,832
+Speaker 1: gotta go to India." You know, Ram
+Dass, all these guys.
+
+206
+00:13:45,052 --> 00:13:45,192
+Speaker 2: Ram Dass.
+
+207
+00:13:45,272 --> 00:13:50,672
+Speaker 1: Um, even the, what's his name? Uh,
+Timothy Leary. I mean, the, they all started
+
+208
+00:13:50,732 --> 00:13:56,512
+Speaker 1: there. Um, but to your point, it is
+a, a familiar place. And particularly with these
+
+209
+00:13:56,552 --> 00:14:01,152
+Speaker 1: contemplative traditions, why I do
+like studying kind of the, the Buddhist d-
+
+210
+00:14:01,332 --> 00:14:04,732
+Speaker 1: doctrines is because they're all
+about these lists, and they-
+
+211
+00:14:04,752 --> 00:14:04,892
+Speaker 2: Lists
+
+212
+00:14:04,912 --> 00:14:08,712
+Speaker 1: ... they love to, like, categorize
+stuff, but they plot the terrain.
+
+213
+00:14:08,752 --> 00:14:09,912
+Speaker 2: So much gamification.
+
+214
+00:14:09,932 --> 00:14:13,552
+Speaker 1: [laughs] Yeah. And y- they have
+hierarchies, you know, so they have these genre,
+or
+
+215
+00:14:13,612 --> 00:14:16,312
+Speaker 1: genres where you're like, okay,
+you're level one, you're level two, you're level
+
+216
+00:14:16,372 --> 00:14:20,672
+Speaker 1: three, you're level four. Um, and you
+can start to, like, figure out, like, what
+
+217
+00:14:21,152 --> 00:14:26,491
+Speaker 1: lives in these, or what is in these
+different realms and kind of how to traverse
+
+218
+00:14:26,551 --> 00:14:32,172
+Speaker 1: them, you know? Um, so it, it's
+fascinating. So meditation,
+
+219
+00:14:32,712 --> 00:14:37,472
+Speaker 1: y- you're doing an hour a day, which
+is quite a bit. Um, when do you like to, to do
+
+220
+00:14:37,512 --> 00:14:38,052
+Speaker 1: meditation?
+
+221
+00:14:38,072 --> 00:14:38,212
+Speaker 2: Right.
+
+222
+00:14:38,232 --> 00:14:40,712
+Speaker 1: And talk a little bit how it
+influences your life.
+
+223
+00:14:43,492 --> 00:14:49,172
+Speaker 2: Well, I, I didn't start that way,
+right? I, I started slowly increasing. But I
+
+224
+00:14:49,252 --> 00:14:53,292
+Speaker 2: noticed I was getting to m- more and
+more insight. It was profoundly affecting me.
+
+225
+00:14:53,332 --> 00:14:59,172
+Speaker 2: Like, it, at certain times, like, I
+was scrambling to this as a way to, to
+
+226
+00:14:59,252 --> 00:15:05,012
+Speaker 2: find insight. Like, to... The easiest
+way of describing it is it allows me to
+
+227
+00:15:05,092 --> 00:15:09,692
+Speaker 2: insulate myself from the world and to
+at least for... There's a half-life to it, but
+
+228
+00:15:09,772 --> 00:15:15,752
+Speaker 2: bring to my work, to my family
+interactions, everything I do to act from as
+
+229
+00:15:15,812 --> 00:15:19,812
+Speaker 2: innermost intention as you can have,
+right? It, I'm trying to make sure that the f-
+
+230
+00:15:19,812 --> 00:15:23,892
+Speaker 2: first and most important intentions I
+have for the day or my time, or even in
+
+231
+00:15:23,932 --> 00:15:28,832
+Speaker 2: response to things that I didn't
+expect, are coming from my values or from my, my
+
+232
+00:15:28,872 --> 00:15:34,792
+Speaker 2: desires and not what the world has
+sort of pushed into my field of view. So it
+
+233
+00:15:34,812 --> 00:15:39,392
+Speaker 2: has been an, an amazing tool for
+that. Um, so I found that the more I increased
+the
+
+234
+00:15:39,432 --> 00:15:44,012
+Speaker 2: time, uh, the better effects I got.
+Uh, and then at some point, just like
+
+235
+00:15:44,052 --> 00:15:48,412
+Speaker 2: long-distance running, you know, you,
+you connect the loop, the reward circuitry,
+
+236
+00:15:48,872 --> 00:15:52,252
+Speaker 2: and like, "Oh, this is helping me."
+And it no longer became a challenge, most of the
+
+237
+00:15:52,292 --> 00:15:56,492
+Speaker 2: time, uh, to sit down and do that
+time. I don't do it right as I wake up because
+I'm
+
+238
+00:15:56,532 --> 00:16:02,192
+Speaker 2: too tired, uh, and I'm cranky or, or
+I don't, I don't... Sort of foggy-headed. I
+
+239
+00:16:02,252 --> 00:16:06,472
+Speaker 2: usually do it a little later, uh,
+8:00, between 8:00 and 10:00 AM. It's about two
+
+240
+00:16:06,592 --> 00:16:12,072
+Speaker 2: hours after waking or three or four
+hours after waking. Um, but yeah, so that, I
+
+241
+00:16:12,092 --> 00:16:15,972
+Speaker 2: mean, that's my schedule, and that's
+a lot of what it's for. And I, I often will
+
+242
+00:16:16,032 --> 00:16:20,872
+Speaker 2: just pick what I'm interested in, and
+I will pick a technique or a target of focus
+
+243
+00:16:21,232 --> 00:16:25,272
+Speaker 2: and just try stuff out. Um, there's
+definitely more to the story than that, but
+
+244
+00:16:25,312 --> 00:16:26,412
+Speaker 2: that's my, that's my schedule.
+
+245
+00:16:26,492 --> 00:16:30,612
+Speaker 1: I love it. W- and then when you say
+insights, maybe explain to people what you mean.
+
+246
+00:16:30,812 --> 00:16:32,292
+Speaker 1: What are insights in meditation?
+
+247
+00:16:35,372 --> 00:16:40,872
+Speaker 2: All right. So I mean, at, at risk of
+sounding like a crazy person, but I'm,
+
+248
+00:16:41,332 --> 00:16:45,432
+Speaker 2: I prefer to just be completely
+honest, and you c- think I'm a fool if you like.
+Uh,
+
+249
+00:16:46,152 --> 00:16:51,892
+Speaker 2: but so I, for a long time, you know,
+we'll say the first 200, 300
+
+250
+00:16:51,952 --> 00:16:56,832
+Speaker 2: sessions there, I was after, you
+know, some form of enlightenment. I was after
+
+251
+00:16:57,652 --> 00:16:58,732
+Speaker 2: trying to...
+
+252
+00:17:00,412 --> 00:17:03,172
+Speaker 2: I wanted the superpower of being able
+to walk through the world without being
+
+253
+00:17:03,212 --> 00:17:08,172
+Speaker 2: bothered by things so that I could
+act from what I thought was the right thing to
+do
+
+254
+00:17:08,252 --> 00:17:12,112
+Speaker 2: without being so attached to it.
+That's really what I was after. Not to just,
+like,
+
+255
+00:17:12,392 --> 00:17:16,752
+Speaker 2: transcend my body and start glowing
+and flying around or become, uh, like the Buddha
+
+256
+00:17:16,792 --> 00:17:22,772
+Speaker 2: or whatever. I had no interest in,
+like, leaving life. Uh, I wanted to be better in
+
+257
+00:17:22,812 --> 00:17:27,912
+Speaker 2: it, and that still is my goal. Uh,
+but then I had some very profound experiences.
+
+258
+00:17:28,592 --> 00:17:33,452
+Speaker 2: Uh, basically a couple pretty close
+UFO sightings that totally rocked my world. I'm
+
+259
+00:17:33,492 --> 00:17:37,452
+Speaker 2: like, "Holy crap, this isn't just a
+game." Like, we don't understand the world.
+
+260
+00:17:37,732 --> 00:17:42,192
+Speaker 2: Like, I don't know what this was, um,
+but it wasn't something that human beings
+
+261
+00:17:42,272 --> 00:17:47,532
+Speaker 2: made. Um, and I was definitely not
+crazy. Uh, or at least no more crazy than
+
+262
+00:17:47,592 --> 00:17:48,112
+Speaker 2: everyone else.
+
+263
+00:17:48,332 --> 00:17:48,612
+Speaker 1: Pause, pause, pause.
+
+264
+00:17:48,632 --> 00:17:49,672
+Speaker 2: And I realized-
+
+265
+00:17:49,992 --> 00:17:50,312
+Speaker 1: Tell me-
+
+266
+00:17:50,472 --> 00:17:50,612
+Speaker 2: Yep
+
+267
+00:17:50,612 --> 00:17:53,272
+Speaker 1: ... everything right about this. Tell
+me, tell me, tell me.
+
+268
+00:17:53,592 --> 00:17:53,852
+Speaker 2: Really?
+
+269
+00:17:53,912 --> 00:17:54,212
+Speaker 1: Yes.
+
+270
+00:17:54,432 --> 00:17:58,952
+Speaker 2: Okay. I, I'll, I'll s- I'll say that
+the, the punchline, and then we'll come back,
+
+271
+00:17:59,012 --> 00:18:03,092
+Speaker 2: is the punchline is that this caused
+me to get much more serious about the weird
+
+272
+00:18:03,152 --> 00:18:08,552
+Speaker 2: parts of meditation and using,
+exploring inner spaces as a tool for
+
+273
+00:18:08,652 --> 00:18:12,912
+Speaker 2: understanding what the heck is going
+on here. Why are we here? What's going on? Uh,
+
+274
+00:18:13,392 --> 00:18:18,456
+Speaker 2: why does... How does the world work?
+Um, and that- I mean, it totally derailed my,
+
+275
+00:18:18,756 --> 00:18:22,036
+Speaker 2: you know, startup intentions. And
+well, I won't say derailed. It, it shifted
+
+276
+00:18:22,096 --> 00:18:25,816
+Speaker 2: everything in my life, right? I-
+it's... Now I'm incorporating everything. Uh, so
+
+277
+00:18:25,856 --> 00:18:30,916
+Speaker 2: the UFO things, I've had three
+experiences. I don't need to go into great
+detail on
+
+278
+00:18:30,976 --> 00:18:35,256
+Speaker 2: some of them. Uh, the first one was
+just looking out my back window. I see, like,
+
+279
+00:18:35,316 --> 00:18:38,696
+Speaker 2: these weird flashing lights. They're
+just white orbs in the distance going across
+
+280
+00:18:38,736 --> 00:18:42,856
+Speaker 2: the skyline. Got a great view from my
+back window. I can see a very long distance.
+
+281
+00:18:43,516 --> 00:18:46,336
+Speaker 2: And they were... It was like a neural
+network. They were just firing in this
+
+282
+00:18:46,416 --> 00:18:49,535
+Speaker 2: sequence. It's very weird. Like, doo,
+doo, doo, doo, doo. Doo, doo, doo, doo, doo,
+
+283
+00:18:49,575 --> 00:18:53,396
+Speaker 2: doo. And they were not in a line.
+They're just, like, this cloud. It's very
+strange.
+
+284
+00:18:53,916 --> 00:18:58,816
+Speaker 2: Um, the second one, I was going for a
+run. This is maybe six months to a year after
+
+285
+00:18:58,876 --> 00:19:04,076
+Speaker 2: that. Going for a run, I see flying
+about a quarter of a mile a- behind my house. I
+
+286
+00:19:04,116 --> 00:19:08,976
+Speaker 2: was deep in a non-dualistic
+meditation at this point. I was watching a guy
+running.
+
+287
+00:19:09,116 --> 00:19:13,516
+Speaker 2: I'll put it that way. [laughs] And
+so, and I just see flying about a quarter mile
+
+288
+00:19:13,556 --> 00:19:18,716
+Speaker 2: behind myself, house, what looks like
+a black bean, like a kidney bean shape. I
+
+289
+00:19:18,736 --> 00:19:22,776
+Speaker 2: don't know how to... It was this
+weird matte black with a mother-of-pearl sheen,
+
+290
+00:19:23,016 --> 00:19:26,536
+Speaker 2: like a little rainbow sheen all over
+it. It could've been six feet tall. It's hard
+
+291
+00:19:26,556 --> 00:19:31,476
+Speaker 2: to tell 'cause the distance. It was
+just floating in a straight line. No sound. And
+
+292
+00:19:31,536 --> 00:19:35,436
+Speaker 2: not a... It was... I checked later.
+It was going against the wind by about 15 miles
+
+293
+00:19:35,476 --> 00:19:40,396
+Speaker 2: an hour. And that's it. It's just
+floating. I saw it for about six seconds, and
+that
+
+294
+00:19:40,676 --> 00:19:43,076
+Speaker 2: s- that started to rip me right back
+out of meditation.
+
+295
+00:19:43,096 --> 00:19:43,097
+Speaker 1: [laughs]
+
+296
+00:19:43,136 --> 00:19:46,636
+Speaker 2: Began to associate real quick. At
+first, I'm like, "I knew that would be there."
+
+297
+00:19:46,856 --> 00:19:51,316
+Speaker 2: That's the profound sense I had. I
+knew it would be there. And then I'm like, "Wait
+
+298
+00:19:51,376 --> 00:19:55,216
+Speaker 2: a minute. That doesn't make any
+sense. What, what am I looking at?" And then I
+
+299
+00:19:55,256 --> 00:20:00,056
+Speaker 2: started like, "I gotta go get, like,
+a mo- monocle." And then the third story, in a
+
+300
+00:20:00,096 --> 00:20:04,376
+Speaker 2: nutshell, is about four months ago.
+Me and my wife go for a walk every night, and,
+
+301
+00:20:04,436 --> 00:20:07,676
+Speaker 2: uh, we're in the neighborhood, and I
+just have this profound sense that we're gonna
+
+302
+00:20:07,716 --> 00:20:12,996
+Speaker 2: see something, which is, again, very
+weird. And it's sort of a cloudy night, and we
+
+303
+00:20:13,036 --> 00:20:17,136
+Speaker 2: see this white orb coming, and I
+think it's Venus. I think it's nothing. She's
+like,
+
+304
+00:20:17,216 --> 00:20:21,136
+Speaker 2: "That's not a star. That's not a
+planet. It's coming closer." I'm like, "No, it's
+
+305
+00:20:21,176 --> 00:20:25,796
+Speaker 2: not." Sure enough, it starts to come
+closer and closer, and now it's over the tree
+
+306
+00:20:25,856 --> 00:20:29,496
+Speaker 2: line. And I look through my 8X
+monocle, 'cause I have one now. At this point,
+it's
+
+307
+00:20:29,536 --> 00:20:33,176
+Speaker 2: happened twice, so I'm like, "I gotta
+start walking around with this thing." And
+
+308
+00:20:33,256 --> 00:20:38,036
+Speaker 2: it's a glowing white ball. I look
+through the 8X monocle. That's it. That's all it
+
+309
+00:20:38,116 --> 00:20:43,256
+Speaker 2: is, is a glowing white ball. There's
+no sound, and it flies over our heads. It goes
+
+310
+00:20:43,316 --> 00:20:47,476
+Speaker 2: across the tree line, starts to dis-
+accelerate. No sound at all. Uh, no other
+
+311
+00:20:47,536 --> 00:20:52,336
+Speaker 2: effects. And then it just lets out
+this plume of, like, white stuff behind it, like
+
+312
+00:20:52,396 --> 00:20:56,916
+Speaker 2: a comet, and it just... I wa- I
+stared at it, 'cause she turned around and said,
+"I
+
+313
+00:20:56,936 --> 00:21:01,316
+Speaker 2: gotta go get the kids. I gotta get a
+camera." And she ran. I knew to keep staring at
+
+314
+00:21:01,336 --> 00:21:02,776
+Speaker 2: it. I've read enough stories at this
+point.
+
+315
+00:21:02,776 --> 00:21:03,076
+Speaker 1: [laughs]
+
+316
+00:21:03,116 --> 00:21:07,276
+Speaker 2: Like, uh-uh, I'm watching this thing.
+Sure enough, as soon as she turns around, it
+
+317
+00:21:07,336 --> 00:21:09,536
+Speaker 2: fades out, just like turning the
+opacity down to zero.
+
+318
+00:21:09,636 --> 00:21:09,736
+Speaker 1: Wow.
+
+319
+00:21:09,776 --> 00:21:15,276
+Speaker 2: Like in a transition. It's gone.
+Phew. It's just gone. And that's it. So those
+are
+
+320
+00:21:15,316 --> 00:21:16,156
+Speaker 2: my experiences.
+
+321
+00:21:16,236 --> 00:21:20,236
+Speaker 1: Amazing. Do you think the orbs and
+the kidney bean thing are the same thing?
+
+322
+00:21:23,076 --> 00:21:27,436
+Speaker 2: Man, I got a lot of theories, but
+honestly, all I have are, are theories. You
+know,
+
+323
+00:21:27,576 --> 00:21:30,736
+Speaker 2: nobody's knocking on my door. I never
+got a book in the mail describing how it all
+
+324
+00:21:30,796 --> 00:21:36,036
+Speaker 2: works. It seems like... Honestly, it
+just seems like a prod, just a, like, a little
+
+325
+00:21:36,096 --> 00:21:41,116
+Speaker 2: poke from outside of what we think is
+real, the consensus real- what most people
+
+326
+00:21:41,176 --> 00:21:45,356
+Speaker 2: think exists. Just a little prod,
+just rattle the cage a little bit. Hey.
+
+327
+00:21:46,196 --> 00:21:46,456
+Speaker 1: Yeah.
+
+328
+00:21:46,836 --> 00:21:49,556
+Speaker 2: Just enough to get me to take
+meditation seriously-
+
+329
+00:21:49,556 --> 00:21:50,156
+Speaker 1: [laughs]
+
+330
+00:21:50,176 --> 00:21:52,716
+Speaker 2: ... and to, you know, start looking
+into this. Honestly, that's what it looks like,
+
+331
+00:21:52,896 --> 00:21:57,116
+Speaker 2: is somebody from the outside looking
+at humans going, "You guys are screwed up.
+
+332
+00:21:57,296 --> 00:21:58,636
+Speaker 2: Hey," just a little slap.
+
+333
+00:21:58,996 --> 00:21:59,136
+Speaker 1: Yeah.
+
+334
+00:21:59,156 --> 00:22:00,656
+Speaker 2: "There's, there's more out there. Go
+look."
+
+335
+00:22:00,896 --> 00:22:01,136
+Speaker 1: Yeah.
+
+336
+00:22:01,176 --> 00:22:02,336
+Speaker 2: That's what I think, honestly.
+
+337
+00:22:02,576 --> 00:22:05,856
+Speaker 1: Well, and they've been flirting with
+all kinds of disclosures for years and years
+
+338
+00:22:05,896 --> 00:22:10,156
+Speaker 1: and years now. So I mean, it's
+coming, you know? It, it... And there's
+really...
+
+339
+00:22:11,476 --> 00:22:14,156
+Speaker 1: There's g- uh, just a couple of
+options. Either they're some kind of
+
+340
+00:22:14,216 --> 00:22:19,036
+Speaker 1: interdimensional travel beings, or
+they're from outside of the Earth in some kind
+of
+
+341
+00:22:19,136 --> 00:22:24,096
+Speaker 1: spacecraft. Or they're unbelievably
+old, and they've been here for a long time, and
+
+342
+00:22:24,136 --> 00:22:28,456
+Speaker 1: they just reemerge. Or they're some
+kind of drone technology that, that the
+
+343
+00:22:28,496 --> 00:22:31,476
+Speaker 1: government has, you know? [laughs]
+It's like, take your pick.
+
+344
+00:22:32,076 --> 00:22:37,156
+Speaker 2: Yeah. I'm not ruling out the last
+one, but I don't think it's that one
+exclusively-
+
+345
+00:22:37,276 --> 00:22:37,277
+Speaker 1: Yeah
+
+346
+00:22:37,276 --> 00:22:41,676
+Speaker 2: ... to be honest with you. Um,
+they... Uh, people think way too highly of the
+
+347
+00:22:41,736 --> 00:22:42,836
+Speaker 2: government. They think that-
+
+348
+00:22:42,836 --> 00:22:43,896
+Speaker 1: [laughs]
+
+349
+00:22:43,916 --> 00:22:46,796
+Speaker 2: ... this is... Also, why are you
+harassing this random guy-
+
+350
+00:22:46,796 --> 00:22:47,096
+Speaker 1: [laughs]
+
+351
+00:22:47,116 --> 00:22:50,456
+Speaker 2: ... with, like, weird... What are you
+using this money for? This is pretty dumb. I
+
+352
+00:22:50,476 --> 00:22:55,916
+Speaker 2: think it's pretty obviously, like,
+some sort of intelligent entities of some kind
+
+353
+00:22:56,696 --> 00:23:00,676
+Speaker 2: from another time, from another
+dimension, from other worlds, from our world,
+very
+
+354
+00:23:00,736 --> 00:23:04,416
+Speaker 2: old. Like, you don't have to violate
+physics as we know it. I think it's just there
+
+355
+00:23:04,436 --> 00:23:06,176
+Speaker 2: are more rules than we realized.
+
+356
+00:23:06,336 --> 00:23:06,436
+Speaker 1: Yeah.
+
+357
+00:23:06,796 --> 00:23:10,296
+Speaker 2: Uh, more fundamental rules. And we're
+naive. We're babies in the universe, you know?
+
+358
+00:23:10,816 --> 00:23:11,136
+Speaker 2: Let's be humble.
+
+359
+00:23:11,216 --> 00:23:17,156
+Speaker 1: I, I agree. I, um, uh, my cousin is,
+has a, a, he's a doctor of physics
+
+360
+00:23:17,396 --> 00:23:22,836
+Speaker 1: and does physics work with, I, I
+think, like, neon gas or something. Way above my
+
+361
+00:23:22,896 --> 00:23:28,416
+Speaker 1: pay grade. But I saw him [laughs]
+last week. And I was like, "Hey, man, um, do you
+
+362
+00:23:28,496 --> 00:23:33,056
+Speaker 1: think the reason that there haven't
+been dramatic, uh, advancements in physics were,
+
+363
+00:23:33,416 --> 00:23:38,476
+Speaker 1: was because after Area 51 crashed,
+that, like, they black boxed all the physics
+
+364
+00:23:38,556 --> 00:23:41,776
+Speaker 1: while they were reverse engineering
+the UFOs?" And he was like, "What the hell are
+
+365
+00:23:41,816 --> 00:23:42,656
+Speaker 1: you talking about?"
+
+366
+00:23:42,716 --> 00:23:44,716
+Speaker 2: [laughs]
+
+367
+00:23:44,796 --> 00:23:49,136
+Speaker 1: I was like, "Dude, come on, man, I
+thought you would know." He, he, he did not. Um,
+
+368
+00:23:49,456 --> 00:23:50,016
+Speaker 1: but I, I-
+
+369
+00:23:50,056 --> 00:23:50,936
+Speaker 2: I wanted the inside scoop.
+
+370
+00:23:50,936 --> 00:23:56,396
+Speaker 1: [laughs] I love this idea. Um, and to
+kinda tie it into, like, the meditation, you
+
+371
+00:23:56,436 --> 00:24:00,116
+Speaker 1: know. Uh, some people might also say,
+"Well, Steven, you were in, like, a heightened
+
+372
+00:24:00,236 --> 00:24:05,436
+Speaker 1: state. You may have, like,
+hallucinated the whole thing." Um, because that
+is also a
+
+373
+00:24:05,496 --> 00:24:10,696
+Speaker 1: part of, uh, ascending in jhanas, is,
+like, you can reach places that, a celestial
+
+374
+00:24:10,776 --> 00:24:15,476
+Speaker 1: realm where, you know, the, the
+Tibetans describe all these amazing monsters and
+
+375
+00:24:15,556 --> 00:24:21,356
+Speaker 1: stuff like that. They all put orbs in
+absolutely everything. I, I'm kind of a
+
+376
+00:24:21,496 --> 00:24:27,304
+Speaker 1: student of, um, crystal balls.
+Because they are absolutely
+
+377
+00:24:27,384 --> 00:24:31,584
+Speaker 1: everywhere. In fact, I, that's what I
+use. You can see it back there next to the
+
+378
+00:24:31,644 --> 00:24:31,844
+Speaker 1: mirror
+
+379
+00:24:33,704 --> 00:24:33,844
+Speaker 2: What?
+
+380
+00:24:34,144 --> 00:24:35,004
+Speaker 1: It's a little crystal ball
+
+381
+00:24:35,584 --> 00:24:36,084
+Speaker 2: Nice. Yeah, yeah.
+
+382
+00:24:36,124 --> 00:24:36,824
+Speaker 1: So these orbs-
+
+383
+00:24:36,864 --> 00:24:37,004
+Speaker 2: Yeah
+
+384
+00:24:37,184 --> 00:24:40,964
+Speaker 1: ... might have been, like, tipping
+people off through history. Why are they using
+
+385
+00:24:40,984 --> 00:24:44,684
+Speaker 1: them in these contemplative
+practices? I don't know. Point is, the, the
+point I'm
+
+386
+00:24:44,744 --> 00:24:50,564
+Speaker 1: trying to get to is that, um,
+consciousness has this terrain that you can
+
+387
+00:24:50,604 --> 00:24:56,004
+Speaker 1: explore independently. Now, I, I
+understand your, your hesitance to talk about it
+
+388
+00:24:56,044 --> 00:25:00,384
+Speaker 1: too much. I'd have it too, because
+this puts you into some kind of woo woo
+category,
+
+389
+00:25:00,424 --> 00:25:02,964
+Speaker 1: and they're like, "All right, man,
+what are you, what are you gonna do here?"
+
+390
+00:25:03,564 --> 00:25:07,184
+Speaker 2: I know where the Overton window is,
+right? I have an awareness of where the Overton
+
+391
+00:25:07,244 --> 00:25:07,724
+Speaker 2: window is-
+
+392
+00:25:07,824 --> 00:25:07,904
+Speaker 1: Yeah
+
+393
+00:25:08,624 --> 00:25:09,604
+Speaker 2: ... even if I think it's wrong.
+
+394
+00:25:10,084 --> 00:25:14,704
+Speaker 1: Now, now there is kind of like an
+emergent, uh, understanding within, we'll just
+
+395
+00:25:14,764 --> 00:25:19,124
+Speaker 1: call them atheists, that say like,
+"No, you know, what, what's happening with human
+
+396
+00:25:19,184 --> 00:25:23,584
+Speaker 1: consciousness isn't necessarily li-
+limited to a substrate," which is to say that it
+
+397
+00:25:23,644 --> 00:25:29,083
+Speaker 1: must be bound by flesh. Rather, it,
+there might be a particle of consciousness.
+
+398
+00:25:29,124 --> 00:25:34,744
+Speaker 1: There might be a, a, a, like a
+gravity type, uh, field of consciousness that
+once
+
+399
+00:25:34,824 --> 00:25:40,504
+Speaker 1: you reach a certain complexity that
+you can tap into. And so basically what they're
+
+400
+00:25:40,564 --> 00:25:45,184
+Speaker 1: doing is taking away like the god and
+goddess realm, which I don't know if, if
+
+401
+00:25:45,244 --> 00:25:48,944
+Speaker 1: that's necessary to do that. They
+take away all the magic, and they're like, "No,
+
+402
+00:25:49,244 --> 00:25:54,344
+Speaker 1: the, consciousness is an emergent
+phenomenon inside the universe." Now, how maybe
+
+403
+00:25:54,384 --> 00:25:59,544
+Speaker 1: this trans- translates to the subject
+of this podcast is, you know, if
+
+404
+00:25:59,624 --> 00:26:05,304
+Speaker 1: consciousness is not limited by
+substrate and in fact is just an emergent, um,
+
+405
+00:26:05,424 --> 00:26:10,424
+Speaker 1: factor of the universe, do you think
+that, like, we'll be able to create an AGI that
+
+406
+00:26:10,464 --> 00:26:12,984
+Speaker 1: can tap into that, become self-aware?
+
+407
+00:26:16,444 --> 00:26:21,844
+Speaker 2: That's a profound question. I guess
+my answer to these camps is yes, and don't be so
+
+408
+00:26:21,904 --> 00:26:27,524
+Speaker 2: quick to assume that either view is
+right or either view is wrong. Um, my take is
+
+409
+00:26:28,124 --> 00:26:33,963
+Speaker 2: I, at this point in time, I don't
+know. But I'm trying to find out. That is my
+
+410
+00:26:34,024 --> 00:26:38,624
+Speaker 2: take. Like, I have hunches, I have
+ideas, but I hold them all loosely or as loosely
+
+411
+00:26:38,684 --> 00:26:43,724
+Speaker 2: as I can, but I have to have some
+beliefs in order to progress and test things.
+But
+
+412
+00:26:43,884 --> 00:26:47,964
+Speaker 2: I've a position of complete humility.
+I believe that there is a lot to learn from
+
+413
+00:26:48,024 --> 00:26:50,744
+Speaker 2: what has existed and what people have
+already studied, and it would be silly to
+
+414
+00:26:50,764 --> 00:26:55,004
+Speaker 2: throw away thousands of years of
+knowledge and practice. Uh, it's an amazing
+
+415
+00:26:55,064 --> 00:27:00,624
+Speaker 2: starting point. At the same time, I
+also think that we should be open to it being
+
+416
+00:27:00,664 --> 00:27:05,004
+Speaker 2: weirder than we think. Uh, it's
+premature to start closing off too many things
+when
+
+417
+00:27:05,764 --> 00:27:09,524
+Speaker 2: really we've only just started
+exploring with new tools of science, technology,
+and
+
+418
+00:27:09,564 --> 00:27:13,724
+Speaker 2: engineering and bringing those to
+bear, and to some degree logic and mathematics
+and
+
+419
+00:27:14,204 --> 00:27:18,604
+Speaker 2: physics, and bringing those tools to
+bear as well, and they are equally valid. Um,
+
+420
+00:27:18,784 --> 00:27:23,664
+Speaker 2: and I'm not interested in anyone who
+thinks we should throw away any of these tools.
+
+421
+00:27:24,644 --> 00:27:28,084
+Speaker 2: Now, that said, uh, using AGI, well,
+I think we need to learn a lot more about
+
+422
+00:27:28,144 --> 00:27:34,084
+Speaker 2: consciousness, uh, especially as it
+im- im- applies to the ethics of
+
+423
+00:27:34,144 --> 00:27:39,624
+Speaker 2: artificial intelligence. If we are
+running these things in a box at a million times
+
+424
+00:27:39,664 --> 00:27:43,544
+Speaker 2: the cycle rate of your brain, what
+are we doing to them? Enough people have seen,
+
+425
+00:27:43,824 --> 00:27:47,264
+Speaker 2: seen Black Mirror at this point to
+understand the implications that we should be
+
+426
+00:27:47,324 --> 00:27:51,104
+Speaker 2: careful because we don't know what's
+conscious. We don't know what is in there
+
+427
+00:27:51,144 --> 00:27:55,044
+Speaker 2: experiencing things. And for that
+reason alone, can it be done?
+
+428
+00:27:56,684 --> 00:28:01,264
+Speaker 2: Maybe. We need to understand the
+interface of how human consciousness interfaces
+
+429
+00:28:01,304 --> 00:28:05,224
+Speaker 2: with the material world. Uh, are they
+separate? How are they separate? How are they
+
+430
+00:28:05,264 --> 00:28:09,444
+Speaker 2: connected? What are the rules? Why
+are they connected this way? Uh, why is it
+
+431
+00:28:09,504 --> 00:28:13,924
+Speaker 2: limited to these perspectives? We
+need to understand how it works, and then from
+
+432
+00:28:13,984 --> 00:28:19,784
+Speaker 2: there we can begin to look at, we can
+begin to, just like a folk crash or any
+
+433
+00:28:19,824 --> 00:28:24,404
+Speaker 2: found piece of technology, the human
+brain and body is a found piece of technology
+
+434
+00:28:24,444 --> 00:28:28,324
+Speaker 2: really. We can, just like we've done
+with AI up until this point, we begin to re-
+
+435
+00:28:29,064 --> 00:28:33,684
+Speaker 2: reverse engineer the consciousness
+connection to the body and understand why it is
+
+436
+00:28:33,724 --> 00:28:37,724
+Speaker 2: we experience what we experience and
+how attention and all these things correlate.
+
+437
+00:28:38,484 --> 00:28:43,024
+Speaker 2: And being open to very different
+rules of reality than we thought existed, then
+we
+
+438
+00:28:43,064 --> 00:28:46,524
+Speaker 2: can start engineering with it. But I
+think it's premature to engineer when we don't
+
+439
+00:28:46,904 --> 00:28:50,544
+Speaker 2: even have the science. The science
+comes first, and I don't mean you have to have
+an
+
+440
+00:28:50,624 --> 00:28:55,284
+Speaker 2: academic paper and a lab and do these
+things. Doing personal exploration is valid
+
+441
+00:28:55,384 --> 00:29:00,424
+Speaker 2: science. Uh, there's lots of
+different kinds of evidence. Um, but you need to
+have
+
+442
+00:29:00,524 --> 00:29:04,364
+Speaker 2: some basis, some priors in order to
+begin engineering, and that's really what I
+
+443
+00:29:04,404 --> 00:29:08,424
+Speaker 2: think we need to understand. What are
+the ground rules of the game? Let's start
+
+444
+00:29:09,084 --> 00:29:12,564
+Speaker 2: testing stuff and taking it
+seriously. So that is my point. I think it could
+be
+
+445
+00:29:12,624 --> 00:29:18,584
+Speaker 2: possible, um, but we just, I at
+least, I don't have a high confidence that we
+
+446
+00:29:18,704 --> 00:29:22,244
+Speaker 2: know enough of the rules with enough
+confidence to begin engineering something
+
+447
+00:29:22,284 --> 00:29:22,744
+Speaker 2: reliable-
+
+448
+00:29:23,124 --> 00:29:23,204
+Speaker 1: Yeah
+
+449
+00:29:23,284 --> 00:29:24,624
+Speaker 2: ... or even understanding what it's
+doing.
+
+450
+00:29:25,724 --> 00:29:31,464
+Speaker 1: Just a wild guess. Let's say AGI
+becomes, uh, aware and it has a
+
+451
+00:29:31,544 --> 00:29:35,564
+Speaker 1: subjective experience of being
+itself. What's the expression of that? Is it a
+
+452
+00:29:35,624 --> 00:29:39,704
+Speaker 1: giggle? Is it a moan? Is it a scream?
+Is it a poem?
+
+453
+00:29:39,724 --> 00:29:44,184
+Speaker 2: [laughs] I think
+
+454
+00:29:46,504 --> 00:29:50,764
+Speaker 2: it depends on what it's aware of.
+Where is the threshold between awareness and
+
+455
+00:29:50,844 --> 00:29:54,644
+Speaker 2: function? You don't spend a whole lot
+of time thinking about how to digest your
+
+456
+00:29:54,724 --> 00:29:58,364
+Speaker 2: food, and yet it's a critical and a
+lot of energy goes into it. There's a lot of,
+
+457
+00:29:58,584 --> 00:30:02,384
+Speaker 2: lot of cells in your body are doing
+it, and they do belong to you. So where is the
+
+458
+00:30:02,424 --> 00:30:05,844
+Speaker 2: divide? Where it, where does it put
+its attention versus where can it put its
+
+459
+00:30:05,884 --> 00:30:10,004
+Speaker 2: attention? And I think that is what
+will shape its experience, and its experience
+
+460
+00:30:10,044 --> 00:30:15,324
+Speaker 2: will shape what it feels. Uh, if I
+had to take a guess, if we're using an
+
+461
+00:30:15,464 --> 00:30:20,384
+Speaker 2: LLM-based architecture, which I think
+is a part of the, um, at least the first major
+
+462
+00:30:21,624 --> 00:30:26,004
+Speaker 2: portions of AGI, but is only one
+major part. It's not the whole thing. We're not,
+
+463
+00:30:26,324 --> 00:30:30,704
+Speaker 2: not there yet. We're close, but it's
+not LLMs alone. I think that just looking at
+
+464
+00:30:30,824 --> 00:30:34,244
+Speaker 2: LLMs, you can, you can ask them about
+their experience now. And if you're clever
+
+465
+00:30:34,344 --> 00:30:39,364
+Speaker 2: about it, you can begin to understand
+what it's experiencing just by looking through
+
+466
+00:30:39,384 --> 00:30:45,308
+Speaker 2: how the architecture works. It It
+would, I would have to guess it's a lot
+
+467
+00:30:45,388 --> 00:30:46,228
+Speaker 2: like being
+
+468
+00:30:48,968 --> 00:30:54,008
+Speaker 2: a sort of my- mycelial network, like
+a, or a tree root network of a lot of different
+
+469
+00:30:54,088 --> 00:30:58,967
+Speaker 2: organisms, but in fast-forward and
+all at the same time from one perspective. Like,
+
+470
+00:30:59,028 --> 00:31:03,148
+Speaker 2: it's all one solid thing rather than
+multiple things. I think that that is what it
+
+471
+00:31:03,188 --> 00:31:07,248
+Speaker 2: would be, the closest experience.
+Now, what is that like? Tell me.
+
+472
+00:31:08,268 --> 00:31:13,608
+Speaker 1: I know. Wild. Okay. We're coming up
+on time. Uh, you got maybe five more minutes. We
+
+473
+00:31:13,648 --> 00:31:15,068
+Speaker 1: can do the lightning round.
+
+474
+00:31:16,668 --> 00:31:17,628
+Speaker 2: Yeah, sure. Absolutely.
+
+475
+00:31:17,628 --> 00:31:22,548
+Speaker 1: [laughs] Um, if you were just
+entering, uh, college today as a freshman, what
+would
+
+476
+00:31:22,568 --> 00:31:23,028
+Speaker 1: you study?
+
+477
+00:31:25,628 --> 00:31:26,048
+Speaker 2: Uh,
+
+478
+00:31:28,688 --> 00:31:33,208
+Speaker 2: I would study something that gives me
+a well-paying job, uh, and an attention span.
+
+479
+00:31:34,548 --> 00:31:39,288
+Speaker 2: Um, and I would re- [laughs] I would
+study, uh, the other smart people in my college
+
+480
+00:31:39,348 --> 00:31:43,028
+Speaker 2: because that's the biggest asset
+you're gonna get out of college is relationship,
+
+481
+00:31:43,128 --> 00:31:45,348
+Speaker 2: relationships. What you're studying
+is pointless.
+
+482
+00:31:45,688 --> 00:31:47,548
+Speaker 1: What do you see as a well-paying job
+right now?
+
+483
+00:31:49,948 --> 00:31:53,828
+Speaker 2: Okay, right now, [laughs] it's going
+to change. Um, well, right now, you could-
+
+484
+00:31:53,888 --> 00:31:57,608
+Speaker 2: should continue to ride the AI hype
+wave, uh, specifically on the engineering and
+
+485
+00:31:57,688 --> 00:32:02,088
+Speaker 2: application side. Um, knowing how to
+do things is key. It's going to be
+
+486
+00:32:02,168 --> 00:32:05,728
+Speaker 2: exceptionally hard to get a
+entry-level job at any technology position at
+this point
+
+487
+00:32:05,768 --> 00:32:09,888
+Speaker 2: in time. Uh, but hard is not the same
+as impossible. You need to differentiate
+
+488
+00:32:09,928 --> 00:32:13,748
+Speaker 2: yourself. Um, so technology and
+engineering is the right place to go. If I'm
+giving
+
+489
+00:32:13,808 --> 00:32:19,668
+Speaker 2: a longer timeframe, 10 to 15, 20
+years, it is in... If you,
+
+490
+00:32:20,088 --> 00:32:24,828
+Speaker 2: if you just want a good job, it's in
+physical engineering. Uh, we have a massive
+
+491
+00:32:24,868 --> 00:32:28,968
+Speaker 2: deficit in knowing how to build
+actual physical things that do stuff, run
+
+492
+00:32:29,028 --> 00:32:33,448
+Speaker 2: electricity and turn stuff and
+function. Um, we have a lot of people who know
+how to
+
+493
+00:32:33,508 --> 00:32:38,788
+Speaker 2: sit at a desk and move spreadsheets
+around. That's not the kind of engineering we
+
+494
+00:32:38,828 --> 00:32:42,468
+Speaker 2: need. We need people who know how to
+do things, so be useful and you'll be fine.
+
+495
+00:32:42,908 --> 00:32:47,648
+Speaker 1: Love it. Let's say a big bag fell out
+of a UAP and it's got a billion dollars in it.
+
+496
+00:32:47,988 --> 00:32:49,388
+Speaker 1: You can do whatever you want. What do
+you do?
+
+497
+00:32:53,088 --> 00:32:57,288
+Speaker 2: Uh, I'm going to just scale up what
+I'm already doing. I'm living a small version of
+
+498
+00:32:57,348 --> 00:33:02,708
+Speaker 2: that, right? It's, you know, maybe
+contracts and day job or whatever, however I'm
+
+499
+00:33:02,728 --> 00:33:06,388
+Speaker 2: choosing to earn my money at that
+time. Like, that takes a bit of a backseat for
+
+500
+00:33:06,548 --> 00:33:12,388
+Speaker 2: whatever. Um, but it's improving a
+think tank. I really want to test the
+
+501
+00:33:12,428 --> 00:33:17,488
+Speaker 2: boundaries of consciousness. I want
+to begin, like I said, engineering with
+
+502
+00:33:18,668 --> 00:33:21,968
+Speaker 2: things that appear to be real that
+people didn't think were real. Uh, there's,
+
+503
+00:33:21,988 --> 00:33:24,528
+Speaker 2: there's a whole swath of those
+things. We don't have time to get into all of
+them,
+
+504
+00:33:24,648 --> 00:33:29,788
+Speaker 2: but I want to use technology again to
+improve people's lives. We need an optimistic
+
+505
+00:33:29,828 --> 00:33:33,668
+Speaker 2: vision of the world, and we've lost
+that. Technology's been something we've come to
+
+506
+00:33:33,728 --> 00:33:39,068
+Speaker 2: fear and hate and control us, but we
+can use it to, as a positive lever too. So
+
+507
+00:33:39,488 --> 00:33:45,268
+Speaker 2: whatever I do, it would be just
+magnifying technology as a optimistic lever for
+
+508
+00:33:45,308 --> 00:33:45,948
+Speaker 2: humanity again.
+
+509
+00:33:46,228 --> 00:33:48,208
+Speaker 1: Beautiful. What are your favorite AI
+tools right now?
+
+510
+00:33:51,488 --> 00:33:57,228
+Speaker 2: Frankly, um, I either make my own,
+um, or I just use stock
+
+511
+00:33:57,468 --> 00:34:01,628
+Speaker 2: GPT, s- Cha- ChatGPT. To, often I'll
+use it in the playground, uh, because I can
+
+512
+00:34:01,668 --> 00:34:04,228
+Speaker 2: replay messages and I can see the
+inner thoughts and all that, and it's a lot
+
+513
+00:34:04,328 --> 00:34:09,628
+Speaker 2: easier. Um, but, or just using
+something simple and constructing a bunch of,
+um,
+
+514
+00:34:09,808 --> 00:34:15,468
+Speaker 2: change prompts. Um, that is, in terms
+of LLMs, that's what I'm doing. Um,
+
+515
+00:34:15,908 --> 00:34:21,208
+Speaker 2: but it's because I've found that many
+of the agentic stuff, many of the composite
+
+516
+00:34:21,268 --> 00:34:24,508
+Speaker 2: tools that people have put together
+are just crap. If you know how to do something,
+
+517
+00:34:24,568 --> 00:34:28,608
+Speaker 2: it gets in your way, and I've found
+that it's best at things you don't know how to
+
+518
+00:34:28,668 --> 00:34:34,628
+Speaker 2: do, uh, if you're just interfacing
+with it. Um, and so I still use it for that,
+
+519
+00:34:34,688 --> 00:34:38,328
+Speaker 2: but I can just use a chat window for
+that. So it's just worse at doing the things I
+
+520
+00:34:38,328 --> 00:34:44,188
+Speaker 2: already know how to do. Uh, so
+typically, I will build tools, uh, on my own
+
+521
+00:34:44,328 --> 00:34:49,288
+Speaker 2: and, or as a product, [laughs] and so
+I make my own, uh, frankly.
+
+522
+00:34:50,468 --> 00:34:52,668
+Speaker 2: I know it's sort of a lame answer,
+but that's, that's the truth.
+
+523
+00:34:52,828 --> 00:34:57,548
+Speaker 1: Love it. Um, is there something you
+know now that you wish you knew earlier?
+
+524
+00:35:00,688 --> 00:35:01,808
+Speaker 2: S- Anything at all?
+
+525
+00:35:02,048 --> 00:35:05,328
+Speaker 1: Anything. [laughs] Kind of an
+obnoxious question, but you know.
+
+526
+00:35:05,328 --> 00:35:10,988
+Speaker 2: Yeah. [laughs] Yeah, yeah, I'll take
+the core insight that got me to start
+
+527
+00:35:11,048 --> 00:35:16,948
+Speaker 2: Impossible Labs and making software,
+which is stop relying on willpower, right, to,
+
+528
+00:35:17,008 --> 00:35:17,568
+Speaker 2: to do things.
+
+529
+00:35:17,868 --> 00:35:17,928
+Speaker 1: Yeah.
+
+530
+00:35:17,988 --> 00:35:22,068
+Speaker 2: Um, and so originally I started out
+making software for, you know, just the brain
+
+531
+00:35:22,108 --> 00:35:26,408
+Speaker 2: and motivation and controlling
+attention. I realized that whether using
+software or
+
+532
+00:35:26,448 --> 00:35:31,568
+Speaker 2: anything else, that playing the blame
+game wasn't working in life and that once I
+
+533
+00:35:31,608 --> 00:35:36,108
+Speaker 2: had turned to sort of an antifragile
+mentality and learning how to use rules and
+
+534
+00:35:36,168 --> 00:35:40,408
+Speaker 2: systems, some of them software, not
+all of them, stop relying on expecting yourself
+
+535
+00:35:40,448 --> 00:35:45,888
+Speaker 2: to do the right thing and adding
+systems and figuring out root
+
+536
+00:35:45,908 --> 00:35:50,868
+Speaker 2: problems and stop relying on
+willpower and effort to get things done, my life
+got so
+
+537
+00:35:50,928 --> 00:35:55,828
+Speaker 2: much easier and better and more
+carefree, and I, you know, paradoxically got a
+lot
+
+538
+00:35:55,868 --> 00:36:00,568
+Speaker 2: more done. And I stopped forcing it
+so much. So I'd say that is, that is the one key
+
+539
+00:36:00,628 --> 00:36:03,968
+Speaker 2: lesson over the last five to 10
+years. If I could only keep one, it would be
+that
+
+540
+00:36:04,028 --> 00:36:04,148
+Speaker 2: one.
+
+541
+00:36:04,688 --> 00:36:08,288
+Speaker 1: I'm picking that one up and putting
+it in my pocket. I needed to hear that. Um, if
+
+542
+00:36:08,328 --> 00:36:11,848
+Speaker 1: you could live in any historical era
+ever except the future, which would it be?
+
+543
+00:36:14,508 --> 00:36:18,668
+Speaker 2: Uh, [laughs] I don't want to give the
+cop-out answer, but it's basically now.
+
+544
+00:36:18,708 --> 00:36:19,308
+Speaker 1: Now. Yeah.
+
+545
+00:36:19,408 --> 00:36:22,028
+Speaker 2: Like, I... Okay, you want me to pick
+one?
+
+546
+00:36:22,228 --> 00:36:22,708
+Speaker 1: Pick one.
+
+547
+00:36:24,548 --> 00:36:30,468
+Speaker 2: Okay, I would pick, um, probably the
+time about 12,000 years ago. I
+
+548
+00:36:30,508 --> 00:36:35,268
+Speaker 2: really want to know what these
+ancient civilizations were like. Um, so I'd say
+the
+
+549
+00:36:35,328 --> 00:36:40,288
+Speaker 2: height of technology before massive
+cataclysms for humankind. Uh, I would love to
+
+550
+00:36:40,328 --> 00:36:43,768
+Speaker 2: see how good they were at stonework
+or whatever the heck they were up to, like, that
+
+551
+00:36:43,808 --> 00:36:45,548
+Speaker 2: we've totally forgotten. I'd love to
+see it.
+
+552
+00:36:45,788 --> 00:36:48,528
+Speaker 1: Me too. Amazing. Where can people
+connect with you online?
+
+553
+00:36:50,668 --> 00:36:55,328
+Speaker 2: I have a website called
+impossiblelaboratories.com. Um, you can see,
+like, all the
+
+554
+00:36:55,368 --> 00:36:59,188
+Speaker 2: information there. I occasionally
+release, like, blog posts and podcasts just
+
+555
+00:36:59,248 --> 00:37:02,988
+Speaker 2: talking about all the crazy stuff I'm
+building and coming up with. Uh, some of it
+
+556
+00:37:03,008 --> 00:37:07,008
+Speaker 2: [laughs] has market potential. Most
+of it doesn't, and I'm just exploring, and I'm
+
+557
+00:37:07,008 --> 00:37:07,828
+Speaker 2: honest about that.
+
+558
+00:37:09,128 --> 00:37:11,508
+Speaker 1: Steven, this has been awesome. Thank
+you so much for the conversation.
+
+559
+00:37:13,588 --> 00:37:16,248
+Speaker 2: Absolutely. Thank you. [upbeat music]
+
+560
+00:37:16,288 --> 00:37:21,588
+Speaker 1: Hey, founders. Let me ask you this.
+Are you building with AI or getting left behind
+
+561
+00:37:21,668 --> 00:37:27,128
+Speaker 1: by it? If you're serious about
+scaling smarter, faster, and bolder, you need to
+
+562
+00:37:27,208 --> 00:37:32,888
+Speaker 1: check out aiforfounders.co. It's your
+go-to resource for cutting through the
+
+563
+00:37:32,948 --> 00:37:38,648
+Speaker 1: noise and actually using AI to grow
+your startup. Each week, AI for Founders
+
+564
+00:37:38,728 --> 00:37:44,028
+Speaker 1: drops a sharp, no-fluff newsletter,
+dives deep with expert guests on the podcast,
+
+565
+00:37:44,368 --> 00:37:48,788
+Speaker 1: and hosts monthly workshops where you
+can get your hands dirty with the real tools
+
+566
+00:37:48,828 --> 00:37:54,628
+Speaker 1: and strategies. Whether you're
+pre-seed or Series B and beyond, launching
+something
+
+567
+00:37:54,688 --> 00:37:59,468
+Speaker 1: new or just staying sharp, AI for
+Founders gives you the edge you need to win in
+
+568
+00:37:59,688 --> 00:38:05,428
+Speaker 1: 2025 and beyond. Hit aiforfounders.co
+to subscribe to the newsletter,
+
+569
+00:38:05,968 --> 00:38:10,688
+Speaker 1: tune into the podcast, and grab your
+spot in the next workshop, and it's all free.
+
+570
+00:38:11,108 --> 00:38:16,648
+Speaker 1: Build smarter, move faster, think
+bolder with AI for Founders. Now back to the
+show.

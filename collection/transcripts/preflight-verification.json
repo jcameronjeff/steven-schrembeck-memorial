@@ -1,0 +1,58 @@
+{
+  "verified_at_utc": "2026-10-10T17:48:03.160754+00:00",
+  "original_checksum_count": 457,
+  "original_checksum_failures": [],
+  "saved_audio": 63,
+  "saved_video": 22,
+  "media_count": 85,
+  "total_hours": 37.681142280555555,
+  "total_estimated_base_usd": 8.289851301722223,
+  "rate_usd_per_hour": 0.22,
+  "pricing_source": "https://elevenlabs.io/pricing/api",
+  "price_excludes_tax": true,
+  "exact_file_duplicate_groups": [],
+  "exact_encoded_audio_duplicate_groups": [],
+  "existing_transcript_files": [],
+  "video_audio_extractions": 22,
+  "prior_collection_failures": [
+    {
+      "url": "https://www.buzzsprout.com/1730754/episodes/9027454-fastest-way-to-get-great-and-take-your-goals-all-the-way-steven-schrembeck-lays-it-all-out.mp3",
+      "path": "interviews/fastest-way-to-get-great-and-take-your-goals-all-the-way-steven-schrembeck-lays-it-all-out.mp3",
+      "kind": "audio",
+      "title": "Fastest way to Get Great And Take Your Goals All The Way: Steven Schrembeck Lays it all out.",
+      "retrieved_utc": "2026-10-10T17:33:36.432448+00:00",
+      "response": "403\thttps://audio.buzzsprout.com/8jdz00npuf1222305qvaf8bf4yjq?response-content-disposition=inline\ttext/html; charset=UTF-8",
+      "status": "failed",
+      "discovered_at": "https://talks.co/reality101/",
+      "attribution": "Listed as a Steven Schrembeck appearance; individual attribution should be reviewed before publication.",
+      "error": "curl: (56) The requested URL returned error: 403\n"
+    },
+    {
+      "url": "https://www.buzzsprout.com/2286732/episodes/18410079-an-unwelcome-audience.mp3",
+      "path": "interviews/an-unwelcome-audience.mp3",
+      "kind": "audio",
+      "title": "An Unwelcome Audience",
+      "retrieved_utc": "2026-10-10T17:33:36.820991+00:00",
+      "response": "403\thttps://audio.buzzsprout.com/yzl26n9i2e0pg6kdat153d659ko0?response-content-disposition=inline\ttext/html; charset=UTF-8",
+      "status": "failed",
+      "discovered_at": "https://talks.co/reality101/",
+      "attribution": "Listed as a Steven Schrembeck appearance; individual attribution should be reviewed before publication.",
+      "error": "curl: (56) The requested URL returned error: 403\n"
+    },
+    {
+      "url": "https://pdcn.co/e/www.buzzsprout.com/2302168/episodes/17280600-the-technology-that-centers-you-with-steven-schrembeck-79.mp3",
+      "path": "interviews/the-technology-that-centers-you-with-steven-schrembeck-79.mp3",
+      "kind": "audio",
+      "title": "The Technology That Centers You with Steven Schrembeck | 79",
+      "retrieved_utc": "2026-10-10T17:33:45.386137+00:00",
+      "response": "404\thttps://www.buzzsprout.com/2302168/episodes/17280600-the-technology-that-centers-you-with-steven-schrembeck-79.mp3\ttext/html; charset=UTF-8",
+      "status": "failed",
+      "discovered_at": "https://talks.co/reality101/",
+      "attribution": "Listed as a Steven Schrembeck appearance; individual attribution should be reviewed before publication.",
+      "error": "curl: (56) The requested URL returned error: 404\n"
+    }
+  ],
+  "transcriptions_completed": 0,
+  "submitted_requests": 0,
+  "source_archive_unchanged": true
+}

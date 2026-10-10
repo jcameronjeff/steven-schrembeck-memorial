@@ -1,0 +1,53 @@
+{
+  "source_path": "collected/040-the-eighth-self-episode-2-raw.mp3",
+  "automated_flags": [
+    {
+      "kind": "word_duration_over_3s",
+      "word_index": 0,
+      "text": "The",
+      "start": 0.12,
+      "end": 27.84,
+      "note": "Suspicious word alignment; raw timestamp preserved."
+    },
+    {
+      "kind": "low_word_logprob",
+      "word_index": 2547,
+      "start": 602.336,
+      "end": 602.456,
+      "text": " ",
+      "logprob": -1.1830787658691406
+    },
+    {
+      "kind": "low_word_logprob",
+      "word_index": 3278,
+      "start": 747.096,
+      "end": 747.576,
+      "text": "Tel-Tar",
+      "logprob": -1.2753612688476486
+    },
+    {
+      "kind": "low_word_logprob",
+      "word_index": 3686,
+      "start": 828.596,
+      "end": 829.136,
+      "text": "Teongo",
+      "logprob": -1.0190394520759583
+    },
+    {
+      "kind": "trailing_no_speech",
+      "start": 1235.56,
+      "end": 1256.808
+    }
+  ],
+  "flags_are_review_candidates_not_confirmed_errors": true,
+  "raw_word_count": 5593,
+  "spoken_word_count": 2797,
+  "speaker_ids": [
+    "speaker_0"
+  ],
+  "subtitle_cue_count": 222,
+  "first_speech_seconds": 0.12,
+  "last_speech_seconds": 1235.56,
+  "human_correction_status": "uncorrected",
+  "source_offset_seconds": 0
+}

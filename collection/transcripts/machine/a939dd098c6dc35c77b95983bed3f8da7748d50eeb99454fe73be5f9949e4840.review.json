@@ -1,0 +1,37 @@
+{
+  "source_path": "collected/020-imagiserum-episode-2-raw.mp3",
+  "automated_flags": [
+    {
+      "kind": "word_duration_over_3s",
+      "word_index": 0,
+      "text": "Imagicum.",
+      "start": 0.0,
+      "end": 45.38,
+      "note": "Suspicious word alignment; raw timestamp preserved."
+    },
+    {
+      "kind": "low_word_logprob",
+      "word_index": 0,
+      "start": 0.0,
+      "end": 45.38,
+      "text": "Imagicum.",
+      "logprob": -1.5498862138224974
+    },
+    {
+      "kind": "trailing_no_speech",
+      "start": 1178.64,
+      "end": 1216.056
+    }
+  ],
+  "flags_are_review_candidates_not_confirmed_errors": true,
+  "raw_word_count": 5083,
+  "spoken_word_count": 2542,
+  "speaker_ids": [
+    "speaker_0"
+  ],
+  "subtitle_cue_count": 199,
+  "first_speech_seconds": 0.0,
+  "last_speech_seconds": 1178.64,
+  "human_correction_status": "uncorrected",
+  "source_offset_seconds": 0
+}

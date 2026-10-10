@@ -1,0 +1,660 @@
+[
+  {
+    "source_path": "reality/003-trailer-surprise-you-can-learn-how-it-all-works.mp3",
+    "container_duration_seconds": 109.344558,
+    "decoded_audio_duration_seconds": 109.344558,
+    "method": "Full FFmpeg audio decode, final out_time_us",
+    "readable": true,
+    "decode_error": ""
+  },
+  {
+    "source_path": "reality/001-0-prologue-from-ruptures-and-roots.mp3",
+    "container_duration_seconds": 5014.77875,
+    "decoded_audio_duration_seconds": 5014.778776,
+    "method": "Full FFmpeg audio decode, final out_time_us",
+    "readable": true,
+    "decode_error": ""
+  },
+  {
+    "source_path": "reality/002-1-reality-101.mp3",
+    "container_duration_seconds": 4407.334331,
+    "decoded_audio_duration_seconds": 4407.334331,
+    "method": "Full FFmpeg audio decode, final out_time_us",
+    "readable": true,
+    "decode_error": ""
+  },
+  {
+    "source_path": "reality/005-3-see-wake-up-remember-pt-2.mp3",
+    "container_duration_seconds": 4109.815873,
+    "decoded_audio_duration_seconds": 4109.815873,
+    "method": "Full FFmpeg audio decode, final out_time_us",
+    "readable": true,
+    "decode_error": ""
+  },
+  {
+    "source_path": "reality/006-4-see-wake-up-remember-pt-3.mp3",
+    "container_duration_seconds": 3533.052521,
+    "decoded_audio_duration_seconds": 3533.052521,
+    "method": "Full FFmpeg audio decode, final out_time_us",
+    "readable": true,
+    "decode_error": ""
+  },
+  {
+    "source_path": "reality/007-5-reality-102.mp3",
+    "container_duration_seconds": 4270.032336,
+    "decoded_audio_duration_seconds": 4270.032336,
+    "method": "Full FFmpeg audio decode, final out_time_us",
+    "readable": true,
+    "decode_error": ""
+  },
+  {
+    "source_path": "reality/009-bonus-what-i-know-about-transcendence.mp3",
+    "container_duration_seconds": 3525.013333,
+    "decoded_audio_duration_seconds": 3525.013333,
+    "method": "Full FFmpeg audio decode, final out_time_us",
+    "readable": true,
+    "decode_error": ""
+  },
+  {
+    "source_path": "reality/010-bonus-food-and-frequency.mp3",
+    "container_duration_seconds": 1020.107714,
+    "decoded_audio_duration_seconds": 1020.107755,
+    "method": "Full FFmpeg audio decode, final out_time_us",
+    "readable": true,
+    "decode_error": ""
+  },
+  {
+    "source_path": "reality/008-bonus-what-i-know-about-telepathy.mp3",
+    "container_duration_seconds": 3467.413333,
+    "decoded_audio_duration_seconds": 3467.413333,
+    "method": "Full FFmpeg audio decode, final out_time_us",
+    "readable": true,
+    "decode_error": ""
+  },
+  {
+    "source_path": "collected/003-mine-an-unofficial-merry-modz-audio-short.mp3",
+    "container_duration_seconds": 178.70225,
+    "decoded_audio_duration_seconds": 178.964898,
+    "method": "Full FFmpeg audio decode, final out_time_us",
+    "readable": true,
+    "decode_error": ""
+  },
+  {
+    "source_path": "collected/002-dev-commentary-7-puzzl-web-3-short-story-the-project.mp3",
+    "container_duration_seconds": 795.573083,
+    "decoded_audio_duration_seconds": 796.760816,
+    "method": "Full FFmpeg audio decode, final out_time_us",
+    "readable": true,
+    "decode_error": ""
+  },
+  {
+    "source_path": "collected/004-delays-and-discord.mp3",
+    "container_duration_seconds": 116.41525,
+    "decoded_audio_duration_seconds": 116.58449,
+    "method": "Full FFmpeg audio decode, final out_time_us",
+    "readable": true,
+    "decode_error": ""
+  },
+  {
+    "source_path": "collected/001-reverie.mp3",
+    "container_duration_seconds": 1045.325442,
+    "decoded_audio_duration_seconds": 1045.325442,
+    "method": "Full FFmpeg audio decode, final out_time_us",
+    "readable": true,
+    "decode_error": ""
+  },
+  {
+    "source_path": "reality/004-2-see-wake-up-remember-pt-1.mp3",
+    "container_duration_seconds": 4290.906916,
+    "decoded_audio_duration_seconds": 4290.906916,
+    "method": "Full FFmpeg audio decode, final out_time_us",
+    "readable": true,
+    "decode_error": ""
+  },
+  {
+    "source_path": "collected/005-mortal-steel-episode-10.mp3",
+    "container_duration_seconds": 1912.044083,
+    "decoded_audio_duration_seconds": 1914.906122,
+    "method": "Full FFmpeg audio decode, final out_time_us",
+    "readable": true,
+    "decode_error": ""
+  },
+  {
+    "source_path": "collected/008-mortal-steel-episode-8.mp3",
+    "container_duration_seconds": 1698.0825,
+    "decoded_audio_duration_seconds": 1700.623673,
+    "method": "Full FFmpeg audio decode, final out_time_us",
+    "readable": true,
+    "decode_error": ""
+  },
+  {
+    "source_path": "collected/006-dev-commentary-6-interview-with-the-creative-mindset-mortal-steel-wrapup-season-2-updates.mp3",
+    "container_duration_seconds": 4753.249417,
+    "decoded_audio_duration_seconds": 4760.372245,
+    "method": "Full FFmpeg audio decode, final out_time_us",
+    "readable": true,
+    "decode_error": ""
+  },
+  {
+    "source_path": "collected/010-mortal-steel-episode-7.mp3",
+    "container_duration_seconds": 1691.013917,
+    "decoded_audio_duration_seconds": 1693.54449,
+    "method": "Full FFmpeg audio decode, final out_time_us",
+    "readable": true,
+    "decode_error": ""
+  },
+  {
+    "source_path": "collected/012-mortal-steel-trailer.mp3",
+    "container_duration_seconds": 87.887256,
+    "decoded_audio_duration_seconds": 87.887256,
+    "method": "Full FFmpeg audio decode, final out_time_us",
+    "readable": true,
+    "decode_error": ""
+  },
+  {
+    "source_path": "collected/009-developer-commentary-5-what-is-collected-what-do-you-mean-by-it-s-ours-season-2-updates.mp3",
+    "container_duration_seconds": 608.033917,
+    "decoded_audio_duration_seconds": 608.940408,
+    "method": "Full FFmpeg audio decode, final out_time_us",
+    "readable": true,
+    "decode_error": ""
+  },
+  {
+    "source_path": "collected/011-mortal-steel-episode-6.mp3",
+    "container_duration_seconds": 1670.251583,
+    "decoded_audio_duration_seconds": 1672.75102,
+    "method": "Full FFmpeg audio decode, final out_time_us",
+    "readable": true,
+    "decode_error": ""
+  },
+  {
+    "source_path": "collected/013-mortal-steel-episode-5.mp3",
+    "container_duration_seconds": 1677.34625,
+    "decoded_audio_duration_seconds": 1679.856327,
+    "method": "Full FFmpeg audio decode, final out_time_us",
+    "readable": true,
+    "decode_error": ""
+  },
+  {
+    "source_path": "collected/007-mortal-steel-episode-9.mp3",
+    "container_duration_seconds": 1738.433417,
+    "decoded_audio_duration_seconds": 1741.035102,
+    "method": "Full FFmpeg audio decode, final out_time_us",
+    "readable": true,
+    "decode_error": ""
+  },
+  {
+    "source_path": "collected/016-mortal-steel-episode-2.mp3",
+    "container_duration_seconds": 1326.2385,
+    "decoded_audio_duration_seconds": 1328.222041,
+    "method": "Full FFmpeg audio decode, final out_time_us",
+    "readable": true,
+    "decode_error": ""
+  },
+  {
+    "source_path": "collected/017-developer-commentary-4-release-schedule-other-updates.mp3",
+    "container_duration_seconds": 189.835465,
+    "decoded_audio_duration_seconds": 189.835465,
+    "method": "Full FFmpeg audio decode, final out_time_us",
+    "readable": true,
+    "decode_error": ""
+  },
+  {
+    "source_path": "collected/018-mortal-steel-episode-1.mp3",
+    "container_duration_seconds": 1639.447167,
+    "decoded_audio_duration_seconds": 1641.900408,
+    "method": "Full FFmpeg audio decode, final out_time_us",
+    "readable": true,
+    "decode_error": ""
+  },
+  {
+    "source_path": "collected/015-mortal-steel-episode-3.mp3",
+    "container_duration_seconds": 1633.813167,
+    "decoded_audio_duration_seconds": 1636.257959,
+    "method": "Full FFmpeg audio decode, final out_time_us",
+    "readable": true,
+    "decode_error": ""
+  },
+  {
+    "source_path": "interviews/unlocking-human-and-machine-consciousness-with-steven-schrembeck.mp3",
+    "container_duration_seconds": 2299.147029,
+    "decoded_audio_duration_seconds": 2299.147029,
+    "method": "Full FFmpeg audio decode, final out_time_us",
+    "readable": true,
+    "decode_error": ""
+  },
+  {
+    "source_path": "collected/014-mortal-steel-episode-4.mp3",
+    "container_duration_seconds": 1766.39475,
+    "decoded_audio_duration_seconds": 1769.038367,
+    "method": "Full FFmpeg audio decode, final out_time_us",
+    "readable": true,
+    "decode_error": ""
+  },
+  {
+    "source_path": "collected/021-imagiserum-episode-1.mp3",
+    "container_duration_seconds": 1101.941333,
+    "decoded_audio_duration_seconds": 1101.936,
+    "method": "Full FFmpeg audio decode, final out_time_us",
+    "readable": true,
+    "decode_error": ""
+  },
+  {
+    "source_path": "collected/019-from-between-the-woodsman.mp3",
+    "container_duration_seconds": 1469.04475,
+    "decoded_audio_duration_seconds": 1471.242449,
+    "method": "Full FFmpeg audio decode, final out_time_us",
+    "readable": true,
+    "decode_error": ""
+  },
+  {
+    "source_path": "collected/020-imagiserum-episode-2-raw.mp3",
+    "container_duration_seconds": 1216.061333,
+    "decoded_audio_duration_seconds": 1216.056,
+    "method": "Full FFmpeg audio decode, final out_time_us",
+    "readable": true,
+    "decode_error": ""
+  },
+  {
+    "source_path": "interviews/steven-schrembeck.mp3",
+    "container_duration_seconds": 4319.085714,
+    "decoded_audio_duration_seconds": 4319.085714,
+    "method": "Full FFmpeg audio decode, final out_time_us",
+    "readable": true,
+    "decode_error": ""
+  },
+  {
+    "source_path": "collected/024-developer-commentary-3-updates-sound-in-layers-the-two-stories.mp3",
+    "container_duration_seconds": 843.181633,
+    "decoded_audio_duration_seconds": 843.181633,
+    "method": "Full FFmpeg audio decode, final out_time_us",
+    "readable": true,
+    "decode_error": ""
+  },
+  {
+    "source_path": "collected/025-soulbinder-episode-2-raw.mp3",
+    "container_duration_seconds": 1172.261333,
+    "decoded_audio_duration_seconds": 1172.256,
+    "method": "Full FFmpeg audio decode, final out_time_us",
+    "readable": true,
+    "decode_error": ""
+  },
+  {
+    "source_path": "collected/026-soulbinder-episode-1.mp3",
+    "container_duration_seconds": 1410.053333,
+    "decoded_audio_duration_seconds": 1410.048,
+    "method": "Full FFmpeg audio decode, final out_time_us",
+    "readable": true,
+    "decode_error": ""
+  },
+  {
+    "source_path": "interviews/beyond-logic-steven-schrembeck-on-mind-sight-soul-families-and-the-edges-of-consciousness.mp3",
+    "container_duration_seconds": 4975.000839,
+    "decoded_audio_duration_seconds": 4975.000839,
+    "method": "Full FFmpeg audio decode, final out_time_us",
+    "readable": true,
+    "decode_error": ""
+  },
+  {
+    "source_path": "collected/022-mortal-steel-pilot-episode-2-raw.mp3",
+    "container_duration_seconds": 1225.565333,
+    "decoded_audio_duration_seconds": 1225.56,
+    "method": "Full FFmpeg audio decode, final out_time_us",
+    "readable": true,
+    "decode_error": ""
+  },
+  {
+    "source_path": "collected/027-volaxis-episode-2.mp3",
+    "container_duration_seconds": 1535.477333,
+    "decoded_audio_duration_seconds": 1535.472,
+    "method": "Full FFmpeg audio decode, final out_time_us",
+    "readable": true,
+    "decode_error": ""
+  },
+  {
+    "source_path": "interviews/1300-empowering-minds-with-ai-steven-schrembeck-on-technology-self-control-and-mental-clarity.mp3",
+    "container_duration_seconds": 1724.316313,
+    "decoded_audio_duration_seconds": 1724.316735,
+    "method": "Full FFmpeg audio decode, final out_time_us",
+    "readable": true,
+    "decode_error": ""
+  },
+  {
+    "source_path": "collected/029-everhouse-episode-2.mp3",
+    "container_duration_seconds": 1369.421333,
+    "decoded_audio_duration_seconds": 1369.416,
+    "method": "Full FFmpeg audio decode, final out_time_us",
+    "readable": true,
+    "decode_error": ""
+  },
+  {
+    "source_path": "collected/023-mortal-steel-pilot-episode-1.mp3",
+    "container_duration_seconds": 1707.365333,
+    "decoded_audio_duration_seconds": 1707.36,
+    "method": "Full FFmpeg audio decode, final out_time_us",
+    "readable": true,
+    "decode_error": ""
+  },
+  {
+    "source_path": "collected/031-developer-commentary-2.mp3",
+    "container_duration_seconds": 428.881882,
+    "decoded_audio_duration_seconds": 428.881882,
+    "method": "Full FFmpeg audio decode, final out_time_us",
+    "readable": true,
+    "decode_error": ""
+  },
+  {
+    "source_path": "interviews/107-unraveling-the-future-of-ai-the-developer-s-perspective-with-steven-schrembeck.mp3",
+    "container_duration_seconds": 2785.94,
+    "decoded_audio_duration_seconds": 2785.94,
+    "method": "Full FFmpeg audio decode, final out_time_us",
+    "readable": true,
+    "decode_error": ""
+  },
+  {
+    "source_path": "collected/032-planescarred-episode-2-raw.mp3",
+    "container_duration_seconds": 1573.277333,
+    "decoded_audio_duration_seconds": 1573.272,
+    "method": "Full FFmpeg audio decode, final out_time_us",
+    "readable": true,
+    "decode_error": ""
+  },
+  {
+    "source_path": "collected/028-volaxis-episode-1.mp3",
+    "container_duration_seconds": 1751.357333,
+    "decoded_audio_duration_seconds": 1751.352,
+    "method": "Full FFmpeg audio decode, final out_time_us",
+    "readable": true,
+    "decode_error": ""
+  },
+  {
+    "source_path": "collected/034-developer-commentary-1.mp3",
+    "container_duration_seconds": 839.789333,
+    "decoded_audio_duration_seconds": 839.784,
+    "method": "Full FFmpeg audio decode, final out_time_us",
+    "readable": true,
+    "decode_error": ""
+  },
+  {
+    "source_path": "collected/033-planescarred-episode-1.mp3",
+    "container_duration_seconds": 1835.789333,
+    "decoded_audio_duration_seconds": 1835.784,
+    "method": "Full FFmpeg audio decode, final out_time_us",
+    "readable": true,
+    "decode_error": ""
+  },
+  {
+    "source_path": "interviews/nosleep-podcast-s9e09.mp3",
+    "container_duration_seconds": 4658.006313,
+    "decoded_audio_duration_seconds": 4657.998367,
+    "method": "Full FFmpeg audio decode, final out_time_us",
+    "readable": true,
+    "decode_error": ""
+  },
+  {
+    "source_path": "collected/037-remaster-dust-episode-2-final-scene-only.mp3",
+    "container_duration_seconds": 274.277333,
+    "decoded_audio_duration_seconds": 274.272,
+    "method": "Full FFmpeg audio decode, final out_time_us",
+    "readable": true,
+    "decode_error": ""
+  },
+  {
+    "source_path": "collected/030-everhouse-episode-1.mp3",
+    "container_duration_seconds": 1712.117333,
+    "decoded_audio_duration_seconds": 1712.112,
+    "method": "Full FFmpeg audio decode, final out_time_us",
+    "readable": true,
+    "decode_error": ""
+  },
+  {
+    "source_path": "collected/039-dust-episode-1.mp3",
+    "container_duration_seconds": 1532.597333,
+    "decoded_audio_duration_seconds": 1532.592,
+    "method": "Full FFmpeg audio decode, final out_time_us",
+    "readable": true,
+    "decode_error": ""
+  },
+  {
+    "source_path": "collected/038-dust-episode-2-raw.mp3",
+    "container_duration_seconds": 1710.053333,
+    "decoded_audio_duration_seconds": 1710.048,
+    "method": "Full FFmpeg audio decode, final out_time_us",
+    "readable": true,
+    "decode_error": ""
+  },
+  {
+    "source_path": "collected/036-the-summoner-s-rulebook-episode-1.mp3",
+    "container_duration_seconds": 1581.365333,
+    "decoded_audio_duration_seconds": 1581.36,
+    "method": "Full FFmpeg audio decode, final out_time_us",
+    "readable": true,
+    "decode_error": ""
+  },
+  {
+    "source_path": "collected/040-the-eighth-self-episode-2-raw.mp3",
+    "container_duration_seconds": 1256.813333,
+    "decoded_audio_duration_seconds": 1256.808,
+    "method": "Full FFmpeg audio decode, final out_time_us",
+    "readable": true,
+    "decode_error": ""
+  },
+  {
+    "source_path": "collected/042-the-stillness-episode-2-raw.mp3",
+    "container_duration_seconds": 1249.949333,
+    "decoded_audio_duration_seconds": 1249.944,
+    "method": "Full FFmpeg audio decode, final out_time_us",
+    "readable": true,
+    "decode_error": ""
+  },
+  {
+    "source_path": "collected/035-the-summoner-s-rulebook-episode-2-raw.mp3",
+    "container_duration_seconds": 1772.525333,
+    "decoded_audio_duration_seconds": 1772.52,
+    "method": "Full FFmpeg audio decode, final out_time_us",
+    "readable": true,
+    "decode_error": ""
+  },
+  {
+    "source_path": "collected/041-the-eighth-self-episode-1-raw.mp3",
+    "container_duration_seconds": 1678.589333,
+    "decoded_audio_duration_seconds": 1678.584,
+    "method": "Full FFmpeg audio decode, final out_time_us",
+    "readable": true,
+    "decode_error": ""
+  },
+  {
+    "source_path": "collected/045-fractality-episode-1.mp3",
+    "container_duration_seconds": 2012.453333,
+    "decoded_audio_duration_seconds": 2012.448,
+    "method": "Full FFmpeg audio decode, final out_time_us",
+    "readable": true,
+    "decode_error": ""
+  },
+  {
+    "source_path": "collected/044-fractality-episode-2-raw.mp3",
+    "container_duration_seconds": 2015.141333,
+    "decoded_audio_duration_seconds": 2015.136,
+    "method": "Full FFmpeg audio decode, final out_time_us",
+    "readable": true,
+    "decode_error": ""
+  },
+  {
+    "source_path": "collected/047-allegiance-episode-1-raw.mp3",
+    "container_duration_seconds": 1854.845333,
+    "decoded_audio_duration_seconds": 1854.84,
+    "method": "Full FFmpeg audio decode, final out_time_us",
+    "readable": true,
+    "decode_error": ""
+  },
+  {
+    "source_path": "collected/046-allegiance-episode-2-raw.mp3",
+    "container_duration_seconds": 1470.269333,
+    "decoded_audio_duration_seconds": 1470.264,
+    "method": "Full FFmpeg audio decode, final out_time_us",
+    "readable": true,
+    "decode_error": ""
+  },
+  {
+    "source_path": "collected/043-the-stillness-episode-1.mp3",
+    "container_duration_seconds": 1802.261333,
+    "decoded_audio_duration_seconds": 1802.256,
+    "method": "Full FFmpeg audio decode, final out_time_us",
+    "readable": true,
+    "decode_error": ""
+  },
+  {
+    "source_path": "youtube/20230330-QenUqdd29RM-Are You Losing Your Power？ Regain It With This Simple Idea.mkv",
+    "container_duration_seconds": 91.001,
+    "decoded_audio_duration_seconds": 90.975792,
+    "method": "Lossless extracted FLAC sample duration",
+    "readable": true
+  },
+  {
+    "source_path": "youtube/20230313-tpC_DucAHhk-Have You Explored ‘The Fix？’.webm",
+    "container_duration_seconds": 10.021,
+    "decoded_audio_duration_seconds": 10.007813,
+    "method": "Lossless extracted FLAC sample duration",
+    "readable": true
+  },
+  {
+    "source_path": "youtube/20230303-WX5SHE6mzjQ-The Fix Episode 01.mkv",
+    "container_duration_seconds": 3838.541,
+    "decoded_audio_duration_seconds": 3838.525542,
+    "method": "Lossless extracted FLAC sample duration",
+    "readable": true
+  },
+  {
+    "source_path": "youtube/20230303-W4CoD6MFP_8-Tomorrow..webm",
+    "container_duration_seconds": 14.761,
+    "decoded_audio_duration_seconds": 14.744688,
+    "method": "Lossless extracted FLAC sample duration",
+    "readable": true
+  },
+  {
+    "source_path": "youtube/20230214-mgsUmaAXYKA-New Video This Thursday..webm",
+    "container_duration_seconds": 14.761,
+    "decoded_audio_duration_seconds": 14.744688,
+    "method": "Lossless extracted FLAC sample duration",
+    "readable": true
+  },
+  {
+    "source_path": "youtube/20230223-3nHjB7hrZSM-SKM Episode 3 loading tomorrow..webm",
+    "container_duration_seconds": 10.861,
+    "decoded_audio_duration_seconds": 10.843729,
+    "method": "Lossless extracted FLAC sample duration",
+    "readable": true
+  },
+  {
+    "source_path": "youtube/20230308-iFInjbZB0Yk-The Answer to Why We Are Seeking Minima.webm",
+    "container_duration_seconds": 28.021,
+    "decoded_audio_duration_seconds": 28.003271,
+    "method": "Lossless extracted FLAC sample duration",
+    "readable": true
+  },
+  {
+    "source_path": "youtube/20230403-0E6MlTB0TdQ-Let’s Talk About Trauma. Episode 02 of ‘The Fix’ is Coming This Friday..webm",
+    "container_duration_seconds": 15.461,
+    "decoded_audio_duration_seconds": 15.441271,
+    "method": "Lossless extracted FLAC sample duration",
+    "readable": true
+  },
+  {
+    "source_path": "youtube/20230323-u0mE8oY3Byw-The Dopamine Ladder.mkv",
+    "container_duration_seconds": 879.481,
+    "decoded_audio_duration_seconds": 879.467396,
+    "method": "Lossless extracted FLAC sample duration",
+    "readable": true
+  },
+  {
+    "source_path": "youtube/20230329-CpVUxs-BSbY-Have you thought about the idea that you are actually self employed？.webm",
+    "container_duration_seconds": 10.021,
+    "decoded_audio_duration_seconds": 10.007813,
+    "method": "Lossless extracted FLAC sample duration",
+    "readable": true
+  },
+  {
+    "source_path": "youtube/20230216-Uwj1bkST5Xk-Reverie Teaser.webm",
+    "container_duration_seconds": 8.021,
+    "decoded_audio_duration_seconds": 8.010896,
+    "method": "Lossless extracted FLAC sample duration",
+    "readable": true
+  },
+  {
+    "source_path": "youtube/20230301-I8eFLGJGyyY-Coming this Friday..webm",
+    "container_duration_seconds": 14.761,
+    "decoded_audio_duration_seconds": 14.744688,
+    "method": "Lossless extracted FLAC sample duration",
+    "readable": true
+  },
+  {
+    "source_path": "youtube/20230324-NIkBID7yMu0-This Is A Problem That All Of Humanity Has.mkv",
+    "container_duration_seconds": 23.801,
+    "decoded_audio_duration_seconds": 23.77725,
+    "method": "Lossless extracted FLAC sample duration",
+    "readable": true
+  },
+  {
+    "source_path": "youtube/20230322-BuEReSReENg-The Dopamine Ladder….webm",
+    "container_duration_seconds": 10.021,
+    "decoded_audio_duration_seconds": 10.007813,
+    "method": "Lossless extracted FLAC sample duration",
+    "readable": true
+  },
+  {
+    "source_path": "youtube/20230406-ZXmace-9u9M-Web3 Fundamentals Ep. 01 Financial Alignment.mkv",
+    "container_duration_seconds": 110.101,
+    "decoded_audio_duration_seconds": 110.074208,
+    "method": "Lossless extracted FLAC sample duration",
+    "readable": true
+  },
+  {
+    "source_path": "youtube/20230223-6E-TbTNnVF0-How to Solve 99% of Your Problems...mkv",
+    "container_duration_seconds": 274.661,
+    "decoded_audio_duration_seconds": 274.634021,
+    "method": "Lossless extracted FLAC sample duration",
+    "readable": true
+  },
+  {
+    "source_path": "youtube/20230408-w_mPrS11HP4-The Fix 02 - How Do You Think About Trauma？.webm",
+    "container_duration_seconds": 4863.921,
+    "decoded_audio_duration_seconds": 4863.895521,
+    "method": "Lossless extracted FLAC sample duration",
+    "readable": true
+  },
+  {
+    "source_path": "youtube/20230216-BHegBC0tO6M-Reverie - The Answer.mkv",
+    "container_duration_seconds": 1024.121,
+    "decoded_audio_duration_seconds": 1024.1045,
+    "method": "Lossless extracted FLAC sample duration",
+    "readable": true
+  },
+  {
+    "source_path": "youtube/20230518-sNeD2zNnZl0-High Impact Foods Part 01.mkv",
+    "container_duration_seconds": 59.801,
+    "decoded_audio_duration_seconds": 59.791396,
+    "method": "Lossless extracted FLAC sample duration",
+    "readable": true
+  },
+  {
+    "source_path": "youtube/20230227-acP4hlPJRZo-The Fix - Coming Friday.webm",
+    "container_duration_seconds": 10.081,
+    "decoded_audio_duration_seconds": 10.05425,
+    "method": "Lossless extracted FLAC sample duration",
+    "readable": true
+  },
+  {
+    "source_path": "youtube/20230212-XO-REklMsgc-Instructions For Prototyping ChatGPT Products.webm",
+    "container_duration_seconds": 2604.241,
+    "decoded_audio_duration_seconds": 2604.222417,
+    "method": "Lossless extracted FLAC sample duration",
+    "readable": true
+  },
+  {
+    "source_path": "youtube/20230309-oZoXwfHdLAw-Local Minima - The Answer to Why We Are Seeking Minima.mkv",
+    "container_duration_seconds": 1295.541,
+    "decoded_audio_duration_seconds": 1295.533333,
+    "method": "Lossless extracted FLAC sample duration",
+    "readable": true
+  }
+]

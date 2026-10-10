@@ -1,0 +1,4 @@
+collection/**/*.mp3 filter=lfs diff=lfs merge=lfs -text
+collection/**/*.mp4 filter=lfs diff=lfs merge=lfs -text
+collection/**/*.mkv filter=lfs diff=lfs merge=lfs -text
+collection/**/*.webm filter=lfs diff=lfs merge=lfs -text

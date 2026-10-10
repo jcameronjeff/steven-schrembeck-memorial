@@ -1,0 +1,874 @@
+{
+  "completed": 85,
+  "expected_media": 85,
+  "current_inventory_media_count": 87,
+  "associated_media_count": 87,
+  "uncovered_media": [],
+  "status_counts": {
+    "completed": 85
+  },
+  "checks": [
+    {
+      "source_path": "reality/003-trailer-surprise-you-can-learn-how-it-all-works.mp3",
+      "files_checked": 6,
+      "spoken_words": 238,
+      "language": "eng",
+      "srt_cues": 22,
+      "srt_overlapping_cues": 0,
+      "vtt_cues": 22,
+      "vtt_overlapping_cues": 0
+    },
+    {
+      "source_path": "reality/001-0-prologue-from-ruptures-and-roots.mp3",
+      "files_checked": 6,
+      "spoken_words": 15460,
+      "language": "eng",
+      "srt_cues": 1232,
+      "srt_overlapping_cues": 12,
+      "vtt_cues": 1232,
+      "vtt_overlapping_cues": 12
+    },
+    {
+      "source_path": "reality/002-1-reality-101.mp3",
+      "files_checked": 6,
+      "spoken_words": 13517,
+      "language": "eng",
+      "srt_cues": 1065,
+      "srt_overlapping_cues": 8,
+      "vtt_cues": 1065,
+      "vtt_overlapping_cues": 8
+    },
+    {
+      "source_path": "reality/005-3-see-wake-up-remember-pt-2.mp3",
+      "files_checked": 6,
+      "spoken_words": 12306,
+      "language": "eng",
+      "srt_cues": 991,
+      "srt_overlapping_cues": 6,
+      "vtt_cues": 991,
+      "vtt_overlapping_cues": 6
+    },
+    {
+      "source_path": "reality/006-4-see-wake-up-remember-pt-3.mp3",
+      "files_checked": 6,
+      "spoken_words": 10278,
+      "language": "eng",
+      "srt_cues": 859,
+      "srt_overlapping_cues": 5,
+      "vtt_cues": 859,
+      "vtt_overlapping_cues": 5
+    },
+    {
+      "source_path": "reality/007-5-reality-102.mp3",
+      "files_checked": 6,
+      "spoken_words": 13092,
+      "language": "eng",
+      "srt_cues": 1019,
+      "srt_overlapping_cues": 6,
+      "vtt_cues": 1019,
+      "vtt_overlapping_cues": 6
+    },
+    {
+      "source_path": "reality/009-bonus-what-i-know-about-transcendence.mp3",
+      "files_checked": 6,
+      "spoken_words": 10759,
+      "language": "eng",
+      "srt_cues": 756,
+      "srt_overlapping_cues": 0,
+      "vtt_cues": 756,
+      "vtt_overlapping_cues": 0
+    },
+    {
+      "source_path": "reality/010-bonus-food-and-frequency.mp3",
+      "files_checked": 6,
+      "spoken_words": 2947,
+      "language": "eng",
+      "srt_cues": 213,
+      "srt_overlapping_cues": 0,
+      "vtt_cues": 213,
+      "vtt_overlapping_cues": 0
+    },
+    {
+      "source_path": "reality/008-bonus-what-i-know-about-telepathy.mp3",
+      "files_checked": 6,
+      "spoken_words": 10472,
+      "language": "eng",
+      "srt_cues": 745,
+      "srt_overlapping_cues": 0,
+      "vtt_cues": 745,
+      "vtt_overlapping_cues": 0
+    },
+    {
+      "source_path": "collected/003-mine-an-unofficial-merry-modz-audio-short.mp3",
+      "files_checked": 6,
+      "spoken_words": 112,
+      "language": "eng",
+      "srt_cues": 33,
+      "srt_overlapping_cues": 0,
+      "vtt_cues": 33,
+      "vtt_overlapping_cues": 0
+    },
+    {
+      "source_path": "collected/002-dev-commentary-7-puzzl-web-3-short-story-the-project.mp3",
+      "files_checked": 6,
+      "spoken_words": 1785,
+      "language": "eng",
+      "srt_cues": 152,
+      "srt_overlapping_cues": 0,
+      "vtt_cues": 152,
+      "vtt_overlapping_cues": 0
+    },
+    {
+      "source_path": "collected/004-delays-and-discord.mp3",
+      "files_checked": 6,
+      "spoken_words": 209,
+      "language": "eng",
+      "srt_cues": 20,
+      "srt_overlapping_cues": 0,
+      "vtt_cues": 20,
+      "vtt_overlapping_cues": 0
+    },
+    {
+      "source_path": "collected/001-reverie.mp3",
+      "files_checked": 6,
+      "spoken_words": 2252,
+      "language": "eng",
+      "srt_cues": 186,
+      "srt_overlapping_cues": 0,
+      "vtt_cues": 186,
+      "vtt_overlapping_cues": 0
+    },
+    {
+      "source_path": "reality/004-2-see-wake-up-remember-pt-1.mp3",
+      "files_checked": 6,
+      "spoken_words": 12560,
+      "language": "eng",
+      "srt_cues": 1185,
+      "srt_overlapping_cues": 12,
+      "vtt_cues": 1185,
+      "vtt_overlapping_cues": 12
+    },
+    {
+      "source_path": "collected/005-mortal-steel-episode-10.mp3",
+      "files_checked": 6,
+      "spoken_words": 3449,
+      "language": "eng",
+      "srt_cues": 365,
+      "srt_overlapping_cues": 0,
+      "vtt_cues": 365,
+      "vtt_overlapping_cues": 0
+    },
+    {
+      "source_path": "collected/008-mortal-steel-episode-8.mp3",
+      "files_checked": 6,
+      "spoken_words": 3183,
+      "language": "eng",
+      "srt_cues": 319,
+      "srt_overlapping_cues": 0,
+      "vtt_cues": 319,
+      "vtt_overlapping_cues": 0
+    },
+    {
+      "source_path": "collected/006-dev-commentary-6-interview-with-the-creative-mindset-mortal-steel-wrapup-season-2-updates.mp3",
+      "files_checked": 6,
+      "spoken_words": 14695,
+      "language": "eng",
+      "srt_cues": 1138,
+      "srt_overlapping_cues": 5,
+      "vtt_cues": 1138,
+      "vtt_overlapping_cues": 5
+    },
+    {
+      "source_path": "collected/010-mortal-steel-episode-7.mp3",
+      "files_checked": 6,
+      "spoken_words": 3425,
+      "language": "eng",
+      "srt_cues": 312,
+      "srt_overlapping_cues": 0,
+      "vtt_cues": 312,
+      "vtt_overlapping_cues": 0
+    },
+    {
+      "source_path": "collected/012-mortal-steel-trailer.mp3",
+      "files_checked": 6,
+      "spoken_words": 114,
+      "language": "eng",
+      "srt_cues": 17,
+      "srt_overlapping_cues": 0,
+      "vtt_cues": 17,
+      "vtt_overlapping_cues": 0
+    },
+    {
+      "source_path": "collected/009-developer-commentary-5-what-is-collected-what-do-you-mean-by-it-s-ours-season-2-updates.mp3",
+      "files_checked": 6,
+      "spoken_words": 1702,
+      "language": "eng",
+      "srt_cues": 121,
+      "srt_overlapping_cues": 0,
+      "vtt_cues": 121,
+      "vtt_overlapping_cues": 0
+    },
+    {
+      "source_path": "collected/011-mortal-steel-episode-6.mp3",
+      "files_checked": 6,
+      "spoken_words": 3135,
+      "language": "eng",
+      "srt_cues": 316,
+      "srt_overlapping_cues": 0,
+      "vtt_cues": 316,
+      "vtt_overlapping_cues": 0
+    },
+    {
+      "source_path": "collected/013-mortal-steel-episode-5.mp3",
+      "files_checked": 6,
+      "spoken_words": 3539,
+      "language": "eng",
+      "srt_cues": 324,
+      "srt_overlapping_cues": 0,
+      "vtt_cues": 324,
+      "vtt_overlapping_cues": 0
+    },
+    {
+      "source_path": "collected/007-mortal-steel-episode-9.mp3",
+      "files_checked": 6,
+      "spoken_words": 3220,
+      "language": "eng",
+      "srt_cues": 327,
+      "srt_overlapping_cues": 0,
+      "vtt_cues": 327,
+      "vtt_overlapping_cues": 0
+    },
+    {
+      "source_path": "collected/016-mortal-steel-episode-2.mp3",
+      "files_checked": 6,
+      "spoken_words": 2845,
+      "language": "eng",
+      "srt_cues": 236,
+      "srt_overlapping_cues": 0,
+      "vtt_cues": 236,
+      "vtt_overlapping_cues": 0
+    },
+    {
+      "source_path": "collected/017-developer-commentary-4-release-schedule-other-updates.mp3",
+      "files_checked": 6,
+      "spoken_words": 557,
+      "language": "eng",
+      "srt_cues": 39,
+      "srt_overlapping_cues": 0,
+      "vtt_cues": 39,
+      "vtt_overlapping_cues": 0
+    },
+    {
+      "source_path": "collected/018-mortal-steel-episode-1.mp3",
+      "files_checked": 6,
+      "spoken_words": 3753,
+      "language": "eng",
+      "srt_cues": 334,
+      "srt_overlapping_cues": 0,
+      "vtt_cues": 334,
+      "vtt_overlapping_cues": 0
+    },
+    {
+      "source_path": "collected/015-mortal-steel-episode-3.mp3",
+      "files_checked": 6,
+      "spoken_words": 3401,
+      "language": "eng",
+      "srt_cues": 303,
+      "srt_overlapping_cues": 0,
+      "vtt_cues": 303,
+      "vtt_overlapping_cues": 0
+    },
+    {
+      "source_path": "interviews/unlocking-human-and-machine-consciousness-with-steven-schrembeck.mp3",
+      "files_checked": 6,
+      "spoken_words": 7173,
+      "language": "eng",
+      "srt_cues": 570,
+      "srt_overlapping_cues": 2,
+      "vtt_cues": 570,
+      "vtt_overlapping_cues": 2
+    },
+    {
+      "source_path": "collected/014-mortal-steel-episode-4.mp3",
+      "files_checked": 6,
+      "spoken_words": 3133,
+      "language": "eng",
+      "srt_cues": 342,
+      "srt_overlapping_cues": 0,
+      "vtt_cues": 342,
+      "vtt_overlapping_cues": 0
+    },
+    {
+      "source_path": "collected/021-imagiserum-episode-1.mp3",
+      "files_checked": 6,
+      "spoken_words": 2481,
+      "language": "eng",
+      "srt_cues": 185,
+      "srt_overlapping_cues": 0,
+      "vtt_cues": 185,
+      "vtt_overlapping_cues": 0
+    },
+    {
+      "source_path": "collected/019-from-between-the-woodsman.mp3",
+      "files_checked": 6,
+      "spoken_words": 3073,
+      "language": "eng",
+      "srt_cues": 263,
+      "srt_overlapping_cues": 0,
+      "vtt_cues": 263,
+      "vtt_overlapping_cues": 0
+    },
+    {
+      "source_path": "collected/020-imagiserum-episode-2-raw.mp3",
+      "files_checked": 6,
+      "spoken_words": 2542,
+      "language": "eng",
+      "srt_cues": 199,
+      "srt_overlapping_cues": 0,
+      "vtt_cues": 199,
+      "vtt_overlapping_cues": 0
+    },
+    {
+      "source_path": "interviews/steven-schrembeck.mp3",
+      "files_checked": 6,
+      "spoken_words": 12673,
+      "language": "eng",
+      "srt_cues": 1083,
+      "srt_overlapping_cues": 11,
+      "vtt_cues": 1083,
+      "vtt_overlapping_cues": 11
+    },
+    {
+      "source_path": "collected/024-developer-commentary-3-updates-sound-in-layers-the-two-stories.mp3",
+      "files_checked": 6,
+      "spoken_words": 2425,
+      "language": "eng",
+      "srt_cues": 168,
+      "srt_overlapping_cues": 0,
+      "vtt_cues": 168,
+      "vtt_overlapping_cues": 0
+    },
+    {
+      "source_path": "collected/025-soulbinder-episode-2-raw.mp3",
+      "files_checked": 6,
+      "spoken_words": 2408,
+      "language": "eng",
+      "srt_cues": 193,
+      "srt_overlapping_cues": 0,
+      "vtt_cues": 193,
+      "vtt_overlapping_cues": 0
+    },
+    {
+      "source_path": "collected/026-soulbinder-episode-1.mp3",
+      "files_checked": 6,
+      "spoken_words": 2992,
+      "language": "eng",
+      "srt_cues": 236,
+      "srt_overlapping_cues": 0,
+      "vtt_cues": 236,
+      "vtt_overlapping_cues": 0
+    },
+    {
+      "source_path": "interviews/beyond-logic-steven-schrembeck-on-mind-sight-soul-families-and-the-edges-of-consciousness.mp3",
+      "files_checked": 6,
+      "spoken_words": 15345,
+      "language": "eng",
+      "srt_cues": 1216,
+      "srt_overlapping_cues": 5,
+      "vtt_cues": 1216,
+      "vtt_overlapping_cues": 5
+    },
+    {
+      "source_path": "collected/022-mortal-steel-pilot-episode-2-raw.mp3",
+      "files_checked": 6,
+      "spoken_words": 2651,
+      "language": "eng",
+      "srt_cues": 201,
+      "srt_overlapping_cues": 0,
+      "vtt_cues": 201,
+      "vtt_overlapping_cues": 0
+    },
+    {
+      "source_path": "collected/027-volaxis-episode-2.mp3",
+      "files_checked": 6,
+      "spoken_words": 3275,
+      "language": "eng",
+      "srt_cues": 262,
+      "srt_overlapping_cues": 0,
+      "vtt_cues": 262,
+      "vtt_overlapping_cues": 0
+    },
+    {
+      "source_path": "interviews/1300-empowering-minds-with-ai-steven-schrembeck-on-technology-self-control-and-mental-clarity.mp3",
+      "files_checked": 6,
+      "spoken_words": 5291,
+      "language": "eng",
+      "srt_cues": 383,
+      "srt_overlapping_cues": 0,
+      "vtt_cues": 383,
+      "vtt_overlapping_cues": 0
+    },
+    {
+      "source_path": "collected/029-everhouse-episode-2.mp3",
+      "files_checked": 6,
+      "spoken_words": 3025,
+      "language": "eng",
+      "srt_cues": 237,
+      "srt_overlapping_cues": 0,
+      "vtt_cues": 237,
+      "vtt_overlapping_cues": 0
+    },
+    {
+      "source_path": "collected/023-mortal-steel-pilot-episode-1.mp3",
+      "files_checked": 6,
+      "spoken_words": 3505,
+      "language": "eng",
+      "srt_cues": 287,
+      "srt_overlapping_cues": 0,
+      "vtt_cues": 287,
+      "vtt_overlapping_cues": 0
+    },
+    {
+      "source_path": "collected/031-developer-commentary-2.mp3",
+      "files_checked": 6,
+      "spoken_words": 1212,
+      "language": "eng",
+      "srt_cues": 83,
+      "srt_overlapping_cues": 0,
+      "vtt_cues": 83,
+      "vtt_overlapping_cues": 0
+    },
+    {
+      "source_path": "interviews/107-unraveling-the-future-of-ai-the-developer-s-perspective-with-steven-schrembeck.mp3",
+      "files_checked": 6,
+      "spoken_words": 7923,
+      "language": "eng",
+      "srt_cues": 599,
+      "srt_overlapping_cues": 2,
+      "vtt_cues": 599,
+      "vtt_overlapping_cues": 2
+    },
+    {
+      "source_path": "collected/032-planescarred-episode-2-raw.mp3",
+      "files_checked": 6,
+      "spoken_words": 3400,
+      "language": "eng",
+      "srt_cues": 264,
+      "srt_overlapping_cues": 0,
+      "vtt_cues": 264,
+      "vtt_overlapping_cues": 0
+    },
+    {
+      "source_path": "collected/028-volaxis-episode-1.mp3",
+      "files_checked": 6,
+      "spoken_words": 3873,
+      "language": "eng",
+      "srt_cues": 300,
+      "srt_overlapping_cues": 0,
+      "vtt_cues": 300,
+      "vtt_overlapping_cues": 0
+    },
+    {
+      "source_path": "collected/034-developer-commentary-1.mp3",
+      "files_checked": 6,
+      "spoken_words": 2430,
+      "language": "eng",
+      "srt_cues": 166,
+      "srt_overlapping_cues": 0,
+      "vtt_cues": 166,
+      "vtt_overlapping_cues": 0
+    },
+    {
+      "source_path": "collected/033-planescarred-episode-1.mp3",
+      "files_checked": 6,
+      "spoken_words": 4059,
+      "language": "eng",
+      "srt_cues": 310,
+      "srt_overlapping_cues": 0,
+      "vtt_cues": 310,
+      "vtt_overlapping_cues": 0
+    },
+    {
+      "source_path": "interviews/nosleep-podcast-s9e09.mp3",
+      "files_checked": 6,
+      "spoken_words": 10073,
+      "language": "eng",
+      "srt_cues": 803,
+      "srt_overlapping_cues": 0,
+      "vtt_cues": 803,
+      "vtt_overlapping_cues": 0
+    },
+    {
+      "source_path": "collected/037-remaster-dust-episode-2-final-scene-only.mp3",
+      "files_checked": 6,
+      "spoken_words": 635,
+      "language": "eng",
+      "srt_cues": 48,
+      "srt_overlapping_cues": 0,
+      "vtt_cues": 48,
+      "vtt_overlapping_cues": 0
+    },
+    {
+      "source_path": "collected/030-everhouse-episode-1.mp3",
+      "files_checked": 6,
+      "spoken_words": 3871,
+      "language": "eng",
+      "srt_cues": 301,
+      "srt_overlapping_cues": 0,
+      "vtt_cues": 301,
+      "vtt_overlapping_cues": 0
+    },
+    {
+      "source_path": "collected/039-dust-episode-1.mp3",
+      "files_checked": 6,
+      "spoken_words": 3413,
+      "language": "eng",
+      "srt_cues": 260,
+      "srt_overlapping_cues": 0,
+      "vtt_cues": 260,
+      "vtt_overlapping_cues": 0
+    },
+    {
+      "source_path": "collected/038-dust-episode-2-raw.mp3",
+      "files_checked": 6,
+      "spoken_words": 3889,
+      "language": "eng",
+      "srt_cues": 294,
+      "srt_overlapping_cues": 0,
+      "vtt_cues": 294,
+      "vtt_overlapping_cues": 0
+    },
+    {
+      "source_path": "collected/036-the-summoner-s-rulebook-episode-1.mp3",
+      "files_checked": 6,
+      "spoken_words": 3776,
+      "language": "eng",
+      "srt_cues": 285,
+      "srt_overlapping_cues": 0,
+      "vtt_cues": 285,
+      "vtt_overlapping_cues": 0
+    },
+    {
+      "source_path": "collected/040-the-eighth-self-episode-2-raw.mp3",
+      "files_checked": 6,
+      "spoken_words": 2797,
+      "language": "eng",
+      "srt_cues": 222,
+      "srt_overlapping_cues": 0,
+      "vtt_cues": 222,
+      "vtt_overlapping_cues": 0
+    },
+    {
+      "source_path": "collected/042-the-stillness-episode-2-raw.mp3",
+      "files_checked": 6,
+      "spoken_words": 3111,
+      "language": "eng",
+      "srt_cues": 221,
+      "srt_overlapping_cues": 0,
+      "vtt_cues": 221,
+      "vtt_overlapping_cues": 0
+    },
+    {
+      "source_path": "collected/035-the-summoner-s-rulebook-episode-2-raw.mp3",
+      "files_checked": 6,
+      "spoken_words": 4118,
+      "language": "eng",
+      "srt_cues": 314,
+      "srt_overlapping_cues": 0,
+      "vtt_cues": 314,
+      "vtt_overlapping_cues": 0
+    },
+    {
+      "source_path": "collected/041-the-eighth-self-episode-1-raw.mp3",
+      "files_checked": 6,
+      "spoken_words": 4227,
+      "language": "eng",
+      "srt_cues": 302,
+      "srt_overlapping_cues": 0,
+      "vtt_cues": 302,
+      "vtt_overlapping_cues": 0
+    },
+    {
+      "source_path": "collected/045-fractality-episode-1.mp3",
+      "files_checked": 6,
+      "spoken_words": 4863,
+      "language": "eng",
+      "srt_cues": 396,
+      "srt_overlapping_cues": 0,
+      "vtt_cues": 396,
+      "vtt_overlapping_cues": 0
+    },
+    {
+      "source_path": "collected/044-fractality-episode-2-raw.mp3",
+      "files_checked": 6,
+      "spoken_words": 5109,
+      "language": "eng",
+      "srt_cues": 386,
+      "srt_overlapping_cues": 0,
+      "vtt_cues": 386,
+      "vtt_overlapping_cues": 0
+    },
+    {
+      "source_path": "collected/047-allegiance-episode-1-raw.mp3",
+      "files_checked": 6,
+      "spoken_words": 4668,
+      "language": "eng",
+      "srt_cues": 339,
+      "srt_overlapping_cues": 0,
+      "vtt_cues": 339,
+      "vtt_overlapping_cues": 0
+    },
+    {
+      "source_path": "collected/046-allegiance-episode-2-raw.mp3",
+      "files_checked": 6,
+      "spoken_words": 3571,
+      "language": "eng",
+      "srt_cues": 268,
+      "srt_overlapping_cues": 0,
+      "vtt_cues": 268,
+      "vtt_overlapping_cues": 0
+    },
+    {
+      "source_path": "collected/043-the-stillness-episode-1.mp3",
+      "files_checked": 6,
+      "spoken_words": 4073,
+      "language": "eng",
+      "srt_cues": 314,
+      "srt_overlapping_cues": 0,
+      "vtt_cues": 314,
+      "vtt_overlapping_cues": 0
+    },
+    {
+      "source_path": "youtube/20230330-QenUqdd29RM-Are You Losing Your Power？ Regain It With This Simple Idea.mkv",
+      "files_checked": 6,
+      "spoken_words": 169,
+      "language": "eng",
+      "srt_cues": 15,
+      "srt_overlapping_cues": 0,
+      "vtt_cues": 15,
+      "vtt_overlapping_cues": 0
+    },
+    {
+      "source_path": "youtube/20230313-tpC_DucAHhk-Have You Explored ‘The Fix？’.webm",
+      "files_checked": 6,
+      "spoken_words": 18,
+      "language": "eng",
+      "srt_cues": 2,
+      "srt_overlapping_cues": 0,
+      "vtt_cues": 2,
+      "vtt_overlapping_cues": 0
+    },
+    {
+      "source_path": "youtube/20230303-WX5SHE6mzjQ-The Fix Episode 01.mkv",
+      "files_checked": 6,
+      "spoken_words": 9210,
+      "language": "eng",
+      "srt_cues": 747,
+      "srt_overlapping_cues": 0,
+      "vtt_cues": 747,
+      "vtt_overlapping_cues": 0
+    },
+    {
+      "source_path": "youtube/20230303-W4CoD6MFP_8-Tomorrow..webm",
+      "files_checked": 6,
+      "spoken_words": 28,
+      "language": "eng",
+      "srt_cues": 4,
+      "srt_overlapping_cues": 0,
+      "vtt_cues": 4,
+      "vtt_overlapping_cues": 0
+    },
+    {
+      "source_path": "youtube/20230214-mgsUmaAXYKA-New Video This Thursday..webm",
+      "files_checked": 6,
+      "spoken_words": 39,
+      "language": "eng",
+      "srt_cues": 3,
+      "srt_overlapping_cues": 0,
+      "vtt_cues": 3,
+      "vtt_overlapping_cues": 0
+    },
+    {
+      "source_path": "youtube/20230223-3nHjB7hrZSM-SKM Episode 3 loading tomorrow..webm",
+      "files_checked": 6,
+      "spoken_words": 17,
+      "language": "eng",
+      "srt_cues": 2,
+      "srt_overlapping_cues": 0,
+      "vtt_cues": 2,
+      "vtt_overlapping_cues": 0
+    },
+    {
+      "source_path": "youtube/20230308-iFInjbZB0Yk-The Answer to Why We Are Seeking Minima.webm",
+      "files_checked": 6,
+      "spoken_words": 0,
+      "language": "por",
+      "srt_cues": 1,
+      "srt_overlapping_cues": 0,
+      "vtt_cues": 1,
+      "vtt_overlapping_cues": 0
+    },
+    {
+      "source_path": "youtube/20230403-0E6MlTB0TdQ-Let’s Talk About Trauma. Episode 02 of ‘The Fix’ is Coming This Friday..webm",
+      "files_checked": 6,
+      "spoken_words": 29,
+      "language": "eng",
+      "srt_cues": 4,
+      "srt_overlapping_cues": 0,
+      "vtt_cues": 4,
+      "vtt_overlapping_cues": 0
+    },
+    {
+      "source_path": "youtube/20230323-u0mE8oY3Byw-The Dopamine Ladder.mkv",
+      "files_checked": 6,
+      "spoken_words": 2188,
+      "language": "eng",
+      "srt_cues": 166,
+      "srt_overlapping_cues": 0,
+      "vtt_cues": 166,
+      "vtt_overlapping_cues": 0
+    },
+    {
+      "source_path": "youtube/20230329-CpVUxs-BSbY-Have you thought about the idea that you are actually self employed？.webm",
+      "files_checked": 6,
+      "spoken_words": 0,
+      "language": "por",
+      "srt_cues": 1,
+      "srt_overlapping_cues": 0,
+      "vtt_cues": 1,
+      "vtt_overlapping_cues": 0
+    },
+    {
+      "source_path": "youtube/20230216-Uwj1bkST5Xk-Reverie Teaser.webm",
+      "files_checked": 6,
+      "spoken_words": 17,
+      "language": "eng",
+      "srt_cues": 2,
+      "srt_overlapping_cues": 0,
+      "vtt_cues": 2,
+      "vtt_overlapping_cues": 0
+    },
+    {
+      "source_path": "youtube/20230301-I8eFLGJGyyY-Coming this Friday..webm",
+      "files_checked": 6,
+      "spoken_words": 33,
+      "language": "eng",
+      "srt_cues": 3,
+      "srt_overlapping_cues": 0,
+      "vtt_cues": 3,
+      "vtt_overlapping_cues": 0
+    },
+    {
+      "source_path": "youtube/20230324-NIkBID7yMu0-This Is A Problem That All Of Humanity Has.mkv",
+      "files_checked": 6,
+      "spoken_words": 41,
+      "language": "eng",
+      "srt_cues": 4,
+      "srt_overlapping_cues": 0,
+      "vtt_cues": 4,
+      "vtt_overlapping_cues": 0
+    },
+    {
+      "source_path": "youtube/20230322-BuEReSReENg-The Dopamine Ladder….webm",
+      "files_checked": 6,
+      "spoken_words": 0,
+      "language": "por",
+      "srt_cues": 1,
+      "srt_overlapping_cues": 0,
+      "vtt_cues": 1,
+      "vtt_overlapping_cues": 0
+    },
+    {
+      "source_path": "youtube/20230406-ZXmace-9u9M-Web3 Fundamentals Ep. 01 Financial Alignment.mkv",
+      "files_checked": 6,
+      "spoken_words": 280,
+      "language": "eng",
+      "srt_cues": 22,
+      "srt_overlapping_cues": 0,
+      "vtt_cues": 22,
+      "vtt_overlapping_cues": 0
+    },
+    {
+      "source_path": "youtube/20230223-6E-TbTNnVF0-How to Solve 99% of Your Problems...mkv",
+      "files_checked": 6,
+      "spoken_words": 611,
+      "language": "eng",
+      "srt_cues": 50,
+      "srt_overlapping_cues": 0,
+      "vtt_cues": 50,
+      "vtt_overlapping_cues": 0
+    },
+    {
+      "source_path": "youtube/20230408-w_mPrS11HP4-The Fix 02 - How Do You Think About Trauma？.webm",
+      "files_checked": 6,
+      "spoken_words": 12446,
+      "language": "eng",
+      "srt_cues": 954,
+      "srt_overlapping_cues": 0,
+      "vtt_cues": 954,
+      "vtt_overlapping_cues": 0
+    },
+    {
+      "source_path": "youtube/20230216-BHegBC0tO6M-Reverie - The Answer.mkv",
+      "files_checked": 6,
+      "spoken_words": 2247,
+      "language": "eng",
+      "srt_cues": 185,
+      "srt_overlapping_cues": 0,
+      "vtt_cues": 185,
+      "vtt_overlapping_cues": 0
+    },
+    {
+      "source_path": "youtube/20230518-sNeD2zNnZl0-High Impact Foods Part 01.mkv",
+      "files_checked": 6,
+      "spoken_words": 123,
+      "language": "eng",
+      "srt_cues": 11,
+      "srt_overlapping_cues": 0,
+      "vtt_cues": 11,
+      "vtt_overlapping_cues": 0
+    },
+    {
+      "source_path": "youtube/20230227-acP4hlPJRZo-The Fix - Coming Friday.webm",
+      "files_checked": 6,
+      "spoken_words": 36,
+      "language": "eng",
+      "srt_cues": 3,
+      "srt_overlapping_cues": 0,
+      "vtt_cues": 3,
+      "vtt_overlapping_cues": 0
+    },
+    {
+      "source_path": "youtube/20230212-XO-REklMsgc-Instructions For Prototyping ChatGPT Products.webm",
+      "files_checked": 6,
+      "spoken_words": 6589,
+      "language": "eng",
+      "srt_cues": 525,
+      "srt_overlapping_cues": 0,
+      "vtt_cues": 525,
+      "vtt_overlapping_cues": 0
+    },
+    {
+      "source_path": "youtube/20230309-oZoXwfHdLAw-Local Minima - The Answer to Why We Are Seeking Minima.mkv",
+      "files_checked": 6,
+      "spoken_words": 3389,
+      "language": "eng",
+      "srt_cues": 246,
+      "srt_overlapping_cues": 0,
+      "vtt_cues": 246,
+      "vtt_overlapping_cues": 0
+    }
+  ],
+  "local_link_scope": "Active archive and transcript pages; byte-preserved historical HTML snapshots are excluded because their relative base is the original archive root.",
+  "local_links_checked": 1415,
+  "changed_original_files": [
+    "README.md",
+    "index.html",
+    "inventory.csv",
+    "inventory.json",
+    "manifest.jsonl",
+    "video-validation.json"
+  ],
+  "failures": [],
+  "note": "Overlapping cues are retained when source speaker turns overlap. Unusually long word timestamps are flagged for review rather than silently retimed."
+}

@@ -1,0 +1,37 @@
+{
+  "source_path": "collected/027-volaxis-episode-2.mp3",
+  "automated_flags": [
+    {
+      "kind": "word_duration_over_3s",
+      "word_index": 0,
+      "text": "Velaxis.",
+      "start": 0.1,
+      "end": 41.2,
+      "note": "Suspicious word alignment; raw timestamp preserved."
+    },
+    {
+      "kind": "low_word_logprob",
+      "word_index": 681,
+      "start": 193.12,
+      "end": 193.2,
+      "text": " ",
+      "logprob": -1.6807847023010254
+    },
+    {
+      "kind": "trailing_no_speech",
+      "start": 1494.382,
+      "end": 1535.472
+    }
+  ],
+  "flags_are_review_candidates_not_confirmed_errors": true,
+  "raw_word_count": 6554,
+  "spoken_word_count": 3275,
+  "speaker_ids": [
+    "speaker_0"
+  ],
+  "subtitle_cue_count": 262,
+  "first_speech_seconds": 0.1,
+  "last_speech_seconds": 1494.382,
+  "human_correction_status": "uncorrected",
+  "source_offset_seconds": 0
+}

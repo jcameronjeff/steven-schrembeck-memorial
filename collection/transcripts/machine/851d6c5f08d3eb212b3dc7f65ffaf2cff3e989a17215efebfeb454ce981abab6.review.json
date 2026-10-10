@@ -1,0 +1,27 @@
+{
+  "source_path": "collected/035-the-summoner-s-rulebook-episode-2-raw.mp3",
+  "automated_flags": [
+    {
+      "kind": "speech_gap_over_20s",
+      "start": 0.16,
+      "end": 35.46,
+      "note": "May be music, silence or an omission; review audio."
+    },
+    {
+      "kind": "trailing_no_speech",
+      "start": 1733.424,
+      "end": 1772.52
+    }
+  ],
+  "flags_are_review_candidates_not_confirmed_errors": true,
+  "raw_word_count": 8243,
+  "spoken_word_count": 4118,
+  "speaker_ids": [
+    "speaker_0"
+  ],
+  "subtitle_cue_count": 314,
+  "first_speech_seconds": 0.1,
+  "last_speech_seconds": 1733.424,
+  "human_correction_status": "uncorrected",
+  "source_offset_seconds": 0
+}

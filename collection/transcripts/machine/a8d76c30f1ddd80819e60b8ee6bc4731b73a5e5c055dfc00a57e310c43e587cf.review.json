@@ -1,0 +1,17 @@
+{
+  "source_path": "youtube/20230322-BuEReSReENg-The Dopamine Ladder….webm",
+  "automated_flags": [
+    {
+      "kind": "no_words"
+    }
+  ],
+  "flags_are_review_candidates_not_confirmed_errors": true,
+  "raw_word_count": 1,
+  "spoken_word_count": 0,
+  "speaker_ids": [],
+  "subtitle_cue_count": 1,
+  "first_speech_seconds": null,
+  "last_speech_seconds": null,
+  "human_correction_status": "uncorrected",
+  "source_offset_seconds": 0.0
+}

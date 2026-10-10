@@ -1,0 +1,33 @@
+HTTP/2 302 
+server: Varnish
+retry-after: 0
+x-isc: 615
+cache-control: private, no-cache
+location: https://d3ctxlq1ktw2nl.cloudfront.net/staging/2023-3-28/326543129-44100-2-77ff6b9517ea9.mp3
+accept-ranges: bytes
+date: Sat, 10 Oct 2026 17:33:36 GMT
+via: 1.1 varnish
+x-served-by: cache-pdk-kpdk2140039-PDK
+x-cache: HIT
+x-cache-hits: 0
+x-timer: S1791653617.987141,VS0,VE0
+strict-transport-security: max-age=86400
+content-length: 113
+
+HTTP/2 200 
+content-type: audio/mpeg
+content-length: 44576181
+accept-ranges: bytes
+server: AmazonS3
+last-modified: Fri, 28 Apr 2023 11:17:24 GMT
+x-amz-meta-content-type: audio/mpeg
+x-amz-version-id: null
+x-amz-server-side-encryption: AES256
+x-amz-storage-class: INTELLIGENT_TIERING
+date: Sat, 10 Oct 2026 17:33:38 GMT
+etag: "443f2b070be4b472682c7241750b3ecb"
+x-cache: RefreshHit from cloudfront
+via: 1.1 59000c13a9de83fe9470b41a5b1ab48a.cloudfront.net (CloudFront)
+x-amz-cf-pop: ATL59-P2
+x-amz-cf-id: Se2fquLx-EF-GPIgtEEUV7D8QfUhn9lF1p7yUKhqGLqYbkaIuq8I6A==
+

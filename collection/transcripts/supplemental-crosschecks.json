@@ -1,0 +1,3015 @@
+[
+  {
+    "source_path": "interviews/nosleep-podcast-s9e09.mp3",
+    "section": "beginning",
+    "start_seconds": 0,
+    "end_seconds": 70,
+    "scribe_text": "Everyone talks about how challenging it is to raise kids, but what about protecting them? Outlet covers, kitchen cabinet locks, baby gates. Where do you even start? Well, protecting your home and auto is a great place to start. Progressive offers customized coverage options so you can be sure you have the right coverage for you and your loved ones. They're basically the outlet covers, kitchen cabinet locks, and baby gates of insurance. Don't wait. Get your quote today at progressive.com. Progressive Casualty Insurance Company, affiliates, and other insurers. Not available in all states. This is a horror storytelling podcast. Our tales are dark and disturbing, intended to shake you up. Listen at your own risk. They are all around you. And tonight, there will be no sleep. Brace yourself for the No Sleep Podcast.",
+    "local_whisper_text": " Everyone talks about how challenging it is to raise kids, but what about protecting them?  Outlet covers, kitchen cabinet locks, baby gates, where do you even start?  Well, protecting your home in auto is a great place to start.  Progressive offers customized coverage options so you can be sure you have the right coverage for you and your loved ones.  They're basically the outlet covers, kitchen cabinet locks, and baby gates of insurance.  Don't wait, get your quote today at progressive.com.  Progressive Casualty Insurance Company, affiliates and other insurers, not available in all states.  There will be no sleep.  Brace yourself for the No Sleep Podcast.",
+    "local_whisper_segments": [
+      {
+        "start": 0.0,
+        "end": 5.56,
+        "text": " Everyone talks about how challenging it is to raise kids, but what about protecting them?",
+        "avg_logprob": -0.17165994583958327,
+        "words": [
+          {
+            "start": 0.0,
+            "end": 0.78,
+            "word": " Everyone"
+          },
+          {
+            "start": 0.78,
+            "end": 1.08,
+            "word": " talks"
+          },
+          {
+            "start": 1.08,
+            "end": 1.38,
+            "word": " about"
+          },
+          {
+            "start": 1.38,
+            "end": 1.6,
+            "word": " how"
+          },
+          {
+            "start": 1.6,
+            "end": 2.06,
+            "word": " challenging"
+          },
+          {
+            "start": 2.06,
+            "end": 2.36,
+            "word": " it"
+          },
+          {
+            "start": 2.36,
+            "end": 2.54,
+            "word": " is"
+          },
+          {
+            "start": 2.54,
+            "end": 2.72,
+            "word": " to"
+          },
+          {
+            "start": 2.72,
+            "end": 3.0,
+            "word": " raise"
+          },
+          {
+            "start": 3.0,
+            "end": 3.4,
+            "word": " kids,"
+          },
+          {
+            "start": 3.68,
+            "end": 3.92,
+            "word": " but"
+          },
+          {
+            "start": 3.92,
+            "end": 4.22,
+            "word": " what"
+          },
+          {
+            "start": 4.22,
+            "end": 4.52,
+            "word": " about"
+          },
+          {
+            "start": 4.52,
+            "end": 5.08,
+            "word": " protecting"
+          },
+          {
+            "start": 5.08,
+            "end": 5.56,
+            "word": " them?"
+          }
+        ]
+      },
+      {
+        "start": 6.02,
+        "end": 10.68,
+        "text": " Outlet covers, kitchen cabinet locks, baby gates, where do you even start?",
+        "avg_logprob": -0.17165994583958327,
+        "words": [
+          {
+            "start": 6.02,
+            "end": 6.32,
+            "word": " Outlet"
+          },
+          {
+            "start": 6.32,
+            "end": 6.66,
+            "word": " covers,"
+          },
+          {
+            "start": 7.08,
+            "end": 7.34,
+            "word": " kitchen"
+          },
+          {
+            "start": 7.34,
+            "end": 7.86,
+            "word": " cabinet"
+          },
+          {
+            "start": 7.86,
+            "end": 8.28,
+            "word": " locks,"
+          },
+          {
+            "start": 8.6,
+            "end": 8.76,
+            "word": " baby"
+          },
+          {
+            "start": 8.76,
+            "end": 9.16,
+            "word": " gates,"
+          },
+          {
+            "start": 9.42,
+            "end": 9.72,
+            "word": " where"
+          },
+          {
+            "start": 9.72,
+            "end": 9.86,
+            "word": " do"
+          },
+          {
+            "start": 9.86,
+            "end": 9.98,
+            "word": " you"
+          },
+          {
+            "start": 9.98,
+            "end": 10.2,
+            "word": " even"
+          },
+          {
+            "start": 10.2,
+            "end": 10.68,
+            "word": " start?"
+          }
+        ]
+      },
+      {
+        "start": 11.3,
+        "end": 14.7,
+        "text": " Well, protecting your home in auto is a great place to start.",
+        "avg_logprob": -0.17165994583958327,
+        "words": [
+          {
+            "start": 11.3,
+            "end": 11.54,
+            "word": " Well,"
+          },
+          {
+            "start": 11.88,
+            "end": 12.0,
+            "word": " protecting"
+          },
+          {
+            "start": 12.0,
+            "end": 12.32,
+            "word": " your"
+          },
+          {
+            "start": 12.32,
+            "end": 12.56,
+            "word": " home"
+          },
+          {
+            "start": 12.56,
+            "end": 12.76,
+            "word": " in"
+          },
+          {
+            "start": 12.76,
+            "end": 12.96,
+            "word": " auto"
+          },
+          {
+            "start": 12.96,
+            "end": 13.32,
+            "word": " is"
+          },
+          {
+            "start": 13.32,
+            "end": 13.5,
+            "word": " a"
+          },
+          {
+            "start": 13.5,
+            "end": 13.8,
+            "word": " great"
+          },
+          {
+            "start": 13.8,
+            "end": 14.1,
+            "word": " place"
+          },
+          {
+            "start": 14.1,
+            "end": 14.34,
+            "word": " to"
+          },
+          {
+            "start": 14.34,
+            "end": 14.7,
+            "word": " start."
+          }
+        ]
+      },
+      {
+        "start": 15.52,
+        "end": 21.92,
+        "text": " Progressive offers customized coverage options so you can be sure you have the right coverage for you and your loved ones.",
+        "avg_logprob": -0.17165994583958327,
+        "words": [
+          {
+            "start": 15.52,
+            "end": 15.58,
+            "word": " Progressive"
+          },
+          {
+            "start": 15.58,
+            "end": 16.04,
+            "word": " offers"
+          },
+          {
+            "start": 16.04,
+            "end": 16.64,
+            "word": " customized"
+          },
+          {
+            "start": 16.64,
+            "end": 17.12,
+            "word": " coverage"
+          },
+          {
+            "start": 17.12,
+            "end": 17.56,
+            "word": " options"
+          },
+          {
+            "start": 17.56,
+            "end": 17.86,
+            "word": " so"
+          },
+          {
+            "start": 17.86,
+            "end": 18.04,
+            "word": " you"
+          },
+          {
+            "start": 18.04,
+            "end": 18.18,
+            "word": " can"
+          },
+          {
+            "start": 18.18,
+            "end": 18.38,
+            "word": " be"
+          },
+          {
+            "start": 18.38,
+            "end": 18.54,
+            "word": " sure"
+          },
+          {
+            "start": 18.54,
+            "end": 18.78,
+            "word": " you"
+          },
+          {
+            "start": 18.78,
+            "end": 18.96,
+            "word": " have"
+          },
+          {
+            "start": 18.96,
+            "end": 19.14,
+            "word": " the"
+          },
+          {
+            "start": 19.14,
+            "end": 19.44,
+            "word": " right"
+          },
+          {
+            "start": 19.44,
+            "end": 19.88,
+            "word": " coverage"
+          },
+          {
+            "start": 19.88,
+            "end": 20.26,
+            "word": " for"
+          },
+          {
+            "start": 20.26,
+            "end": 20.58,
+            "word": " you"
+          },
+          {
+            "start": 20.58,
+            "end": 21.04,
+            "word": " and"
+          },
+          {
+            "start": 21.04,
+            "end": 21.26,
+            "word": " your"
+          },
+          {
+            "start": 21.26,
+            "end": 21.46,
+            "word": " loved"
+          },
+          {
+            "start": 21.46,
+            "end": 21.92,
+            "word": " ones."
+          }
+        ]
+      },
+      {
+        "start": 22.3,
+        "end": 27.16,
+        "text": " They're basically the outlet covers, kitchen cabinet locks, and baby gates of insurance.",
+        "avg_logprob": -0.17165994583958327,
+        "words": [
+          {
+            "start": 22.3,
+            "end": 22.6,
+            "word": " They're"
+          },
+          {
+            "start": 22.6,
+            "end": 23.04,
+            "word": " basically"
+          },
+          {
+            "start": 23.04,
+            "end": 23.4,
+            "word": " the"
+          },
+          {
+            "start": 23.4,
+            "end": 23.74,
+            "word": " outlet"
+          },
+          {
+            "start": 23.74,
+            "end": 24.14,
+            "word": " covers,"
+          },
+          {
+            "start": 24.38,
+            "end": 24.6,
+            "word": " kitchen"
+          },
+          {
+            "start": 24.6,
+            "end": 25.0,
+            "word": " cabinet"
+          },
+          {
+            "start": 25.0,
+            "end": 25.36,
+            "word": " locks,"
+          },
+          {
+            "start": 25.56,
+            "end": 25.86,
+            "word": " and"
+          },
+          {
+            "start": 25.86,
+            "end": 26.22,
+            "word": " baby"
+          },
+          {
+            "start": 26.22,
+            "end": 26.58,
+            "word": " gates"
+          },
+          {
+            "start": 26.58,
+            "end": 26.78,
+            "word": " of"
+          },
+          {
+            "start": 26.78,
+            "end": 27.16,
+            "word": " insurance."
+          }
+        ]
+      },
+      {
+        "start": 27.16,
+        "end": 31.86,
+        "text": " Don't wait, get your quote today at progressive.com.",
+        "avg_logprob": -0.32183479751859395,
+        "words": [
+          {
+            "start": 27.16,
+            "end": 28.1,
+            "word": " Don't"
+          },
+          {
+            "start": 28.1,
+            "end": 28.3,
+            "word": " wait,"
+          },
+          {
+            "start": 28.72,
+            "end": 28.84,
+            "word": " get"
+          },
+          {
+            "start": 28.84,
+            "end": 29.1,
+            "word": " your"
+          },
+          {
+            "start": 29.1,
+            "end": 29.36,
+            "word": " quote"
+          },
+          {
+            "start": 29.36,
+            "end": 29.74,
+            "word": " today"
+          },
+          {
+            "start": 29.74,
+            "end": 30.22,
+            "word": " at"
+          },
+          {
+            "start": 30.22,
+            "end": 30.7,
+            "word": " progressive"
+          },
+          {
+            "start": 30.7,
+            "end": 31.86,
+            "word": ".com."
+          }
+        ]
+      },
+      {
+        "start": 32.6,
+        "end": 37.3,
+        "text": " Progressive Casualty Insurance Company, affiliates and other insurers, not available in all states.",
+        "avg_logprob": -0.32183479751859395,
+        "words": [
+          {
+            "start": 32.6,
+            "end": 32.72,
+            "word": " Progressive"
+          },
+          {
+            "start": 32.72,
+            "end": 33.3,
+            "word": " Casualty"
+          },
+          {
+            "start": 33.3,
+            "end": 33.7,
+            "word": " Insurance"
+          },
+          {
+            "start": 33.7,
+            "end": 34.06,
+            "word": " Company,"
+          },
+          {
+            "start": 34.28,
+            "end": 34.56,
+            "word": " affiliates"
+          },
+          {
+            "start": 34.56,
+            "end": 34.86,
+            "word": " and"
+          },
+          {
+            "start": 34.86,
+            "end": 35.08,
+            "word": " other"
+          },
+          {
+            "start": 35.08,
+            "end": 35.52,
+            "word": " insurers,"
+          },
+          {
+            "start": 36.02,
+            "end": 36.22,
+            "word": " not"
+          },
+          {
+            "start": 36.22,
+            "end": 36.5,
+            "word": " available"
+          },
+          {
+            "start": 36.5,
+            "end": 36.8,
+            "word": " in"
+          },
+          {
+            "start": 36.8,
+            "end": 37.0,
+            "word": " all"
+          },
+          {
+            "start": 37.0,
+            "end": 37.3,
+            "word": " states."
+          }
+        ]
+      },
+      {
+        "start": 57.16,
+        "end": 59.12,
+        "text": " There will be no sleep.",
+        "avg_logprob": -0.37600379437208176,
+        "words": [
+          {
+            "start": 57.16,
+            "end": 57.22,
+            "word": " There"
+          },
+          {
+            "start": 57.22,
+            "end": 57.42,
+            "word": " will"
+          },
+          {
+            "start": 57.42,
+            "end": 57.96,
+            "word": " be"
+          },
+          {
+            "start": 57.96,
+            "end": 58.48,
+            "word": " no"
+          },
+          {
+            "start": 58.48,
+            "end": 59.12,
+            "word": " sleep."
+          }
+        ]
+      },
+      {
+        "start": 66.28,
+        "end": 69.44,
+        "text": " Brace yourself for the No Sleep Podcast.",
+        "avg_logprob": -0.37600379437208176,
+        "words": [
+          {
+            "start": 66.11,
+            "end": 66.64,
+            "word": " Brace"
+          },
+          {
+            "start": 66.64,
+            "end": 67.12,
+            "word": " yourself"
+          },
+          {
+            "start": 67.12,
+            "end": 67.92,
+            "word": " for"
+          },
+          {
+            "start": 67.92,
+            "end": 68.1,
+            "word": " the"
+          },
+          {
+            "start": 68.1,
+            "end": 68.44,
+            "word": " No"
+          },
+          {
+            "start": 68.44,
+            "end": 68.88,
+            "word": " Sleep"
+          },
+          {
+            "start": 68.88,
+            "end": 69.44,
+            "word": " Podcast."
+          }
+        ]
+      }
+    ],
+    "normalized_sequence_agreement": 0.8744939271255061,
+    "not_ground_truth": true
+  },
+  {
+    "source_path": "interviews/nosleep-podcast-s9e09.mp3",
+    "section": "middle",
+    "start_seconds": 2329.0031565,
+    "end_seconds": 2364.0031565,
+    "scribe_text": "Nonetheless, the first time I saw him in my own apartment, I thought I was dreaming. Despite all I'd seen, all I'd experienced, I thought it had to be a nightmare. The house was haunted, not me. He couldn't be here. He couldn't. But he was. He stood in the corner staring at me as if he wanted something. At first, that's all he did. On the first few nights I saw him, he simply stared. When he",
+    "local_whisper_text": " Nonetheless, the first time I saw him in my own apartment, I thought I was dreaming.  Despite all I'd seen, all I'd experienced, I thought it had to be a nightmare.  The house was haunted, not me.  He couldn't be here.  He couldn't.  But he was.  He stood in the corner staring at me as if he wanted something.  At first, that's all he did.  On the first few nights I saw him, he simply stared, when he",
+    "local_whisper_segments": [
+      {
+        "start": 2329.0031565,
+        "end": 2335.0831565,
+        "text": " Nonetheless, the first time I saw him in my own apartment, I thought I was dreaming.",
+        "avg_logprob": -0.16824371212131375,
+        "words": [
+          {
+            "start": 2329.0031565,
+            "end": 2330.0631565,
+            "word": " Nonetheless,"
+          },
+          {
+            "start": 2330.8631565,
+            "end": 2331.3831565,
+            "word": " the"
+          },
+          {
+            "start": 2331.3831565,
+            "end": 2331.5831565,
+            "word": " first"
+          },
+          {
+            "start": 2331.5831565,
+            "end": 2331.8431565,
+            "word": " time"
+          },
+          {
+            "start": 2331.8431565,
+            "end": 2332.0031565,
+            "word": " I"
+          },
+          {
+            "start": 2332.0031565,
+            "end": 2332.2431564999997,
+            "word": " saw"
+          },
+          {
+            "start": 2332.2431564999997,
+            "end": 2332.4831565,
+            "word": " him"
+          },
+          {
+            "start": 2332.4831565,
+            "end": 2332.6431565,
+            "word": " in"
+          },
+          {
+            "start": 2332.6431565,
+            "end": 2332.8031565,
+            "word": " my"
+          },
+          {
+            "start": 2332.8031565,
+            "end": 2333.0431565,
+            "word": " own"
+          },
+          {
+            "start": 2333.0431565,
+            "end": 2333.6031565,
+            "word": " apartment,"
+          },
+          {
+            "start": 2333.8631565,
+            "end": 2334.2431564999997,
+            "word": " I"
+          },
+          {
+            "start": 2334.2431564999997,
+            "end": 2334.4031565,
+            "word": " thought"
+          },
+          {
+            "start": 2334.4031565,
+            "end": 2334.5631565,
+            "word": " I"
+          },
+          {
+            "start": 2334.5631565,
+            "end": 2334.6831564999998,
+            "word": " was"
+          },
+          {
+            "start": 2334.6831564999998,
+            "end": 2335.0831565,
+            "word": " dreaming."
+          }
+        ]
+      },
+      {
+        "start": 2336.2431564999997,
+        "end": 2342.0031565,
+        "text": " Despite all I'd seen, all I'd experienced, I thought it had to be a nightmare.",
+        "avg_logprob": -0.16824371212131375,
+        "words": [
+          {
+            "start": 2336.2431564999997,
+            "end": 2336.5231565,
+            "word": " Despite"
+          },
+          {
+            "start": 2336.5231565,
+            "end": 2336.7431564999997,
+            "word": " all"
+          },
+          {
+            "start": 2336.7431564999997,
+            "end": 2336.9431565,
+            "word": " I'd"
+          },
+          {
+            "start": 2336.9431565,
+            "end": 2337.3231565,
+            "word": " seen,"
+          },
+          {
+            "start": 2338.0631565,
+            "end": 2338.2631565,
+            "word": " all"
+          },
+          {
+            "start": 2338.2631565,
+            "end": 2338.5231565,
+            "word": " I'd"
+          },
+          {
+            "start": 2338.5231565,
+            "end": 2339.1031565,
+            "word": " experienced,"
+          },
+          {
+            "start": 2339.6231565,
+            "end": 2340.0831565,
+            "word": " I"
+          },
+          {
+            "start": 2340.0831565,
+            "end": 2340.3031565,
+            "word": " thought"
+          },
+          {
+            "start": 2340.3031565,
+            "end": 2340.5031565,
+            "word": " it"
+          },
+          {
+            "start": 2340.5031565,
+            "end": 2340.8631565,
+            "word": " had"
+          },
+          {
+            "start": 2340.8631565,
+            "end": 2341.1031565,
+            "word": " to"
+          },
+          {
+            "start": 2341.1031565,
+            "end": 2341.3431565,
+            "word": " be"
+          },
+          {
+            "start": 2341.3431565,
+            "end": 2341.5431565,
+            "word": " a"
+          },
+          {
+            "start": 2341.5431565,
+            "end": 2342.0031565,
+            "word": " nightmare."
+          }
+        ]
+      },
+      {
+        "start": 2342.9231565,
+        "end": 2345.1231565,
+        "text": " The house was haunted, not me.",
+        "avg_logprob": -0.16824371212131375,
+        "words": [
+          {
+            "start": 2342.9231565,
+            "end": 2343.2431564999997,
+            "word": " The"
+          },
+          {
+            "start": 2343.2431564999997,
+            "end": 2343.5831565,
+            "word": " house"
+          },
+          {
+            "start": 2343.5831565,
+            "end": 2343.9231565,
+            "word": " was"
+          },
+          {
+            "start": 2343.9231565,
+            "end": 2344.3831565,
+            "word": " haunted,"
+          },
+          {
+            "start": 2344.5431565,
+            "end": 2344.6431565,
+            "word": " not"
+          },
+          {
+            "start": 2344.6431565,
+            "end": 2345.1231565,
+            "word": " me."
+          }
+        ]
+      },
+      {
+        "start": 2346.0031565,
+        "end": 2347.2231564999997,
+        "text": " He couldn't be here.",
+        "avg_logprob": -0.16824371212131375,
+        "words": [
+          {
+            "start": 2346.0031565,
+            "end": 2346.2231564999997,
+            "word": " He"
+          },
+          {
+            "start": 2346.2231564999997,
+            "end": 2346.6231565,
+            "word": " couldn't"
+          },
+          {
+            "start": 2346.6231565,
+            "end": 2346.8831565,
+            "word": " be"
+          },
+          {
+            "start": 2346.8831565,
+            "end": 2347.2231564999997,
+            "word": " here."
+          }
+        ]
+      },
+      {
+        "start": 2348.1031565,
+        "end": 2348.7031564999997,
+        "text": " He couldn't.",
+        "avg_logprob": -0.16824371212131375,
+        "words": [
+          {
+            "start": 2348.1031565,
+            "end": 2348.2831565,
+            "word": " He"
+          },
+          {
+            "start": 2348.2831565,
+            "end": 2348.7031564999997,
+            "word": " couldn't."
+          }
+        ]
+      },
+      {
+        "start": 2349.9231565,
+        "end": 2350.9031565,
+        "text": " But he was.",
+        "avg_logprob": -0.16824371212131375,
+        "words": [
+          {
+            "start": 2349.9231565,
+            "end": 2350.3631565,
+            "word": " But"
+          },
+          {
+            "start": 2350.3631565,
+            "end": 2350.5431565,
+            "word": " he"
+          },
+          {
+            "start": 2350.5431565,
+            "end": 2350.9031565,
+            "word": " was."
+          }
+        ]
+      },
+      {
+        "start": 2352.0631565,
+        "end": 2355.7231564999997,
+        "text": " He stood in the corner staring at me as if he wanted something.",
+        "avg_logprob": -0.16824371212131375,
+        "words": [
+          {
+            "start": 2352.0631565,
+            "end": 2352.3431565,
+            "word": " He"
+          },
+          {
+            "start": 2352.3431565,
+            "end": 2352.5831565,
+            "word": " stood"
+          },
+          {
+            "start": 2352.5831565,
+            "end": 2352.8031565,
+            "word": " in"
+          },
+          {
+            "start": 2352.8031565,
+            "end": 2352.9231565,
+            "word": " the"
+          },
+          {
+            "start": 2352.9231565,
+            "end": 2353.2631565,
+            "word": " corner"
+          },
+          {
+            "start": 2353.2631565,
+            "end": 2353.6231565,
+            "word": " staring"
+          },
+          {
+            "start": 2353.6231565,
+            "end": 2353.9231565,
+            "word": " at"
+          },
+          {
+            "start": 2353.9231565,
+            "end": 2354.1831564999998,
+            "word": " me"
+          },
+          {
+            "start": 2354.1831564999998,
+            "end": 2354.4631565,
+            "word": " as"
+          },
+          {
+            "start": 2354.4631565,
+            "end": 2354.6231565,
+            "word": " if"
+          },
+          {
+            "start": 2354.6231565,
+            "end": 2354.8231565,
+            "word": " he"
+          },
+          {
+            "start": 2354.8231565,
+            "end": 2355.1631565,
+            "word": " wanted"
+          },
+          {
+            "start": 2355.1631565,
+            "end": 2355.7231564999997,
+            "word": " something."
+          }
+        ]
+      },
+      {
+        "start": 2356.4031565,
+        "end": 2358.6431565,
+        "text": " At first, that's all he did.",
+        "avg_logprob": -0.2930532406116354,
+        "words": [
+          {
+            "start": 2356.4031565,
+            "end": 2356.9031565,
+            "word": " At"
+          },
+          {
+            "start": 2356.9031565,
+            "end": 2357.1831564999998,
+            "word": " first,"
+          },
+          {
+            "start": 2357.7831565,
+            "end": 2358.0631565,
+            "word": " that's"
+          },
+          {
+            "start": 2358.0631565,
+            "end": 2358.2031564999997,
+            "word": " all"
+          },
+          {
+            "start": 2358.2031564999997,
+            "end": 2358.3631565,
+            "word": " he"
+          },
+          {
+            "start": 2358.3631565,
+            "end": 2358.6431565,
+            "word": " did."
+          }
+        ]
+      },
+      {
+        "start": 2359.5831565,
+        "end": 2363.9031565,
+        "text": " On the first few nights I saw him, he simply stared, when he",
+        "avg_logprob": -0.2930532406116354,
+        "words": [
+          {
+            "start": 2359.5831565,
+            "end": 2359.6631565,
+            "word": " On"
+          },
+          {
+            "start": 2359.6631565,
+            "end": 2359.7831565,
+            "word": " the"
+          },
+          {
+            "start": 2359.7831565,
+            "end": 2360.0031565,
+            "word": " first"
+          },
+          {
+            "start": 2360.0031565,
+            "end": 2360.2431564999997,
+            "word": " few"
+          },
+          {
+            "start": 2360.2431564999997,
+            "end": 2360.5031565,
+            "word": " nights"
+          },
+          {
+            "start": 2360.5031565,
+            "end": 2360.7031564999997,
+            "word": " I"
+          },
+          {
+            "start": 2360.7031564999997,
+            "end": 2360.9031565,
+            "word": " saw"
+          },
+          {
+            "start": 2360.9031565,
+            "end": 2361.1231565,
+            "word": " him,"
+          },
+          {
+            "start": 2361.4031565,
+            "end": 2361.4031565,
+            "word": " he"
+          },
+          {
+            "start": 2361.4031565,
+            "end": 2361.9631565,
+            "word": " simply"
+          },
+          {
+            "start": 2361.9631565,
+            "end": 2362.4831565,
+            "word": " stared,"
+          },
+          {
+            "start": 2363.4831565,
+            "end": 2363.6831564999998,
+            "word": " when"
+          },
+          {
+            "start": 2363.6831564999998,
+            "end": 2363.9031565,
+            "word": " he"
+          }
+        ]
+      }
+    ],
+    "normalized_sequence_agreement": 1.0,
+    "not_ground_truth": true
+  },
+  {
+    "source_path": "interviews/nosleep-podcast-s9e09.mp3",
+    "section": "end",
+    "start_seconds": 4618.006313,
+    "end_seconds": 4658.006313,
+    "scribe_text": "2017 by Creative Reason Media, Inc. All rights reserved. The copyrights for each story are held by the respective authors. No duplication or reproduction of this audio program is permitted without the written consent of Creative Reason Media, Inc.",
+    "local_whisper_text": " 2017 by Creative Reason Media Inc. All rights reserved. The copyrights for each story are held  by the respective authors. No duplication or reproduction of this audio program is permitted  without the written consent of Creative Reason Media Inc.  Thanks for watching!",
+    "local_whisper_segments": [
+      {
+        "start": 4618.006313,
+        "end": 4625.026313,
+        "text": " 2017 by Creative Reason Media Inc. All rights reserved. The copyrights for each story are held",
+        "avg_logprob": -0.1658711363287533,
+        "words": [
+          {
+            "start": 4618.006313,
+            "end": 4618.606313,
+            "word": " 2017"
+          },
+          {
+            "start": 4618.606313,
+            "end": 4619.186313,
+            "word": " by"
+          },
+          {
+            "start": 4619.186313,
+            "end": 4619.686313,
+            "word": " Creative"
+          },
+          {
+            "start": 4619.686313,
+            "end": 4620.006313,
+            "word": " Reason"
+          },
+          {
+            "start": 4620.006313,
+            "end": 4620.546313,
+            "word": " Media"
+          },
+          {
+            "start": 4620.546313,
+            "end": 4620.926313,
+            "word": " Inc."
+          },
+          {
+            "start": 4621.286313,
+            "end": 4621.486312999999,
+            "word": " All"
+          },
+          {
+            "start": 4621.486312999999,
+            "end": 4621.8663129999995,
+            "word": " rights"
+          },
+          {
+            "start": 4621.8663129999995,
+            "end": 4622.4463129999995,
+            "word": " reserved."
+          },
+          {
+            "start": 4623.106313,
+            "end": 4623.226313,
+            "word": " The"
+          },
+          {
+            "start": 4623.226313,
+            "end": 4623.706313,
+            "word": " copyrights"
+          },
+          {
+            "start": 4623.706313,
+            "end": 4624.026313,
+            "word": " for"
+          },
+          {
+            "start": 4624.026313,
+            "end": 4624.226313,
+            "word": " each"
+          },
+          {
+            "start": 4624.226313,
+            "end": 4624.606313,
+            "word": " story"
+          },
+          {
+            "start": 4624.606313,
+            "end": 4624.826313,
+            "word": " are"
+          },
+          {
+            "start": 4624.826313,
+            "end": 4625.026313,
+            "word": " held"
+          }
+        ]
+      },
+      {
+        "start": 4625.026313,
+        "end": 4630.186313,
+        "text": " by the respective authors. No duplication or reproduction of this audio program is permitted",
+        "avg_logprob": -0.1658711363287533,
+        "words": [
+          {
+            "start": 4625.026313,
+            "end": 4625.246313,
+            "word": " by"
+          },
+          {
+            "start": 4625.246313,
+            "end": 4625.386313,
+            "word": " the"
+          },
+          {
+            "start": 4625.386313,
+            "end": 4625.766313,
+            "word": " respective"
+          },
+          {
+            "start": 4625.766313,
+            "end": 4626.306313,
+            "word": " authors."
+          },
+          {
+            "start": 4626.926313,
+            "end": 4627.106313,
+            "word": " No"
+          },
+          {
+            "start": 4627.106313,
+            "end": 4627.606313,
+            "word": " duplication"
+          },
+          {
+            "start": 4627.606313,
+            "end": 4628.006313,
+            "word": " or"
+          },
+          {
+            "start": 4628.006313,
+            "end": 4628.4063129999995,
+            "word": " reproduction"
+          },
+          {
+            "start": 4628.4063129999995,
+            "end": 4628.726313,
+            "word": " of"
+          },
+          {
+            "start": 4628.726313,
+            "end": 4628.8663129999995,
+            "word": " this"
+          },
+          {
+            "start": 4628.8663129999995,
+            "end": 4629.186313,
+            "word": " audio"
+          },
+          {
+            "start": 4629.186313,
+            "end": 4629.586313,
+            "word": " program"
+          },
+          {
+            "start": 4629.586313,
+            "end": 4629.846313,
+            "word": " is"
+          },
+          {
+            "start": 4629.846313,
+            "end": 4630.186313,
+            "word": " permitted"
+          }
+        ]
+      },
+      {
+        "start": 4630.186313,
+        "end": 4633.746313,
+        "text": " without the written consent of Creative Reason Media Inc.",
+        "avg_logprob": -0.1658711363287533,
+        "words": [
+          {
+            "start": 4630.186313,
+            "end": 4630.546313,
+            "word": " without"
+          },
+          {
+            "start": 4630.546313,
+            "end": 4630.826313,
+            "word": " the"
+          },
+          {
+            "start": 4630.826313,
+            "end": 4631.006313,
+            "word": " written"
+          },
+          {
+            "start": 4631.006313,
+            "end": 4631.546313,
+            "word": " consent"
+          },
+          {
+            "start": 4631.546313,
+            "end": 4631.9063129999995,
+            "word": " of"
+          },
+          {
+            "start": 4631.9063129999995,
+            "end": 4632.326313,
+            "word": " Creative"
+          },
+          {
+            "start": 4632.326313,
+            "end": 4632.8663129999995,
+            "word": " Reason"
+          },
+          {
+            "start": 4632.8663129999995,
+            "end": 4633.3663129999995,
+            "word": " Media"
+          },
+          {
+            "start": 4633.3663129999995,
+            "end": 4633.746313,
+            "word": " Inc."
+          }
+        ]
+      },
+      {
+        "start": 4654.386313,
+        "end": 4657.506313,
+        "text": " Thanks for watching!",
+        "avg_logprob": -0.9746923787253243,
+        "words": [
+          {
+            "start": 4654.386313,
+            "end": 4655.786313,
+            "word": " Thanks"
+          },
+          {
+            "start": 4655.786313,
+            "end": 4655.926313,
+            "word": " for"
+          },
+          {
+            "start": 4655.926313,
+            "end": 4657.506313,
+            "word": " watching!"
+          }
+        ]
+      }
+    ],
+    "normalized_sequence_agreement": 0.9629629629629629,
+    "not_ground_truth": true
+  },
+  {
+    "source_path": "youtube/20230408-w_mPrS11HP4-The Fix 02 - How Do You Think About Trauma？.webm",
+    "section": "beginning",
+    "start_seconds": 0,
+    "end_seconds": 70,
+    "scribe_text": "I can't take another blow. I'm not strong enough. Well, you're wrong, and I'm going to tell you why. This is The Fix. Today's topic is how to handle trauma, specifically trauma that just keeps coming. It's how to withstand and grow stronger from the hits that just keep coming in your life. When you feel like you can't take anymore, when you feel like one more thing cannot go wrong because I have nothing left, I'm tapped out. I have no idea how you expect me to continue to improve and to work on my life problems when crap just keeps going wrong, and I",
+    "local_whisper_text": " I can't take another blow. I'm not strong enough. Well, you're wrong. I'm going to  tell you why. This is The Fix.  Today's topic is how to handle trauma, specifically trauma that just keeps coming.  It's how to withstand and grow stronger from the hits that just keep coming in your life  When you feel like you can't take anymore, when you feel like one more thing cannot go wrong, because I have nothing left.  I'm tapped out. I have no idea how you expect me to continue to improve and to work on my life problems when crap just keeps going wrong.  and",
+    "local_whisper_segments": [
+      {
+        "start": 1.1800000000000002,
+        "end": 14.14,
+        "text": " I can't take another blow. I'm not strong enough. Well, you're wrong. I'm going to",
+        "avg_logprob": -0.2491192402024018,
+        "words": [
+          {
+            "start": 1.1800000000000002,
+            "end": 2.06,
+            "word": " I"
+          },
+          {
+            "start": 2.06,
+            "end": 2.64,
+            "word": " can't"
+          },
+          {
+            "start": 2.64,
+            "end": 2.98,
+            "word": " take"
+          },
+          {
+            "start": 2.98,
+            "end": 3.4,
+            "word": " another"
+          },
+          {
+            "start": 3.4,
+            "end": 3.86,
+            "word": " blow."
+          },
+          {
+            "start": 5.68,
+            "end": 6.24,
+            "word": " I'm"
+          },
+          {
+            "start": 6.24,
+            "end": 6.46,
+            "word": " not"
+          },
+          {
+            "start": 6.46,
+            "end": 6.84,
+            "word": " strong"
+          },
+          {
+            "start": 6.84,
+            "end": 7.12,
+            "word": " enough."
+          },
+          {
+            "start": 9.1,
+            "end": 9.68,
+            "word": " Well,"
+          },
+          {
+            "start": 10.62,
+            "end": 11.34,
+            "word": " you're"
+          },
+          {
+            "start": 11.34,
+            "end": 11.66,
+            "word": " wrong."
+          },
+          {
+            "start": 13.34,
+            "end": 13.74,
+            "word": " I'm"
+          },
+          {
+            "start": 13.74,
+            "end": 13.92,
+            "word": " going"
+          },
+          {
+            "start": 13.92,
+            "end": 14.14,
+            "word": " to"
+          }
+        ]
+      },
+      {
+        "start": 14.14,
+        "end": 18.5,
+        "text": " tell you why. This is The Fix.",
+        "avg_logprob": -0.2491192402024018,
+        "words": [
+          {
+            "start": 14.14,
+            "end": 14.34,
+            "word": " tell"
+          },
+          {
+            "start": 14.34,
+            "end": 14.7,
+            "word": " you"
+          },
+          {
+            "start": 14.7,
+            "end": 15.32,
+            "word": " why."
+          },
+          {
+            "start": 16.6,
+            "end": 16.9,
+            "word": " This"
+          },
+          {
+            "start": 16.9,
+            "end": 18.1,
+            "word": " is"
+          },
+          {
+            "start": 18.1,
+            "end": 18.28,
+            "word": " The"
+          },
+          {
+            "start": 18.28,
+            "end": 18.5,
+            "word": " Fix."
+          }
+        ]
+      },
+      {
+        "start": 23.9,
+        "end": 34.58,
+        "text": " Today's topic is how to handle trauma, specifically trauma that just keeps coming.",
+        "avg_logprob": -0.17417902015149594,
+        "words": [
+          {
+            "start": 23.9,
+            "end": 25.14,
+            "word": " Today's"
+          },
+          {
+            "start": 25.14,
+            "end": 25.46,
+            "word": " topic"
+          },
+          {
+            "start": 25.46,
+            "end": 26.2,
+            "word": " is"
+          },
+          {
+            "start": 26.2,
+            "end": 27.26,
+            "word": " how"
+          },
+          {
+            "start": 27.26,
+            "end": 28.2,
+            "word": " to"
+          },
+          {
+            "start": 28.2,
+            "end": 29.02,
+            "word": " handle"
+          },
+          {
+            "start": 29.02,
+            "end": 29.64,
+            "word": " trauma,"
+          },
+          {
+            "start": 31.22,
+            "end": 31.5,
+            "word": " specifically"
+          },
+          {
+            "start": 31.5,
+            "end": 32.06,
+            "word": " trauma"
+          },
+          {
+            "start": 32.06,
+            "end": 32.48,
+            "word": " that"
+          },
+          {
+            "start": 32.48,
+            "end": 33.04,
+            "word": " just"
+          },
+          {
+            "start": 33.04,
+            "end": 33.62,
+            "word": " keeps"
+          },
+          {
+            "start": 33.62,
+            "end": 34.58,
+            "word": " coming."
+          }
+        ]
+      },
+      {
+        "start": 35.94,
+        "end": 47.0,
+        "text": " It's how to withstand and grow stronger from the hits that just keep coming in your life",
+        "avg_logprob": -0.17417902015149594,
+        "words": [
+          {
+            "start": 35.620000000000005,
+            "end": 36.24,
+            "word": " It's"
+          },
+          {
+            "start": 36.24,
+            "end": 37.06,
+            "word": " how"
+          },
+          {
+            "start": 37.06,
+            "end": 38.34,
+            "word": " to"
+          },
+          {
+            "start": 38.34,
+            "end": 39.74,
+            "word": " withstand"
+          },
+          {
+            "start": 39.74,
+            "end": 41.18,
+            "word": " and"
+          },
+          {
+            "start": 41.18,
+            "end": 41.52,
+            "word": " grow"
+          },
+          {
+            "start": 41.52,
+            "end": 42.22,
+            "word": " stronger"
+          },
+          {
+            "start": 42.22,
+            "end": 42.8,
+            "word": " from"
+          },
+          {
+            "start": 42.8,
+            "end": 44.38,
+            "word": " the"
+          },
+          {
+            "start": 44.38,
+            "end": 44.66,
+            "word": " hits"
+          },
+          {
+            "start": 44.66,
+            "end": 44.96,
+            "word": " that"
+          },
+          {
+            "start": 44.96,
+            "end": 45.26,
+            "word": " just"
+          },
+          {
+            "start": 45.26,
+            "end": 45.56,
+            "word": " keep"
+          },
+          {
+            "start": 45.56,
+            "end": 45.98,
+            "word": " coming"
+          },
+          {
+            "start": 45.98,
+            "end": 46.16,
+            "word": " in"
+          },
+          {
+            "start": 46.16,
+            "end": 46.32,
+            "word": " your"
+          },
+          {
+            "start": 46.32,
+            "end": 47.0,
+            "word": " life"
+          }
+        ]
+      },
+      {
+        "start": 47.900000000000006,
+        "end": 57.46,
+        "text": " When you feel like you can't take anymore, when you feel like one more thing cannot go wrong, because I have nothing left.",
+        "avg_logprob": -0.15466899401508272,
+        "words": [
+          {
+            "start": 47.900000000000006,
+            "end": 48.56,
+            "word": " When"
+          },
+          {
+            "start": 48.56,
+            "end": 48.78,
+            "word": " you"
+          },
+          {
+            "start": 48.78,
+            "end": 48.94,
+            "word": " feel"
+          },
+          {
+            "start": 48.94,
+            "end": 49.08,
+            "word": " like"
+          },
+          {
+            "start": 49.08,
+            "end": 49.24,
+            "word": " you"
+          },
+          {
+            "start": 49.24,
+            "end": 49.54,
+            "word": " can't"
+          },
+          {
+            "start": 49.54,
+            "end": 49.74,
+            "word": " take"
+          },
+          {
+            "start": 49.74,
+            "end": 50.18,
+            "word": " anymore,"
+          },
+          {
+            "start": 50.86,
+            "end": 51.26,
+            "word": " when"
+          },
+          {
+            "start": 51.26,
+            "end": 51.42,
+            "word": " you"
+          },
+          {
+            "start": 51.42,
+            "end": 51.66,
+            "word": " feel"
+          },
+          {
+            "start": 51.66,
+            "end": 51.98,
+            "word": " like"
+          },
+          {
+            "start": 51.98,
+            "end": 52.56,
+            "word": " one"
+          },
+          {
+            "start": 52.56,
+            "end": 52.88,
+            "word": " more"
+          },
+          {
+            "start": 52.88,
+            "end": 53.3,
+            "word": " thing"
+          },
+          {
+            "start": 53.3,
+            "end": 53.82,
+            "word": " cannot"
+          },
+          {
+            "start": 53.82,
+            "end": 54.18,
+            "word": " go"
+          },
+          {
+            "start": 54.18,
+            "end": 54.58,
+            "word": " wrong,"
+          },
+          {
+            "start": 55.08,
+            "end": 55.68,
+            "word": " because"
+          },
+          {
+            "start": 55.68,
+            "end": 56.68,
+            "word": " I"
+          },
+          {
+            "start": 56.68,
+            "end": 56.82,
+            "word": " have"
+          },
+          {
+            "start": 56.82,
+            "end": 57.12,
+            "word": " nothing"
+          },
+          {
+            "start": 57.12,
+            "end": 57.46,
+            "word": " left."
+          }
+        ]
+      },
+      {
+        "start": 58.02,
+        "end": 68.44,
+        "text": " I'm tapped out. I have no idea how you expect me to continue to improve and to work on my life problems when crap just keeps going wrong.",
+        "avg_logprob": -0.15466899401508272,
+        "words": [
+          {
+            "start": 58.02,
+            "end": 58.32,
+            "word": " I'm"
+          },
+          {
+            "start": 58.32,
+            "end": 58.54,
+            "word": " tapped"
+          },
+          {
+            "start": 58.54,
+            "end": 58.92,
+            "word": " out."
+          },
+          {
+            "start": 59.92,
+            "end": 60.26,
+            "word": " I"
+          },
+          {
+            "start": 60.26,
+            "end": 60.44,
+            "word": " have"
+          },
+          {
+            "start": 60.44,
+            "end": 60.82,
+            "word": " no"
+          },
+          {
+            "start": 60.82,
+            "end": 61.22,
+            "word": " idea"
+          },
+          {
+            "start": 61.22,
+            "end": 61.52,
+            "word": " how"
+          },
+          {
+            "start": 61.52,
+            "end": 61.72,
+            "word": " you"
+          },
+          {
+            "start": 61.72,
+            "end": 62.18,
+            "word": " expect"
+          },
+          {
+            "start": 62.18,
+            "end": 62.56,
+            "word": " me"
+          },
+          {
+            "start": 62.56,
+            "end": 63.34,
+            "word": " to"
+          },
+          {
+            "start": 63.34,
+            "end": 63.62,
+            "word": " continue"
+          },
+          {
+            "start": 63.62,
+            "end": 63.9,
+            "word": " to"
+          },
+          {
+            "start": 63.9,
+            "end": 64.32,
+            "word": " improve"
+          },
+          {
+            "start": 64.32,
+            "end": 64.76,
+            "word": " and"
+          },
+          {
+            "start": 64.76,
+            "end": 64.9,
+            "word": " to"
+          },
+          {
+            "start": 64.9,
+            "end": 65.08,
+            "word": " work"
+          },
+          {
+            "start": 65.08,
+            "end": 65.22,
+            "word": " on"
+          },
+          {
+            "start": 65.22,
+            "end": 65.36,
+            "word": " my"
+          },
+          {
+            "start": 65.36,
+            "end": 65.56,
+            "word": " life"
+          },
+          {
+            "start": 65.56,
+            "end": 66.06,
+            "word": " problems"
+          },
+          {
+            "start": 66.06,
+            "end": 66.52,
+            "word": " when"
+          },
+          {
+            "start": 66.52,
+            "end": 67.42,
+            "word": " crap"
+          },
+          {
+            "start": 67.42,
+            "end": 67.62,
+            "word": " just"
+          },
+          {
+            "start": 67.62,
+            "end": 67.84,
+            "word": " keeps"
+          },
+          {
+            "start": 67.84,
+            "end": 68.12,
+            "word": " going"
+          },
+          {
+            "start": 68.12,
+            "end": 68.44,
+            "word": " wrong."
+          }
+        ]
+      },
+      {
+        "start": 68.44,
+        "end": 69.36,
+        "text": " and",
+        "avg_logprob": -0.33835136890411377,
+        "words": [
+          {
+            "start": 68.44,
+            "end": 69.36,
+            "word": " and"
+          }
+        ]
+      }
+    ],
+    "normalized_sequence_agreement": 0.9911504424778761,
+    "not_ground_truth": true
+  },
+  {
+    "source_path": "youtube/20230408-w_mPrS11HP4-The Fix 02 - How Do You Think About Trauma？.webm",
+    "section": "middle",
+    "start_seconds": 2431.9605,
+    "end_seconds": 2466.9605,
+    "scribe_text": "the past isn't real. It's fictional. It's gone. There is no past. There is no future. There is only r- literally what exists right now. It's the only thing that's real. Anything that has happened in the past is not real. The only place it exists is inside the living cells in the organ inside of your skull, and, well, therefore, it can be changed. Your memories are literally just little, tiny",
+    "local_whisper_text": " the past isn't real. It's fictional. It's gone. There is no past. There is no future.  There is only literally what exists right now. It's the only thing that's  real. Anything that has happened in the past is not real. The only place it  exists is inside the living cells in the organ inside of your skull. And well  therefore, it can be changed. Your memories are literally just little t-",
+    "local_whisper_segments": [
+      {
+        "start": 2431.9605,
+        "end": 2439.0605,
+        "text": " the past isn't real. It's fictional. It's gone. There is no past. There is no future.",
+        "avg_logprob": -0.12804203184254198,
+        "words": [
+          {
+            "start": 2431.9605,
+            "end": 2432.2605000000003,
+            "word": " the"
+          },
+          {
+            "start": 2432.2605000000003,
+            "end": 2432.7005,
+            "word": " past"
+          },
+          {
+            "start": 2432.7005,
+            "end": 2433.8205000000003,
+            "word": " isn't"
+          },
+          {
+            "start": 2433.8205000000003,
+            "end": 2434.2605000000003,
+            "word": " real."
+          },
+          {
+            "start": 2435.1005,
+            "end": 2435.2205000000004,
+            "word": " It's"
+          },
+          {
+            "start": 2435.2205000000004,
+            "end": 2435.5005,
+            "word": " fictional."
+          },
+          {
+            "start": 2436.2205000000004,
+            "end": 2436.5205,
+            "word": " It's"
+          },
+          {
+            "start": 2436.5205,
+            "end": 2436.7605000000003,
+            "word": " gone."
+          },
+          {
+            "start": 2437.0405,
+            "end": 2437.2205000000004,
+            "word": " There"
+          },
+          {
+            "start": 2437.2205000000004,
+            "end": 2437.3805,
+            "word": " is"
+          },
+          {
+            "start": 2437.3805,
+            "end": 2437.5605,
+            "word": " no"
+          },
+          {
+            "start": 2437.5605,
+            "end": 2437.8605000000002,
+            "word": " past."
+          },
+          {
+            "start": 2438.3605000000002,
+            "end": 2438.5005,
+            "word": " There"
+          },
+          {
+            "start": 2438.5005,
+            "end": 2438.6205,
+            "word": " is"
+          },
+          {
+            "start": 2438.6205,
+            "end": 2438.7605000000003,
+            "word": " no"
+          },
+          {
+            "start": 2438.7605000000003,
+            "end": 2439.0605,
+            "word": " future."
+          }
+        ]
+      },
+      {
+        "start": 2439.6005,
+        "end": 2442.8005000000003,
+        "text": " There is only literally what exists right now. It's the only thing that's",
+        "avg_logprob": -0.12804203184254198,
+        "words": [
+          {
+            "start": 2439.6005,
+            "end": 2439.7605000000003,
+            "word": " There"
+          },
+          {
+            "start": 2439.7605000000003,
+            "end": 2439.8405000000002,
+            "word": " is"
+          },
+          {
+            "start": 2439.8405000000002,
+            "end": 2440.1205,
+            "word": " only"
+          },
+          {
+            "start": 2440.1205,
+            "end": 2440.6005,
+            "word": " literally"
+          },
+          {
+            "start": 2440.6005,
+            "end": 2440.9805,
+            "word": " what"
+          },
+          {
+            "start": 2440.9805,
+            "end": 2441.2605000000003,
+            "word": " exists"
+          },
+          {
+            "start": 2441.2605000000003,
+            "end": 2441.5405,
+            "word": " right"
+          },
+          {
+            "start": 2441.5405,
+            "end": 2441.8005000000003,
+            "word": " now."
+          },
+          {
+            "start": 2442.1205,
+            "end": 2442.2005,
+            "word": " It's"
+          },
+          {
+            "start": 2442.2005,
+            "end": 2442.2805000000003,
+            "word": " the"
+          },
+          {
+            "start": 2442.2805000000003,
+            "end": 2442.4405,
+            "word": " only"
+          },
+          {
+            "start": 2442.4405,
+            "end": 2442.6205,
+            "word": " thing"
+          },
+          {
+            "start": 2442.6205,
+            "end": 2442.8005000000003,
+            "word": " that's"
+          }
+        ]
+      },
+      {
+        "start": 2442.8005000000003,
+        "end": 2448.9805,
+        "text": " real. Anything that has happened in the past is not real. The only place it",
+        "avg_logprob": -0.12804203184254198,
+        "words": [
+          {
+            "start": 2442.8005000000003,
+            "end": 2443.0605,
+            "word": " real."
+          },
+          {
+            "start": 2444.3605000000002,
+            "end": 2444.5805,
+            "word": " Anything"
+          },
+          {
+            "start": 2444.5805,
+            "end": 2444.8205000000003,
+            "word": " that"
+          },
+          {
+            "start": 2444.8205000000003,
+            "end": 2444.9405,
+            "word": " has"
+          },
+          {
+            "start": 2444.9405,
+            "end": 2445.2205000000004,
+            "word": " happened"
+          },
+          {
+            "start": 2445.2205000000004,
+            "end": 2445.3605000000002,
+            "word": " in"
+          },
+          {
+            "start": 2445.3605000000002,
+            "end": 2445.4405,
+            "word": " the"
+          },
+          {
+            "start": 2445.4405,
+            "end": 2445.6405,
+            "word": " past"
+          },
+          {
+            "start": 2445.6405,
+            "end": 2445.8005000000003,
+            "word": " is"
+          },
+          {
+            "start": 2445.8005000000003,
+            "end": 2446.0005,
+            "word": " not"
+          },
+          {
+            "start": 2446.0005,
+            "end": 2446.2605000000003,
+            "word": " real."
+          },
+          {
+            "start": 2447.4005,
+            "end": 2447.9605,
+            "word": " The"
+          },
+          {
+            "start": 2447.9605,
+            "end": 2448.3605000000002,
+            "word": " only"
+          },
+          {
+            "start": 2448.3605000000002,
+            "end": 2448.7605000000003,
+            "word": " place"
+          },
+          {
+            "start": 2448.7605000000003,
+            "end": 2448.9805,
+            "word": " it"
+          }
+        ]
+      },
+      {
+        "start": 2448.9805,
+        "end": 2459.2405000000003,
+        "text": " exists is inside the living cells in the organ inside of your skull. And well",
+        "avg_logprob": -0.12804203184254198,
+        "words": [
+          {
+            "start": 2448.9805,
+            "end": 2449.4605,
+            "word": " exists"
+          },
+          {
+            "start": 2449.4605,
+            "end": 2450.0205,
+            "word": " is"
+          },
+          {
+            "start": 2450.0205,
+            "end": 2450.5605,
+            "word": " inside"
+          },
+          {
+            "start": 2450.5605,
+            "end": 2451.1005,
+            "word": " the"
+          },
+          {
+            "start": 2451.1005,
+            "end": 2451.3805,
+            "word": " living"
+          },
+          {
+            "start": 2451.3805,
+            "end": 2451.8605000000002,
+            "word": " cells"
+          },
+          {
+            "start": 2451.8605000000002,
+            "end": 2452.4205,
+            "word": " in"
+          },
+          {
+            "start": 2452.4205,
+            "end": 2452.5605,
+            "word": " the"
+          },
+          {
+            "start": 2452.5605,
+            "end": 2452.9605,
+            "word": " organ"
+          },
+          {
+            "start": 2452.9605,
+            "end": 2453.8805,
+            "word": " inside"
+          },
+          {
+            "start": 2453.8805,
+            "end": 2454.0605,
+            "word": " of"
+          },
+          {
+            "start": 2454.0605,
+            "end": 2454.2005,
+            "word": " your"
+          },
+          {
+            "start": 2454.2005,
+            "end": 2454.6005,
+            "word": " skull."
+          },
+          {
+            "start": 2456.7405000000003,
+            "end": 2457.1805,
+            "word": " And"
+          },
+          {
+            "start": 2457.1805,
+            "end": 2459.2405000000003,
+            "word": " well"
+          }
+        ]
+      },
+      {
+        "start": 2459.2405000000003,
+        "end": 2466.9405,
+        "text": " therefore, it can be changed. Your memories are literally just little t-",
+        "avg_logprob": -0.3828040129608578,
+        "words": [
+          {
+            "start": 2459.2405000000003,
+            "end": 2459.8605000000002,
+            "word": " therefore,"
+          },
+          {
+            "start": 2460.9605,
+            "end": 2461.0205,
+            "word": " it"
+          },
+          {
+            "start": 2461.0205,
+            "end": 2461.1605,
+            "word": " can"
+          },
+          {
+            "start": 2461.1605,
+            "end": 2461.3405000000002,
+            "word": " be"
+          },
+          {
+            "start": 2461.3405000000002,
+            "end": 2461.8805,
+            "word": " changed."
+          },
+          {
+            "start": 2462.6805,
+            "end": 2462.7805000000003,
+            "word": " Your"
+          },
+          {
+            "start": 2462.7805000000003,
+            "end": 2463.4605,
+            "word": " memories"
+          },
+          {
+            "start": 2463.4605,
+            "end": 2464.3605000000002,
+            "word": " are"
+          },
+          {
+            "start": 2464.3605000000002,
+            "end": 2464.8005000000003,
+            "word": " literally"
+          },
+          {
+            "start": 2464.8005000000003,
+            "end": 2465.9005,
+            "word": " just"
+          },
+          {
+            "start": 2465.9005,
+            "end": 2466.6805,
+            "word": " little"
+          },
+          {
+            "start": 2466.6805,
+            "end": 2466.9405,
+            "word": " t"
+          },
+          {
+            "start": 2466.9405,
+            "end": 2466.9405,
+            "word": "-"
+          }
+        ]
+      }
+    ],
+    "normalized_sequence_agreement": 0.9803921568627451,
+    "not_ground_truth": true
+  },
+  {
+    "source_path": "youtube/20230408-w_mPrS11HP4-The Fix 02 - How Do You Think About Trauma？.webm",
+    "section": "end",
+    "start_seconds": 4823.921,
+    "end_seconds": 4863.921,
+    "scribe_text": "I've been in a funk for a long time. I need to just, like, get this off my chest with somebody who's a great listener because I know I'll be able to recalibrate and figure out which of my problems are real and which ones are kinda stuff I've made up in my head. That is how you can handle anything. Optimize for being able to get back up. It's okay to go down. It's not okay to stay down. This has been The Fix.",
+    "local_whisper_text": " I've been in a funk for a long time, I need to just like get this off my chest with somebody  who's a great listener because I know I'll be able to recalibrate and figure out which  of my problems are real and which ones are kind of stuff I've made up in my head.  That is how you can handle anything.  Optimize for being able to get back up.  It's okay to go down.  It's not okay to stay down.  This has been The Fix.",
+    "local_whisper_segments": [
+      {
+        "start": 4824.441000000001,
+        "end": 4829.261,
+        "text": " I've been in a funk for a long time, I need to just like get this off my chest with somebody",
+        "avg_logprob": -0.1486476634138374,
+        "words": [
+          {
+            "start": 4824.441000000001,
+            "end": 4824.881,
+            "word": " I've"
+          },
+          {
+            "start": 4824.881,
+            "end": 4825.001,
+            "word": " been"
+          },
+          {
+            "start": 4825.001,
+            "end": 4825.1410000000005,
+            "word": " in"
+          },
+          {
+            "start": 4825.1410000000005,
+            "end": 4825.281,
+            "word": " a"
+          },
+          {
+            "start": 4825.281,
+            "end": 4825.381,
+            "word": " funk"
+          },
+          {
+            "start": 4825.381,
+            "end": 4825.601000000001,
+            "word": " for"
+          },
+          {
+            "start": 4825.601000000001,
+            "end": 4825.7210000000005,
+            "word": " a"
+          },
+          {
+            "start": 4825.7210000000005,
+            "end": 4825.881,
+            "word": " long"
+          },
+          {
+            "start": 4825.881,
+            "end": 4826.261,
+            "word": " time,"
+          },
+          {
+            "start": 4826.401,
+            "end": 4826.581,
+            "word": " I"
+          },
+          {
+            "start": 4826.581,
+            "end": 4826.701,
+            "word": " need"
+          },
+          {
+            "start": 4826.701,
+            "end": 4826.861,
+            "word": " to"
+          },
+          {
+            "start": 4826.861,
+            "end": 4827.041,
+            "word": " just"
+          },
+          {
+            "start": 4827.041,
+            "end": 4827.301,
+            "word": " like"
+          },
+          {
+            "start": 4827.301,
+            "end": 4828.081,
+            "word": " get"
+          },
+          {
+            "start": 4828.081,
+            "end": 4828.241,
+            "word": " this"
+          },
+          {
+            "start": 4828.241,
+            "end": 4828.381,
+            "word": " off"
+          },
+          {
+            "start": 4828.381,
+            "end": 4828.581,
+            "word": " my"
+          },
+          {
+            "start": 4828.581,
+            "end": 4828.801,
+            "word": " chest"
+          },
+          {
+            "start": 4828.801,
+            "end": 4829.021000000001,
+            "word": " with"
+          },
+          {
+            "start": 4829.021000000001,
+            "end": 4829.261,
+            "word": " somebody"
+          }
+        ]
+      },
+      {
+        "start": 4829.261,
+        "end": 4833.6810000000005,
+        "text": " who's a great listener because I know I'll be able to recalibrate and figure out which",
+        "avg_logprob": -0.1486476634138374,
+        "words": [
+          {
+            "start": 4829.261,
+            "end": 4829.421,
+            "word": " who's"
+          },
+          {
+            "start": 4829.421,
+            "end": 4829.541,
+            "word": " a"
+          },
+          {
+            "start": 4829.541,
+            "end": 4829.741,
+            "word": " great"
+          },
+          {
+            "start": 4829.741,
+            "end": 4830.1410000000005,
+            "word": " listener"
+          },
+          {
+            "start": 4830.1410000000005,
+            "end": 4831.301,
+            "word": " because"
+          },
+          {
+            "start": 4831.301,
+            "end": 4831.481000000001,
+            "word": " I"
+          },
+          {
+            "start": 4831.481000000001,
+            "end": 4831.7210000000005,
+            "word": " know"
+          },
+          {
+            "start": 4831.7210000000005,
+            "end": 4832.061000000001,
+            "word": " I'll"
+          },
+          {
+            "start": 4832.061000000001,
+            "end": 4832.1410000000005,
+            "word": " be"
+          },
+          {
+            "start": 4832.1410000000005,
+            "end": 4832.2210000000005,
+            "word": " able"
+          },
+          {
+            "start": 4832.2210000000005,
+            "end": 4832.361,
+            "word": " to"
+          },
+          {
+            "start": 4832.361,
+            "end": 4833.041,
+            "word": " recalibrate"
+          },
+          {
+            "start": 4833.041,
+            "end": 4833.201,
+            "word": " and"
+          },
+          {
+            "start": 4833.201,
+            "end": 4833.361,
+            "word": " figure"
+          },
+          {
+            "start": 4833.361,
+            "end": 4833.541,
+            "word": " out"
+          },
+          {
+            "start": 4833.541,
+            "end": 4833.6810000000005,
+            "word": " which"
+          }
+        ]
+      },
+      {
+        "start": 4833.6810000000005,
+        "end": 4837.981000000001,
+        "text": " of my problems are real and which ones are kind of stuff I've made up in my head.",
+        "avg_logprob": -0.1486476634138374,
+        "words": [
+          {
+            "start": 4833.6810000000005,
+            "end": 4833.821,
+            "word": " of"
+          },
+          {
+            "start": 4833.821,
+            "end": 4833.961,
+            "word": " my"
+          },
+          {
+            "start": 4833.961,
+            "end": 4834.281,
+            "word": " problems"
+          },
+          {
+            "start": 4834.281,
+            "end": 4834.521000000001,
+            "word": " are"
+          },
+          {
+            "start": 4834.521000000001,
+            "end": 4834.761,
+            "word": " real"
+          },
+          {
+            "start": 4834.761,
+            "end": 4835.381,
+            "word": " and"
+          },
+          {
+            "start": 4835.381,
+            "end": 4835.541,
+            "word": " which"
+          },
+          {
+            "start": 4835.541,
+            "end": 4835.841,
+            "word": " ones"
+          },
+          {
+            "start": 4835.841,
+            "end": 4836.1410000000005,
+            "word": " are"
+          },
+          {
+            "start": 4836.1410000000005,
+            "end": 4836.541,
+            "word": " kind"
+          },
+          {
+            "start": 4836.541,
+            "end": 4836.661,
+            "word": " of"
+          },
+          {
+            "start": 4836.661,
+            "end": 4836.881,
+            "word": " stuff"
+          },
+          {
+            "start": 4836.881,
+            "end": 4837.121,
+            "word": " I've"
+          },
+          {
+            "start": 4837.121,
+            "end": 4837.2210000000005,
+            "word": " made"
+          },
+          {
+            "start": 4837.2210000000005,
+            "end": 4837.401,
+            "word": " up"
+          },
+          {
+            "start": 4837.401,
+            "end": 4837.541,
+            "word": " in"
+          },
+          {
+            "start": 4837.541,
+            "end": 4837.6810000000005,
+            "word": " my"
+          },
+          {
+            "start": 4837.6810000000005,
+            "end": 4837.981000000001,
+            "word": " head."
+          }
+        ]
+      },
+      {
+        "start": 4841.321,
+        "end": 4843.321,
+        "text": " That is how you can handle anything.",
+        "avg_logprob": -0.1486476634138374,
+        "words": [
+          {
+            "start": 4841.321,
+            "end": 4841.761,
+            "word": " That"
+          },
+          {
+            "start": 4841.761,
+            "end": 4842.201,
+            "word": " is"
+          },
+          {
+            "start": 4842.201,
+            "end": 4842.341,
+            "word": " how"
+          },
+          {
+            "start": 4842.341,
+            "end": 4842.461,
+            "word": " you"
+          },
+          {
+            "start": 4842.461,
+            "end": 4842.581,
+            "word": " can"
+          },
+          {
+            "start": 4842.581,
+            "end": 4842.861,
+            "word": " handle"
+          },
+          {
+            "start": 4842.861,
+            "end": 4843.321,
+            "word": " anything."
+          }
+        ]
+      },
+      {
+        "start": 4846.261,
+        "end": 4849.981000000001,
+        "text": " Optimize for being able to get back up.",
+        "avg_logprob": -0.1486476634138374,
+        "words": [
+          {
+            "start": 4846.261,
+            "end": 4846.701,
+            "word": " Optimize"
+          },
+          {
+            "start": 4846.701,
+            "end": 4847.1410000000005,
+            "word": " for"
+          },
+          {
+            "start": 4847.1410000000005,
+            "end": 4847.661,
+            "word": " being"
+          },
+          {
+            "start": 4847.661,
+            "end": 4848.321,
+            "word": " able"
+          },
+          {
+            "start": 4848.321,
+            "end": 4848.841,
+            "word": " to"
+          },
+          {
+            "start": 4848.841,
+            "end": 4849.081,
+            "word": " get"
+          },
+          {
+            "start": 4849.081,
+            "end": 4849.481000000001,
+            "word": " back"
+          },
+          {
+            "start": 4849.481000000001,
+            "end": 4849.981000000001,
+            "word": " up."
+          }
+        ]
+      },
+      {
+        "start": 4850.761,
+        "end": 4852.321,
+        "text": " It's okay to go down.",
+        "avg_logprob": -0.299117525773389,
+        "words": [
+          {
+            "start": 4850.761,
+            "end": 4851.441000000001,
+            "word": " It's"
+          },
+          {
+            "start": 4851.441000000001,
+            "end": 4851.661,
+            "word": " okay"
+          },
+          {
+            "start": 4851.661,
+            "end": 4851.861,
+            "word": " to"
+          },
+          {
+            "start": 4851.861,
+            "end": 4852.021000000001,
+            "word": " go"
+          },
+          {
+            "start": 4852.021000000001,
+            "end": 4852.321,
+            "word": " down."
+          }
+        ]
+      },
+      {
+        "start": 4854.041,
+        "end": 4856.821,
+        "text": " It's not okay to stay down.",
+        "avg_logprob": -0.299117525773389,
+        "words": [
+          {
+            "start": 4854.041,
+            "end": 4854.381,
+            "word": " It's"
+          },
+          {
+            "start": 4854.381,
+            "end": 4854.7210000000005,
+            "word": " not"
+          },
+          {
+            "start": 4854.7210000000005,
+            "end": 4855.601000000001,
+            "word": " okay"
+          },
+          {
+            "start": 4855.601000000001,
+            "end": 4856.201,
+            "word": " to"
+          },
+          {
+            "start": 4856.201,
+            "end": 4856.441000000001,
+            "word": " stay"
+          },
+          {
+            "start": 4856.441000000001,
+            "end": 4856.821,
+            "word": " down."
+          }
+        ]
+      },
+      {
+        "start": 4858.561000000001,
+        "end": 4859.921,
+        "text": " This has been The Fix.",
+        "avg_logprob": -0.299117525773389,
+        "words": [
+          {
+            "start": 4858.561000000001,
+            "end": 4859.241,
+            "word": " This"
+          },
+          {
+            "start": 4859.241,
+            "end": 4859.401,
+            "word": " has"
+          },
+          {
+            "start": 4859.401,
+            "end": 4859.561000000001,
+            "word": " been"
+          },
+          {
+            "start": 4859.561000000001,
+            "end": 4859.741,
+            "word": " The"
+          },
+          {
+            "start": 4859.741,
+            "end": 4859.921,
+            "word": " Fix."
+          }
+        ]
+      }
+    ],
+    "normalized_sequence_agreement": 0.9836065573770492,
+    "not_ground_truth": true
+  },
+  {
+    "source_path": "youtube/20230216-Uwj1bkST5Xk-Reverie Teaser.webm",
+    "section": "beginning",
+    "start_seconds": 0,
+    "end_seconds": 8.021,
+    "scribe_text": "Enough to welcome you, but closed enough to tempt your curiosity. Everything invites further discovery without begging",
+    "local_whisper_text": " but closed enough to tempt your curiosity.",
+    "local_whisper_segments": [
+      {
+        "start": 1.2400000000000002,
+        "end": 3.62,
+        "text": " but closed enough to tempt your curiosity.",
+        "avg_logprob": -0.11633565480058844,
+        "words": [
+          {
+            "start": 1.2400000000000002,
+            "end": 1.86,
+            "word": " but"
+          },
+          {
+            "start": 1.86,
+            "end": 2.18,
+            "word": " closed"
+          },
+          {
+            "start": 2.18,
+            "end": 2.48,
+            "word": " enough"
+          },
+          {
+            "start": 2.48,
+            "end": 2.66,
+            "word": " to"
+          },
+          {
+            "start": 2.66,
+            "end": 2.82,
+            "word": " tempt"
+          },
+          {
+            "start": 2.82,
+            "end": 3.04,
+            "word": " your"
+          },
+          {
+            "start": 3.04,
+            "end": 3.62,
+            "word": " curiosity."
+          }
+        ]
+      }
+    ],
+    "normalized_sequence_agreement": 0.5833333333333334,
+    "not_ground_truth": true
+  },
+  {
+    "source_path": "youtube/20230216-Uwj1bkST5Xk-Reverie Teaser.webm",
+    "section": "middle",
+    "start_seconds": 4.0105,
+    "end_seconds": 8.021,
+    "scribe_text": "Everything invites further discovery without begging",
+    "local_whisper_text": " Everything invites further discovery without begging.",
+    "local_whisper_segments": [
+      {
+        "start": 4.0105,
+        "end": 7.570500000000001,
+        "text": " Everything invites further discovery without begging.",
+        "avg_logprob": -0.43599776923656464,
+        "words": [
+          {
+            "start": 4.0105,
+            "end": 5.290500000000001,
+            "word": " Everything"
+          },
+          {
+            "start": 5.290500000000001,
+            "end": 5.710500000000001,
+            "word": " invites"
+          },
+          {
+            "start": 5.710500000000001,
+            "end": 6.1105,
+            "word": " further"
+          },
+          {
+            "start": 6.1105,
+            "end": 6.7705,
+            "word": " discovery"
+          },
+          {
+            "start": 6.7705,
+            "end": 7.1305000000000005,
+            "word": " without"
+          },
+          {
+            "start": 7.1305000000000005,
+            "end": 7.570500000000001,
+            "word": " begging."
+          }
+        ]
+      }
+    ],
+    "normalized_sequence_agreement": 1.0,
+    "not_ground_truth": true
+  },
+  {
+    "source_path": "youtube/20230216-Uwj1bkST5Xk-Reverie Teaser.webm",
+    "section": "end",
+    "start_seconds": 0,
+    "end_seconds": 8.021,
+    "scribe_text": "Enough to welcome you, but closed enough to tempt your curiosity. Everything invites further discovery without begging",
+    "local_whisper_text": " but closed enough to tempt your curiosity.",
+    "local_whisper_segments": [
+      {
+        "start": 1.2400000000000002,
+        "end": 3.62,
+        "text": " but closed enough to tempt your curiosity.",
+        "avg_logprob": -0.11633565480058844,
+        "words": [
+          {
+            "start": 1.2400000000000002,
+            "end": 1.86,
+            "word": " but"
+          },
+          {
+            "start": 1.86,
+            "end": 2.18,
+            "word": " closed"
+          },
+          {
+            "start": 2.18,
+            "end": 2.48,
+            "word": " enough"
+          },
+          {
+            "start": 2.48,
+            "end": 2.66,
+            "word": " to"
+          },
+          {
+            "start": 2.66,
+            "end": 2.82,
+            "word": " tempt"
+          },
+          {
+            "start": 2.82,
+            "end": 3.04,
+            "word": " your"
+          },
+          {
+            "start": 3.04,
+            "end": 3.62,
+            "word": " curiosity."
+          }
+        ]
+      }
+    ],
+    "normalized_sequence_agreement": 0.5833333333333334,
+    "not_ground_truth": true
+  }
+]

@@ -1,0 +1,14 @@
+HTTP/2 200 
+age: 32865
+cache-control: public, max-age=0, must-revalidate
+content-type: text/html; charset=utf-8
+date: Sat, 08 Aug 2026 21:37:56 GMT
+etag: "mu1xew59oxv6m"
+server: Vercel
+strict-transport-security: max-age=63072000
+x-matched-path: /cheat
+x-powered-by: Next.js
+x-vercel-cache: STALE
+x-vercel-id: iad1::iad1::xw896-1791653589417-c4fa2c6c7fd5
+content-length: 40462
+

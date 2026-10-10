@@ -1,0 +1,9 @@
+{
+  "name": "steven-schrembeck-archive-od6hvu-z56w",
+  "pages_build_output_dir": "./output/deploy-site",
+  "compatibility_date": "2026-10-10",
+  "send_metrics": false,
+  "r2_buckets": [
+    { "binding": "ARCHIVE", "bucket_name": "opzero-src" }
+  ]
+}

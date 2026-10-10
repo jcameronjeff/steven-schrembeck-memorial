@@ -1,0 +1,15 @@
+{
+  "source_path": "collected/034-developer-commentary-1.mp3",
+  "automated_flags": [],
+  "flags_are_review_candidates_not_confirmed_errors": true,
+  "raw_word_count": 4891,
+  "spoken_word_count": 2430,
+  "speaker_ids": [
+    "speaker_0"
+  ],
+  "subtitle_cue_count": 166,
+  "first_speech_seconds": 0.98,
+  "last_speech_seconds": 839.012,
+  "human_correction_status": "uncorrected",
+  "source_offset_seconds": 0
+}

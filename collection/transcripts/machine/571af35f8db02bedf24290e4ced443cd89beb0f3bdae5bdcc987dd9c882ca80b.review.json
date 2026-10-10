@@ -1,0 +1,26 @@
+{
+  "source_path": "collected/019-from-between-the-woodsman.mp3",
+  "automated_flags": [
+    {
+      "kind": "word_duration_over_3s",
+      "word_index": 0,
+      "text": "Hello,",
+      "start": 0.14,
+      "end": 18.48,
+      "note": "Suspicious word alignment; raw timestamp preserved."
+    }
+  ],
+  "flags_are_review_candidates_not_confirmed_errors": true,
+  "raw_word_count": 6147,
+  "spoken_word_count": 3073,
+  "speaker_ids": [
+    "speaker_0",
+    "speaker_1",
+    "speaker_2"
+  ],
+  "subtitle_cue_count": 263,
+  "first_speech_seconds": 0.14,
+  "last_speech_seconds": 1463.6,
+  "human_correction_status": "uncorrected",
+  "source_offset_seconds": 0
+}

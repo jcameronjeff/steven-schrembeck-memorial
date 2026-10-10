@@ -1,0 +1,14 @@
+HTTP/1.1 200 OK
+Content-Type: audio/mpeg
+Content-Length: 37979028
+Accept-Ranges: bytes
+Last-Modified: Mon, 17 Jun 2024 21:58:09 GMT
+x-rgw-object-type: Normal
+ETag: "13b9a8b0da30877f043998a20bf3ca78"
+x-amz-meta-mtime: 1614998838
+x-amz-request-id: tx00000b12f48e0e9f8f6f9-006aca7701-11bc78254-default
+Date: Sat, 10 Oct 2026 17:33:53 GMT
+Alt-Svc: h3=":443"; ma=93600,h3-29=":443"; ma=93600
+Connection: keep-alive
+Strict-Transport-Security: max-age=86400 ; includeSubDomains ; preload
+

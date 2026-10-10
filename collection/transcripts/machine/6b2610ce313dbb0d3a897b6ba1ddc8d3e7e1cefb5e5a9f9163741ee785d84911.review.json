@@ -1,0 +1,15 @@
+{
+  "source_path": "collected/004-delays-and-discord.mp3",
+  "automated_flags": [],
+  "flags_are_review_candidates_not_confirmed_errors": true,
+  "raw_word_count": 425,
+  "spoken_word_count": 209,
+  "speaker_ids": [
+    "speaker_0"
+  ],
+  "subtitle_cue_count": 20,
+  "first_speech_seconds": 5.88,
+  "last_speech_seconds": 106.02,
+  "human_correction_status": "uncorrected",
+  "source_offset_seconds": 0
+}

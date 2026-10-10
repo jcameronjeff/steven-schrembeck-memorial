@@ -1,0 +1,14 @@
+HTTP/1.1 200 OK
+Content-Type: application/octet-stream
+Content-Length: 499984
+Accept-Ranges: bytes
+Last-Modified: Mon, 17 Jun 2024 12:54:47 GMT
+x-rgw-object-type: Normal
+ETag: "35838cd9acdb15a335104107ce5d5585"
+x-amz-meta-mtime: 1626641769
+x-amz-request-id: tx00000e0b1d078f117a4f1-006aca189b-11bc7a3a7-default
+Date: Sat, 10 Oct 2026 17:33:09 GMT
+Alt-Svc: h3=":443"; ma=93600,h3-29=":443"; ma=93600
+Connection: keep-alive
+Strict-Transport-Security: max-age=86400 ; includeSubDomains ; preload
+

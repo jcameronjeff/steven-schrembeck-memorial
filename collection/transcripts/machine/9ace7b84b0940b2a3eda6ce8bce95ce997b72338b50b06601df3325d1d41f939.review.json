@@ -1,0 +1,62 @@
+{
+  "source_path": "collected/010-mortal-steel-episode-7.mp3",
+  "automated_flags": [
+    {
+      "kind": "low_word_logprob",
+      "word_index": 3851,
+      "start": 947.276,
+      "end": 947.336,
+      "text": " ",
+      "logprob": -1.1152979135513306
+    },
+    {
+      "kind": "low_word_logprob",
+      "word_index": 3852,
+      "start": 947.336,
+      "end": 947.556,
+      "text": "sad",
+      "logprob": -1.1152979135513306
+    },
+    {
+      "kind": "low_word_logprob",
+      "word_index": 3853,
+      "start": 947.556,
+      "end": 947.836,
+      "text": " ",
+      "logprob": -1.7964023351669312
+    },
+    {
+      "kind": "low_word_logprob",
+      "word_index": 3854,
+      "start": 947.836,
+      "end": 948.136,
+      "text": "burn.",
+      "logprob": -1.4371980045340025
+    },
+    {
+      "kind": "speech_gap_over_20s",
+      "start": 1525.832,
+      "end": 1576.412,
+      "note": "May be music, silence or an omission; review audio."
+    },
+    {
+      "kind": "leading_no_speech",
+      "start": 0,
+      "end": 53.48
+    }
+  ],
+  "flags_are_review_candidates_not_confirmed_errors": true,
+  "raw_word_count": 6861,
+  "spoken_word_count": 3425,
+  "speaker_ids": [
+    "speaker_0",
+    "speaker_1",
+    "speaker_2",
+    "speaker_3"
+  ],
+  "subtitle_cue_count": 312,
+  "first_speech_seconds": 53.48,
+  "last_speech_seconds": 1690.532,
+  "human_correction_status": "uncorrected",
+  "source_offset_seconds": 0
+}

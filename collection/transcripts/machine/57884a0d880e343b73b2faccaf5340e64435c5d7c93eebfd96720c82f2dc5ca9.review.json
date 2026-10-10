@@ -1,0 +1,23 @@
+{
+  "source_path": "collected/002-dev-commentary-7-puzzl-web-3-short-story-the-project.mp3",
+  "automated_flags": [
+    {
+      "kind": "trailing_no_speech",
+      "start": 774.48,
+      "end": 796.760816
+    }
+  ],
+  "flags_are_review_candidates_not_confirmed_errors": true,
+  "raw_word_count": 3583,
+  "spoken_word_count": 1785,
+  "speaker_ids": [
+    "speaker_0",
+    "speaker_1",
+    "speaker_2"
+  ],
+  "subtitle_cue_count": 152,
+  "first_speech_seconds": 6.72,
+  "last_speech_seconds": 774.48,
+  "human_correction_status": "uncorrected",
+  "source_offset_seconds": 0
+}

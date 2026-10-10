@@ -1,0 +1,14 @@
+HTTP/2 200 
+age: 30
+cache-control: public, max-age=0, must-revalidate
+content-type: text/html; charset=utf-8
+date: Sat, 10 Oct 2026 17:36:11 GMT
+etag: "blx0jm4uc54g9h"
+server: Vercel
+strict-transport-security: max-age=63072000
+x-matched-path: /[pageId]
+x-powered-by: Next.js
+x-vercel-cache: STALE
+x-vercel-id: iad1::iad1::7szb8-1791653801686-1f6fa577cdfa
+content-length: 208312
+

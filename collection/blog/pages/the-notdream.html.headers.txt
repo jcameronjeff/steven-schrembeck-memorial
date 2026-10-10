@@ -1,0 +1,14 @@
+HTTP/2 200 
+age: 32870
+cache-control: public, max-age=0, must-revalidate
+content-type: text/html; charset=utf-8
+date: Sat, 10 Oct 2026 08:25:18 GMT
+etag: "cwqynpqg1l47h4"
+server: Vercel
+strict-transport-security: max-age=63072000
+x-matched-path: /the-notdream
+x-powered-by: Next.js
+x-vercel-cache: STALE
+x-vercel-id: iad1::iad1::n2p7k-1791653588815-894ad16fd1a8
+content-length: 196983
+

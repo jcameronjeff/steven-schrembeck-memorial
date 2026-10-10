@@ -1,0 +1,24 @@
+HTTP/1.1 302 Moved Temporarily
+Location: https://podcasts.captivate.fm/media/431d56b9-c702-4b7f-83f9-88f3685c925f/TGE-4-what-I-know-about-transcendence.mp3
+Expires: Sat, 10 Oct 2026 17:33:18 GMT
+Cache-Control: max-age=0, no-cache, no-store
+Pragma: no-cache
+Date: Sat, 10 Oct 2026 17:33:18 GMT
+Alt-Svc: h3=":443"; ma=93600,h3-29=":443"; ma=93600
+Connection: close
+Strict-Transport-Security: max-age=86400 ; includeSubDomains
+
+HTTP/1.1 200 OK
+Content-Type: audio/mpeg
+Content-Length: 56401004
+Accept-Ranges: bytes
+Last-Modified: Fri, 24 Jul 2026 16:46:23 GMT
+x-rgw-object-type: Normal
+ETag: "6d3b99774eff0b462ba9a25ae96b999a-6"
+x-amz-tagging-count: 0
+x-amz-request-id: tx00000018616468e28c717-006aca76de-11bc783ad-default
+Date: Sat, 10 Oct 2026 17:33:18 GMT
+Alt-Svc: h3=":443"; ma=93600,h3-29=":443"; ma=93600
+Connection: keep-alive
+Strict-Transport-Security: max-age=86400 ; includeSubDomains ; preload
+

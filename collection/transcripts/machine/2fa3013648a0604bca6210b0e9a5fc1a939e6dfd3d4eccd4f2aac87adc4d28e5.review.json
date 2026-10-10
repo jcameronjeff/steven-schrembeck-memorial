@@ -1,0 +1,110 @@
+{
+  "source_path": "interviews/nosleep-podcast-s9e09.mp3",
+  "automated_flags": [
+    {
+      "kind": "cross_recognizer_disagreement",
+      "start": 0,
+      "end": 70,
+      "note": "Scribe and independent local recognition disagree. Neither is ground truth; compare with source audio.",
+      "evidence": "supplemental-crosschecks.json"
+    },
+    {
+      "kind": "word_duration_over_3s",
+      "word_index": 310,
+      "text": "disturb.",
+      "start": 80.56,
+      "end": 84.34,
+      "note": "Suspicious word alignment; raw timestamp preserved."
+    },
+    {
+      "kind": "low_word_logprob",
+      "word_index": 10091,
+      "start": 2121.808,
+      "end": 2121.808,
+      "text": " ",
+      "logprob": -1.0341395139694214
+    },
+    {
+      "kind": "low_word_logprob",
+      "word_index": 10092,
+      "start": 2126.828,
+      "end": 2127.108,
+      "text": "I",
+      "logprob": -1.0341395139694214
+    },
+    {
+      "kind": "low_word_logprob",
+      "word_index": 19481,
+      "start": 4421.364,
+      "end": 4421.844,
+      "text": " ",
+      "logprob": -1.8206270933151245
+    },
+    {
+      "kind": "low_word_logprob",
+      "word_index": 19482,
+      "start": 4421.844,
+      "end": 4422.304,
+      "text": "Akatic",
+      "logprob": -1.5936402877171834
+    },
+    {
+      "kind": "word_duration_over_3s",
+      "word_index": 20086,
+      "text": "fog.",
+      "start": 4612.824,
+      "end": 4616.324,
+      "note": "Suspicious word alignment; raw timestamp preserved."
+    },
+    {
+      "kind": "speech_gap_over_20s",
+      "start": 88.96,
+      "end": 113.7,
+      "note": "May be music, silence or an omission; review audio."
+    },
+    {
+      "kind": "speech_gap_over_20s",
+      "start": 1059.616,
+      "end": 1091.776,
+      "note": "May be music, silence or an omission; review audio."
+    },
+    {
+      "kind": "speech_gap_over_20s",
+      "start": 2609.856,
+      "end": 2643.516,
+      "note": "May be music, silence or an omission; review audio."
+    },
+    {
+      "kind": "speech_gap_over_20s",
+      "start": 4524.504,
+      "end": 4574.504,
+      "note": "May be music, silence or an omission; review audio."
+    },
+    {
+      "kind": "trailing_no_speech",
+      "start": 4633.904,
+      "end": 4657.998367
+    }
+  ],
+  "flags_are_review_candidates_not_confirmed_errors": true,
+  "raw_word_count": 20175,
+  "spoken_word_count": 10073,
+  "speaker_ids": [
+    "speaker_0",
+    "speaker_1",
+    "speaker_10",
+    "speaker_2",
+    "speaker_3",
+    "speaker_4",
+    "speaker_5",
+    "speaker_6",
+    "speaker_7",
+    "speaker_8",
+    "speaker_9"
+  ],
+  "subtitle_cue_count": 803,
+  "first_speech_seconds": 0.42,
+  "last_speech_seconds": 4633.904,
+  "human_correction_status": "uncorrected",
+  "source_offset_seconds": 0
+}

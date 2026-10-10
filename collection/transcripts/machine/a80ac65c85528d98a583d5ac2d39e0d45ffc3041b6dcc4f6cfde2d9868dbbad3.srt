@@ -1,0 +1,614 @@
+1
+00:00:00,080 --> 00:00:06,480
+Speaker 1: [upbeat music]
+
+2
+00:00:06,560 --> 00:00:12,060
+Speaker 1: Hello. Welcome to another episode of
+the Collected Developer Commentary. So this is
+
+3
+00:00:12,100 --> 00:00:17,920
+Speaker 1: the show where I talk about the show
+and where it's all going. So this is part
+
+4
+00:00:18,020 --> 00:00:23,400
+Speaker 1: one of a master plan series that
+explains exactly how we're gonna do things a
+little
+
+5
+00:00:23,420 --> 00:00:27,800
+Speaker 1: bit differently here, uh, than most
+of the other podcasts you probably listen to.
+
+6
+00:00:28,760 --> 00:00:30,840
+Speaker 1: But I'm gonna go ahead and give you
+the punchline right now.
+
+7
+00:00:32,360 --> 00:00:37,660
+Speaker 1: It's not about me. It's about all of
+us. So who, who is us?
+
+8
+00:00:38,300 --> 00:00:44,260
+Speaker 1: So we are the storytellers and the
+lovers of story who support them. That's
+
+9
+00:00:44,300 --> 00:00:48,920
+Speaker 1: who we are. So if you don't care
+about the creators or their wellbeing,
+
+10
+00:00:49,720 --> 00:00:55,180
+Speaker 1: unfortunately this is not the place
+for you. Now, support isn't always
+
+11
+00:00:55,220 --> 00:00:59,840
+Speaker 1: financial, but if you're not
+interested in getting involved somehow, then
+you're
+
+12
+00:00:59,860 --> 00:01:04,300
+Speaker 1: gonna get less and less out of
+Collected. You're just not gonna enjoy it
+because
+
+13
+00:01:04,319 --> 00:01:09,920
+Speaker 1: we're building it for our people, and
+our people are the creators of great story
+
+14
+00:01:10,400 --> 00:01:12,980
+Speaker 1: and the lovers of story who support
+them. That's us.
+
+15
+00:01:15,000 --> 00:01:19,460
+Speaker 1: Now, Collected is just the name of
+the brand. Uh, it's a creator-first brand and
+the
+
+16
+00:01:19,500 --> 00:01:25,120
+Speaker 1: beginning of a user-created,
+user-owned multiverse.
+
+17
+00:01:25,740 --> 00:01:31,580
+Speaker 1: It's not mine. It belongs to all of
+us, but we'll get into that. My name is
+
+18
+00:01:31,640 --> 00:01:35,780
+Speaker 1: Steven Schrembeck. I'm a writer and
+programmer. I see my role here really as a
+
+19
+00:01:35,840 --> 00:01:40,880
+Speaker 1: facilitator and pace car. Basically,
+I'm gonna set the vision. I'm gonna get it all
+
+20
+00:01:40,960 --> 00:01:45,540
+Speaker 1: started, but then I'm gonna take a
+step back and start supporting you all so you
+can
+
+21
+00:01:45,580 --> 00:01:51,200
+Speaker 1: take it over. Now, I am personally
+committed to writing and producing a 12-story
+
+22
+00:01:51,320 --> 00:01:56,940
+Speaker 1: block. So here's what's gonna happen.
+Each story follows the events of a different
+
+23
+00:01:57,180 --> 00:02:01,940
+Speaker 1: inner world. Mortal Steel is just the
+first of these stories. Uh, it has 12
+
+24
+00:02:02,000 --> 00:02:07,920
+Speaker 1: episodes, and it's part of the
+12-story block called the Revealer Block. If
+
+25
+00:02:07,960 --> 00:02:12,480
+Speaker 1: you wanna know why, you'll just have
+to keep listening to find out. But that's just
+
+26
+00:02:12,540 --> 00:02:18,380
+Speaker 1: the surface level. Let's dig into
+what exactly I mean when I say Collected is
+
+27
+00:02:18,440 --> 00:02:20,740
+Speaker 1: not mine, it's ours.
+
+28
+00:02:22,580 --> 00:02:28,100
+Speaker 1: So I have three important points to
+go over here. One, our shared multiverse is
+
+29
+00:02:28,140 --> 00:02:32,680
+Speaker 1: called the Eternium. It's shared
+because once we're ready, Collected is going to
+
+30
+00:02:32,720 --> 00:02:38,220
+Speaker 1: start taking community submissions.
+That means any story which meets some very basic
+
+31
+00:02:38,280 --> 00:02:42,920
+Speaker 1: qualifications for what is a
+Collected story is going to become canon in our
+
+32
+00:02:42,960 --> 00:02:43,640
+Speaker 1: multiverse.
+
+33
+00:02:45,200 --> 00:02:48,460
+Speaker 1: Now, obviously, it's gonna take some
+time to build out a pipeline where we can start
+
+34
+00:02:48,500 --> 00:02:52,360
+Speaker 1: accepting submissions, actually doing
+something with them and turning them into
+
+35
+00:02:52,420 --> 00:02:56,200
+Speaker 1: stories and getting people to produce
+them, so for a while, just expect to see
+
+36
+00:02:56,260 --> 00:03:00,480
+Speaker 1: mostly my work. But the goal is,
+eventually, my work is just gonna be a tiny
+portion
+
+37
+00:03:00,760 --> 00:03:04,780
+Speaker 1: of all the great stories that you
+have available here. So as a listener, that's
+
+38
+00:03:04,860 --> 00:03:09,460
+Speaker 1: obviously good for you. There's gonna
+be more great stuff coming. But if you're a
+
+39
+00:03:09,500 --> 00:03:15,100
+Speaker 1: creator or aspiring creator, so
+specifically a writer, voice actor, musician, or
+
+40
+00:03:15,240 --> 00:03:19,300
+Speaker 1: visual artist, you're gonna wanna pay
+extra close attention because we've got some
+
+41
+00:03:19,320 --> 00:03:22,740
+Speaker 1: really cool opportunities coming up.
+But honestly, this is about more than just the
+
+42
+00:03:22,780 --> 00:03:27,580
+Speaker 1: creators because not everyone wants
+to make stories, and that's okay. I'd wager that
+
+43
+00:03:27,660 --> 00:03:31,500
+Speaker 1: only a small portion of the community
+will ever really be interested in learning the
+
+44
+00:03:31,540 --> 00:03:37,420
+Speaker 1: skills to tell stories. No problem.
+So that brings me to my second point. Number
+
+45
+00:03:37,700 --> 00:03:43,300
+Speaker 1: two, we're using an open, shared IP
+model.
+
+46
+00:03:44,900 --> 00:03:50,700
+Speaker 1: That means any member can create
+their own content, sell their own merchandise,
+
+47
+00:03:50,860 --> 00:03:56,440
+Speaker 1: and even spin off their own podcast
+and make money from any Collected story IP.
+
+48
+00:03:56,960 --> 00:04:01,720
+Speaker 1: Whether that's one of my 12 worlds or
+somebody else's, it doesn't matter. Now, if
+
+49
+00:04:01,780 --> 00:04:05,680
+Speaker 1: you're a creator, your brain is
+probably melting. What do you mean other people
+can
+
+50
+00:04:05,720 --> 00:04:10,660
+Speaker 1: make money off my story worlds? I'm
+not gonna get into the details today, technical
+
+51
+00:04:10,720 --> 00:04:14,400
+Speaker 1: implementation or otherwise, but the
+gist is that as long as the sellers and
+
+52
+00:04:14,460 --> 00:04:18,320
+Speaker 1: creators play by a few simple rules,
+a small portion of the revenue is gonna come
+
+53
+00:04:18,360 --> 00:04:23,080
+Speaker 1: back to the entire community,
+including the authors that created the stories.
+But
+
+54
+00:04:23,100 --> 00:04:28,500
+Speaker 1: the gist is anyone can sell stuff,
+and we all get a little bit of money from it. So
+
+55
+00:04:28,560 --> 00:04:33,280
+Speaker 1: if you want to sell Mortal Steel
+stickers or a T-shirt or a fan-made sequel, you
+
+56
+00:04:33,320 --> 00:04:37,540
+Speaker 1: don't have to ask me. There's gonna
+be a very simple self-service and mostly
+
+57
+00:04:37,620 --> 00:04:42,560
+Speaker 1: automated way of going about this.
+But I'm also aware that a lot of people aren't
+
+58
+00:04:42,600 --> 00:04:48,540
+Speaker 1: gonna wanna do that either, which
+brings me to the third point. Anybody who
+
+59
+00:04:48,580 --> 00:04:54,580
+Speaker 1: contributes to Collected is a part
+owner. This is gonna take a little explanation.
+
+60
+00:04:55,380 --> 00:05:00,860
+Speaker 1: Just imagine that if every time you
+commented or posted or did a like on Facebook,
+
+61
+00:05:01,420 --> 00:05:07,420
+Speaker 1: you got a tiny share of the business
+itself, and anytime Facebook made money, you
+
+62
+00:05:07,460 --> 00:05:12,680
+Speaker 1: got a cut of that money relative to
+how many of those tiny shares you owned. That's
+
+63
+00:05:12,700 --> 00:05:17,440
+Speaker 1: what I'm building for you. It's not
+lip service when I say that it is ours.
+
+64
+00:05:17,860 --> 00:05:21,980
+Speaker 1: Collected is actually going to be
+yours in the financial sense as much as it is
+
+65
+00:05:22,020 --> 00:05:27,240
+Speaker 1: mine. This is obviously a very lofty
+vision, and it's gonna take some time to build
+
+66
+00:05:27,320 --> 00:05:32,340
+Speaker 1: out, but that's the goal. So anytime
+Collected makes money, as long as you hold
+
+67
+00:05:32,400 --> 00:05:37,340
+Speaker 1: something that gives you a share,
+you're gonna make a little bit of money too. So
+
+68
+00:05:37,680 --> 00:05:41,960
+Speaker 1: you might be asking, "Who gets these
+shares?" Uh, the short answer is anybody who
+
+69
+00:05:41,980 --> 00:05:46,600
+Speaker 1: contributes value. Obviously, there's
+a lot of details here. Besides producing
+
+70
+00:05:46,620 --> 00:05:50,980
+Speaker 1: things to consume, like stories or
+merchandise, whether that's digital or physical,
+
+71
+00:05:51,720 --> 00:05:56,080
+Speaker 1: you can do things like start
+discussions, host events, or just share stories.
+
+72
+00:05:56,500 --> 00:06:00,920
+Speaker 1: Really, anything that benefits all of
+us, you're going to get rewarded for, and
+
+73
+00:06:00,960 --> 00:06:04,676
+Speaker 1: that's going to earn you a piece of
+the total pie. I'm gonna get more into the
+
+74
+00:06:04,716 --> 00:06:09,536
+Speaker 1: mechanisms behind this actually works
+and how it's possible in the next Master Plan
+
+75
+00:06:09,596 --> 00:06:12,116
+Speaker 1: episode. But just know that that's
+what's coming.
+
+76
+00:06:14,516 --> 00:06:18,716
+Speaker 1: Obviously, this is a pretty new way
+to run an organization, but it's actually
+
+77
+00:06:18,756 --> 00:06:23,436
+Speaker 1: gaining in popularity. We're not the
+first, and it really represents part of a
+
+78
+00:06:23,476 --> 00:06:28,456
+Speaker 1: larger shift. People are kind of
+tired of top-down organizations that really only
+
+79
+00:06:28,496 --> 00:06:32,856
+Speaker 1: reward the people at the top, more or
+less at the expense of everyone else, or at
+
+80
+00:06:32,876 --> 00:06:37,636
+Speaker 1: the very least, they don't get nearly
+as much out of it. Collected is actually just
+
+81
+00:06:37,696 --> 00:06:43,556
+Speaker 1: a small part of this bigger cultural
+movement happening right now. It is a shift in
+
+82
+00:06:43,616 --> 00:06:48,956
+Speaker 1: power to creators, which is being
+enabled by technology. And it's also a shift to
+
+83
+00:06:48,996 --> 00:06:53,096
+Speaker 1: the people who support those
+creators. It's cutting out a lot of middlemen.
+But it's
+
+84
+00:06:53,136 --> 00:06:57,976
+Speaker 1: doing more than cutting out
+middlemen. It's also making the supporters part
+owners
+
+85
+00:06:58,016 --> 00:07:02,436
+Speaker 1: in the entire project. I'll also talk
+a little bit more about the creator economy in
+
+86
+00:07:02,456 --> 00:07:04,356
+Speaker 1: some of the, uh, later Master Plan
+episodes.
+
+87
+00:07:06,036 --> 00:07:11,976
+Speaker 1: I hope you found that useful. Yeah,
+let me level with you. I can get this started,
+
+88
+00:07:12,516 --> 00:07:17,196
+Speaker 1: but I can't do it on my own. I'll be
+announcing some opportunities to get involved
+
+89
+00:07:17,296 --> 00:07:21,556
+Speaker 1: later, but only to the people who are
+on the email list. So if you wanna get
+
+90
+00:07:21,596 --> 00:07:25,556
+Speaker 1: involved on the first projects, make
+sure you're on it. Sign up is at
+
+91
+00:07:25,596 --> 00:07:31,176
+Speaker 1: collectedaudio.com. And remember,
+this is a shared project, and the way these
+
+92
+00:07:31,196 --> 00:07:35,956
+Speaker 1: projects usually go, even though it's
+early days, the people who get in early are
+
+93
+00:07:35,996 --> 00:07:40,636
+Speaker 1: the people who get rewarded the most.
+And that's as it should be because those are
+
+94
+00:07:40,656 --> 00:07:44,816
+Speaker 1: the people taking the biggest risks
+with their time, effort, and money. While I
+
+95
+00:07:44,916 --> 00:07:50,456
+Speaker 1: can't promise financial returns, and
+this isn't financial advice, if you
+
+96
+00:07:50,476 --> 00:07:55,136
+Speaker 1: believe in this model and in this
+bigger cultural shift and you kinda buy into
+this
+
+97
+00:07:55,176 --> 00:08:00,776
+Speaker 1: vision, you will be rewarded. And the
+more you do and the more you contribute,
+
+98
+00:08:01,376 --> 00:08:06,096
+Speaker 1: and the earlier you contribute
+especially, the more you will be rewarded.
+
+99
+00:08:07,356 --> 00:08:10,776
+Speaker 1: So I'm gonna leave you with one
+question to chew on before the next Master Plan
+
+100
+00:08:10,836 --> 00:08:15,536
+Speaker 1: episode in, I don't know, maybe a
+month or so. Should I bet on this?
+
+101
+00:08:18,476 --> 00:08:23,976
+Speaker 1: Do you want to see more of this kind
+of thing in the world? Think about it. This
+
+102
+00:08:24,036 --> 00:08:29,096
+Speaker 1: space is moving insanely fast, like
+crazy fast, uh, and we're not gonna slow down.
+
+103
+00:08:29,656 --> 00:08:33,756
+Speaker 1: So I'm only bringing in the people
+who really know that they wanna get in early. If
+
+104
+00:08:33,776 --> 00:08:35,876
+Speaker 1: that's you, cool, sign up. I'd love
+to have your help.
+
+105
+00:08:37,476 --> 00:08:41,236
+Speaker 1: All right, let's wrap this up with a
+little bit of housekeeping. So Mortal Steel is
+
+106
+00:08:41,256 --> 00:08:45,796
+Speaker 1: going to wrap at twelve episodes.
+We're gonna do a short break, which I'm going to
+
+107
+00:08:45,836 --> 00:08:51,336
+Speaker 1: fill with a couple surprises. Uh, and
+then season two starts. Production on season
+
+108
+00:08:51,356 --> 00:08:55,056
+Speaker 1: two is picking up. The major
+characters and the plot are done, but the
+story's still
+
+109
+00:08:55,076 --> 00:08:59,356
+Speaker 1: being written. I'll be putting out
+casting calls for voice actors soon, and work on
+
+110
+00:08:59,376 --> 00:09:05,296
+Speaker 1: the cover art and music will begin as
+well. So as far as the sound design goes, I'm
+
+111
+00:09:05,316 --> 00:09:10,496
+Speaker 1: gonna tease you with this. I am
+planning something rather ambitious. I think
+it's
+
+112
+00:09:10,516 --> 00:09:16,036
+Speaker 1: something you've never heard before.
+Uh, and I [laughs] I might regret the
+
+113
+00:09:16,076 --> 00:09:20,316
+Speaker 1: workload, to be honest with you. But
+we'll see. We'll see. If you wanna hear a
+
+114
+00:09:20,376 --> 00:09:26,216
+Speaker 1: teaser of that, as always, be on the
+email list. Collected is less and less
+
+115
+00:09:26,336 --> 00:09:30,616
+Speaker 1: and less for the passive listener and
+more and more and more for the engaged
+
+116
+00:09:30,656 --> 00:09:35,616
+Speaker 1: community member. That's just how I
+think it should be. There are thousands of great
+
+117
+00:09:35,656 --> 00:09:39,636
+Speaker 1: podcasts and audiobooks for you to
+listen to. If you just wanna be a passive
+
+118
+00:09:39,676 --> 00:09:44,976
+Speaker 1: listener, please go consume those.
+They absolutely need your support. And finally,
+
+119
+00:09:45,576 --> 00:09:49,156
+Speaker 1: special thanks to the alpha readers
+who made season two better already. I really,
+
+120
+00:09:49,436 --> 00:09:54,456
+Speaker 1: really appreciate your work. And I
+appreciate you, traveler, for listening to our
+
+121
+00:09:54,476 --> 00:09:58,976
+Speaker 1: show. And I can't wait to bring you
+more. See ya.

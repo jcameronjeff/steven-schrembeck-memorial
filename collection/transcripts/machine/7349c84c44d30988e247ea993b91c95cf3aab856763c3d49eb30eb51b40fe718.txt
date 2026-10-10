@@ -1,0 +1,711 @@
+Dev Commentary 6: Interview with The Creative Mindset, Mortal Steel wrapup, Season 2 updates
+Source: collected/006-dev-commentary-6-interview-with-the-creative-mindset-mortal-steel-wrapup-season-2-updates.mp3
+SHA-256: 7349c84c44d30988e247ea993b91c95cf3aab856763c3d49eb30eb51b40fe718
+Model: scribe_v2 | Transcribed: 2026-10-10T18:10:47.716147+00:00
+Machine transcript — uncorrected. Speaker labels are local to this recording and do not identify people.
+
+[00:00:00.120] Speaker 1: [intro jingle] Hello, travelers. So today's gonna be a pretty short dev commentary. After the commentary, I'm going to air an interview I did with a friend, Tony, on a podcast called "The Creative Mindset." Mortal Steel Episode 10 will not be ready for your morning commute tomorrow, but it will come out tomorrow. It took a little bit longer because I had to do some non-human voice effects that took an enormous amount of time. But I think it's gonna be worth the wait. So it'll still come out tomorrow. There's actually
+
+[00:00:35.000] Speaker 1: gonna be another delay between Mortal Steel episodes 11 and 12. Now, that's purely because episode 12, the finale for Mortal Steel, is incredibly awesome and almost twice as long as a normal episode. So I wanna make sure I take the time to get that one right. I think it'll take about three weeks. It could take up to four weeks. Now, if it takes over three weeks, I will take a little bit of time to create a short story, and I'll drop that here. And that's because Steven always delivers.
+
+[00:01:10.200] Speaker 1: Let it be known. I always deliver. All right, moving on to some more news. You're probably going to want to pick up a little bit of Ethereum or Solana. Now, if you don't know what those are, don't worry about it. I'm gonna do a whole bit of blockchain and NFT education later in the year, maybe early next year. So if you don't know what those are, don't worry about it. And you're not gonna need much, because remember, you're here early, and the people who are here early and support early. And if you listened to the last dev
+
+[00:01:45.140] Speaker 1: commentary, you know that I reward early supporters. All right, next up, we're gonna run a contest towards the end of November, early December, for sound design and writing. So if you want an opportunity to learn how to make sound effects like we do in Mortal Steel or try your hand at writing, this is a good opportunity for you. There's gonna be some cash prizes, and I'm collaborating with another creator, and we're gonna have some, uh, other interesting prizes as well. You'll hear a little bit more about that probably in a week or two as we finalize the details.
+
+[00:02:20.300] Speaker 1: While this contest is just for writing and sound design, if you're a visual artist or a musician, uh, I'd still like to hear from you. We're gonna need all sorts going forward, and now would be a great time to connect. Now, if you're a 3D modeler, I would really like to speak with you. I'll let you use your imagination on why I might need that one. All right, moving on to season two updates. The casting calls are going out soon for season two. Art and music is still underway. And I can say that the visual
+
+[00:02:55.080] Speaker 1: art looks incredibly cool. And if you're not already aware, season two is not a direct sequel to Mortal Steel. It's an entirely separate story in an entirely new world with different characters. And we're gonna be doing that with every season. Now, that doesn't mean that we can't or won't do direct sequels. But if we're gonna do direct sequels, we're gonna need more money, and we're gonna need a bigger team. Speaking of which, for season two, I am going to try to absolutely blow your minds.
+
+[00:03:31.140] Speaker 1: So part of that means I have doubled the production for art and music. I am increasing the budget everywhere I can to make it awesome. And the reason I'm doing that is I have a theory. I believe that doubling down on the production quality is the way to help everybody. I think it's what you want. And it's really a leap of faith, honestly. I choose to believe that this money is gonna come back to us eventually because people want to support creators who are putting in the time,
+
+[00:04:06.560] Speaker 1: putting in the money, putting in the effort to make something great. And we're putting in 30, 40-hour weeks on this show while working full-time. It's not easy. And at our current burn rate, especially the new burn rate with this increased production budget, we're probably gonna run out of money in about six months. Now, that sounds very scary, but we've got six months. And until then, like I said, I am going to do absolutely everything I can to blow your minds.
+
+[00:04:42.260] Speaker 1: Finally, remember, Collected is not mine. It's ours. I'm just getting it started. This is an ecosystem. It's going to take a lot of people, a lot of effort, and a fair amount of money to bring this vision to life. But when you start to see what I have planned, oh man, it is so, so going to be worth it. This is not a podcast. It looks like a podcast right now, but it really is not.
+
+[00:05:18.600] Speaker 1: Now, without further ado, let's hear my interview with Tony at The Creative Mindset. See you, travelers.
+
+[00:05:30.160] Speaker 2: Mortal Steel. [rock music] Pastor Ethan Cutter was wheeled down the hallway of the advanced clinic, the only such building in Last Respite, one of the three remaining human strongholds in the old Los Angeles area. It differed from the other clinics in Last Respite. Those were hot, cramped buildings packed with people too sick to cure, too injured to heal. If you went to a clinic, you usually went there to die. Steven Schrembeck.
+
+[00:06:02.240] Speaker 1: Hey, Tony.
+
+[00:06:03.320] Speaker 2: Hey, how's it going, man?
+
+[00:06:04.960] Speaker 1: You know, life is, is too good to me. I keep waking up and thinking it can't be real.[laughs]
+
+[00:06:10.390] Speaker 3: Oh, really?
+
+[00:06:11.770] Speaker 1: I, I love it. I really do love my life. Uh, and it is an active thing, uh, that I cultivate that mindset, but it works and I'm just having fun. I really am having fun. It's not all fun, but it's almost all fun.
+
+[00:06:27.190] Speaker 3: Yeah? Cool. What, what's fun?
+
+[00:06:30.670] Speaker 1: I wake up every day trying to do something, trying to make the most out of the day. Um, and this is, again, this is a deliberate mindset. I don't always, didn't always do that. But now I just have this feeling that today is, like, potential. It's something I can use to make something important happen, right? This is, like, my ammunition. This is all, all I've got. Uh, as opposed to just waking up and trying to get through the day, I am waking up like, "How much can I squeeze out of this day, uh, in the best possible way?" I do a lot of boring stuff that's important,
+
+[00:07:05.550] Speaker 1: [laughs] but... And I don't look forward to those things, right? Those are still painful, but I look forward to what it means. I feel like I'm making progress every day, right?
+
+[00:07:16.150] Speaker 3: Forward movement, man. That's my phrase for 2021, forward movement.
+
+[00:07:20.450] Speaker 1: [laughs] Okay.
+
+[00:07:21.910] Speaker 3: Well, I mean, how, how do you sustain that attitude? I mean, what is it that excites you?
+
+[00:07:26.930] Speaker 1: Yeah.
+
+[00:07:27.090] Speaker 3: What's the stuff that you're thinking of that gets you motivated?
+
+[00:07:30.170] Speaker 1: Most of it comes from feeding a passion, right? And it is, it is l- it is a deliberate act of will. This isn't just something you get. It doesn't just happen to you, this kind of excitement and fulfillment. You have to build it. And it... The fire dies down just a little bit every day, too. You have to keep putting logs on it, right? I think that's a very apt metaphor. Um, so what kinds of things are... excite me? Well, I mean, that's just unique to me, right? Certain kinds of projects, certain kinds of ideas get me really excited. You know, everyone's got their own thing. For me, it's tinkering. It's figuring out
+
+[00:08:05.130] Speaker 1: what the rules are for a system and then breaking them or seeing just how far you can press them. It's... I am heavily motivated by curiosity. I'd say that's a driving force in my life and everything I'm interested in. The moment I feel like I know what's going to happen in whatever I'm doing, I'm no longer interested. I, I need that uncertainty to keep me going. So I kinda live, I try to live on the edge. [laughs] This sounds very exciting. We're talking about, like, writing stories here. [laughs] I'm not actually living on the edge. I'm not, like, a stunt driver or anything.
+
+[00:08:40.470] Speaker 1: Um, but I love that uncertainty. It's in- it's intoxicating to me. Uh, but also potential, right? Not just uncertainty in a terrible way. Is it gonna hurt a five or is it gonna hurt 10? Like, that's not exciting. Um, it has to be good.
+
+[00:08:54.070] Speaker 3: Yeah. So I'm gonna guess you're not the kinda person that likes to rewatch movies or TV shows that you've already seen.
+
+[00:09:00.630] Speaker 1: No. I hate that.
+
+[00:09:01.710] Speaker 3: Me too.
+
+[00:09:01.950] Speaker 1: I don't understand it. I never understood the people who did. Uh, I watch it once and I love it. Now, the very best, the very best I will watch again, but I will watch them again, like, a year or two later. Like, Scott Pilgrim vs. the World, okay, I've probably got five views on that.
+
+[00:09:17.330] Speaker 3: [laughs]
+
+[00:09:17.550] Speaker 1: And you're, like, top, top of the charts. Like, that's the most I will ever watch a favorite movie, which sounds crazy, but I would rather watch something new.
+
+[00:09:27.070] Speaker 3: Yeah, agreed. Me too. Although recently I, I have gone back and started watching things that I watched-
+
+[00:09:33.310] Speaker 1: Yeah
+
+[00:09:33.310] Speaker 3: ... about 10 years ago. And some of them I remember and I skip through those episodes.
+
+[00:09:37.870] Speaker 1: Yeah. I watch it, but what's funny is when I rewatch it, I watch it to find something new. Even then, I'm not just basking in what I already love. I'm still looking for the things I missed, and when I feel like there's nothing left there, uh, I'm out. [laughs]
+
+[00:09:54.170] Speaker 3: Yeah. Also, you're different. 10 years has passed. I'm different.
+
+[00:09:58.410] Speaker 1: Mm-hmm.
+
+[00:09:58.910] Speaker 3: And I see things and find m- meaning in a different way from, from it than I did 10 years ago when I didn't-
+
+[00:10:06.170] Speaker 1: Yeah
+
+[00:10:06.170] Speaker 3: ... really... You know, I never liked Star Trek: Enterprise.
+
+[00:10:09.770] Speaker 1: Mm-hmm.
+
+[00:10:10.250] Speaker 3: You know the one with Scott Bakula?
+
+[00:10:12.490] Speaker 1: Yeah, I know what you're talking about.
+
+[00:10:14.270] Speaker 3: S- I watched maybe three episodes and said, "This sucked," and I hated-
+
+[00:10:17.370] Speaker 1: [laughs]
+
+[00:10:17.970] Speaker 3: ... Jolene Blalock. Uh, well, I... Not her, but her character, T'Pol.
+
+[00:10:23.750] Speaker 1: It's impersonal.
+
+[00:10:25.730] Speaker 3: Just recently have I gone back, 'cause I don't watch that much television, but I'll watch... I'll try... You know, I may watch one episode a night if I am really into the show, and I really am into... I really got into Enterprise and I came to really love the character of T'Pol, and I watched the thing from start to finish, and it's because I'm different.
+
+[00:10:46.370] Speaker 1: So what changed is you. It's like changing taste, right? You used to hate broccoli, now you love it, right? It's, you have to resample things because you change as a person. Yeah, that makes sense. [instrumental music]
+
+[00:11:04.390] Speaker 3: Pastor Ethan Cutter was wheeled down the hallway of the Advanced Clinic, the only such building in Last Respite, one of the three remaining human strongholds in the old Los Angeles area. It differed from the other clinics in Last Respite. Those were hot, cramped buildings packed with people too sick to cure, too injured to heal. If you went to a clinic, you usually went there to die. The Advanced Clinic, in stark contrast, was the pinnacle of human achievement. It was the place you went to become something greater. But like the other clinics, it was also
+
+[00:11:39.430] Speaker 3: a place you usually went to die. Ethan told himself he was prepared to die. He'd told everyone else that at every step along the way, but as they prepped him for surgery, he found that he was actually terrified. Maybe it wasn't too late to back out. Dr. Marie Singer glanced at a rapidly beeping machine.
+
+[00:12:00.630] Speaker 4: Your heart rate's rising.
+
+[00:12:02.830] Speaker 5: What can I expect here, Doc?
+
+[00:12:04.870] Speaker 3: She smiled reassuringly and held his hand as they wheeled his gurney toward the operating room.
+
+[00:12:10.402] Speaker 4: This will be easier than any of your training until now. This next step is on us. We'll take good care of you
+
+[00:12:19.022] Speaker 1: Just like they'd taken care of the first three candidates before him? The ones that had died on the operating room floor? He wasn't supposed to know about that.
+
+[00:12:32.662] Speaker 6: What is Collected Stories?
+
+[00:12:34.222] Speaker 1: So, uh, straight off the marketing, Collective is a immersive audio platform. And what does that mean exactly? It's... These are just... It's like an audiobook with sound effects, a full team of voice actors, music, visual art, right? It's everything I could throw in there that makes it feel like you're actually there, right? It's like a TV show with the picture turned off, right? That's what I'm trying to do. But there's a narrator. That's, that's the trick, right? I throw that in there. Um, so it is those stories. Right now it's a podcast, uh, because I am in the trenches. Like, I am building this thing
+
+[00:13:09.222] Speaker 1: and getting practice, and it's a podcast just so I can get it out there. Uh, but eventually it's a subscription service, right? So sometime early next year. Um, it's not just art to me, it's business. Um, so early next year the business really starts. Um, yeah, so monthly subscription. I'm gonna bring in authors and voice actors and artists and composers from everywhere. Um, so that is what it is, is these stories delivered to you weekly, kind of like a TV show almost, dropping into an RSS feed. But really, that's just, like, what it is. The reason
+
+[00:13:44.182] Speaker 1: behind it is so much more to me, and I find myself more and more motivated by the why, that second reason, not just making the art, but the purpose for the art. I find more and more my motivation is coming from that why, rather than just self-gratification of making something cool. Now, I still feel that, and I still love it. I still love making the art. But now that it has a purpose beyond me, I'm that much more motivated.
+
+[00:14:11.662] Speaker 6: That's cool. Well, it's, it's pretty amazing. When we first met, when you said, uh, this is what you were doing, you know, my first impression was, uh, okay, put it on audible.com and somebody's reading a... It, it'll be like somebody reading a book. But it's not that at all. It's extremely compelling. The stories are really good, and the production is, is very good, too.
+
+[00:14:34.162] Speaker 1: Always improving.
+
+[00:14:35.622] Speaker 6: Yeah, man. When you and I first met, it was just you, but you have grown this into, you, like you said, you hire voice act- You hire actors-
+
+[00:14:45.742] Speaker 1: Yeah
+
+[00:14:45.742] Speaker 6: ... and you are adding sound effects and layered textures and narration. I very much enjoy listening. I get into this stuff.
+
+[00:14:56.462] Speaker 1: Yeah, it started as a theory, and most people have that reaction, by the way. Eh, it's an audiobook, right? What do I get? And so some people know what an audio drama is. They may remember the old radio dramas or know of them, right? It is... I describe this as halfway between an audiobook and an audio drama. I am so excited about this format, totally independent what if I'm doing. I really hope it takes off. Like, totally separate from me, other people go off and make this, because I think it really has potential. It is just so, so cool. It offers something that none of the other mediums offer.
+
+[00:15:31.702] Speaker 1: I can get into that. I can geek out on that. But ultimately, that's part of what motivates me, is I think there's something here. It's not something I made. It has a life of its own. It is an opportunity in the world, uh, that has already existed. It was already there. I'm just somebody who stumbled on it, right? I'm not even the first person to stumble upon this idea. I'm just the first person to take it and use it in this way for a subscription business, right? Um.
+
+[00:16:00.182] Speaker 6: What's also cool is you do it all by yourself.
+
+[00:16:02.742] Speaker 1: [laughs] Yeah.
+
+[00:16:03.782] Speaker 6: But, but at, uh, y- at least you're doing it right now by design. Other companies that are, uh, what did you say? Uh, GraphicAudio? They have a huge budget and lots of people working on it. Why did you decide to work on this and do all the recording and editing and marketing and everything all by yourself?
+
+[00:16:24.322] Speaker 1: First of all, yeah, GraphicAudio is probably my closest competitor, right, in format. And huge props to those people. I love their productions. I think it is so cool. Like, I'm not trying to put them down at all. I see really no competition there. That's an illusion. Uh, but yes, at face value, it looks like competition. But yeah, they have big teams, big production, right? Compared to me, right? It's all relative. Um, the reason I chose to do it alone, and I've been at this for eight months, everything except the writing, right? I've been writing for 16 years, uh, but not ever
+
+[00:16:58.942] Speaker 1: professionally. So eight months on this skill set. Yes, I do the narration, I do the sound design, I do the directing, I do everything. Everything which is not the voice acting, uh, and the visual art and the music composing. But even then, I went in there and I did most of the music myself. [laughs] And the reason I do all of this myself is because I have plans to eventually direct experts who are gonna be better than I ever could be at any of these skills, because it's the one thing they focus on. I know that's where I'm going, but I
+
+[00:17:33.962] Speaker 1: need to understand their problems. I need to understand how they think and what, how they build their part of the story. Once I become expert in each of these pieces, right? Some of them I care about more than others, to be frank. [laughs] Those are the ones I've outsourced already. But I just know that if I can master these skills to a sufficient degree, that when it comes time to tell them what I need from them, I know how to get the best out of them. I can direct this diverse team. I believe fundamentally that to be the best leader, you have to
+
+[00:18:08.862] Speaker 1: understand every single one of the people under you. You have to be able to do their job. Doesn't mean you have to be able to do it better than them- You shouldn't, otherwise it's kind of pointless, right? You could just do it yourself. I think that you need to understand their problems, and that's what I'm doing. I'm forcing myself to be in the thick of it so that when it comes time to start outsourcing sound design or mixing or whatever I'm doing, not only do I know their language, I know how to do their job. So first of all, it's way easier to hire and to-- you can never be BS'd by somebody because you know how to
+
+[00:18:43.826] Speaker 1: do it. Uh, so there's a lot of reasons to know this from a business perspective, but also I hate not understanding things. We talk about how I was mo-motivated by curiosity. I hate not understanding something and how it works, especially a thing that I'm building, right? I have to know how all the pieces work. I don't need to be the best at it, but that's how I feel. So I'm learning how all the pieces work, I guess is the fastest way to answer that.
+
+[00:19:11.206] Speaker 6: Yeah, that makes sense. Uh, you're acquiring skills that will make you a better leader and producer.
+
+[00:19:17.626] Speaker 1: Mm-hmm.
+
+[00:19:18.686] Speaker 6: You have a long-term vision for this. With everybody I've interviewed so far, there seems to be a pattern of pronouncing your intentions almost as if the pronouncement, it's a step that you can't skip.
+
+[00:19:32.666] Speaker 1: That is exactly right. Plans are pointless, but they are also essential. This is-- I think that there's a famous quote here that I'm not quite hitting, but you understand what I mean. There is something intoxicating about saying eight ball, corner pocket, and then lining up the shot and then sinking it, right? It is the intention to go somewhere that matters. That clarity resolves your entire path for you. You know what to do from that point forward. The point of the goal is not to be right at the outset. Ten years from now, here's where I'm gonna be no matter what.
+
+[00:20:07.666] Speaker 1: That's not important. It's actually not even important that I reach that point, because there's a ninety-nine percent chance I'm gonna move that goalpost to somewhere else for a lot of good reasons, not just bad reasons. Like, oh, turns out that's actually not what I wanted, or this wasn't the best way to get there. The point of putting that goal there is to give yourself certainty. It is, it is critical to motivation, is, is the shortest way of saying that. And there's something about setting an ambitious goal and knowing that you will reach it
+
+[00:20:43.126] Speaker 1: that is just so intoxicating. It has a motivation of its own. Um, and it, I think is an important part of any plan. You can't simply do it. You can't just sit down and go, "I could have sat down and said, 'Eh, I'm gonna make some audio stories. That sounds like fun.'" Now, it's okay to start there to see if you're excited about it, right? That's actually the best place to start. Don't start by saying, "I'm gonna conquer the world with my audio stories. I'm gonna take over the whole market. I'm gonna put Audible out of business," right? You can't start with that. That's insanity. But you can start with, "Do I like this?" And then once you realize you like it, and once you realize this is a thing, I could do something with this,
+
+[00:21:18.146] Speaker 1: that's when you set your big, ambitious goal, right? And that, that's the right time to do it, and that's where I'm at. I have big, ambitious goals. I've made them very clear, and they are incredibly motivating.
+
+[00:21:31.386] Speaker 6: And you've told other people about them.
+
+[00:21:33.366] Speaker 1: Yeah. So that's essential. I have always wavered on should you tell people your goals or not, and this is a common, common mis-- uh, I guess a contentious topic. It depends. For me, action is so important. It is much more important for people to see me doing things and getting results than it is for me to tell them. And I get this gross feeling like, "I'm gonna do this. I'm gonna be great," because it just feels like empty promises. So the reason I like to not tell people my goals is 'cause I want them
+
+[00:22:08.386] Speaker 1: to see what I'm doing and be shocked by it. Like, "What the heck is this guy up to?" Like, "How is he accomplishing all this," right? I want that. But at the same time, you need to tell people, uh, because otherwise they can't help you, but also because it reinforces your own identity. Uh, once you've made that part of your identity, like, you can't not do it. Like, it is as if it has almost happened. And once you get to that level of self-confidence, you know that you can say something, and you will either make it real or break in the process. Um, and then
+
+[00:22:43.346] Speaker 1: that's when your promises really have power over you, is when you know that, okay, I said I was gonna do it. I have a at least reasonable path to get there. I'm either gonna do it, or it's not possible.
+
+[00:22:56.146] Speaker 5: Sorry for the wait. It's a chore just to get up at my age.
+
+[00:23:00.486] Speaker 2: He turned and walked back into his office, leaving the door open for Ethan to follow him.
+
+[00:23:05.406] Speaker 5: I don't suppose you have that problem, do you?
+
+[00:23:08.326] Speaker 2: Negative. Ethan winced at his own words. I mean, no, sir. Archbishop Gabriel Klein collapsed into his large office chair behind his desk and gave Ethan an undisguised look of exhaustion.
+
+[00:23:24.206] Speaker 5: Do you sleep?
+
+[00:23:25.746] Speaker 2: Ethan moved into the room, ignoring the fourteen yellow warning marks that flashed around the room on his HUD, warning him of potential dangers like hidden weapons or secret entrances, never mind that this was the office of his commander.
+
+[00:23:40.006] Speaker 5: Sometimes. Not like I used to.
+
+[00:23:43.186] Speaker 2: The Archbishop motioned for him to have a seat. Ethan didn't know how to tell the man that he didn't need to, that his titanium joints experienced no strain from standing. That, and even if he did feel discomfort, he could simply turn it off.
+
+[00:23:57.786] Speaker 5: Please, sit.
+
+[00:23:59.946] Speaker 2: Yes, sir. Ethan sat down without even considering it. That unnerved him. Had he chosen to sit? More importantly, could he have chosen not to?
+
+[00:24:13.506] Speaker 6: You're a member of a few accountability groups.
+
+[00:24:16.026] Speaker 1: Mm-hmm.
+
+[00:24:17.306] Speaker 6: Why, and what are they, and what do they do for you?
+
+[00:24:21.826] Speaker 1: So the foreword to that is If I look like I have it all figured out, that is an illusion. It is an illusion that anybody has it figured out, right? The metaphor is that it's a puzzle that can never be solved. Nobody can have all the pieces. It's not possible. What I mean figured out, I mean have it all, like no doubt as to what they're doing. No doubt fundamental, even the thing I just told you about the promise that I'm like, "I'm gonna hit this huge ambitious goal." Of course I have doubt about that. Of course I have doubt about every single thing I'm doing. Now, to varying degrees.
+
+[00:24:57.614] Speaker 1: Nobody has it all figured out. So that's the, the preamble to this. Uh, the second part is that I have a long, long series of starting and giving up on projects.
+
+[00:25:10.954] Speaker 6: Oh, really?
+
+[00:25:11.714] Speaker 1: For the past, ooh, ooh, forever. For the past forever. Uh, so it's the same pattern over and over again. Every few months, new fascination, way into this, start to get self-doubt, right? Crash and burn. It's just slow, slow anxiety creeping in. Can I do this? Is this gonna work? Do I really want to do this? That's the real kicker. Do I want to do this anymore, right? It always erodes it, and I move on to the next thing. This time is different, and the reason this time is different is
+
+[00:25:46.714] Speaker 1: that for the first time in my life, I'm not going it alone on something very important to me, and that has made all the difference. So I am in accountability groups. I'm in an accountability group-
+
+[00:26:01.014] Speaker 6: With me
+
+[00:26:01.254] Speaker 1: ... I'm in... For creatives, yeah, I'm in your accountability group.
+
+[00:26:03.934] Speaker 6: We're in a couple cre- accountability groups.
+
+[00:26:04.954] Speaker 1: I'm in an account- a goal-setting and accountability group on a weekly basis. I am in a business accountability group. I have a creativity coach. I have a productivity coach. I have a health and wellness doctor expert, right? I, I have a psychiatrist. I have surrounded myself with so many people that I cannot possibly fail. In fact, I actually promised myself yesterday I would remove the F-word from my, uh, vocabulary, uh, because it's not useful to me anymore. Uh, so I'm going to, I'm gonna stop using it from this point forward.
+
+[00:26:40.654] Speaker 6: You and I are so much alike.
+
+[00:26:42.174] Speaker 1: [laughs] I cannot stop now, and that has made all the difference. And it sounds so crazy, but I have always had this feeling that if I didn't do it myself, it didn't count.
+
+[00:26:54.194] Speaker 6: Right.
+
+[00:26:54.294] Speaker 1: Which is absurd. It was a complete misconception. First of all, nobody ever does anything alone.
+
+[00:27:01.234] Speaker 6: Well, first of all, you are doing it all yourself.
+
+[00:27:04.234] Speaker 1: I'm doing the important parts, right? I'm-
+
+[00:27:06.414] Speaker 6: What you're getting help with is the m- is the mental stuff. There are things that I start and don't finish as well. Uh, uh, more than I care to-
+
+[00:27:16.514] Speaker 1: Mm-hmm
+
+[00:27:16.874] Speaker 6: ... admit. And I think, I wonder if there's a connection between that and not wanting, not going back and watching TV shows again. Because once you get into the grind, it's like, "Okay, I've done this before. It's not new." Even though you, you might have a plan, a long-term plan, when you get down to the daily, it's like sometimes it's often the same thing over and over. And I wonder if that's connected.
+
+[00:27:46.054] Speaker 1: So I've done a lot of soul searching on this, obviously. This moment happened to me, um, really early on in this process for this goal, right? Why is this time different? I had to ask myself that. I have stopped dozens of times on projects of this size. Why is this one different? And I just had this moment where I'm like, "I have the same pattern over and over and over again." Um, so part of it is ADHD, right? That's absolutely a part of it, and that's really just the same thing as normal human problems with a couple of the dials turned up,
+
+[00:28:21.034] Speaker 1: right? To varying degrees. One of those is novelty seeking. That is the desire, again, part of why I'm motivated by curiosity, is the desire for novelty, to see new things, to see, think you understand something, but instead get back a different result. The unexpected, right? Seeking that out, new experiences, more stimulation. So to some extent, once I've gotten to a point where I feel like I kinda get it, it makes sense that motivation would start to waver, and something else would start to look more interesting. It's always replaced by another project. So to some extent, it was that. Some of
+
+[00:28:56.014] Speaker 1: it is when you're by yourself, it is an echo chamber of your own thoughts and doubts. All you have coming back to you at some point is your own anxiety, bouncing off the walls over and over and over again until that's all you can hear. It doesn't matter how much you wanna do it anymore because you're just crushed by your own doubt. There's nobody to step in and say something, even if you know it to be true. This isn't about logic. It's about emotions. Even if you feel logically you know that this is possible, this thing you're trying to do, but by then it's too late. You just need somebody you care about who is at
+
+[00:29:30.914] Speaker 1: least a little bit invested in your work to say, "Oh, I think you can do this. Oh, well why don't you try this instead? Oh, I'm sorry you're feeling that way." Even just to be heard is often enough. Even just to speak to another person who you know sincerely wants the best for you, who actually wants you to succeed. Even that is enough. So I'll never go it alone again. It's the biggest change I've made, and it has been a monumental change. So I'm at eight months now, so significantly past my usual [laughs] breaking point. Um, and
+
+[00:30:05.914] Speaker 1: I am, if anything, more motivated than ever. So yesterday I had a meeting with, uh, two literary agents, right? So part of my growth strategy is to pull on established authors, borrow their audience, and get them onto my subscriber platform, right? It's not gonna work. Flat out, right? That talking to those two very incredible people, very knowledgeable. If anybody would know whether that would work or not, it's these people. They were rock stars, right? It's not gonna work. Now, they did validate my core premise, selling audio stories, immersive audio stories to people on a subscription does look like it has potential, right? Now, whether I can
+
+[00:30:40.826] Speaker 1: execute on that is totally separate, but the core thesis is intact. The growth strategy I had is not gonna work. It's just not gonna work for a lot of reasons I won't go into. It hurt. That was the kind of event which would have crippled me in the past. That's the beginning of a downward spiral. But I have surrounded-
+
+[00:30:58.146] Speaker 6: Why did it hurt?
+
+[00:30:59.206] Speaker 1: Hmm?
+
+[00:30:59.766] Speaker 6: Why did it hurt?
+
+[00:31:01.566] Speaker 1: It hurt because I had a theory about how the world worked, and I had a path that would get me there, that I had invested a lot of time and emotion into, that I had a lot of m- mental momentum and emotional momentum, like, "This is where I'm going," right? You tell yourself, "This is where I'm going," every day when you wake up, and you're excited about it, and then somebody who you absolutely should believe tells you it's not going to work for a lot of very good reasons that actually make sense to you. You should take... The, the sane thing to do is to tear it down, right? Some progress is destructive. I told my productivity
+
+[00:31:36.546] Speaker 1: coach this yesterday. Again, surround yourself with people. Don't go alone. I told my productivity coach this yesterday, some progress is destructive. And while I know that, the... it would have been completely foolish to keep going down this path because it is not going to work. Even if it did, it would work so little for the amount of effort invested, it doesn't make sense. What makes sense is to take all the pieces, build a new plan, get a v- get invested in that new plan, and try again. You know, that one might work a little bit, it might work a lot, it might work not at all, and I have to tear it down and make a new one.
+
+[00:32:13.286] Speaker 1: That hurts, but it's not going to stop me, and that was not true until 32 years old. So... And the difference is I have surrounded myself with people who care whether it works to some extent or another, and I can't let them down. Uh, and they, all they do is they just step in and they just tell me one simple truth that I already know is true. I know I, I could do this if I were a robot that I could program. Robot Steve would have no problem following the new path, right? No
+
+[00:32:48.166] Speaker 1: emotions invested in it at all. But I'm not that person, and even hearing the truth come from a neutral party, that's enough. Totally dispels the anxiety. Like, "Okay, onto the next thing. No big deal."
+
+[00:33:00.106] Speaker 6: Awesome.
+
+[00:33:01.466] Speaker 1: Yep.
+
+[00:33:01.786] Speaker 6: Awesome. Well, just to be clear, you're not talking about scrapping the idea. You're talking about-
+
+[00:33:10.126] Speaker 1: No
+
+[00:33:10.126] Speaker 6: ... keeping the idea and just changing your plan.
+
+[00:33:13.266] Speaker 1: Exactly. This is all about my growth strategy. How do you go from, you know, whatever, a couple hundred, uh, unpaying listeners to a couple thousand paying listeners to a couple hundred thousand paying listeners to a couple million paying listeners, right? That strategy, my initial foray, the, the shot I took, it missed. Like, oh, okay. [laughs] So the right thing to do is to take a different position and take another shot, uh, which is what I'm going to do. Um, so no, the core premise is exactly the same. What I'm
+
+[00:33:48.306] Speaker 1: building, the goal is the same. The goal hasn't even changed, but the route to the goal has fundamentally changed, and that's okay. It hurts a little to have that broken down and to have to start over again with a new plan, but that's just how it is. That is this business.
+
+[00:34:02.706] Speaker 6: What does that say about your mindset?
+
+[00:34:04.126] Speaker 1: [laughs] That I've grown a lot. [laughs]
+
+[00:34:08.686] Speaker 6: Yeah?
+
+[00:34:09.306] Speaker 1: That the fact that something doesn't work is not a reflection of me. It's got nothing to do with me. To the extent that I have succeeded more is the more I am a... is the amount, relative to the amount I have pulled my ego out of what I'm doing. What I'm doing is not mine. It's just the way the world works. It's a combination of e- economics and human psychology and fundamental rules of the universe whether a business idea will work or not. You could swap me out with another person trying to do the same thing, and it should work, right?
+
+[00:34:44.466] Speaker 1: It's not mine. It's not me. Now, I have my own approach. I'm my own person who brings my own skill set, right? All of that changes it, for sure. But there's nothing special about me that makes this work. I am just... This is a, this is just a dig. I'm just trying to find something that is true and utilize it. Uh, it has nothing to do with me as a person. It's not a reflection of me if it doesn't work. It may be a reflection of my skill set, where I am, whether I can make it work or not, but it's not a reflection of me as a person, and I don't judge myself for it anymore, and that has helped a lot.
+
+[00:35:22.366] Speaker 6: Well, you seem to be learning a lot.
+
+[00:35:24.426] Speaker 1: [laughs] Yeah. Always better, right?
+
+[00:35:26.666] Speaker 6: Yeah, right.
+
+[00:35:27.866] Speaker 1: I was thinking about this when you asked earlier. I've been at this for a long time now, making stories, producing them into audio stories, and the way I got better was by, I don't wanna say not caring about the quality, but caring about the velocity and not the position. To get into a physics term, the position is totally irrelevant except for the fact that I need it to be at a certain position to be, to reach my goals, right? That's the only reason I care.
+
+[00:35:58.326] Speaker 6: Sure.
+
+[00:35:58.766] Speaker 1: When I say position, I mean a quantitative measure of skill. Can I produce the thing I need to produce in whatever skill? I have focused only on quantity produced. How much can I make, and am I improving? I don't care how bad I am. I do not care how bad I am at all. Am I improving? And I fixated on that, and that made all the difference. I stopped caring whether it was bad right now, and I cared only about is it getting better, am I making enough?
+
+[00:36:32.606] Speaker 6: So you dropped your perfectionism in order to reach new heights as far as skill?
+
+[00:36:40.578] Speaker 1: Yes, but perfectionism even is too simple because it, perfectionism implies that I think it could be perfect if I spend enough time on it. I don't even believe that anymore. I believe I have a, I have a fixed ceiling on what I can produce with my current skill level. Now, the skill level can increase, which means the ceiling can go up, but it does not make sense to try and push the ceiling higher from where I am. I need to practice to raise the ceiling. It doesn't make sense to just work, bash myself against this project over and over and over again because that is not going to improve me. What I need to
+
+[00:37:15.538] Speaker 1: do is get it out into the world, learn from it, get feedback, whether that's my own feedback or somebody else's, learn from it, and take that into the next project, and then make that one better. Because now my ceiling is higher, what is the point of spending 10 times longer on this thing when I'm hitting against the same ceiling, when I could just raise the ceiling? So I have fixated on raising the ceiling of what I can produce rather than trying to make it the best it can possibly be. Because I have seen more gains faster, paradoxically, by caring about the quality of the work. Like, I am trying to push myself,
+
+[00:37:50.558] Speaker 1: but the moment I feel like I start hitting that skill ceiling, I'm getting diminishing returns. Like, yeah, okay, I could spend 10 more hours on this sound effect to get it perfect, but am I going to learn from that? Or will I learn from making 100 more sound effects like it in that amount of time? The answer is obviously the second one, and I have grown so much faster because of it.
+
+[00:38:11.238] Speaker 6: So what you're interested in is seeing a progress growth as far as skills. You're comparing yourself, your current self, against your skill level last week or last month, and as long as the graph is up, then-
+
+[00:38:24.998] Speaker 1: Mm-hmm
+
+[00:38:25.298] Speaker 6: ... that's your goal.
+
+[00:38:26.938] Speaker 1: Yeah. I fundamentally value myself as a human being for whether I am on the path. It's a concept I came up with, like, I don't know how many years ago, seven or eight years ago in a journal. The path being a line that moves up and to the right. If I am improving as a person, and you kinda know whether you're improving or not, whether you've gone horizontal or down, you know pretty quickly whether you feel like you've ha- made progress lately. If I am making progress, I am satisfied with myself as a person. Now, I try to crank the knobs on that progress to try and improve as much as possible,
+
+[00:39:01.878] Speaker 1: but I don't value myself for how fast that goes. I value myself for am I sincerely trying to improve myself? If yes, and I am growing as a person in some way, we're good. That's all I ask of myself in life. Am I improving? Even a little bit, even a tiny, tiny, tiny bit, it counts. I call that being on the path. You're either off the path or on the path, and when you decide, when you realize you're off the path, all you have to do is say, "Okay, I'm back on the path now. I'm gonna go improve myself again." Because sometimes you don't want to improve because it hurts.
+
+[00:39:36.938] Speaker 6: That's cool. Um, I call it forward movement. It helps me sometimes to create a phrase like that. Forward movement is, I call it that because it's meaningful for me.
+
+[00:39:47.078] Speaker 1: Mm-hmm.
+
+[00:39:47.098] Speaker 6: But if it's not meaningful for somebody else, then they can find their own phrase-
+
+[00:39:51.378] Speaker 1: Yeah, sure, make your own thing
+
+[00:39:52.158] Speaker 6: ... and make it, yeah
+
+[00:39:52.458] Speaker 1: But that's like the ultimate gut check. When everything is crazy, everything is going wrong, nothing seems to be going my way, am I on the path?
+
+[00:40:00.798] Speaker 6: Yeah.
+
+[00:40:00.898] Speaker 1: Yes or no. It's binary. If yes, I'm doing the right thing. It literally does not matter what I'm doing or whether it works or not because I'm doing the right thing. If no, that's the only way I could be doing the wrong thing. I could be making a billion dollars a year and not being improving myself, and I'm doing the wrong thing. That's how I feel.
+
+[00:40:17.878] Speaker 6: And you don't mean in a narcissistic way. You mean in a healthy way.
+
+[00:40:22.538] Speaker 1: Yes, absolutely, but because to improve myself in a narcissistic way would not be improvement. So it would be, because that's not what I value. That's not who I want to be, and I would not consider that improvement. I would consider that an illusion, and that would be false, and I would not be improving.
+
+[00:40:48.078] Speaker 3: You, you, you let it out?
+
+[00:40:50.438] Speaker 2: He only has access to 30% of the designed weapon systems.
+
+[00:40:54.858] Speaker 3: It's an abomination. Who knows what the Japanese hid in that tech?
+
+[00:41:00.357] Speaker 2: Gabriel ignored both lines of argument. This wasn't about public safety or blasphemy or espionage. What would the now deceased Japanese research team hide anyway? Professor Saitama had been honorable and faithful to their shared cause until the very end. Gabriel felt that it was sometimes better to let a friend stab you in the back, to fully trust some people, and simply hope for the best. Lucius was not one of those people.
+
+[00:41:33.038] Speaker 6: You're talking about improving your skills. What specific skills are you talking about for Collected Stories?
+
+[00:41:40.858] Speaker 1: So I have them listed. Um, I'm maniacal about this. Uh, I have become that. I don't start this way. I feel like I really need to hone in on that point. I did not start this way. I decided to become this way, and it didn't happen overnight. It happened in fits and spurts, and it was slow and winding. That's how I got here. I have a list of the skills I want to master and to what level I want to get to them in. I have a list of the things I need to get good at and then immediately get rid of because I don't want to be good at them. I have an order in which I want to get rid of the skills.
+
+[00:42:15.938] Speaker 1: So in short, they are narration. I need to get roughly to an 8 out of 10, a 10 being world-class. Uh, so an 8 is very-
+
+[00:42:22.838] Speaker 6: You mean your performance?
+
+[00:42:24.278] Speaker 1: Yes. So 8 being very good because that is what I need to beli- that is what I believe I need to be at to convincingly sell stories, right? That doesn't mean I'm always gonna be the narrator. That is good enough to me. Writing, roughly 8 or 9 out of 10. You see a common trend here. Sound design, because that's right at the point of diminishing returns. The difference between an 8 and a 10, most people will never notice. Only the, the biggest- Only the people who truly understand the craft will know the difference at that level. It's such fine-grained details. You can hit the high notes. You, you're gonna get 90% of the results.
+
+[00:42:59.548] Speaker 1: Yes, the best in the world will be able to outdo you, and yes, some people will notice on a subconscious level what is truly master class and what isn't. But you just need to get to a point where you can sell. I say you, as in me, because this is... It all comes back to where my goals come from. I know what I need to do, and from that, all other choices become clear. Now that I know what I need to do, what skills do I need to get there? I literally wrote them all out. Okay, now which ones do I actually want to be good at? And so I very quickly crossed out the ones I didn't wanna do. I don't wanna be an actor. I don't wanna be an actor. It doesn't motivate me. I don't care about that.
+
+[00:43:34.588] Speaker 1: And ultimately, I don't wanna be the editor. I don't wanna do the mixing. Uh, there's a lot of things I don't wanna be great at, but there are things I do want to be great at, even if I do eventually outsource them. And primarily because I love it, and because I love it, I know I will be great at it if I continue to put in the time.
+
+[00:43:49.948] Speaker 6: What are those things that you wanna be great at?
+
+[00:43:51.948] Speaker 1: Uh, sound design, narration, writing. There are some that I want to be good at, and there's a lot of those.
+
+[00:43:59.988] Speaker 6: What are some things you wanna be good at?
+
+[00:44:02.908] Speaker 1: Mixing, editing, directing. Um, I need to be slightly better at drawing. I need to be good enough at music composing, uh, and production in order to be able to guide the people under me, and to be able to talk what they talk, uh, in an intelligent way to get the best out of them. So those are all... I need to be able to do everything on the team, for the most part, uh, to at least an adequate degree. But the three things I'm going to be great at are narration, writing, sound design. Now, narration of those three is the one I care the least about.
+
+[00:44:38.308] Speaker 1: And that may sound bizarre, but I, I believe that the writing is the most important. If that foundation is not good, nothing else matters. Fantas- fantastic sound design and acting on top of crappy writing, literally nobody gonna care, right? Sound design is right after that. It's so important to the immersion of the story. Narration, as long as I am convincing, I care less about the perfectionism there. It just has to be good enough that you don't notice me. I want to fall into the background to the point where the narrator becomes immersive, essentially, to the
+
+[00:45:13.188] Speaker 1: point where I'm just telling you what is happening and you don't hear my voice anymore. You just see the story that is unfolding in your imagination. That's the point I need to get to. I don't need to get to the point where you're like, "Wow, this guy's a great narrator." I don't care about that. I just need to get to the point where I fall away. You don't notice what I'm saying anymore. Like, "Eh, that sounded weird," or, "That sounded stupid," or, "That was bad acting." Once I get past that point, it's good enough, right? The writing and sound design needs to be a little bit higher.
+
+[00:45:43.328] Speaker 6: Well, the stories are really great, and you a- actually, you have rules for your stories, right?
+
+[00:45:50.008] Speaker 1: I do.
+
+[00:45:50.148] Speaker 6: Even though they're, they're multi-part stories, right? They're like four, five, or six, or 12 parts, but that's it. And then there's another story, and then there's another story.
+
+[00:46:02.208] Speaker 1: Mm-hmm.
+
+[00:46:02.928] Speaker 6: But, but you said you wrote down rules for your world-
+
+[00:46:06.748] Speaker 1: Yeah, and-
+
+[00:46:07.548] Speaker 6: ... that all of the stories have to, uh, live by.
+
+[00:46:11.328] Speaker 1: Yes, I do have rules. So I have a theory as to what makes a satisfying story in this format, and this is why I'm... One of the reasons I'm so excited beyond just the format. Okay, so it's immersive audio story. It's cool. Yeah, whatever, right? Anyone can do it, right? There's not that much bar of a competition. Anyone can learn how to do the sound design and the voice acting and all that, and the directing. They can put it together, right? This isn't rocket science. People can figure this out, and they have figured out in the past. So what makes me special then, right? What do I have over Graphic Audio or any of these Audible originals or audio dramas that are coming out? And I think that there are
+
+[00:46:46.048] Speaker 1: layers on top of this that in time are going to make the difference. At first, I need to make the core product good, right? The stories. Beyond that, I have a, a set of codified rules for what I think every story I make and every story that I involve other people in, these are the rules they need to play by. I have a very strict rule book as to what makes a good story in this format, because this format is more than just immersive audio. It has a set of rules too. So some of them are things like, just to make it concrete, have characters that are flawed but not stupid, are self-aware and motivated enough to
+
+[00:47:21.028] Speaker 1: not frustrate the reader. And that sounds simple, but how many books and how many times have you been frustrated by a character that has an own goal, right? It's a typical romance plot where they both misunderstand something, and then they go off, and it's totally contrived. You know, like, this is so stupid. If they would literally have a one-minute conversation, they could resolve this in a second. Nah, I'm not doing that. If they have pro- Now, that doesn't mean that two people can't come to, in conflict with each other. They will. But if they do, it's for reasons that make sense to you. In fact, that is because the next rule is most conflict comes from hard choices, opposing but plausible
+
+[00:47:55.328] Speaker 1: worldviews or forces of nature, not own goals or deus ex machina. All right, so it's these kinds of rules, and I've got a lot of them. Um-
+
+[00:48:04.048] Speaker 6: Did you make them up yourself or...?
+
+[00:48:06.288] Speaker 1: Yeah, I mean, but the, everything is derived from something else. But yes. Uh, but yes, these are rules that I, I have codified, and every story I write will follow these rules to the T.
+
+[00:48:16.328] Speaker 6: Why? Why do you have rules that all your stories have to adhere to?
+
+[00:48:21.408] Speaker 1: Yeah, that's what it is, and it's... This kind of structure seems imposing. Like, okay, great, so anyone I ask has to follow all this huge list of rules? Like, that's kind of ridiculous. But I have learned more and more that the structure sets you free. Because the very last rule is, and everything else is pure potential. Because human beings, the way our brains work, we do horrible in a vacuum. Limitless possibility is the worst possible thing you could do to creativity. It sounds insane to say that, but the moment you start adding structure, if you
+
+[00:48:56.280] Speaker 1: give somebody a blank canvas and like a marker and you say, make something wonderful, they're going to be like, I don't know what to do. But if they're like, you have to do this, this, this, and this, you can only use these colors. You can only use these shapes. Now watch them go and they'll just go right into the task. It's crazy. Too much ambiguity is bad. So all of these rules pin you in. Now they pin you in in such a way that anything inside these bounds, inside these boundaries is going to be a good story, right? And there's so much space left here for potential. It doesn't even matter. There's infinite stories still within this space to get mathematical.
+
+[00:49:31.860] Speaker 6: Well, there are only eight notes on the piano.
+
+[00:49:35.060] Speaker 1: Yes, yes. Yeah, you're right. That's a great point. Exactly like that. The structure sets you free. So I'm pinning you into a specific kind of structure. And I think that something else that I'm excited about is how can I make that even cooler? How can I make this not like a top-down thing where I'm hitting people over the head with, oh, you forgot rule number seven here? And the way I did that is that part of my story world, my story world, which is going to be our story world, is a community-driven multiverse, which I've called the Eternium. And this
+
+[00:50:10.060] Speaker 1: is a very fancy way of saying that if you make a story on our platform, it isn't just a story. It's a story world. And that world is an actual place in the canon. All of these stories are in the world. So as long as it meets these bars, as long as it passes all these rules in some editorial process, right? That's TBD. It's canon. Your story world lives next to mine. And while they have some method of interacting, and we won't get into that, because they follow all the rules, they fit into our world. Furthermore, there is like a pantheon of gods
+
+[00:50:44.960] Speaker 1: above all of this. And those are the creatures, the intelligent, sometimes malevolent forces that are enforcing all these rules. The reason that only these worlds can exist in this multiverse is because every single one of these rules is personified by some, you know, sometimes malevolent deity who wants this thing, right? There's the revealers, one of the main gods, like goddesses. She wants basically to reveal secrets. And that motivation causes you to have stories which feed the reader mysteries, but slowly
+
+[00:51:19.900] Speaker 1: unveil them, right? You don't have, and this is to prevent you from doing things like loose threads, loose plot lines, having no mystery, right? I'm just codifying what is already a common story trope. You hint at something weird, like you tease some readers with some mystery, and then later you pay them off, right? You pay back that debt. All I'm doing is taking that rule and I'm making even the rules themselves part of the story world. So, you know, that part's an experiment. We'll see if it works. But I feel like that turns something which would be annoying to anybody working with me into something,
+
+[00:51:54.940] Speaker 1: okay, cool. Now I can use this. Now these rules are actual characters and these characters come into conflict with each other. And I can use that in my story. That gets me excited.
+
+[00:52:08.000] Speaker 5: Good evening, Francesca. Something on my face? No, sir. I'm just about to sit down to dinner. Come on in.
+
+[00:52:20.300] Speaker 1: She hesitated at the doorway. Was that an invitation or a dismissal?
+
+[00:52:26.120] Speaker 5: Seriously, come in. It's okay to let your hair down.
+
+[00:52:29.940] Speaker 1: Fran moved to see if her hood was still up. Yes, it was. Should she let her hair down? Why was that important? The archbishop shook his head and smiled warmly at her. So she took that as an invitation and closed the door behind her. She stopped trying to read the man's expression and got right down to business, where she was most comfortable.
+
+[00:52:52.340] Speaker 5: I found another file in Saitama's data dump. You're gonna wanna see this.
+
+[00:52:57.240] Speaker 1: She walked over to where Gabriel sat at his desk and set her tablet down in front of him. Fran swiped through the blueprints, stopping on the artist's impression of the final product, which was incredibly dramatic. Gabriel stopped chewing, his eyes opened wide.
+
+[00:53:15.160] Speaker 5: How would we even build something like that? We can't. It's as tall as a building. It looks like it's straight out of an anime.
+
+[00:53:24.620] Speaker 1: Fran nodded enthusiastically. They had maybe 10% of the materials needed to construct it. Not that they would even try. It would be an egregious waste of resources. There was a reason tanks didn't have legs. It was simply impractical. Gabriel scratched his chin thoughtfully.
+
+[00:53:42.700] Speaker 5: Maybe we could make a smaller one.
+
+[00:53:48.100] Speaker 6: Tell me about Mortal Steel.
+
+[00:53:49.740] Speaker 1: So that is the show I'm currently airing, right? This is the first full season. So for seven-ish months, all I did was write, produce stories for the Monopause podcast feed. Like I said, I was obsessed with quantity and progress. That's all that was. So my theory there, I had a second goal. My theory was I am building a backlog of content. Like I'm building the first two episodes of long form stories so that when I launch this thing, I'm not just going, can I write a new story? Can I keep them excited? Like I
+
+[00:54:24.640] Speaker 1: have this huge catalog of potential, right? Now I'm going to have to rework all of them, right? They're not ready. Mortal Steel was just one of the 12 stories that I released. So I basically, when I was ready to launch the first season, I'm like, okay, I'll pick from these 12 stories. Which one of these has the most potential? Not even that. For the very first one, I said to myself, which one will teach me the most? Which one am I the most excited about? Forget what anyone else wants. What am I the most excited about? Because if I'm excited about it, it's going to come through in my work. If I don't care, even if it's the best story I think to launch with from a business
+
+[00:54:59.184] Speaker 1: perspective, or even for reader interest, I knew that if I loved it, it would be the best one. Uh, which is kind of counterintuitive. So Mortal Steel was that one. Uh, it's based on a short story I wrote a long time ago. It is a story, the tagline is, "Pastor Ethan Cutter, cyborg and ordained priest, has come to bring a little faith and justice to old Los Angeles. The ruins of old Los Angeles." And that's the tagline. So you kinda get it. It's been described as campy, and I don't pretend that it's the best thing ever. It's n- again, it's not about that. You already know what I value myself for.
+
+[00:55:34.244] Speaker 1: I value myself for making things as fast as possible and improving.
+
+[00:55:39.424] Speaker 3: It's not campy.
+
+[00:55:40.884] Speaker 1: Okay. [laughs]
+
+[00:55:41.464] Speaker 3: It's cool. Okay?
+
+[00:55:43.264] Speaker 1: It all depends on your perspective.
+
+[00:55:44.524] Speaker 3: Well, I mean, nothing is for everybody.
+
+[00:55:47.104] Speaker 1: Right. If you, if you think Die Hard is stupid, this is not for you. If you think Die Hard is awesome, this is for you, right? That's it. Like, I knew my audience, right? And that's what it is. If you think action movies are dumb, then this isn't for you. It's not just an action movie. I mean, it has real characters and real things are happening, and I treat it with... I give it both a head nod to I know this is dumb, but it's also cool. And, but also, like, hey, there's a real story here too. Uh, because, you know, you have to actually care about the characters. Um, so yeah, that's the story.
+
+[00:56:22.444] Speaker 1: Um, I, what I'm most excited about is not my story or what I wrote, it's the people who brought it to life. So there's a team of 10 voice actors. They're incredible. Uh, they really are, and these people are essentially volunteers, right? You know, they were paid a pittance more or less, and the promise of, "Ah, I promise there will be more stories [laughs] in the future. We're gonna make money eventually." Right? They were paid mostly on promises. Um, and they killed it. They really did. Um, it is incredible what you can get out of people who are motivated to help you with your cause. Not even because it's your cause. It has nothing to do with me.
+
+[00:56:57.784] Speaker 1: They are motivated to work on something cool, and that is what I focused on for this production, is how can I make this seem so cool that people would be dying to be a part of it? And that's what I did, and that's what worked. It had nothing to do with me.
+
+[00:57:13.644] Speaker 3: What was it like working with voice actors for the first time?
+
+[00:57:16.784] Speaker 1: It was initially terrifying. Uh, it is an entirely different skill set, learning how to direct people in a way that is both constructive. So all you theater people out here, you already get it. Like, you don't need... [laughs] You're not learning anything. Uh, but in a way that makes the performance better, and what your story needs most importantly. Better is like, you know, what does that mean? It fit... I tell every voice actor now at this point, there is a range for this character. There is a, a range of space where your performance makes sense narratively. Now,
+
+[00:57:51.804] Speaker 1: there's a lot of points in that space. You can lean on this part of the character, you can lean on that part of the character. You can come up with your own thing. That's fine, too. There's spaces I did not imagine for this character to behave. But it needs to fit within the narrative space of this character. There are ways to perform this character that are completely contrary to what is necessate- necessary for the plot and for the story and for their interactions with other characters. So you have to be in that space. It is my job to get you into that space, right? And to get the best out of you, right? Uh, there are better points in that space as well.
+
+[00:58:27.064] Speaker 1: My job is to make it so that you fit the character, your voice fits the character. Beyond that, the rest is your art. I'm not gonna micromanage you. I'm not gonna tell you how to do anything. Beyond, it needs to fit the story. And if it fits the story in a totally unexpected way, and by the way, it, multiple, even the main character, is totally unlike what I expected. Totally unlike how I wrote him. But it's awesome. And that's what matters. It's awesome. I didn't say, "You need to sound like this. You need to do this." In fact, all I did is I always say,
+
+[00:59:02.004] Speaker 1: "Hit me with your intuition first. I don't wanna tell you what it is. Let me tell you who they are, who they... where this character comes from, their purpose in the story, because you need to know what my end goal for the character is. As long as you get there, the rest is your art. I do not care." So that's my directing style now. I was absolutely terrified [laughs] and I probably made a lot of stupid decisions early on, where I was unwilling to push them into that space because I was, uh, not confident yet in my ability to do that, right? Because they know so much more about me, about this than me. They're actors, right? Uh, some of them are new, some of
+
+[00:59:36.964] Speaker 1: them are not new. They know what they're doing. And I w- this is, debut director. I do not know what I was doing. But when I showed up, and I got this advice from you, Tony. When I showed up, I opened with, "I have no idea what I am doing. Please give me feedback. That said, here's what I need you to do." [laughs] Right? I, I just flat out... I opened with, "I'm not pretending to be an expert here, so if I'm doing something dumb, tell me. Otherwise, this is what I need." Uh, and I think that made all the difference, and they were totally willing to correct me or to
+
+[01:00:11.764] Speaker 1: insist, um, and it made a big difference. We were teammates instead of a top-down thing.
+
+[01:00:17.764] Speaker 3: Mm-hmm.
+
+[01:00:18.184] Speaker 1: So now it's old hat, and now I can do it no problem.
+
+[01:00:21.884] Speaker 3: Awesome. How did the mechanics of it work, though?
+
+[01:00:24.904] Speaker 1: So for the recording?
+
+[01:00:26.364] Speaker 3: Yeah. So, um-
+
+[01:00:28.364] Speaker 1: Yeah
+
+[01:00:28.404] Speaker 3: ... did you get all the actors all in the same room, or did, you know?
+
+[01:00:32.224] Speaker 1: So I'm very open about this. Uh, the cost of producing Mortal Steel was $1,400, uh, approximately, right? Plus or minus some plugins and other software I'm forgetting.
+
+[01:00:42.184] Speaker 3: Not bad.
+
+[01:00:43.124] Speaker 1: Uh-
+
+[01:00:43.244] Speaker 3: How, how many episodes?
+
+[01:00:45.124] Speaker 1: 12.
+
+[01:00:45.984] Speaker 3: Okay.
+
+[01:00:46.384] Speaker 1: 25-minute episodes-
+
+[01:00:47.344] Speaker 3: Not bad
+
+[01:00:47.424] Speaker 1: ... with, you know, full design, sound design, music. Now, obviously I'm doing all the post-production myself beyond the art and the, the music. But- Still, 1,400 bucks ain't too shabby, and I know the next one, I know it could be cheaper too. I know how to make it cheaper.
+
+[01:01:02.824] Speaker 6: Mm-hmm.
+
+[01:01:02.964] Speaker 1: I'm not going to.
+
+[01:01:04.304] Speaker 6: But how did the actual mechanics of the-
+
+[01:01:06.564] Speaker 1: So the recording-
+
+[01:01:06.964] Speaker 6: ... uh, working with the actors go?
+
+[01:01:08.684] Speaker 1: Yeah, this is related. So we are recording asynchronously. What happens is I deliver the script, right? So I format the script. I give them the exact lines. They have a spreadsheet of all their lines, first of all, that's totally separate, just so they don't miss them. All the lines are individually labeled with numbers, IDs, in the order of appearance. Their character names are associated with them. So their job, say you have 12 lines in episode one, right? So we record it in four episode blocks at a time. All right, due date is next Wednesday. I want your four episodes worth of lines back in this Google Drive. So here's your folder.
+
+[01:01:44.124] Speaker 1: Here's, here's all the information about how you need to record and what the sound format is and all this. Here are the numbers of your lines and the line associated with it in parentheticals if it matters, right? You go off and do it, right? And you have the instruction that if you are in dialogue with another character, you listen to the dialogue line before yours if your, if their line is already in. If their line is not in, you get to set the pace for the dia- for the conversation, right? You record all your lines as if there were a phantom there talking to you, and then they listen to yours to make it flow. And it is shocking how good
+
+[01:02:19.044] Speaker 1: it is. Now, there are times when it comes off kind of flat.
+
+[01:02:21.864] Speaker 6: Oh, so you gave the recording... So if two people are in conversation-
+
+[01:02:24.964] Speaker 1: Mm-hmm
+
+[01:02:25.184] Speaker 6: ... person number one records their lines with gaps for c- for the other person's dialogue, and then you give that whole recording to the second actor?
+
+[01:02:35.964] Speaker 1: No, no, no.
+
+[01:02:36.204] Speaker 6: And the second actor responds to it?
+
+[01:02:37.604] Speaker 1: Even better than that. That's not streamlined enough. So what happens is they are responsible for chopping up their own clips. So one underscore 137 is this line. I want that clip, one underscore 137.wav, in my folder by this due date. And I have all of these individual Lego pieces that I can move around to change the timing of the dialogue. It's not one track. I asked, I ha- made an e- extra ask. You chop it up for me and organize it so that I can just assemble the pieces later. Uh, it's even better than that. Um, so yeah, they listen to the other dialogue clips before
+
+[01:03:12.484] Speaker 1: them so that if you pressed play, going all the way down, you would hear the episode, minus narration. So the whole show was recorded with 11 people talking to themselves in a closet, you know, or wherever their recording space is. No person talks to themselves live.
+
+[01:03:26.264] Speaker 6: Wow, so they were never in the same room.
+
+[01:03:28.404] Speaker 1: Nope. Not once did we ever talk together. And I mean, I challenge you to listen to it and see if you can tell. There are some times when it falls a little flat. It's, you know, comes with the territory. But that kept costs down.
+
+[01:03:41.264] Speaker 6: No, I thought it was great, you know?
+
+[01:03:42.684] Speaker 1: Yeah. So it works. Uh, and it's very important because it kept, from a business perspective, 'cause it keeps costs down. All of these people have day jobs, you know. They work in bars. They work retail. They work customer support. And some of them work overtime, right? They're busy, right? This is their passion. So when they're coming home at 11:00 and they have to get their voice lines in, the last thing you want to tell them is, "Hey, you have to be here at this time for two hours to record the two lines that you have in this episode." It's an ask too much. Right? I could do it, but then I would also need to pay them
+
+[01:04:17.524] Speaker 1: thousands of dollars, because it's no longer a passion thing. It's like a, you know, they're ma- they're here for a job. Um, which is fine, and I want to get to that point where I can do that. But when you're starting small and cheap, you have to get creative about solving the problems to get the cost down. So for reference, and I think I told you this, Tony, I read an article recently that described how to make an audio fiction podcast. And part of it, the last third, is talking about budget. And so they go through this whole step-by-step about how they produced their own show and what they did. Their budget, actual co- dollars spent,
+
+[01:04:52.524] Speaker 1: was $75,000. And they told you it could not be done for less than 50. And it c- should have taken them $125,000, but they were so proud of themselves for saving money. And it blew my mind. Now, I've listened to their show, and not to throw shade on other artists, it's not about that. This is about the business of what they're doing. For the output they got, just objectively speaking, it was worse than where I am now. And that's, it's sad. It's, it's not a good thing. This is not like, "Oh yeah, I'm flexing on you. I figured something out." This is
+
+[01:05:27.184] Speaker 1: sad because it deters other people from thinking they can make incredible things on a budget. And you can solve so much if you are willing to get creative and approach a problem with a solution mindset instead of giving up and paying people to solve it for you. You do not need an expert for everything. You can be that expert in short order. It's been, what, eight months? And I mean, it's at least convincing, right? I don't sound like a master in any of the things I'm doing, but I sound good enough to sell, or nearly so. And
+
+[01:06:02.324] Speaker 1: isn't that the bar?
+
+[01:06:03.184] Speaker 6: And you're learning.
+
+[01:06:03.224] Speaker 1: If that's not the bar, I don't know what is.
+
+[01:06:05.424] Speaker 6: And you're learning. You're striving to get better, but you understand getting better is a process.
+
+[01:06:10.724] Speaker 1: Yeah, you don't start ready, and you don't need to start with $100,000 to make something incredible. Just start doing it, and you will learn very quickly whether you need a real expert or not. And for almost everything, you do not. And when you do, at least you will walk into it knowing, like, okay, yeah, the experts really are worth the money on this one. Like, uh, yep, for sure. Like the guitar player I got for the intro and outro, I'm not gonna learn how to play guitar. I'm not gonna learn how to shred. Like [laughs] it's not worth it. I paid him $200 on Fiverr, and he was happy to do it for me in two days, right?
+
+[01:06:45.744] Speaker 1: They spent $3,500 on their composing and producing, 'cause they hired a professional composer and producer who was set up to charge that much. They did totally custom work. They didn't give them the freedom. They went top-down on everything. "This is exactly what I need." They went through a ton of takes. I trusted an expert to give me something good on their timeline. So by being way less needy about what I got in the end, "Give me something good. I don't care what it is. This is roughly what I want. Give it to me. Let's see what you can do." And for 200 bucks, this guy was able to do it, no problem, in his free time. Probably took, took him a couple hours. He was happy.
+
+[01:07:20.776] Speaker 1: I was happy. Nobody got hurt in the exchange.
+
+[01:07:23.796] Speaker 6: Hmm. I like that.
+
+[01:07:24.956] Speaker 1: Yes.
+
+[01:07:24.976] Speaker 6: Because he's the one composing the music, you wanted him to be moved by the story. I will tell you that I charge a lot more than that to do a show.
+
+[01:07:34.116] Speaker 1: Mm-hmm.
+
+[01:07:34.136] Speaker 6: You know?
+
+[01:07:34.816] Speaker 1: And there's nothing wrong with that. I'm not disparaging-
+
+[01:07:36.556] Speaker 6: There's nothing wrong with that
+
+[01:07:37.596] Speaker 1: ... paying professionals.
+
+[01:07:38.776] Speaker 6: But, yeah, you're talking about the level that you're at right now and your goals.
+
+[01:07:42.176] Speaker 1: Yeah.
+
+[01:07:42.556] Speaker 6: Um, I used to, when my daughter was growing up, I used to tell her, "Don't worry so much about school." That's not to say school isn't important, but it's to say you don't go to school because you already know the stuff.
+
+[01:07:55.856] Speaker 1: Yeah.
+
+[01:07:56.216] Speaker 6: You're there to learn what you don't know, and that's kind of beautiful to me. Your goal was to produce these things because you're going to school.
+
+[01:08:06.096] Speaker 1: Yeah.
+
+[01:08:06.236] Speaker 6: You are teaching yourself how to be a great producer.
+
+[01:08:10.056] Speaker 1: Exactly.
+
+[01:08:10.336] Speaker 6: You know, and one of the reasons, uh, one great reason why I really wanted to talk to you about your process and all of this is because if you think of the arch of... No, not, not an arc because an arc implies an up and a down. Let's say a curve. There's a tipping point in that curve. After the tipping point, there are people after the tipping point, Josh Whedon, um, Aaron Sorkin, you know, uh, big Broadway theaters.
+
+[01:08:44.116] Speaker 1: Mm-hmm.
+
+[01:08:44.456] Speaker 6: You are just before the curve. You are going around that curve-
+
+[01:08:50.216] Speaker 1: Mm-hmm
+
+[01:08:50.536] Speaker 6: ... and I caught you just before the curve, and the story where you're at right now is extremely intriguing because there are other people who are in the same place as you, just before the tipping point, just before the curve-
+
+[01:09:07.396] Speaker 1: Yeah
+
+[01:09:07.456] Speaker 6: ... and they give up.
+
+[01:09:08.436] Speaker 1: "Can I do this? Can I do this? Can I do this?" And then the wheels fall off. [laughs]
+
+[01:09:12.916] Speaker 6: Yeah, and instead of... But it, but here's the thing. Here's the difference, and here's what I love about you. If the wheels fall off, like you said about the literary agents-
+
+[01:09:23.276] Speaker 1: Mm-hmm
+
+[01:09:23.716] Speaker 6: ... the, the people you spoke to, the difference is when the wheels fall off, you say, "Okay, why did they fall off? Let me learn from that and put it back... Let me figure out how to put the wheels back on." And maybe the wheels-
+
+[01:09:36.116] Speaker 1: Yeah
+
+[01:09:36.136] Speaker 6: ... don't come on exactly the same way.
+
+[01:09:37.776] Speaker 1: Yeah. Yes
+
+[01:09:37.776] Speaker 6: ... maybe you have to take a different path, right?
+
+[01:09:40.336] Speaker 1: You're exactly right.
+
+[01:09:41.056] Speaker 6: And that's the difference.
+
+[01:09:42.956] Speaker 1: It can all be distilled down to this one reaction. When you get punched in the face, do you fall down and think to yourself, "I'm never gonna do that again. That hurt," or do you think, "I need to get better at avoiding getting punched in the face"?
+
+[01:09:58.656] Speaker 6: [laughs]
+
+[01:09:59.896] Speaker 1: Like, that is it. Everything... Now, there's a lot of ways to change a reaction. We talked about all that, surrounding yourself with people who can get you back up and get you better at dodging punches, right? But the, all of it is in a solution mindset. When I get hurt, do I think, "I'm gonna do less of that. That hurt," or do you think, "I can do this. I just need to figure out how to not get hurt again. Let's get better." Like, how do I get around this obstacle? And you have... And this isn't something that just happens to you, flip a switch one time and you're done. A solution mindset is something you will continually, continually, continually have to pound
+
+[01:10:34.716] Speaker 1: into yourself. When you get hit, you have to be thinking, "How do I get around this next time?" And it is very hard because your initial reaction, especially if this is new to you, is to think, "I never wanna do this again. I just got told no on that pitch. Well, screw that. I'm done with this." You may not say it in as many words. You may just think, "I don't wanna do this anymore. That felt bad. Let's do something else instead."
+
+[01:10:58.756] Speaker 6: Cool.
+
+[01:10:58.916] Speaker 1: But instead, you think, "Well, that hurt. There's probably something to learn here." And even if you're not ready to hear that right away, the next day when you wake up, you think, "Okay, what did I learn? How can I move forward?" It doesn't feel good. It never feels good to get punched, but [laughs] if you can continually improve, it'll happen less and less and to the point where you don't even feel it anymore. You know what's crazy, Tony? What's really crazy is one day you start waking up hoping you get punched because it means you're learning something.
+
+[01:11:31.096] Speaker 6: Mm-hmm.
+
+[01:11:31.156] Speaker 1: It means every time you do, you start craving it. You s- That's when you know, "Yeah, I'm gonna make it." And I haven't made it over the bend yet. I'm close, but I feel like when you start craving the knowledge, when you start wondering how you're wrong and actively seeking out, "I bet I'm wrong about this. I bet I'm wrong about this. How can I find out if I'm wrong about this?" Now, you might not be, and you might be right, and for once you're like, "Yay, I did it right. On to the next thing." But if you're wrong, like I was yesterday, I sought that out because I craved it. I wanted to know how I was going to fail, and I
+
+[01:12:06.136] Speaker 1: knew that when you start wanting to know how you're bad, you're w- not only willing to hear criticism, but you, you desire it because you want to succeed so much more than you want to not get punched in the face. When that, that scale tips, I feel like that's when you make it. Uh, we'll see, right? [laughs]
+
+[01:12:26.216] Speaker 6: Hmm. Yeah. We'll see.
+
+[01:12:26.776] Speaker 1: I'm not speaking from the top of a mountain. I'm speaking hopefully from the way up.
+
+[01:12:30.916] Speaker 6: Now, getting back to the way you, the mechanics of the way you recorded it.
+
+[01:12:36.036] Speaker 1: Mm-hmm.
+
+[01:12:36.136] Speaker 6: As a sound designer, I know that if you have all those little snippets, those clips of actors' lines, putting all that together is a nightmare.
+
+[01:12:48.196] Speaker 1: Mm-hmm.
+
+[01:12:48.416] Speaker 6: Uh, even if it's only 20 minutes.
+
+[01:12:50.676] Speaker 1: Hmm.
+
+[01:12:50.876] Speaker 6: Are you gonna do it that way again, or, or what did you learn from that experience?
+
+[01:12:55.736] Speaker 1: I knew that I had to do it. I knew that it was important to take a wrong step, even if it was inefficient. And a bad decision. I knew I needed to take action. I knew I needed voice actors. I knew I needed their clips. And this was the only way I could think of, of getting it on a reasonable timeframe in a way that let me accomplish all my other goals. So ultimately, I had to do it because I knew that it was o- I was gonna learn from it. I was gonna figure out whether this worked. Either it doesn't work, and I have to go do the hard
+
+[01:13:30.664] Speaker 1: way of scheduling everybody, getting them in the same room, whether virtual or not. All right? It gets a lot harder. I knew that I was more likely to fail by mulling on whether this was the right choice or not. I was more likely to fail because I did not take action, and I overthought it, and I gave up, and I did something else, than I was to fail if I did it wrong and it was hard work, uh, in order to make it work again. So the short answer is it took about six hours the first time. I measure every single step of my production, um, just to get more efficient.
+
+[01:14:05.904] Speaker 1: So the first time it took about six hours. The second time it took about two hours. It's not that hard. I have it down less than that now because I got good at it. Because like anything else, it's a skill, and like anything else, you can figure out how to do this. So now I have a way of recording my narration that makes it very simple. I literally just clap, and I say the numbers of the clips, because they're all numbered, right? Remember that? They're all numbered. I say, [claps] "48, 47, [laughs] 47, 48, 49." I sound insane, right? I'm just, I'm in character.
+
+[01:14:33.524] Speaker 6: No, that's called, that's slating. That's called slating.
+
+[01:14:36.504] Speaker 1: Yeah.
+
+[01:14:36.544] Speaker 6: You know the old movie, um, clappers?
+
+[01:14:39.624] Speaker 1: Mm-hmm. Yeah.
+
+[01:14:40.244] Speaker 6: They're a slate, and they would put the chalk and the scene number and stuff.
+
+[01:14:42.844] Speaker 1: Mm-hmm. Again, another idea that came from you. Uh, you, Tony's advice is great, everybody. Uh, so and then by threading it that way, um, he can't say it, but I can. Uh, so it made a huge difference, and I can do it. And yeah, there are some drawbacks, but there's a lot of upside for an independent producer. So don't be afraid to break the mold if it's forward progress, if you're gonna learn something. Worst case scenario, it failed miserably. I'd have to go back and do more takes. We schedule some point in the future where we can start recording episodes. It was recoverable. So I knew
+
+[01:15:17.824] Speaker 1: that I would learn something, and if it worked, it would make everything easier. I could have recording done in three weeks, and I don't have to do anything. I literally just directed them each for one session. I just ran through 10 lines or so for each character. We narrowed down their voice, and the rest was like, "Okay, have fun. See you later." And their clips just started showing up in the do- in the drive. Now, of course, I had to push people for deadlines and all that, like, but for the most part, these guys were professional guys and gals. They were all professionals. Like, it was shocking what a group of volunteers put together by themselves with nothing but a set of rules
+
+[01:15:52.864] Speaker 1: that I cooked up on the fly and motivation for a project, for a dream. It's shocking what you can accomplish.
+
+[01:16:00.904] Speaker 6: Thanks, Steven. Thank you very much for talking and sharing some of your experiences. If you were to give any advice, let's say there's somebody listening who is just before the tipping point, just before the curve, and their wheels fell off, what would you tell them?
+
+[01:16:17.704] Speaker 1: You have to know why you're doing what you're doing. Are you running away from something? Are you building something? And I had this realization talking to another person. Again, giving advice is a great way to learn about yourself. I realized that there is no right path in life, which is why I go back to my metaphor, the being on the path or off the path. It's not why it's more complicated. Is it the right path? There is no right path. There are aspects of your personality that you can emphasize. There are dreams, and all of them are valid. Some of them have trade-offs.
+
+[01:16:52.724] Speaker 1: Some of them have pros and cons. They all affect your life in some way. But once you've chosen one, understood that none of the other paths are better than this one, this thing you chose to make, which you believed so dearly, and up until this point, you're sitting there, you're looking at your car, all the wheels are off, to go back to that metaphor. You're thinking, "Do I want to put this back together? Do I want to get back together and try again, even though it hurts?" This path is not better than any other. Those other paths are not better than this one. Now, you may find out that you actually, truly do not enjoy this path.
+
+[01:17:27.744] Speaker 1: That's fine. Move on. Don't judge yourself for it like I used to. Don't judge yourself for it anymore. But if the thing is that you're just avoiding pain, know that all those paths have breakdowns on them too. There is no way to avoid this pain. So if this path truly isn't the right one, this project, this thing you're trying to build isn't the right one, that's okay. Move on. Don't put it back together. That doesn't make sense. But all of those paths are hard. If you're doing anything meaningful, every single one of them is hard, so you're not gonna be able to
+
+[01:18:02.764] Speaker 1: avoid pain, and none of them are better than this one. So you are probably better served, I got this advice recently, following a path and a bad goal to its completion than you are [laughs] attempting to make a new goal and giving up early. You will learn more following a bad path to its completion than you will learn from switching paths because one looks better than the other. That's what I'll say. So set a goal, reach it, and when you reach that goal, if you've decided it didn't give you the feeling you want, then move on.
+
+[01:18:36.224] Speaker 6: Nice. Thanks, man.
+
+[01:18:39.444] Speaker 1: Thank you, Tony. And one final pitch, uh, Tony is incredible. Uh, I have learned so, so much from him as a creative coach. It really is one of the reasons that I am still on the path for this goal and not on something else. Uh, and I'm not just, just trying to butter him up. It really is a fundamental piece of success. It doesn't have to be Tony, but it should be somebody. You should have somebody in your life who cares about what you're producing no matter how bad it is, somebody who will pat you on the back and say, "When's the next one?"
+
+[01:19:15.104] Speaker 1: That's what you need.
+
+[01:19:17.204] Speaker 6: Aw, thanks. I'm not sure I'm gonna include that, but

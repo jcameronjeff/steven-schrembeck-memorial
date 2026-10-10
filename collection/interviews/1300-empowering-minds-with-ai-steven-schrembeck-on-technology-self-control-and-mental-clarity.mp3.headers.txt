@@ -1,0 +1,34 @@
+HTTP/2 302 
+access-control-allow-headers: Origin, Content-Type, Accept, Authorization, Token
+access-control-allow-methods: GET, OPTIONS, POST
+access-control-allow-origin: *
+access-control-max-age: 604800
+content-type: text/html; charset=utf-8
+has-ads: 1
+location: https://dcs-spotify.megaphone.fm/APO3001745428.mp3?key=46a175fc2cf38e3aa09559e60984f22a&request_event_id=27cd3800-3049-4ba7-a568-a17368376c31&session_id=27cd3800-3049-4ba7-a568-a17368376c31&timetoken=1791660826_F4E6B1FB424BCE300260A7E1F075EC60
+date: Sat, 10 Oct 2026 17:33:46 GMT
+content-length: 278
+strict-transport-security: max-age=31536000
+x-content-type-options: nosniff
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+vary: Accept-Encoding
+server: envoy
+via: HTTP/2 edgeproxy, 1.1 google
+
+HTTP/2 200 
+accept-ranges: bytes
+content-type: audio/mpeg
+x-megaphone-payload: 5ba7a338-b050-11f1-82ca-7b74a6b58cb7#21031782,741e5b5c-4efb-11f1-bb46-cb8b9ee74be1#21512852,062295ee-bb5e-11f1-9693-1be4dbd75d08#27172435@f869e398-9dc4-11ef-b8c4-d70ffa004c08
+x-megaphone-payload-2: 5ba7a338-b050-11f1-82ca-7b74a6b58cb7#563904#pre#1#82835#5c0bb6a6-b83f-11f1-bd54-4f485ae9347d#true#true,741e5b5c-4efb-11f1-bb46-cb8b9ee74be1#1044974#pre#2#563905#2facc2b0-a897-11f1-adab-7fdd1de800b5#true#true,5ba7a338-b050-11f1-82ca-7b74a6b58cb7#21031781#mid#1#20550712#299ebdf6-b841-11f1-94c2-0bcfd0afa2fc#true#true,741e5b5c-4efb-11f1-bb46-cb8b9ee74be1#21512851#mid#2#21031782#493a28b2-a897-11f1-97ce-9f3e2a534197#true#true,062295ee-bb5e-11f1-9693-1be4dbd75d08#27172434#post#1#26690112#1abc4a14-bce8-11f1-bf72-3b9c8ca8eed6#true#true,#27656429#post#2#27172435##true#true@f869e398-9dc4-11ef-b8c4-d70ffa004c08#128000#82835
+x-content-type-options: nosniff
+server: envoy
+content-length: 27672313
+expires: Sat, 10 Oct 2026 17:33:47 GMT
+cache-control: max-age=0, no-cache, no-store
+pragma: no-cache
+date: Sat, 10 Oct 2026 17:33:47 GMT
+alt-svc: h3=":443"; ma=93600,h3-29=":443"; ma=93600
+access-control-allow-origin: *
+strict-transport-security: max-age=15768000
+

@@ -1,0 +1,14 @@
+HTTP/2 200 
+age: 32847
+cache-control: public, max-age=0, must-revalidate
+content-type: text/html; charset=utf-8
+date: Fri, 07 Aug 2026 16:20:16 GMT
+etag: "5w6iqffl7c4wmm"
+server: Vercel
+strict-transport-security: max-age=63072000
+x-matched-path: /reality-102-souls
+x-powered-by: Next.js
+x-vercel-cache: STALE
+x-vercel-id: iad1::iad1::czwzw-1791653591594-fc3c568f43b3
+content-length: 229278
+

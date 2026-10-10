@@ -1,0 +1,49 @@
+{
+  "source_path": "reality/002-1-reality-101.mp3",
+  "automated_flags": [
+    {
+      "kind": "low_word_logprob",
+      "word_index": 65,
+      "start": 20.42,
+      "end": 20.48,
+      "text": " ",
+      "logprob": -1.389077067375183
+    },
+    {
+      "kind": "catalog_name_spelling_review",
+      "word_index": 66,
+      "start": 20.48,
+      "end": 20.86,
+      "text": "Schrimbeck.",
+      "note": "Catalog spells the author Steven Schrembeck; machine text retained."
+    },
+    {
+      "kind": "low_word_logprob",
+      "word_index": 525,
+      "start": 98.5,
+      "end": 98.58,
+      "text": " ",
+      "logprob": -1.1543301343917847
+    },
+    {
+      "kind": "low_word_logprob",
+      "word_index": 526,
+      "start": 98.58,
+      "end": 98.86,
+      "text": "psi",
+      "logprob": -1.1543301343917847
+    }
+  ],
+  "flags_are_review_candidates_not_confirmed_errors": true,
+  "raw_word_count": 27230,
+  "spoken_word_count": 13517,
+  "speaker_ids": [
+    "speaker_0",
+    "speaker_1"
+  ],
+  "subtitle_cue_count": 1065,
+  "first_speech_seconds": 8.24,
+  "last_speech_seconds": 4403.722,
+  "human_correction_status": "uncorrected",
+  "source_offset_seconds": 0
+}

@@ -1,0 +1,27 @@
+{
+  "source_path": "collected/022-mortal-steel-pilot-episode-2-raw.mp3",
+  "automated_flags": [
+    {
+      "kind": "speech_gap_over_20s",
+      "start": 2.0,
+      "end": 54.2,
+      "note": "May be music, silence or an omission; review audio."
+    },
+    {
+      "kind": "trailing_no_speech",
+      "start": 1170.446,
+      "end": 1225.56
+    }
+  ],
+  "flags_are_review_candidates_not_confirmed_errors": true,
+  "raw_word_count": 5301,
+  "spoken_word_count": 2651,
+  "speaker_ids": [
+    "speaker_0"
+  ],
+  "subtitle_cue_count": 201,
+  "first_speech_seconds": 0.0,
+  "last_speech_seconds": 1170.446,
+  "human_correction_status": "uncorrected",
+  "source_offset_seconds": 0
+}

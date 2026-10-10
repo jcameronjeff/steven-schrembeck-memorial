@@ -1,0 +1,24 @@
+{
+  "source_path": "collected/047-allegiance-episode-1-raw.mp3",
+  "automated_flags": [
+    {
+      "kind": "word_duration_over_3s",
+      "word_index": 0,
+      "text": "Allegiance.",
+      "start": 0.26,
+      "end": 16.74,
+      "note": "Suspicious word alignment; raw timestamp preserved."
+    }
+  ],
+  "flags_are_review_candidates_not_confirmed_errors": true,
+  "raw_word_count": 9345,
+  "spoken_word_count": 4668,
+  "speaker_ids": [
+    "speaker_0"
+  ],
+  "subtitle_cue_count": 339,
+  "first_speech_seconds": 0.26,
+  "last_speech_seconds": 1854.072,
+  "human_correction_status": "uncorrected",
+  "source_offset_seconds": 0
+}

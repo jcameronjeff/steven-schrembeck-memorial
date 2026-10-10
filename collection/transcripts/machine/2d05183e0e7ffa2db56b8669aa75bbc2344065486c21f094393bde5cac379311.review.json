@@ -1,0 +1,26 @@
+{
+  "source_path": "collected/029-everhouse-episode-2.mp3",
+  "automated_flags": [
+    {
+      "kind": "leading_no_speech",
+      "start": 0,
+      "end": 49.92
+    },
+    {
+      "kind": "trailing_no_speech",
+      "start": 1347.086,
+      "end": 1369.416
+    }
+  ],
+  "flags_are_review_candidates_not_confirmed_errors": true,
+  "raw_word_count": 6060,
+  "spoken_word_count": 3025,
+  "speaker_ids": [
+    "speaker_0"
+  ],
+  "subtitle_cue_count": 237,
+  "first_speech_seconds": 49.92,
+  "last_speech_seconds": 1347.086,
+  "human_correction_status": "uncorrected",
+  "source_offset_seconds": 0
+}

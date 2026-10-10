@@ -1,0 +1,35 @@
+{
+  "source_path": "collected/039-dust-episode-1.mp3",
+  "automated_flags": [
+    {
+      "kind": "low_word_logprob",
+      "word_index": 3403,
+      "start": 787.132,
+      "end": 787.192,
+      "text": " ",
+      "logprob": -1.4820960760116577
+    },
+    {
+      "kind": "speech_gap_over_20s",
+      "start": 1478.668,
+      "end": 1532.488,
+      "note": "May be music, silence or an omission; review audio."
+    },
+    {
+      "kind": "leading_no_speech",
+      "start": 0,
+      "end": 49.46
+    }
+  ],
+  "flags_are_review_candidates_not_confirmed_errors": true,
+  "raw_word_count": 6845,
+  "spoken_word_count": 3413,
+  "speaker_ids": [
+    "speaker_0"
+  ],
+  "subtitle_cue_count": 260,
+  "first_speech_seconds": 49.46,
+  "last_speech_seconds": 1532.548,
+  "human_correction_status": "uncorrected",
+  "source_offset_seconds": 0
+}

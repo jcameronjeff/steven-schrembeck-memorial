@@ -1,0 +1,62 @@
+{
+  "source_path": "youtube/20230212-XO-REklMsgc-Instructions For Prototyping ChatGPT Products.webm",
+  "automated_flags": [
+    {
+      "kind": "word_duration_over_3s",
+      "word_index": 6296,
+      "text": "\"Hi,",
+      "start": 1201.126,
+      "end": 1205.746,
+      "note": "Suspicious word alignment; raw timestamp preserved."
+    },
+    {
+      "kind": "word_duration_over_3s",
+      "word_index": 7392,
+      "text": "\"Caller",
+      "start": 1451.186,
+      "end": 1456.906,
+      "note": "Suspicious word alignment; raw timestamp preserved."
+    },
+    {
+      "kind": "word_duration_over_3s",
+      "word_index": 10002,
+      "text": "reinforcement",
+      "start": 2048.836,
+      "end": 2052.176,
+      "note": "Suspicious word alignment; raw timestamp preserved."
+    },
+    {
+      "kind": "low_word_logprob",
+      "word_index": 10681,
+      "start": 2166.976,
+      "end": 2167.396,
+      "text": " ",
+      "logprob": -1.1257270574569702
+    },
+    {
+      "kind": "low_word_logprob",
+      "word_index": 10682,
+      "start": 2167.396,
+      "end": 2167.776,
+      "text": "basically",
+      "logprob": -1.1257270574569702
+    },
+    {
+      "kind": "speech_gap_over_20s",
+      "start": 1632.196,
+      "end": 1673.856,
+      "note": "May be music, silence or an omission; review audio."
+    }
+  ],
+  "flags_are_review_candidates_not_confirmed_errors": true,
+  "raw_word_count": 13219,
+  "spoken_word_count": 6589,
+  "speaker_ids": [
+    "speaker_0"
+  ],
+  "subtitle_cue_count": 525,
+  "first_speech_seconds": 3.4,
+  "last_speech_seconds": 2603.792,
+  "human_correction_status": "uncorrected",
+  "source_offset_seconds": 0.0
+}

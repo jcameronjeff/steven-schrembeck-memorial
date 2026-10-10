@@ -1,0 +1,31 @@
+HTTP/2 302 
+date: Sat, 10 Oct 2026 17:33:36 GMT
+content-type: audio/mpeg; charset=utf-8
+content-length: 0
+location: https://audio.buzzsprout.com/8jdz00npuf1222305qvaf8bf4yjq?response-content-disposition=inline
+cache-control: no-cache
+referrer-policy: strict-origin-when-cross-origin
+strict-transport-security: max-age=63072000; includeSubDomains
+vary: Sec-Fetch-Site, Origin
+x-cache: miss
+x-content-type-options: nosniff
+x-download-options: noopen
+x-frame-options: SAMEORIGIN
+x-permitted-cross-domain-policies: none
+x-request-id: 19ed20fc-6d08-4a29-8d05-a2bcb3168242
+x-runtime: 0.010070
+x-xss-protection: 0
+cf-cache-status: BYPASS
+server: cloudflare
+cf-ray: a4875efced455948-ATL
+
+HTTP/2 403 
+date: Sat, 10 Oct 2026 17:33:36 GMT
+content-type: text/html; charset=UTF-8
+cache-control: private, max-age=0, no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+expires: Thu, 01 Jan 1970 00:00:01 GMT
+referrer-policy: same-origin
+x-frame-options: SAMEORIGIN
+server: cloudflare
+cf-ray: a4875efe8f914b36-ATL
+

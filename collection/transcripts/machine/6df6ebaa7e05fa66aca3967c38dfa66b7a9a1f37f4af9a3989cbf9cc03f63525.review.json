@@ -1,0 +1,29 @@
+{
+  "source_path": "collected/038-dust-episode-2-raw.mp3",
+  "automated_flags": [
+    {
+      "kind": "word_duration_over_3s",
+      "word_index": 0,
+      "text": "Dust.",
+      "start": 0.0,
+      "end": 50.4,
+      "note": "Suspicious word alignment; raw timestamp preserved."
+    },
+    {
+      "kind": "trailing_no_speech",
+      "start": 1657.904,
+      "end": 1710.048
+    }
+  ],
+  "flags_are_review_candidates_not_confirmed_errors": true,
+  "raw_word_count": 7779,
+  "spoken_word_count": 3889,
+  "speaker_ids": [
+    "speaker_0"
+  ],
+  "subtitle_cue_count": 294,
+  "first_speech_seconds": 0.0,
+  "last_speech_seconds": 1657.904,
+  "human_correction_status": "uncorrected",
+  "source_offset_seconds": 0
+}

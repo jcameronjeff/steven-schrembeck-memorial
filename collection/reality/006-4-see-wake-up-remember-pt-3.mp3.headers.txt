@@ -1,0 +1,24 @@
+HTTP/1.1 302 Moved Temporarily
+Location: https://podcasts.captivate.fm/media/0c05b273-24fa-4d14-94ed-d073918c22ef/r101-ep4-see-wakeup-remember-pt3.mp3
+Expires: Sat, 10 Oct 2026 17:33:15 GMT
+Cache-Control: max-age=0, no-cache, no-store
+Pragma: no-cache
+Date: Sat, 10 Oct 2026 17:33:15 GMT
+Alt-Svc: h3=":443"; ma=93600,h3-29=":443"; ma=93600
+Connection: close
+Strict-Transport-Security: max-age=86400 ; includeSubDomains
+
+HTTP/1.1 200 OK
+Content-Type: audio/mpeg
+Content-Length: 56529912
+Accept-Ranges: bytes
+Last-Modified: Wed, 22 Jul 2026 19:32:53 GMT
+x-rgw-object-type: Normal
+ETag: "6380f8b40160551248d3016f0b11c147-6"
+x-amz-tagging-count: 0
+x-amz-request-id: tx00000db0ec8e063146394-006ac7efa4-11bc7810f-default
+Date: Sat, 10 Oct 2026 17:33:15 GMT
+Alt-Svc: h3=":443"; ma=93600,h3-29=":443"; ma=93600
+Connection: keep-alive
+Strict-Transport-Security: max-age=86400 ; includeSubDomains ; preload
+

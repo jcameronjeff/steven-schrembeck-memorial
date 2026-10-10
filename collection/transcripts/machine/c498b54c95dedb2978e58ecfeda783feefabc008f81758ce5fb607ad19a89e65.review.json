@@ -1,0 +1,16 @@
+{
+  "source_path": "collected/045-fractality-episode-1.mp3",
+  "automated_flags": [],
+  "flags_are_review_candidates_not_confirmed_errors": true,
+  "raw_word_count": 9733,
+  "spoken_word_count": 4863,
+  "speaker_ids": [
+    "speaker_0",
+    "speaker_1"
+  ],
+  "subtitle_cue_count": 396,
+  "first_speech_seconds": 1.32,
+  "last_speech_seconds": 2011.44,
+  "human_correction_status": "uncorrected",
+  "source_offset_seconds": 0
+}

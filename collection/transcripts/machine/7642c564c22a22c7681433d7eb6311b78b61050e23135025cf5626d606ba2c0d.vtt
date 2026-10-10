@@ -1,0 +1,1251 @@
+WEBVTT
+
+1
+00:00:09.280 --> 00:00:15.120
+Speaker 1: Today we're gonna talk about one of
+my favorite niche topics. We're gonna talk about
+
+2
+00:00:16.200 --> 00:00:21.100
+Speaker 1: local minima. This is one of the
+concepts for which the channel itself is named.
+
+3
+00:00:22.280 --> 00:00:27.880
+Speaker 1: We're gonna talk about how local and
+global minima sort of matter to overall
+
+4
+00:00:27.940 --> 00:00:33.700
+Speaker 1: society, how you can think of them as
+why you get stuck in life, how to
+
+5
+00:00:33.780 --> 00:00:39.600
+Speaker 1: move on and grow as a person, how to
+improve things, how to learn better, and how to
+
+6
+00:00:39.660 --> 00:00:43.220
+Speaker 1: finally solve some of the problems
+you've been stuck on for a very long time.
+
+7
+00:00:43.520 --> 00:00:49.300
+Speaker 1: [clears throat] So first, I'm gonna
+start with a prediction, and then we're
+
+8
+00:00:49.320 --> 00:00:55.280
+Speaker 1: gonna back up into it. So here's the
+prediction. Reality will be
+
+9
+00:00:55.400 --> 00:01:01.240
+Speaker 1: seeded to the people who still know
+how to do things. What does
+
+10
+00:01:01.280 --> 00:01:06.960
+Speaker 1: that mean exactly? Right. Let's back
+up into what that prediction
+
+11
+00:01:07.000 --> 00:01:10.940
+Speaker 1: means. This is a prediction for
+something that will happen in the future. So
+I'll
+
+12
+00:01:10.980 --> 00:01:16.840
+Speaker 1: say it again. Reality will be seeded
+to the people who still know how
+
+13
+00:01:16.920 --> 00:01:18.340
+Speaker 1: to do things.
+
+14
+00:01:22.880 --> 00:01:26.640
+Speaker 1: For those of you who understand
+trading, you know a little bit about
+derivatives,
+
+15
+00:01:27.520 --> 00:01:33.000
+Speaker 1: and you know about paper value versus
+real value. What's the difference? Okay.
+
+16
+00:01:33.720 --> 00:01:39.180
+Speaker 1: So without diving too much into how
+currency works, let's say
+
+17
+00:01:39.640 --> 00:01:45.540
+Speaker 1: you have a piece of gold, a gold bar.
+Okay? A one-ounce
+
+18
+00:01:45.600 --> 00:01:50.280
+Speaker 1: gold bar. That is worth, you know,
+some amount of money or some amount of goods in
+
+19
+00:01:50.300 --> 00:01:54.220
+Speaker 1: the real world to other people who
+are willing to trade you that gold for something
+
+20
+00:01:54.280 --> 00:02:00.080
+Speaker 1: else. Okay? Now imagine I have an
+IOU. It's a piece of paper that says, "You can
+
+21
+00:02:00.140 --> 00:02:05.620
+Speaker 1: turn in this piece of paper for one
+ounce of gold at any point in time." That is
+
+22
+00:02:05.700 --> 00:02:11.240
+Speaker 1: paper value. It's not real value.
+Now, you can call your option
+
+23
+00:02:12.040 --> 00:02:15.280
+Speaker 1: on the real value anytime you want.
+You just go turn it in at the bank, and you can
+
+24
+00:02:15.320 --> 00:02:21.280
+Speaker 1: get your gold, right? It's almost as
+good. Now, those paper value vouchers are
+
+25
+00:02:21.320 --> 00:02:25.040
+Speaker 1: pretty awesome because you can trade
+them on exchanges. You can create all sorts of
+
+26
+00:02:25.100 --> 00:02:29.380
+Speaker 1: interesting derivatives. You can have
+leverage. You can do all sorts of crazy stuff
+
+27
+00:02:29.420 --> 00:02:29.780
+Speaker 1: with them.
+
+28
+00:02:31.380 --> 00:02:33.280
+Speaker 1: Here's where humanity gets into
+trouble.
+
+29
+00:02:34.940 --> 00:02:40.860
+Speaker 1: You can continue to print paper value
+in excess of real value. I can make
+
+30
+00:02:41.120 --> 00:02:46.000
+Speaker 1: 100,000 vouchers that say, "You can
+turn in this voucher for a piece of gold."
+
+31
+00:02:47.100 --> 00:02:53.000
+Speaker 1: However, there may only be 1,000
+pieces of gold. If people figure this out,
+
+32
+00:02:53.520 --> 00:02:57.460
+Speaker 1: they will quickly have a run on the
+gold. This is actually what a run on a bank is,
+
+33
+00:02:58.220 --> 00:03:02.440
+Speaker 1: is there is not enough money for you
+to go get it. It says you have this much in
+
+34
+00:03:02.480 --> 00:03:06.640
+Speaker 1: your bank account, but they actually
+don't have that much. Now, there's all sorts of
+
+35
+00:03:06.720 --> 00:03:11.880
+Speaker 1: layers of protections, but
+ultimately, that's how a lot of our economy
+works. The
+
+36
+00:03:11.940 --> 00:03:17.720
+Speaker 1: paper value is much larger than the
+real value, and under good times
+
+37
+00:03:17.780 --> 00:03:22.560
+Speaker 1: when nothing is under stress, that's
+not a big deal. Who cares, right? If paper
+
+38
+00:03:22.600 --> 00:03:26.100
+Speaker 1: value exceeds real value, that's only
+a problem if everybody tries to turn in their
+
+39
+00:03:26.220 --> 00:03:31.440
+Speaker 1: IOUs at the same time. It's a game of
+musical chairs, right? And that's the best
+
+40
+00:03:31.520 --> 00:03:35.620
+Speaker 1: analogy I can think of. There's not
+enough chairs. It's fine as long as the music is
+
+41
+00:03:35.660 --> 00:03:39.080
+Speaker 1: playing. But when the music stops,
+it's not so good.
+
+42
+00:03:40.800 --> 00:03:45.680
+Speaker 1: So now that you kind of understand
+the difference between paper and real value, I
+
+43
+00:03:45.720 --> 00:03:50.480
+Speaker 1: have a theory that... Well, this one
+is pretty well shared by everybody. Our economy
+
+44
+00:03:50.520 --> 00:03:56.360
+Speaker 1: is very over-financialized, meaning
+we made up a bunch of stuff on paper
+
+45
+00:03:57.220 --> 00:04:02.260
+Speaker 1: that isn't quite backed by the same
+amount of real value, the ability to
+
+46
+00:04:02.320 --> 00:04:08.140
+Speaker 1: produce goods, the real goods
+themselves in storage, the ability to do useful
+
+47
+00:04:08.260 --> 00:04:12.380
+Speaker 1: stuff in the real world. This is
+gonna be a running theme through all of Seeking
+
+48
+00:04:12.440 --> 00:04:18.339
+Speaker 1: Minima. There is no replacement for
+being good at doing
+
+49
+00:04:18.459 --> 00:04:24.360
+Speaker 1: stuff that matters to people. There's
+no replacement for that. No investment, no
+
+50
+00:04:24.440 --> 00:04:30.280
+Speaker 1: idea, nothing is as good as being
+able to do something in the real world
+
+51
+00:04:30.800 --> 00:04:34.040
+Speaker 1: that is useful to another person. All
+right.
+
+52
+00:04:35.920 --> 00:04:41.260
+Speaker 1: So besides over-financialized
+economy, we also have an
+
+53
+00:04:41.360 --> 00:04:47.120
+Speaker 1: over-specialized economy. I call this
+the tall tower problem.
+
+54
+00:04:48.100 --> 00:04:53.480
+Speaker 1: So in finance, there's layers upon
+layers of derivatives, and you can see when this
+
+55
+00:04:53.520 --> 00:04:58.960
+Speaker 1: becomes an option, like, mm, back in
+2007 when there was the subprime mortgage
+
+56
+00:04:59.020 --> 00:05:03.160
+Speaker 1: lending crisis. Basically, we just
+had stacks and stacks of derivatives. They were
+
+57
+00:05:03.200 --> 00:05:08.080
+Speaker 1: all being shuffled and bundled
+around, and underneath it all were people's home
+
+58
+00:05:08.140 --> 00:05:13.140
+Speaker 1: mortgages. But there were so many
+layers of derivatives, nobody even knew who
+owned
+
+59
+00:05:13.200 --> 00:05:18.920
+Speaker 1: what anymore. Right? It was all paper
+value on paper value on paper value, many
+
+60
+00:05:18.980 --> 00:05:24.820
+Speaker 1: orders away from a real thing,
+somebody's house. We have something kind
+
+61
+00:05:24.880 --> 00:05:27.160
+Speaker 1: of like that happening with
+specialization.
+
+62
+00:05:29.080 --> 00:05:33.940
+Speaker 1: So think of a very tall tower. All
+right? Let's say you have a specialized num- a
+
+63
+00:05:34.020 --> 00:05:39.320
+Speaker 1: certain number of blocks. Each block
+represents a skill, a
+
+64
+00:05:39.360 --> 00:05:44.460
+Speaker 1: capacity you can learn. Right? It's
+your ability to do something,
+
+65
+00:05:45.860 --> 00:05:51.540
+Speaker 1: and you can choose to build a tower
+that is tall. Right? You can be... That is
+
+66
+00:05:51.640 --> 00:05:57.640
+Speaker 1: narrow, deep expertise. You can be an
+incredible microbiologist on a
+
+67
+00:05:57.720 --> 00:06:03.392
+Speaker 1: very specific strain of bacteria. And
+you can be very good at that thing. And that
+
+68
+00:06:03.412 --> 00:06:07.952
+Speaker 1: can be incredibly useful to the world
+as long as that's what the world needs. Or you
+
+69
+00:06:08.012 --> 00:06:12.972
+Speaker 1: can also know how to repair a car.
+You can also know how to fix your bike. You can
+
+70
+00:06:13.052 --> 00:06:18.112
+Speaker 1: also know how to set up your own
+solar array. Like there's a lot of other things
+you
+
+71
+00:06:18.152 --> 00:06:22.372
+Speaker 1: could be learning besides
+microbiology, a very specific kind, but you
+won't be as
+
+72
+00:06:22.432 --> 00:06:26.492
+Speaker 1: good at any of them, right? We all
+sort of face this trade-off. Do I go deep? Do I
+
+73
+00:06:26.532 --> 00:06:31.112
+Speaker 1: go broad? So we all have a certain
+number of skill blocks, finite cap on how much
+
+74
+00:06:31.852 --> 00:06:32.892
+Speaker 1: stuff we can learn.
+
+75
+00:06:35.032 --> 00:06:40.672
+Speaker 1: Now, what happens, here's, here's
+where these two things come into contact really,
+
+76
+00:06:41.212 --> 00:06:46.052
+Speaker 1: is the over-financialized economy
+really, really loves specialization because
+
+77
+00:06:46.132 --> 00:06:51.452
+Speaker 1: specialization is great. It ensures
+that you can be the best at the
+
+78
+00:06:51.552 --> 00:06:56.412
+Speaker 1: forty-first layer on your tall tower,
+right? So if you just go super deep and you
+
+79
+00:06:56.472 --> 00:07:00.452
+Speaker 1: just say, "Well, I'm gonna make the
+most money in a hyper-financialized economy,"
+
+80
+00:07:01.412 --> 00:07:05.711
+Speaker 1: the best way to do that is just to
+get really amazing at something super high
+value.
+
+81
+00:07:06.291 --> 00:07:12.112
+Speaker 1: These are often in technology. It's
+like engineering, medicine, sometimes
+
+82
+00:07:12.212 --> 00:07:18.072
+Speaker 1: law, or finance, finance itself,
+right? It's such an esoteric
+
+83
+00:07:18.152 --> 00:07:21.712
+Speaker 1: thing when you get down and actually
+think about it. Think about what your job is
+
+84
+00:07:21.772 --> 00:07:27.592
+Speaker 1: right now. What layer of a tall tower
+are you standing on, right? Are you the
+
+85
+00:07:29.252 --> 00:07:34.712
+Speaker 1: digital marketer for Facebook, for
+pet, for dog walking companies?
+
+86
+00:07:35.272 --> 00:07:40.212
+Speaker 1: Wow, that is very specific. Now, it
+makes sense to make a living in a
+
+87
+00:07:40.232 --> 00:07:44.312
+Speaker 1: hyper-financialized economy being
+very specialized. That's where the money is. You
+
+88
+00:07:44.352 --> 00:07:47.952
+Speaker 1: want to be able to distinguish
+yourself. If you just say, "Ah, I do
+everything,"
+
+89
+00:07:48.692 --> 00:07:51.572
+Speaker 1: nobody will hire you because they
+don't want somebody who does everything. They
+want
+
+90
+00:07:51.612 --> 00:07:54.972
+Speaker 1: somebody who is the best at the exact
+thing they want. That's cool.
+
+91
+00:07:56.492 --> 00:08:00.292
+Speaker 1: But the whole point of this is to say
+that there are downsides to the tall tower.
+
+92
+00:08:01.232 --> 00:08:06.012
+Speaker 1: Here's an example. Facebook goes
+away. Now who are you?
+
+93
+00:08:07.392 --> 00:08:12.292
+Speaker 1: You're the marketer for Facebook ads
+for dog walking companies. Sure. Okay. Maybe
+
+94
+00:08:12.312 --> 00:08:17.652
+Speaker 1: you can pivot a little bit to another
+platform. Certainly. Yeah. But what happens if
+
+95
+00:08:18.112 --> 00:08:23.572
+Speaker 1: the ad model for businesses changes
+on the internet? What if, I don't know,
+
+96
+00:08:23.812 --> 00:08:28.252
+Speaker 1: something like a generalized,
+generalized language model makes it so that
+people
+
+97
+00:08:28.312 --> 00:08:34.192
+Speaker 1: just aren't looking at very many ads
+anymore? Hmm. [laughs] Your
+
+98
+00:08:34.232 --> 00:08:39.572
+Speaker 1: economy, ad economy implodes. There's
+just like ninety percent less revenue overall
+
+99
+00:08:39.652 --> 00:08:44.852
+Speaker 1: in the future. You are sitting at the
+very top of a tall tower that has just been
+
+100
+00:08:44.912 --> 00:08:49.992
+Speaker 1: shaken, and twenty of those blocks
+fall off. Now what do you know?
+
+101
+00:08:51.052 --> 00:08:55.812
+Speaker 1: Nothing. You're useless. You don't
+know anything. You don't know how to fix your
+
+102
+00:08:55.872 --> 00:08:59.072
+Speaker 1: car. You don't know how to fix your
+bike. You don't know how to set up a solar
+
+103
+00:08:59.112 --> 00:09:03.632
+Speaker 1: array. You don't even know, like, how
+to pivot to something similar because you've
+
+104
+00:09:03.672 --> 00:09:06.092
+Speaker 1: gotten so good at one thing and only
+one thing.
+
+105
+00:09:07.732 --> 00:09:11.892
+Speaker 1: This is the trouble with tall towers,
+is that they're not very stable. I'm gonna
+
+106
+00:09:11.932 --> 00:09:17.252
+Speaker 1: extrapolate this even further and say
+that our entire society
+
+107
+00:09:18.092 --> 00:09:24.032
+Speaker 1: is like this. We have a very, very,
+very tall tower, and we just
+
+108
+00:09:24.112 --> 00:09:29.112
+Speaker 1: keep putting one more block on top of
+the other, training people to be some
+
+109
+00:09:29.172 --> 00:09:33.732
+Speaker 1: hyper-specialized thing, while really
+understanding very little of the fundamentals
+
+110
+00:09:33.792 --> 00:09:39.612
+Speaker 1: underneath it or anything adjacent to
+them. Now, this is certainly not a
+
+111
+00:09:39.672 --> 00:09:44.032
+Speaker 1: rule, but people who are sort of
+well-rounded and good at multiple things are
+
+112
+00:09:44.172 --> 00:09:48.872
+Speaker 1: definitely the exception. And this is
+not to shame people who have become
+
+113
+00:09:48.952 --> 00:09:54.952
+Speaker 1: specialized. It made sense in our
+economy, in our world. But if we're ever
+
+114
+00:09:55.052 --> 00:10:00.852
+Speaker 1: shaken, as we sometimes are, um,
+we'll say with some regularity maybe, fi- every
+
+115
+00:10:00.912 --> 00:10:05.812
+Speaker 1: five to ten years, let's say all of
+society is shaken by something. Are you gonna be
+
+116
+00:10:05.852 --> 00:10:11.812
+Speaker 1: one of those blocks that gets shaken
+out? I think that we're in a very fragile place
+
+117
+00:10:11.912 --> 00:10:17.912
+Speaker 1: overall in terms of human
+civilization because our tower is so tall
+
+118
+00:10:17.991 --> 00:10:19.172
+Speaker 1: and it's not robust.
+
+119
+00:10:21.032 --> 00:10:26.472
+Speaker 1: So now we're gonna talk about how
+this fits into minimas, specifically local
+
+120
+00:10:26.532 --> 00:10:32.532
+Speaker 1: minimas. So I think a lot about how
+machine learning models actually learn, and
+
+121
+00:10:32.552 --> 00:10:36.932
+Speaker 1: I think there's so many analogies
+that you can draw to real life. When you look at
+
+122
+00:10:37.012 --> 00:10:42.792
+Speaker 1: how a non-human agent learns, there's
+just like philosophical wonder in
+
+123
+00:10:42.832 --> 00:10:46.552
+Speaker 1: that. I don't know. I, I can draw so
+many con- so many interesting parallels to real
+
+124
+00:10:46.612 --> 00:10:51.832
+Speaker 1: life. So when a machine learning
+model starts to learn, in this case, I'm talking
+
+125
+00:10:51.912 --> 00:10:55.532
+Speaker 1: about deep neural networks. When they
+start to learn something, we'll say
+
+126
+00:10:55.592 --> 00:11:01.052
+Speaker 1: recognizing objects in photos, they
+will start with a pretty broad,
+
+127
+00:11:01.312 --> 00:11:06.052
+Speaker 1: messy approach, right? Let's just try
+stuff. Kind of like a baby, just trying random
+
+128
+00:11:06.112 --> 00:11:11.112
+Speaker 1: things that makes no sense. And
+that's-- so it starts out broad, and then as
+soon as
+
+129
+00:11:11.152 --> 00:11:14.832
+Speaker 1: it starts to find a winning strategy,
+it will start to go deep, right? Start to
+
+130
+00:11:14.892 --> 00:11:20.332
+Speaker 1: build up that tower. It'll double
+down on this technique. So what you want as the
+
+131
+00:11:20.892 --> 00:11:25.512
+Speaker 1: machine learning engineer is you want
+a model that learns lots of different ways to
+
+132
+00:11:25.552 --> 00:11:31.112
+Speaker 1: detect things. It has a broad base to
+its tower, but it does get very good
+
+133
+00:11:32.072 --> 00:11:37.772
+Speaker 1: as it-- at the actual task, right?
+You want to actually be able to tell a cat
+
+134
+00:11:38.272 --> 00:11:43.412
+Speaker 1: from a bicycle or a cat from a
+cheetah. Chelling- telling a cat from a cheetah
+is
+
+135
+00:11:43.452 --> 00:11:48.872
+Speaker 1: very difficult. So you want it to be
+great, a deep specialist to handle those
+
+136
+00:11:48.932 --> 00:11:53.972
+Speaker 1: difficult edge cases, but you want it
+to be generalized as well. It can also tell a
+
+137
+00:11:54.032 --> 00:11:59.672
+Speaker 1: cat from a bus, which sounds silly to
+us to say that. But if you have a very narrow
+
+138
+00:11:59.732 --> 00:12:04.232
+Speaker 1: model and it's not well generalized,
+that's exactly what it can't do. [laughs] It
+
+139
+00:12:04.252 --> 00:12:07.112
+Speaker 1: doesn't know the difference between a
+cat and a bus. It, it doesn't understand even
+
+140
+00:12:07.172 --> 00:12:08.592
+Speaker 1: how to conceive of these problems.
+
+141
+00:12:10.942 --> 00:12:16.782
+Speaker 1: So this problem is called
+overfitting. When you train-- when a machine
+
+142
+00:12:16.822 --> 00:12:21.222
+Speaker 1: learning model doubles down on one
+strategy too much, it goes too deep. And in this
+
+143
+00:12:21.282 --> 00:12:26.881
+Speaker 1: case, like our tall tower problem,
+this is a tower that is too tall and is flimsy.
+
+144
+00:12:28.362 --> 00:12:33.402
+Speaker 1: That's called overfitting. It
+basically tries to memorize the data. It finds a
+
+145
+00:12:33.482 --> 00:12:38.282
+Speaker 1: technique that works well, and it
+only does this one thing, no matter what.
+
+146
+00:12:40.042 --> 00:12:45.762
+Speaker 1: This is what it's like to be s-stuck
+in a local minima. So if you take a graph,
+
+147
+00:12:47.642 --> 00:12:52.922
+Speaker 1: we'll say every point on the graph
+represents how good the model is. It's literally
+
+148
+00:12:52.982 --> 00:12:58.462
+Speaker 1: its score for how good it is at its
+specific problem, right? So higher points on the
+
+149
+00:12:58.522 --> 00:13:04.282
+Speaker 1: graph, in this case, represent bad
+scores. Lower points on the graph
+
+150
+00:13:04.342 --> 00:13:09.862
+Speaker 1: represent good scores. Now, if we
+have the x-axis as time, then you will
+
+151
+00:13:09.942 --> 00:13:15.742
+Speaker 1: see that over time, you know, it's
+gonna go up and down, right? Typically, it
+starts
+
+152
+00:13:15.822 --> 00:13:21.142
+Speaker 1: bad, and then it gets better, right?
+Up and down, up and down. Starts to learn a
+
+153
+00:13:21.202 --> 00:13:24.862
+Speaker 1: little bit. It messes up a little
+bit, tries a new technique, and it learns over
+
+154
+00:13:24.922 --> 00:13:30.922
+Speaker 1: time. You expect over time, it's
+gonna go down, meaning it's learning better.
+Lower
+
+155
+00:13:30.982 --> 00:13:36.342
+Speaker 1: points means it's better over time.
+So you can think of it kind of like a hilly
+
+156
+00:13:36.402 --> 00:13:41.162
+Speaker 1: terrain, right? It's got peaks and
+valleys, kind of like a sine wave.
+
+157
+00:13:43.322 --> 00:13:49.102
+Speaker 1: The valleys are local minima, right?
+It is the lowest point on a
+
+158
+00:13:49.162 --> 00:13:54.502
+Speaker 1: curve. Machine learning models can
+get stuck at this low point on the curve.
+
+159
+00:13:55.342 --> 00:14:00.322
+Speaker 1: They can never leave. They can't
+leave because they found a strategy that works
+
+160
+00:14:00.562 --> 00:14:06.482
+Speaker 1: well, but they can't find a strategy
+that is
+
+161
+00:14:06.742 --> 00:14:12.582
+Speaker 1: better overall without first making
+their own score worse. In
+
+162
+00:14:12.662 --> 00:14:18.002
+Speaker 1: order to actually get better overall,
+it actually has to get worse for a little bit.
+
+163
+00:14:19.002 --> 00:14:24.042
+Speaker 1: So let's draw an analogy to real
+life. Let's say you are at block number forty on
+
+164
+00:14:24.082 --> 00:14:28.762
+Speaker 1: your tall tower. You are the Facebook
+marketer [chuckles] for a dog walking
+
+165
+00:14:28.822 --> 00:14:34.542
+Speaker 1: companies. Well, if you want to get
+better overall, you--
+
+166
+00:14:35.122 --> 00:14:40.082
+Speaker 1: as in more robust to tower shaking,
+and you wanna be better at overall life, less
+
+167
+00:14:40.142 --> 00:14:45.062
+Speaker 1: fragile, you would probably need to
+learn an adjacent skill. Maybe you learn, like,
+
+168
+00:14:45.382 --> 00:14:50.662
+Speaker 1: generalized copywriting, or maybe you
+also-- or just learn a separate tower, right?
+
+169
+00:14:50.962 --> 00:14:55.942
+Speaker 1: You also learn photography. Okay?
+Something like this. It's sort of relevant to
+what
+
+170
+00:14:55.982 --> 00:15:01.522
+Speaker 1: you're doing, but not exactly the
+same thing. So in this case, when you start
+
+171
+00:15:01.582 --> 00:15:05.862
+Speaker 1: learning photography, you're gonna
+suck at it. You're gonna be bad. It's literally
+
+172
+00:15:05.882 --> 00:15:10.542
+Speaker 1: going to make you worse overall.
+You're gonna make-- be made worse overall
+because
+
+173
+00:15:10.562 --> 00:15:15.342
+Speaker 1: you can't focus on the one thing
+you're great at, and you have to start out bad.
+A
+
+174
+00:15:15.382 --> 00:15:21.242
+Speaker 1: lot of people get stuck here. They
+get to a comfort zone in life. They get
+
+175
+00:15:21.322 --> 00:15:26.922
+Speaker 1: pretty good at one thing, and then
+they stop. They get stuck in a local minima,
+just
+
+176
+00:15:26.982 --> 00:15:31.542
+Speaker 1: like a machine learning model. They
+can't really branch out and try new things. They
+
+177
+00:15:31.622 --> 00:15:36.922
+Speaker 1: can't really get into a new career, a
+new job. They can't really go back to school
+
+178
+00:15:36.962 --> 00:15:42.702
+Speaker 1: because of the, the perceived risk.
+The penalty for trying to be something new, more
+
+179
+00:15:42.762 --> 00:15:48.202
+Speaker 1: flexible, more robust is too high.
+They can't get over the hump
+
+180
+00:15:48.862 --> 00:15:53.322
+Speaker 1: to get to a better place. Even if
+there were a lower valley, remember, low points
+
+181
+00:15:53.362 --> 00:15:58.162
+Speaker 1: represent better overall fitness
+score at the problem you're trying to solve,
+they
+
+182
+00:15:58.222 --> 00:16:02.882
+Speaker 1: can't get to this lower point because
+they keep getting stuck. They can't quite
+
+183
+00:16:02.942 --> 00:16:06.862
+Speaker 1: build the momentum to get over the
+hill, so they stay where they are in a local
+
+184
+00:16:06.902 --> 00:16:07.242
+Speaker 1: minima.
+
+185
+00:16:09.522 --> 00:16:14.682
+Speaker 1: Again, I think this is where humanity
+is. We are [chuckles] currently stuck in a
+
+186
+00:16:14.742 --> 00:16:19.082
+Speaker 1: local minima. We can't get to the
+global minima. We can't even get to lower local
+
+187
+00:16:19.142 --> 00:16:23.182
+Speaker 1: minima because we're comfortable,
+because we figured things out.
+
+188
+00:16:25.082 --> 00:16:30.862
+Speaker 1: So how do you fix it? Again, we can
+draw analogies to machine learning. In machine
+
+189
+00:16:30.901 --> 00:16:32.962
+Speaker 1: learning, you have a lot of different
+strategies to sort of
+
+190
+00:16:34.522 --> 00:16:39.342
+Speaker 1: get models to try new things, prevent
+them from over-optimizing. Okay, cool, you
+
+191
+00:16:39.402 --> 00:16:44.642
+Speaker 1: found one strategy that works, but
+basically, you force it to be flexible. You
+force
+
+192
+00:16:44.702 --> 00:16:49.342
+Speaker 1: it to be unable to use its one
+strategy that it finds, so it can't be a
+one-trick
+
+193
+00:16:49.402 --> 00:16:54.762
+Speaker 1: pony. So what do you do? You do
+things like dropout. This means literally
+removing
+
+194
+00:16:54.822 --> 00:16:59.942
+Speaker 1: parts of its neurons, right? So
+basically, parts of the network, you turn them
+off.
+
+195
+00:17:00.382 --> 00:17:04.382
+Speaker 1: This is like making you selectively
+forget so that you have to find a more general
+
+196
+00:17:04.442 --> 00:17:09.162
+Speaker 1: solution, right? Some of the clues
+are not always there. Some of the ways you did
+
+197
+00:17:09.202 --> 00:17:12.662
+Speaker 1: things literally removes parts of the
+network. We can't really do that with humans.
+
+198
+00:17:13.302 --> 00:17:18.202
+Speaker 1: Um, here's another one, data
+augmentation. Right. So th-- for the picture
+example,
+
+199
+00:17:18.702 --> 00:17:22.942
+Speaker 1: instead of just sending the same
+pictures of cats and buses, sometimes you flip
+
+200
+00:17:23.002 --> 00:17:28.022
+Speaker 1: them, sometimes you make them kind of
+blurry, sometimes you zoom in on them and crop
+
+201
+00:17:28.062 --> 00:17:33.002
+Speaker 1: them so that it can't just memorize
+things, and it can't always look for a perfect
+
+202
+00:17:33.042 --> 00:17:37.402
+Speaker 1: picture of a cat right in the center
+of the frame. It has to kind of learn, what do
+
+203
+00:17:37.422 --> 00:17:41.062
+Speaker 1: you do when it's off-center a little
+bit? What do you do when it's kind of blurry?
+
+204
+00:17:41.402 --> 00:17:44.962
+Speaker 1: So it has to learn other approaches
+to win.
+
+205
+00:17:46.742 --> 00:17:51.782
+Speaker 1: So there are other things you can do.
+Noise injection. You can do loss function
+
+206
+00:17:51.842 --> 00:17:56.822
+Speaker 1: penalties. Um, so this is a way of
+saying l-- uh, nonlinear loss function
+penalties.
+
+207
+00:17:57.202 --> 00:18:01.582
+Speaker 1: This is a way of saying, if you're a
+little bit wrong, that's okay. If you're really
+
+208
+00:18:01.622 --> 00:18:06.622
+Speaker 1: wrong, we're gonna penalize you, not
+just, like, the same amount more. If you're
+
+209
+00:18:06.702 --> 00:18:11.822
+Speaker 1: fifty percent wrong, you don't get
+fifty percent penalty. You get five hundred
+
+210
+00:18:11.882 --> 00:18:17.422
+Speaker 1: percent penalty, right? It goes
+exponential. So if you're really bad, you're way
+off
+
+211
+00:18:17.462 --> 00:18:22.992
+Speaker 1: on something, we're gonna penalize
+you severely. We can do things like that in real
+
+212
+00:18:23.032 --> 00:18:29.032
+Speaker 1: life too. This is like saying,
+instead of I'm already on the 41st block
+
+213
+00:18:29.072 --> 00:18:34.792
+Speaker 1: with my day job. Do I really need to
+be at the 42nd block by
+
+214
+00:18:34.832 --> 00:18:40.472
+Speaker 1: learning this other niche tool to be
+a better Facebook dog walking
+
+215
+00:18:40.532 --> 00:18:46.432
+Speaker 1: marketer? Or maybe I could learn how
+
+216
+00:18:46.512 --> 00:18:51.852
+Speaker 1: to seal my radiator in my car, right?
+Even though it's not optimal.
+
+217
+00:18:52.791 --> 00:18:58.092
+Speaker 1: Maybe I could do something adjacent,
+right? Like learning photography or learning
+
+218
+00:18:58.152 --> 00:19:04.032
+Speaker 1: something else. Become more robust.
+Not because you have to, but just in case the
+
+219
+00:19:04.112 --> 00:19:10.032
+Speaker 1: tower gets shaken, right? And really,
+that's all you need to do
+
+220
+00:19:10.612 --> 00:19:16.132
+Speaker 1: is deliberately shake yourself. And
+that's all humanity needs is
+
+221
+00:19:16.212 --> 00:19:21.132
+Speaker 1: sometimes we need to be shaken.
+Because if we're not, we just keep building the
+
+222
+00:19:21.192 --> 00:19:26.492
+Speaker 1: tower taller. We keep being stuck in
+local minima.
+
+223
+00:19:26.992 --> 00:19:32.932
+Speaker 1: Hyper-optimizing for a tiny, tiny
+percentage point of a gain with our 10th layer
+of
+
+224
+00:19:33.252 --> 00:19:39.052
+Speaker 1: financial derivative. This is how you
+get content that isn't content.
+
+225
+00:19:39.732 --> 00:19:42.412
+Speaker 1: It's vapid. There's nothing there.
+
+226
+00:19:44.172 --> 00:19:49.972
+Speaker 1: I think I've said that content is
+becoming double speak. What does it even mean?
+You
+
+227
+00:19:50.032 --> 00:19:55.972
+Speaker 1: can't just pump this stuff out. What
+are we doing? It's very clear to me that we're
+
+228
+00:19:56.012 --> 00:20:01.012
+Speaker 1: not just over-financialized, we're
+over-specialized. Too many layers of derivatives
+
+229
+00:20:01.092 --> 00:20:07.052
+Speaker 1: at every level. And the answer is
+shake it. Because we're stuck in a local
+
+230
+00:20:07.112 --> 00:20:13.012
+Speaker 1: minima. And if we ever want to get to
+the global minima of our society, we should
+
+231
+00:20:13.092 --> 00:20:18.892
+Speaker 1: thoughtfully shake ourselves. We
+should thoughtfully start becoming more robust
+and
+
+232
+00:20:18.932 --> 00:20:24.492
+Speaker 1: prepared and well-rounded where we
+can. So that when the tower does fall,
+
+233
+00:20:24.712 --> 00:20:25.972
+Speaker 1: because it will fall,
+
+234
+00:20:27.832 --> 00:20:31.732
+Speaker 1: hopefully it doesn't fall all the way
+down to the first block, if you catch my
+
+235
+00:20:31.772 --> 00:20:37.632
+Speaker 1: drift. So that's how I think about
+local minima and why I think they're a useful
+
+236
+00:20:37.692 --> 00:20:43.132
+Speaker 1: concept. We get stuck because we find
+something that works well,
+
+237
+00:20:44.012 --> 00:20:47.652
+Speaker 1: right? This is sort of analogous to
+
+238
+00:20:49.412 --> 00:20:52.932
+Speaker 1: being happy, being good instead of
+great, you know, from the book Good to Great.
+
+239
+00:20:54.192 --> 00:20:58.412
+Speaker 1: Fantastic concept. Very similar.
+You'll find analogies all over the place. But
+the
+
+240
+00:20:58.432 --> 00:21:01.732
+Speaker 1: way I like to think of it is local
+minima. Because I can just imagine myself being
+
+241
+00:21:01.772 --> 00:21:07.552
+Speaker 1: on a bike, like stuck at the bottom
+of a hill in a valley between two hills. And
+
+242
+00:21:07.612 --> 00:21:12.752
+Speaker 1: even though I know that there's a
+lower point farther away, I can't get there
+
+243
+00:21:12.792 --> 00:21:18.472
+Speaker 1: because I'm not willing to climb this
+hill on my bike. So that is my advice.
+
+244
+00:21:19.672 --> 00:21:23.092
+Speaker 1: Begin to notice when you're stuck in
+a local minima. When you're stuck,
+
+245
+00:21:24.752 --> 00:21:29.832
+Speaker 1: you need to start climbing. You need
+to see what's over the next hill. Because
+
+246
+00:21:29.892 --> 00:21:34.832
+Speaker 1: chances are, it's a lower point. It's
+a better local minima.

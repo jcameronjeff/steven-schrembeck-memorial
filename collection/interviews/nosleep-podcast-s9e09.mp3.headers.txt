@@ -1,0 +1,92 @@
+HTTP/2 302 
+date: Sat, 10 Oct 2026 17:33:47 GMT
+content-type: text/html; charset=utf-8
+content-length: 171
+access-control-allow-origin: *
+location: https://clrtpod.com/m/pscrb.fm/rss/p/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8288534.mp3?modified=1682529085&sid=5101646&source=rss
+via: 1.1 google
+
+HTTP/2 302 
+date: Sat, 10 Oct 2026 17:33:48 GMT
+content-type: text/plain; charset=utf-8
+content-length: 148
+location: https://pscrb.fm/rss/p/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8288534.mp3?modified=1682529085&sid=5101646&source=rss
+x-powered-by: Express
+access-control-allow-origin: *
+vary: Accept
+
+HTTP/2 302 
+server: awselb/2.0
+date: Sat, 10 Oct 2026 17:33:48 GMT
+content-type: audio/mpeg
+content-length: 0
+location: https://prefix-v4.pscrb.fm/shadow/ipv4/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8288534.mp3?modified=1682529085&sid=5101646&source=rss&pscrb_ip=2600:6c5a:583f:765b:59c:a6de:d858:e2b5
+x-robots-tag: noindex, nofollow
+access-control-allow-origin: *
+
+HTTP/2 302 
+server: awselb/2.0
+date: Sat, 10 Oct 2026 17:33:49 GMT
+content-type: audio/mpeg
+content-length: 0
+location: https://dts.podtrac.com/redirect.mp3/audioboom.com/posts/8288534.mp3?modified=1682529085&pscrb_ip=2600:6c5a:583f:765b:59c:a6de:d858:e2b5&sid=5101646&source=rss
+x-robots-tag: noindex, nofollow
+access-control-allow-origin: *
+
+HTTP/2 302 
+date: Sat, 10 Oct 2026 17:33:49 GMT
+location: https://audioboom.com/posts/8288534.mp3?modified=1682529085&pscrb_ip=2600:6c5a:583f:765b:59c:a6de:d858:e2b5&sid=5101646&source=rss
+cache-control: no-cache, no-store, must-revalidate
+pragma: no-cache
+expires: -1
+
+HTTP/2 302 
+date: Sat, 10 Oct 2026 17:33:49 GMT
+content-type: text/html; charset=utf-8
+content-length: 0
+location: https://d11untcg2uthr3.cloudfront.net/v1/download/attachments/43797503/nosleep-podcast-s9e09.mp3?a=en&b=%5B%22IAB1-8%22%2C%22IAB1-9%22%2C%22IAB9-7%22%2C%22IAB9-25%22%2C%22IAB9-30%22%2C%22IAB19-29%22%2C%22IAB17-14%22%2C%22IAB17-18%22%2C%22IAB9-32%22%2C%22IAB11%22%2C%22IAB11-4%22%2C%22IAB7-37%22%2C%22IAB7-18%22%2C%22IAB7-34%22%2C%22IAB7-36%22%2C%22IAB1-6%22%2C%22IAB6-7%22%2C%22IAB7-39%22%2C%22IAB7-45%22%2C%22IAB14-10%22%2C%22IAB24%22%2C%22IAB25%22%5D&c=%5B%22Fiction%22%2C%22Science+Fiction%22%2C%22Arts%22%2C%22Performing+Arts%22%2C%22Society+%5Cu0026+Culture%22%5D&content_explicit=true&d=2017-07-02&e=dist%3Dgeneral_run_ads%26one_min%3D1048932%26pl%3Drss%26sub%3Dex&eg=07c5848ab156c85dc6667aba2e20ed4b&esi=56ab1026-7564-47d0-808d-4075b559ead3&et=NoSleep+Podcast+S9E09&eu=https%3A%2F%2Fclrtpod.com%2Fm%2Fpscrb.fm%2Frss%2Fp%2Fdts.podtrac.com%2Fredirect.mp3%2Faudioboom.com%2Fposts%2F8288534.mp3%3Fmodified%3D1787071186%26sid%3D5101646%26source%3Drss&f=88932&g=8288534&h=5101646&i=8288534-43797503&k=https%3A%2F%2Faudioboom.com%2Fchannels%2F5101646.rss&n=The+NoSleep+Podcast&o=4620090&p=1&pl=rss&q=The_NoSleep_Podcast&r=128&sti=881133&t=4&u=audioboom&v=inline&Expires=1791675229&Signature=nV-bYGXGsnX4~2aNi7AHujKbNFMkabXsjHRKPa90F2wFG7lMeCdFHLoqnJmfShGu-M-uRkEQ2YFZaRcs6AqqENQVUSUXH1dZzZvr6pO67NzNpPHQjCmflqsDzby-hoCWzEMqTMvyJmIX2F~HP3bzp3RZHSou9e-dGjVRijNOHSo2yhTwePxh6ZUwx1eD-vR1QiI04eBxYH8edSsEq4GEWvPG4wNK-l1TchHZCsyLKWamSzrfeqG1UBixg9ZIlomNpQzhb1DPytKMeshYJZPfOLI5vs0Exh7c0ue4c2q-Lh4Hy0VgcdwT~rBBb52v6hXWv4BOX0YaSY--VvxzATDOQA__&Key-Pair-Id=K20FFT4H3A895N
+server: cloudflare
+cache-control: no-cache
+content-security-policy: default-src 'none'; base-uri 'none'; frame-src 'self' js.stripe.com challenges.cloudflare.com embeds.audioboom.com; font-src 'self'; connect-src 'self' blob: https: wss://audioboom.com; img-src 'self' data: https:; media-src 'self' blob: https:; script-src 'self' www.google-analytics.com js-agent.newrelic.com js.stripe.com bam.nr-data.net bam-cell.nr-data.net challenges.cloudflare.com sentry.io 'unsafe-inline' 'strict-dynamic' 'report-sample' 'nonce-QlxoeAocFdCUptPtHYTTwA=='; manifest-src 'self'; style-src 'self' 'unsafe-inline'; style-src-attr 'unsafe-inline'; style-src-elem 'self' 'nonce-QlxoeAocFdCUptPtHYTTwA=='
+referrer-policy: strict-origin-when-cross-origin
+strict-transport-security: max-age=63072000; includeSubDomains
+vary: Accept, Origin
+x-audioboom: 1
+x-content-type-options: nosniff
+x-frame-options: SAMEORIGIN
+x-permitted-cross-domain-policies: none
+x-request-id: 3a279281fce52aecfb76f7f38c7e0aab
+x-runtime: 0.013965
+x-xss-protection: 0
+cf-cache-status: DYNAMIC
+cf-ray: a4875f51ed8b5598-ATL
+
+HTTP/2 302 
+content-type: application/json
+content-length: 0
+location: https://d11untcg2uthr3.cloudfront.net/v1/variant/7412a687-0056-5795-b635-62a6d0c7210b.mp3?session_id=cfa76198-2013-53c8-b06f-8d31e7860d20&ab=128&al=4620090&ao=88932&cc=YYYYYYYYYY&ct=DOWNLOAD&episode_id=8288534&show_id=5101646&user_id=The_NoSleep_Podcast&organization_id=audioboom&tenant=AUDIOBOOM&timestamp=1791653630&metadata=dist%3Dgeneral_run_ads%26one_min%3D1048932%26pl%3Drss%26sub%3Dex&response-content-disposition=inline&ppi=a85d3310-2cbe-54ec-9a32-451ac172b764&epi=33ce3112-7543-5f0b-be64-a92d2d687a92&sti=881133&emt=audio&media_type=dynamic&fallback_url=https%3A%2F%2Fd11untcg2uthr3.cloudfront.net%2Fattachments%2F43797503%2Fnosleep-podcast-s9e09.mp3%3Fsession_id%3Dcfa76198-2013-53c8-b06f-8d31e7860d20%26ab%3D128%26al%3D4620090%26ao%3D88932%26cc%3DYYYYYYYYYY%26ct%3DDOWNLOAD%26episode_id%3D8288534%26show_id%3D5101646%26user_id%3DThe_NoSleep_Podcast%26organization_id%3Daudioboom%26tenant%3DAUDIOBOOM%26timestamp%3D1791653630%26metadata%3Ddist%253Dgeneral_run_ads%2526one_min%253D1048932%2526pl%253Drss%2526sub%253Dex%26response-content-disposition%3Dinline%26ppi%3Da85d3310-2cbe-54ec-9a32-451ac172b764%26epi%3D33ce3112-7543-5f0b-be64-a92d2d687a92%26sti%3D881133%26emt%3Daudio%26media_type%3Dstatic%26edt%3Dmp3%26Expires%3D1791740030%26Key-Pair-Id%3DK1J2BR3INU6RYD%26Signature%3DPr08CVR2ZougYVZsU46~AJty8vt11eBHTMVzocfjO5sYSgmEW6uTVnI8avoz1bD4rskPotCVR6M4gvf340jIYxaSBOHqG~Mx6hW1ULP3WdNqQyivBu0q~ByxLZmvAGl35Li6-vVI6EqDytDxrU4rPtzFvDoz~5K9oQWwGW8ayJTqkh00GOwqWp~-FlAS5V07OccDgHqrLWIAajnmdm5d7XoC8u-UJW-JV7GQsgq6TEgXWxhNKJx7XRZJ-NL33ZlrTLV3twr2vY2dnlaLesKvxVsHUnJeDM8hJqvOepBJhQhRDY2dHfjRFSgXpCm27mNOl5uY-rrBwIsvaOJ6jFk8JA__&edt=mp3&Expires=1791740032&Key-Pair-Id=K1J2BR3INU6RYD&Signature=f-MzydgvfHlvTW5fERIBzXxuytJUKhjfrXB1Wc7LOnGnNemGtLzkYTYL-rhMiO1n8JcF-mfi~A~XRHQOOsW2t4c-tTehgHZZ-WlJiku0MVDTOUOYDjGvxh-3BZDxFOaoIAoxiksEv8Oow2R5yJvxhGGqJGOX9upu50uzcQEm4-pe5X1yExZF0RlJrsOeXXPlhV8ofXStq68mNqsPD08~xaZSxMEPqry8XVw-rdDq9BHJUG5kJ6xkC0HEoTMzJz9BMfEVURtzN6Ocrg4cvHa80jLQk5y9m-hffwa6kRGlCPDu7Q8cncpRhk4ATAFx1jTdU6xSAQa6M0A~7I~Y3GqLKg__
+date: Sat, 10 Oct 2026 17:33:52 GMT
+x-amzn-trace-id: Root=1-6aca76fe-6a277f3f3546ad630d88b1c0;Parent=050447f99fd96b39;Sampled=0;Lineage=1:91c3737c:0
+x-amzn-requestid: a51eb387-9fd7-4c4e-985f-a168c2f4576e
+x-cache: Miss from cloudfront
+via: 1.1 f59a03d0f4a8c2acf12bbe8914ec4cce.cloudfront.net (CloudFront)
+x-amz-cf-pop: ATL59-P14
+alt-svc: h3=":443"; ma=86400
+x-amz-cf-id: HO70rgGX-mu3QEyADFejN5f8jxW7hcVRek1d9YiGRBEufu2AlgXt5w==
+vary: Origin
+
+HTTP/2 200 
+content-type: audio/mpeg
+content-length: 74617033
+server: CloudFront
+cache-control: max-age=604800, no-transform
+accept-ranges: bytes
+content-disposition: inline
+date: Sat, 10 Oct 2026 17:33:52 GMT
+x-cache: Miss from cloudfront
+via: 1.1 f59a03d0f4a8c2acf12bbe8914ec4cce.cloudfront.net (CloudFront)
+x-amz-cf-pop: ATL59-P14
+alt-svc: h3=":443"; ma=86400
+x-amz-cf-id: _uo0tK2mu2UknsXm-KTVCbOAVSDGF9Py3KNuweGeGlElIjYez3KtGA==
+vary: Origin
+

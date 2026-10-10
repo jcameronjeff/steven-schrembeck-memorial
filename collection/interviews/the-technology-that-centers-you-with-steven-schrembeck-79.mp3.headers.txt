@@ -1,0 +1,22 @@
+HTTP/2 302 
+date: Sat, 10 Oct 2026 17:33:45 GMT
+content-type: text/html; charset=UTF-8
+location: https://www.buzzsprout.com/2302168/episodes/17280600-the-technology-that-centers-you-with-steven-schrembeck-79.mp3
+server: nginx
+x-frame-options: SAMEORIGIN
+x-xss-protection: 1; mode=block
+x-content-type-options: nosniff
+
+HTTP/2 404 
+date: Sat, 10 Oct 2026 17:33:45 GMT
+content-type: text/html; charset=UTF-8
+strict-transport-security: max-age=63072000; includeSubDomains
+vary: Origin
+vary: accept-encoding
+x-cache: miss
+x-request-id: 46de0625-3f3d-4704-bffb-c0285f5ffe3b
+x-runtime: 0.039295
+cf-cache-status: MISS
+server: cloudflare
+cf-ray: a4875f35ffa4bd25-ATL
+

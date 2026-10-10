@@ -1,0 +1,50 @@
+{
+  "source_path": "reality/004-2-see-wake-up-remember-pt-1.mp3",
+  "automated_flags": [
+    {
+      "kind": "low_word_logprob",
+      "word_index": 565,
+      "start": 98.68,
+      "end": 98.74,
+      "text": " ",
+      "logprob": -2.467163562774658
+    },
+    {
+      "kind": "low_word_logprob",
+      "word_index": 566,
+      "start": 98.74,
+      "end": 98.92,
+      "text": "King's-",
+      "logprob": -1.4539179796619075
+    },
+    {
+      "kind": "low_word_logprob",
+      "word_index": 2821,
+      "start": 526.456,
+      "end": 526.456,
+      "text": " ",
+      "logprob": -1.332956314086914
+    },
+    {
+      "kind": "low_word_logprob",
+      "word_index": 22270,
+      "start": 3715.976,
+      "end": 3716.096,
+      "text": "I'm",
+      "logprob": -1.1297858556111653
+    }
+  ],
+  "flags_are_review_candidates_not_confirmed_errors": true,
+  "raw_word_count": 25462,
+  "spoken_word_count": 12560,
+  "speaker_ids": [
+    "speaker_0",
+    "speaker_1",
+    "speaker_2"
+  ],
+  "subtitle_cue_count": 1185,
+  "first_speech_seconds": 6.76,
+  "last_speech_seconds": 4280.348,
+  "human_correction_status": "uncorrected",
+  "source_offset_seconds": 0
+}

@@ -1,0 +1,32 @@
+{
+  "source_path": "collected/024-developer-commentary-3-updates-sound-in-layers-the-two-stories.mp3",
+  "automated_flags": [
+    {
+      "kind": "low_word_logprob",
+      "word_index": 400,
+      "start": 67.86,
+      "end": 68.72,
+      "text": "Imagiserum.",
+      "logprob": -1.1943256204734676
+    },
+    {
+      "kind": "low_word_logprob",
+      "word_index": 2027,
+      "start": 363.2,
+      "end": 363.44,
+      "text": " ",
+      "logprob": -1.1109672784805298
+    }
+  ],
+  "flags_are_review_candidates_not_confirmed_errors": true,
+  "raw_word_count": 4851,
+  "spoken_word_count": 2425,
+  "speaker_ids": [
+    "speaker_0"
+  ],
+  "subtitle_cue_count": 168,
+  "first_speech_seconds": 0.82,
+  "last_speech_seconds": 842.484,
+  "human_correction_status": "uncorrected",
+  "source_offset_seconds": 0
+}

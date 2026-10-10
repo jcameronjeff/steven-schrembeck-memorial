@@ -1,0 +1,16 @@
+{
+  "source_path": "reality/003-trailer-surprise-you-can-learn-how-it-all-works.mp3",
+  "automated_flags": [],
+  "flags_are_review_candidates_not_confirmed_errors": true,
+  "raw_word_count": 479,
+  "spoken_word_count": 238,
+  "speaker_ids": [
+    "speaker_0",
+    "speaker_1"
+  ],
+  "subtitle_cue_count": 22,
+  "first_speech_seconds": 5.1,
+  "last_speech_seconds": 102.58,
+  "human_correction_status": "uncorrected",
+  "source_offset_seconds": 0
+}

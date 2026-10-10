@@ -1,0 +1,18 @@
+HTTP/2 200 
+access-control-allow-origin: *
+cache-control: public, max-age=0, must-revalidate
+cf-ray: a4875e4ad9903e81-IAD
+content-type: text/html; charset=utf-8
+date: Sat, 10 Oct 2026 17:33:07 GMT
+link: <https://fonts.googleapis.com>; rel="preconnect"
+nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+referrer-policy: strict-origin-when-cross-origin
+report-to: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=05H7Md3IG%2BLAnZFk5jsxH6Oya%2BC9lv0aYQJ73Z9Bf8j%2FTxfiPR9lqDLvcH4%2BYkXDU5nl%2Fl0GhXLuKgFpxQK4rf1VfHRdY%2B8PVbqGenZ7LJxB%2Frql%2F03uUvHaegffc70XjArze1NxgDXCQoLrpod2SsDsrFYI%2BrA8RvR3i49gB4Z9CYrqYdI%3D"}]}
+server: Vercel
+strict-transport-security: max-age=63072000
+x-content-type-options: nosniff
+x-original-host: remembering-steven-schrembeck.opzero.sh
+x-proxied-by: opzero-middleware
+x-vercel-cache: MISS
+x-vercel-id: iad1::7d4vt-1791653587560-8bd386ee05e5
+

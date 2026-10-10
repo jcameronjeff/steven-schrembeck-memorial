@@ -1,0 +1,18 @@
+{
+  "source_path": "collected/012-mortal-steel-trailer.mp3",
+  "automated_flags": [],
+  "flags_are_review_candidates_not_confirmed_errors": true,
+  "raw_word_count": 233,
+  "spoken_word_count": 114,
+  "speaker_ids": [
+    "speaker_0",
+    "speaker_1",
+    "speaker_2",
+    "speaker_3"
+  ],
+  "subtitle_cue_count": 17,
+  "first_speech_seconds": 6.76,
+  "last_speech_seconds": 78.36,
+  "human_correction_status": "uncorrected",
+  "source_offset_seconds": 0
+}

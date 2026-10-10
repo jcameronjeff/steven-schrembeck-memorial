@@ -1,0 +1,28 @@
+HTTP/1.1 301 Moved Permanently
+Content-Type: text/html; charset=UTF-8
+Date: Sat, 10 Oct 2026 17:33:09 GMT
+Location: https://feeds.captivate.fm/collected-forge
+Server: nginx/1.22.1
+Set-Cookie: XSRF-TOKEN=eyJpdiI6InlHRFdjcUxtZFplRWlZMG5DaVd0SGc9PSIsInZhbHVlIjoiMWtKMzVvTEt2QjFHcGk2R0w0UmJqU1VyNkp4NE9wbnRsd0VmNUhTbzJWR1g5Lys1dU92Nk5DZjRDK2h0R1F6MW9XK1JHZTkzN3QrNmRyUzBNQ0VPRktTWnc0bFVPS0VaTU12cGpXUlR0YkhnN05pZ0ZmMHplemJhU0RKS0JRUmMiLCJtYWMiOiJmNmZlNjE1YjExMGZlMWRiMzcwYjEzYjhhYTU1ZDc3MWM1NWM3ZTQ0ZDFhMmExNWIwNDBlYTU2ZDE4NDI5ZGEwIiwidGFnIjoiIn0%3D; expires=Sat, 10-Oct-2026 19:33:09 GMT; Max-Age=7200; path=/
+Set-Cookie: laravel_session=eyJpdiI6IjhxTFlkVEw2dkhBSDdrSTFBNVplOXc9PSIsInZhbHVlIjoiazdUWkd6NzQzc3VxL0RIT1lNbmRMaUxVbEt4TDhzQjJBdGxSVlhtT0VZbjZtcjNmTFRPaTNpUUNiRThxaUplTXJQRStvaEJkSGNQMFljU0psMEpFWnlMd28vRkFUQ2FBdUo4T3FuNnhUdFc4MWZ4TkFoMmFRSmZGMWlrejRBM3oiLCJtYWMiOiI3YjdlMmE4ZGY3OWY4NzYzMzFjNWY5MmQ2ZmViYjg4ZTBiY2QxY2UzZDQ3NTU0YzBkNzA0MTNjZWU4ZGQ1ODhjIiwidGFnIjoiIn0%3D; expires=Sat, 10-Oct-2026 19:33:09 GMT; Max-Age=7200; path=/; httponly
+Content-Length: 414
+Connection: keep-alive
+
+HTTP/2 301 
+location: https://feeds.captivate.fm/collected-forge/
+content-length: 336
+content-type: text/html; charset=iso-8859-1
+date: Sat, 10 Oct 2026 17:33:09 GMT
+server: Apache/2.4.58 (Ubuntu)
+
+HTTP/2 200 
+last-modified: Wed, 25 Jan 2023 03:06:49 GMT
+etag: "159da-5f30dec5db2ba"
+accept-ranges: bytes
+content-length: 88538
+vary: Accept-Encoding
+access-control-allow-origin: *
+content-type: application/xml
+date: Sat, 10 Oct 2026 17:33:09 GMT
+server: Apache/2.4.58 (Ubuntu)
+

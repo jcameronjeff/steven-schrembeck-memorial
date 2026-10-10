@@ -1,0 +1,47 @@
+{
+  "source_path": "collected/016-mortal-steel-episode-2.mp3",
+  "automated_flags": [
+    {
+      "kind": "word_duration_over_3s",
+      "word_index": 2,
+      "text": "Mortal",
+      "start": 9.08,
+      "end": 50.6,
+      "note": "Suspicious word alignment; raw timestamp preserved."
+    },
+    {
+      "kind": "low_word_logprob",
+      "word_index": 2967,
+      "start": 700.52,
+      "end": 700.56,
+      "text": " ",
+      "logprob": -1.0092272758483887
+    },
+    {
+      "kind": "low_word_logprob",
+      "word_index": 2968,
+      "start": 700.56,
+      "end": 700.72,
+      "text": "he",
+      "logprob": -1.0092272758483887
+    },
+    {
+      "kind": "speech_gap_over_20s",
+      "start": 1208.532,
+      "end": 1247.152,
+      "note": "May be music, silence or an omission; review audio."
+    }
+  ],
+  "flags_are_review_candidates_not_confirmed_errors": true,
+  "raw_word_count": 5704,
+  "spoken_word_count": 2845,
+  "speaker_ids": [
+    "speaker_0",
+    "speaker_1"
+  ],
+  "subtitle_cue_count": 236,
+  "first_speech_seconds": 9.08,
+  "last_speech_seconds": 1327.572,
+  "human_correction_status": "uncorrected",
+  "source_offset_seconds": 0
+}

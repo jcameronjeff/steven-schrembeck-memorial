@@ -1,0 +1,26 @@
+{
+  "source_path": "collected/030-everhouse-episode-1.mp3",
+  "automated_flags": [
+    {
+      "kind": "leading_no_speech",
+      "start": 0,
+      "end": 50.36
+    },
+    {
+      "kind": "trailing_no_speech",
+      "start": 1690.766,
+      "end": 1712.112
+    }
+  ],
+  "flags_are_review_candidates_not_confirmed_errors": true,
+  "raw_word_count": 7768,
+  "spoken_word_count": 3871,
+  "speaker_ids": [
+    "speaker_0"
+  ],
+  "subtitle_cue_count": 301,
+  "first_speech_seconds": 50.36,
+  "last_speech_seconds": 1690.766,
+  "human_correction_status": "uncorrected",
+  "source_offset_seconds": 0
+}

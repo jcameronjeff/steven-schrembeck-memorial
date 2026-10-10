@@ -1,0 +1,15 @@
+{
+  "source_path": "collected/037-remaster-dust-episode-2-final-scene-only.mp3",
+  "automated_flags": [],
+  "flags_are_review_candidates_not_confirmed_errors": true,
+  "raw_word_count": 1269,
+  "spoken_word_count": 635,
+  "speaker_ids": [
+    "speaker_0"
+  ],
+  "subtitle_cue_count": 48,
+  "first_speech_seconds": 0.4,
+  "last_speech_seconds": 273.2,
+  "human_correction_status": "uncorrected",
+  "source_offset_seconds": 0
+}

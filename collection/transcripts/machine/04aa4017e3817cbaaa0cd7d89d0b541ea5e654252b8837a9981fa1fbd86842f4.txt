@@ -1,0 +1,13 @@
+Web3 Fundamentals Ep. 01 Financial Alignment
+Source: youtube/20230406-ZXmace-9u9M-Web3 Fundamentals Ep. 01 Financial Alignment.mkv
+SHA-256: 04aa4017e3817cbaaa0cd7d89d0b541ea5e654252b8837a9981fa1fbd86842f4
+Model: scribe_v2 | Transcribed: 2026-10-10T18:21:06.036894+00:00
+Machine transcript — uncorrected. Speaker labels are local to this recording and do not identify people.
+
+[00:00:00.080] Speaker 1: [gentle music] This is Seeking Minima. There's some interesting news over the weekend about the health of the US banking system. Now, if you've seen my video on local minima, you know that this is not at all surprising to me. Everything is way over-financialized, so they're kinda just shuffling around [chuckles] the pieces a little while longer. That's fine. But what it did remind me of is the importance of the Web3 values, and these were never about getting rich. They were never about any of the
+
+[00:00:34.800] Speaker 1: madness that we saw recently. To me, it has always been about helping humans coordinate, solve social coordination problems, getting us to work together and play on the same team, and be nice to each other, and work towards the same goal. So we're gonna talk about three of the Web3 values and why they're so important to everybody. They are important for the same reason that freedom of speech is important. Doesn't matter whether you like it or not. It is useful. And the first one is financial alignment. Financial alignment is the oldest and simplest of them. This is like equity in a startup.
+
+[00:01:09.760] Speaker 1: You take risks together. You get rewards together. If it works, you go up together. If it doesn't, you go down, you go down together. It's that simple. By tying yourself to another person with something to lose, you guys actually work together pretty well. You are incentivized to help one another, and that's why financial alignment is the simplest and easiest, and typically the first one to go to when you just need people to work together. It's old-fashioned, but it still works, even in the digital age.
+
+[00:01:49.720] Speaker 1: [upbeat music]

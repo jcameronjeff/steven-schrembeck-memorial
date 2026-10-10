@@ -1,0 +1,26 @@
+{
+  "source_path": "collected/032-planescarred-episode-2-raw.mp3",
+  "automated_flags": [
+    {
+      "kind": "leading_no_speech",
+      "start": 0,
+      "end": 53.56
+    },
+    {
+      "kind": "trailing_no_speech",
+      "start": 1501.08,
+      "end": 1573.272
+    }
+  ],
+  "flags_are_review_candidates_not_confirmed_errors": true,
+  "raw_word_count": 6807,
+  "spoken_word_count": 3400,
+  "speaker_ids": [
+    "speaker_0"
+  ],
+  "subtitle_cue_count": 264,
+  "first_speech_seconds": 53.56,
+  "last_speech_seconds": 1501.08,
+  "human_correction_status": "uncorrected",
+  "source_offset_seconds": 0
+}

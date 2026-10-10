@@ -1,0 +1,57 @@
+{
+  "source_path": "reality/006-4-see-wake-up-remember-pt-3.mp3",
+  "automated_flags": [
+    {
+      "kind": "low_word_logprob",
+      "word_index": 3734,
+      "start": 683.08,
+      "end": 683.12,
+      "text": " ",
+      "logprob": -1.0349676609039307
+    },
+    {
+      "kind": "low_word_logprob",
+      "word_index": 13144,
+      "start": 2269.256,
+      "end": 2269.276,
+      "text": " ",
+      "logprob": -1.0128308534622192
+    },
+    {
+      "kind": "low_word_logprob",
+      "word_index": 13145,
+      "start": 2269.296,
+      "end": 2269.396,
+      "text": "this",
+      "logprob": -1.0128308534622192
+    },
+    {
+      "kind": "low_word_logprob",
+      "word_index": 14230,
+      "start": 2433.576,
+      "end": 2433.596,
+      "text": " ",
+      "logprob": -1.0359413623809814
+    },
+    {
+      "kind": "low_word_logprob",
+      "word_index": 14231,
+      "start": 2433.596,
+      "end": 2433.856,
+      "text": "psi",
+      "logprob": -1.0359413623809814
+    }
+  ],
+  "flags_are_review_candidates_not_confirmed_errors": true,
+  "raw_word_count": 20699,
+  "spoken_word_count": 10278,
+  "speaker_ids": [
+    "speaker_0",
+    "speaker_1"
+  ],
+  "subtitle_cue_count": 859,
+  "first_speech_seconds": 10.02,
+  "last_speech_seconds": 3522.388,
+  "human_correction_status": "uncorrected",
+  "source_offset_seconds": 0
+}

@@ -1,0 +1,24 @@
+HTTP/1.1 302 Moved Temporarily
+Location: https://podcasts.captivate.fm/media/415c3fdd-4605-40f0-82f8-e910902bc263/food-and-frequency-converted.mp3
+Expires: Sat, 10 Oct 2026 17:33:22 GMT
+Cache-Control: max-age=0, no-cache, no-store
+Pragma: no-cache
+Date: Sat, 10 Oct 2026 17:33:22 GMT
+Alt-Svc: h3=":443"; ma=93600,h3-29=":443"; ma=93600
+Connection: close
+Strict-Transport-Security: max-age=86400 ; includeSubDomains
+
+HTTP/1.1 200 OK
+Content-Type: audio/mpeg
+Content-Length: 14281553
+Accept-Ranges: bytes
+Last-Modified: Fri, 24 Jul 2026 18:35:08 GMT
+x-rgw-object-type: Normal
+ETag: "1daaa144d0fa6bd37462583f0604e32c-2"
+x-amz-tagging-count: 0
+x-amz-request-id: tx00000e701c7c72fc2539c-006ac2ba5d-11bc7a032-default
+Date: Sat, 10 Oct 2026 17:33:22 GMT
+Alt-Svc: h3=":443"; ma=93600,h3-29=":443"; ma=93600
+Connection: keep-alive
+Strict-Transport-Security: max-age=86400 ; includeSubDomains ; preload
+

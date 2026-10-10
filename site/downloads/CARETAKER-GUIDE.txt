@@ -1,0 +1,70 @@
+THE STEVEN SCHREMBECK ARCHIVE
+Caretaker guide - October 10, 2026
+
+OPEN THE COLLECTION
+Unzip the complete archive and open START-HERE.html in a web browser.
+The site works from ordinary HTML, CSS, JavaScript and media files. Reading,
+search, file downloads and supported audio/video playback work without an
+account, database, external font service, or analytics. JavaScript enhances
+search and menus; the content and ordinary links remain usable without it.
+MKV recordings may need a compatible desktop video player.
+
+WHAT IS INCLUDED
+The website, 19 captured articles (17 reading pages and two source captures
+marked Unpublished), 64 MP3 recordings, 24 videos, two personal photographs,
+artwork, source records, transcripts, and the original memorial exports.
+The raw collection is preserved under collection-files/.
+The archive home base links to Jeff Cameron's original remembrance instead
+of republishing that post as the story of Steven's life.
+
+KEEP INDEPENDENT COPIES
+Give the complete ZIP and its SHA256SUMS file to two trusted people.
+Keep at least one additional copy on an offline drive. Check the files after
+copying. Keep this guide with every copy. Hosting accounts are convenient
+publication surfaces, not a guarantee of permanent preservation.
+
+VERIFY
+SHA256SUMS.txt in collection-files/ records the original archive's checksums.
+SHA256SUMS-COMPLETE.txt records every file in this edition. Verify them with
+a SHA-256 checker, or `shasum -a 256 -c SHA256SUMS-COMPLETE.txt` from the
+extracted root. The original inventory may predate later additions.
+The package's external checksum verifies the ZIP itself.
+
+PUBLISH AGAIN
+Any static file server can serve the extracted root, including the media.
+The full collection is too large for GitHub Pages. Use an object store for
+large media and a static website host, preserving the relative URLs. The
+provided Cloudflare Pages Worker serves /collection-files/ from R2; the
+frontend remains ordinary files. No database is used. The deployment scripts
+are retained in the GitHub repository, not in the public download.
+Do not upload .private/, credentials, or local deployment configuration.
+
+SOURCES AND DATES
+Original URLs are linked beside the archived files when recorded. Podcast
+dates are feed publication dates; YouTube dates are upload dates; article
+dates are source Created time, which is not always publication time; talk
+dates come from recording filenames and embedded metadata. Unknown dates
+are left unknown. Machine transcripts can contain errors and are labeled.
+
+PRESERVATION STATUS
+No Internet Archive, Wayback, or Perma.cc submission has been made by this
+build. When captures are created, record the exact URLs and check every
+important page and its media. Do not assume a homepage capture includes the
+whole site. The original collection notes document known missing items.
+
+ADDING CONTENT
+Keep original files and source URLs. Record dates and attribution without
+guessing. Add new memories with their contributor's name. Keep publication
+permission with your private custody records. Avoid deleting older originals
+when making more convenient reading, listening or viewing copies.
+
+GITHUB COPY
+https://github.com/jcameronjeff/steven-schrembeck-memorial
+Install Git LFS, clone the repository, and run git lfs pull to retrieve all
+recordings. The collection/ folder holds the complete source archive.
+GitHub Releases also provides normal ZIP parts; extract all parts into the
+same folder. The smaller GitHub Pages edition links to full media on OpZero.
+
+RELATED WORKS
+The Basement in the Attic (2020) and the Inside Your House adaptation are
+linked without saved copies. Lighthouse Horror’s adaptation is saved.

@@ -1,0 +1,29 @@
+{
+  "source_path": "collected/036-the-summoner-s-rulebook-episode-1.mp3",
+  "automated_flags": [
+    {
+      "kind": "word_duration_over_3s",
+      "word_index": 7564,
+      "text": "again.",
+      "start": 1548.012,
+      "end": 1581.312,
+      "note": "Suspicious word alignment; raw timestamp preserved."
+    },
+    {
+      "kind": "leading_no_speech",
+      "start": 0,
+      "end": 31.32
+    }
+  ],
+  "flags_are_review_candidates_not_confirmed_errors": true,
+  "raw_word_count": 7565,
+  "spoken_word_count": 3776,
+  "speaker_ids": [
+    "speaker_0"
+  ],
+  "subtitle_cue_count": 285,
+  "first_speech_seconds": 31.32,
+  "last_speech_seconds": 1581.312,
+  "human_correction_status": "uncorrected",
+  "source_offset_seconds": 0
+}

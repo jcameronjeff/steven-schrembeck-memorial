@@ -1,0 +1,3008 @@
+1
+00:00:00,060 --> 00:00:10,000
+Speaker 1: [upbeat music]
+
+2
+00:00:10,080 --> 00:00:13,760
+Speaker 1: Hello, and welcome to a new episode
+of "The CTO Show with Mehmet." My name is
+
+3
+00:00:13,820 --> 00:00:17,800
+Speaker 1: Mehmet, and as you know, in each
+episode I discuss different topics about
+emerging
+
+4
+00:00:17,880 --> 00:00:23,440
+Speaker 1: technologies from AI, digital
+transformation, cybersecurity. And also I
+
+5
+00:00:23,500 --> 00:00:28,080
+Speaker 1: sometimes have guests with me who are
+subject matter experts in one of the domains I
+
+6
+00:00:28,140 --> 00:00:32,340
+Speaker 1: usually talk about. And today I'm
+very pleased to have with me Steven Schrembeck,
+
+7
+00:00:32,420 --> 00:00:37,580
+Speaker 1: who's joining me from the United
+States, from Georgia. Steven, thank you very
+much
+
+8
+00:00:37,640 --> 00:00:41,760
+Speaker 1: for being on the show today. I will
+keep it to you to introduce yourself, what you
+
+9
+00:00:41,800 --> 00:00:43,760
+Speaker 1: do, and what you are up to.
+
+10
+00:00:45,420 --> 00:00:50,920
+Speaker 2: Hey, Mehmet. So thanks for having me
+on. So I do three things that are of relevance.
+
+11
+00:00:51,300 --> 00:00:56,780
+Speaker 2: One, so I'm the founder of a startup
+called Impossible Labs, so it builds AI stuff.
+
+12
+00:00:57,240 --> 00:01:01,960
+Speaker 2: It sounds very fancy, but I'm
+basically a solopreneur plus AI, [chuckles] plus
+
+13
+00:01:02,000 --> 00:01:07,760
+Speaker 2: contractors, and I, I really like it
+that way. Uh, beyond that, I make videos on a
+
+14
+00:01:07,800 --> 00:01:12,340
+Speaker 2: channel called Seeking Minima, so
+that's what brought us here today. That channel
+
+15
+00:01:12,380 --> 00:01:17,560
+Speaker 2: has one purpose, and that is to help
+people use technology instead of being used by
+
+16
+00:01:17,640 --> 00:01:22,320
+Speaker 2: it, and that's sort of my goal. And
+then the, the last part is I write stories,
+
+17
+00:01:22,820 --> 00:01:23,780
+Speaker 2: science fiction and fantasy.
+
+18
+00:01:24,680 --> 00:01:27,720
+Speaker 1: Oh, wow. I love this combination,
+really.
+
+19
+00:01:28,160 --> 00:01:28,240
+Speaker 2: Mm-hmm.
+
+20
+00:01:28,380 --> 00:01:34,080
+Speaker 1: Now, uh, I know Steven also writing
+like you, you do software development as well,
+
+21
+00:01:34,180 --> 00:01:34,440
+Speaker 1: right?
+
+22
+00:01:35,680 --> 00:01:38,920
+Speaker 2: That's right. Yeah. I didn't mention
+the one thing that like pays the bills, right?
+
+23
+00:01:39,520 --> 00:01:44,560
+Speaker 2: Um, so I guess AI does pay the bills.
+Um, but yeah, so I've been a software
+
+24
+00:01:44,600 --> 00:01:50,080
+Speaker 2: developer for 12 years, something
+like that. Um, big corporate software developer.
+
+25
+00:01:50,500 --> 00:01:53,400
+Speaker 2: Uh, I made the rounds. I worked at
+Amazon for a while, uh-
+
+26
+00:01:53,460 --> 00:01:53,461
+Speaker 1: Okay
+
+27
+00:01:53,460 --> 00:01:59,240
+Speaker 2: ... worked at smaller companies. So
+it's been good to me, uh, but it's not,
+
+28
+00:01:59,760 --> 00:02:03,900
+Speaker 2: it's not as exciting as, um, cutting
+edge tech, which is always where my heart has
+
+29
+00:02:03,940 --> 00:02:04,120
+Speaker 2: been.
+
+30
+00:02:05,820 --> 00:02:11,680
+Speaker 1: Uh, that's great. So Steven, just wh-
+out of curiosity, like you have a mix of,
+
+31
+00:02:12,100 --> 00:02:17,940
+Speaker 1: you know, multiple things at the same
+time. So what I would say
+
+32
+00:02:18,220 --> 00:02:22,180
+Speaker 1: drove you to choose this path, uh,
+for your career?
+
+33
+00:02:25,180 --> 00:02:25,400
+Speaker 2: So
+
+34
+00:02:27,680 --> 00:02:31,880
+Speaker 2: I've moved through different kinds of
+software development and first of all, I can't
+
+35
+00:02:31,920 --> 00:02:35,540
+Speaker 2: help myself. That's the easy answer,
+right? [chuckles] It's, I can't help but be
+
+36
+00:02:35,600 --> 00:02:39,100
+Speaker 2: interested in things. Writing is
+something I haven't been able to put down for a
+
+37
+00:02:39,140 --> 00:02:43,620
+Speaker 2: long time, so that's just like
+something that won't leave me alone. Um, and
+same
+
+38
+00:02:43,640 --> 00:02:48,920
+Speaker 2: with cutting edge tech, right? Uh, I
+moved into software development because I liked
+
+39
+00:02:49,440 --> 00:02:54,760
+Speaker 2: building things. I'm not one of those
+people that loves code for code's sake. I, I
+
+40
+00:02:54,800 --> 00:02:59,180
+Speaker 2: like it as a tool, and while I am
+fascinated with building things and
+understanding
+
+41
+00:02:59,220 --> 00:03:05,100
+Speaker 2: how they work, I'm more interested in
+the opportunity to solve cool problems and
+
+42
+00:03:05,240 --> 00:03:09,040
+Speaker 2: help people. And software was just
+the easiest way to do that 'cause as you know,
+
+43
+00:03:09,120 --> 00:03:13,280
+Speaker 2: it's easy to set up, tear down, like
+there's, there's no sandbox like software. Um,
+
+44
+00:03:13,360 --> 00:03:18,080
+Speaker 2: so I think that's really what drew me
+in. And then AI is just... Honestly, it felt
+
+45
+00:03:18,100 --> 00:03:23,660
+Speaker 2: like modern day magic. I started
+building models in 2016, uh, when deep learning
+was
+
+46
+00:03:23,700 --> 00:03:28,380
+Speaker 2: having a first or second renaissance,
+depending on how you look at it. And I knew
+
+47
+00:03:28,420 --> 00:03:33,320
+Speaker 2: that this was computer magic
+[chuckles] and I wanted to know how to do it.
+Uh, so
+
+48
+00:03:33,520 --> 00:03:34,680
+Speaker 2: that's what drew me into AI.
+
+49
+00:03:36,500 --> 00:03:42,420
+Speaker 1: That's very, very cool I would say.
+Now to- l- I know this is the hot topic. It's
+
+50
+00:03:42,480 --> 00:03:48,100
+Speaker 1: on everyone's mind, right? So it's
+AI. Um, how do you
+
+51
+00:03:48,140 --> 00:03:53,900
+Speaker 1: perceive it from not only a developer
+perspective, a solopreneur perspective,
+
+52
+00:03:54,400 --> 00:03:59,420
+Speaker 1: how do you look to AI? Do you see, do
+you see it as, you know, the technology that
+
+53
+00:03:59,540 --> 00:04:05,280
+Speaker 1: will, you know, make really people's
+life easy or do you see it
+
+54
+00:04:05,680 --> 00:04:11,520
+Speaker 1: more as a, just a cool technology
+that we can do cool stuff with it?
+
+55
+00:04:12,480 --> 00:04:15,980
+Speaker 1: How, how do you perceive really the
+technology? Because there are a lot-- And the
+
+56
+00:04:16,019 --> 00:04:20,680
+Speaker 1: reason I'm asking you, Steven, this
+question, there are a lot of debates recently
+
+57
+00:04:20,740 --> 00:04:26,120
+Speaker 1: with all the hype that happened after
+ChatGPT and all these technologies. What's
+
+58
+00:04:26,160 --> 00:04:30,920
+Speaker 1: next? What's going to happen in the
+world? So from a developer perspective, a
+
+59
+00:04:30,960 --> 00:04:34,600
+Speaker 1: solopreneur perspective, what you can
+tell us about this?
+
+60
+00:04:37,940 --> 00:04:42,940
+Speaker 2: So a lot of the time the hype isn't
+real. So I also, you know, I'm very interested
+
+61
+00:04:42,980 --> 00:04:47,380
+Speaker 2: in Web3 mostly again for like
+coordination technologies. I'm terrible at, uh,
+
+62
+00:04:47,400 --> 00:04:51,220
+Speaker 2: [chuckles] I'm terrible at riding the
+hype wave. I'm always interested in the tech
+
+63
+00:04:51,240 --> 00:04:56,960
+Speaker 2: and the values. Um, so for AI, this
+time the hype is kind of real, and it was last
+
+64
+00:04:56,980 --> 00:05:01,180
+Speaker 2: time too. Uh, if you'll recall, I
+don't know what, four or five years ago, the
+last
+
+65
+00:05:01,200 --> 00:05:04,920
+Speaker 2: time deep learning really took off it
+was for vision networks, and this is really
+
+66
+00:05:04,960 --> 00:05:09,520
+Speaker 2: where the killer use case was. And
+the hype was real, it just wasn't evenly
+
+67
+00:05:09,560 --> 00:05:14,520
+Speaker 2: distributed. Now, as, as you know,
+diffusion networks for generative AI and large
+
+68
+00:05:14,560 --> 00:05:19,960
+Speaker 2: language models, uh, are the latest
+hotness and the hype really is real again. Um,
+
+69
+00:05:21,180 --> 00:05:26,800
+Speaker 2: I think the reason that we might not
+see another AI winter between here and
+
+70
+00:05:26,980 --> 00:05:32,860
+Speaker 2: AI really doing very impactful things
+to society is because
+
+71
+00:05:32,900 --> 00:05:37,580
+Speaker 2: we have a lot of Lego blocks that
+we've built up. If you followed AI development
+for
+
+72
+00:05:37,640 --> 00:05:43,060
+Speaker 2: the past, you know, decade or so, it
+keeps increasing. But what has happened is that
+
+73
+00:05:43,100 --> 00:05:47,120
+Speaker 2: everyone was increasing in their own
+silos. So, you know, nat- natural language
+
+74
+00:05:47,200 --> 00:05:52,460
+Speaker 2: processing was getting better. Um,
+time series analysis was getting better. Just
+
+75
+00:05:52,500 --> 00:05:56,080
+Speaker 2: transformer networks, all, all the
+vision networks, all of these things were
+
+76
+00:05:56,120 --> 00:06:01,200
+Speaker 2: improving. Diffusion, autoencoders,
+all these things were improving separately. And
+
+77
+00:06:01,240 --> 00:06:06,580
+Speaker 2: what happened is people from one
+domain connected a piece to another domain. So
+in
+
+78
+00:06:06,620 --> 00:06:11,520
+Speaker 2: this case, it was reinforcement
+learning plus natural language processing. Um,
+and
+
+79
+00:06:11,620 --> 00:06:15,680
+Speaker 2: plus-- And that was basically you
+connect two pieces from two verticals that have
+
+80
+00:06:15,700 --> 00:06:20,740
+Speaker 2: been advancing for a long time, and
+the result was exponential increase. It could do
+
+81
+00:06:20,760 --> 00:06:25,100
+Speaker 2: things. The difference was we have
+generative networks. We've had GANs for a long
+
+82
+00:06:25,200 --> 00:06:30,000
+Speaker 2: time, but they're sort of obtuse and
+really hard to train. The difference is we
+
+83
+00:06:30,080 --> 00:06:36,000
+Speaker 2: needed, we needed an interface that
+understood what we meant. That was the big,
+
+84
+00:06:36,060 --> 00:06:41,380
+Speaker 2: like, unlock here, is that we could
+always sort of get networks to do really good
+
+85
+00:06:41,420 --> 00:06:45,440
+Speaker 2: things narrowly, but we couldn't
+interface with them in a, in a very good way. If
+
+86
+00:06:45,480 --> 00:06:50,740
+Speaker 2: they know something like, um, like a
+large language model does, how do you get the
+
+87
+00:06:50,780 --> 00:06:55,540
+Speaker 2: information out of it? And I think
+that natural language processing was an
+interface
+
+88
+00:06:55,660 --> 00:07:01,460
+Speaker 2: moment. So the combination of all
+these individual advancements is
+
+89
+00:07:01,500 --> 00:07:06,700
+Speaker 2: really why you're seeing huge changes
+now, and the amount of individual advancement
+
+90
+00:07:06,740 --> 00:07:10,900
+Speaker 2: has not stopped. So I would be very
+surprised if there were not more verticals to
+
+91
+00:07:10,920 --> 00:07:16,740
+Speaker 2: combine and again, create another
+ridiculous pivotal moment every six
+
+92
+00:07:16,800 --> 00:07:20,880
+Speaker 2: months or so. But you might see lulls
+in the meantime. So I'd say the hype is real,
+
+93
+00:07:22,080 --> 00:07:26,280
+Speaker 2: sort of, right? [chuckles] People
+always tend to overhype no matter what you do.
+
+94
+00:07:27,740 --> 00:07:33,380
+Speaker 1: Um, actually, Steven, you said
+something important which I discussed couple of,
+uh,
+
+95
+00:07:33,500 --> 00:07:39,040
+Speaker 1: episodes back. I, I go solo sometime
+and I said like I'm, I'm an old, not very old
+
+96
+00:07:39,120 --> 00:07:44,440
+Speaker 1: guy, but I'm an old guy enough to
+remember all the hypes in history and I don't
+
+97
+00:07:44,500 --> 00:07:50,380
+Speaker 1: remember a moment, you know, similar
+to what we are seeing today. Because I was like
+
+98
+00:07:51,120 --> 00:07:55,900
+Speaker 1: maybe 10, 11 years old when the first
+time I heard about the internet. You know, I
+
+99
+00:07:55,940 --> 00:08:00,020
+Speaker 1: was 14 years old when I tried the
+internet and then, you know, later on the
+
+100
+00:08:00,620 --> 00:08:06,220
+Speaker 1: smartphone, the Web2. Um, yeah, like
+there was
+
+101
+00:08:06,280 --> 00:08:10,800
+Speaker 1: sometimes exaggeration, sometimes,
+you know, things going, but you know, the, the
+
+102
+00:08:10,920 --> 00:08:16,380
+Speaker 1: cycle used to take very long until we
+see the next thing. But with AI, I mean
+
+103
+00:08:16,440 --> 00:08:21,100
+Speaker 1: generative AI and the NLPs and, you
+know, these all models that we are seeing today,
+
+104
+00:08:21,240 --> 00:08:25,580
+Speaker 1: I think we, we, you know, as you
+said, I like the word you said, an AI we get--
+we
+
+105
+00:08:25,600 --> 00:08:31,440
+Speaker 1: will not see an AI winter. I love
+this expression and I think we are going very
+
+106
+00:08:31,560 --> 00:08:37,300
+Speaker 1: fast. Now from a, I would say
+developer perspective, right? What do you think
+would
+
+107
+00:08:37,360 --> 00:08:43,240
+Speaker 1: be the best applications that let me
+make it very general
+
+108
+00:08:43,280 --> 00:08:46,100
+Speaker 1: that everyone can benefit on other
+than, you know, the,
+
+109
+00:08:47,700 --> 00:08:53,480
+Speaker 1: I would say the sometimes very simple
+things we see, write me an email, write me
+
+110
+00:08:53,680 --> 00:08:58,540
+Speaker 1: this. So I believe like from your
+perspective, Steven, you see a bigger picture.
+Can
+
+111
+00:08:58,580 --> 00:09:00,540
+Speaker 1: you share that with us from your
+perspective?
+
+112
+00:09:02,300 --> 00:09:02,580
+Speaker 2: Yeah.
+
+113
+00:09:04,160 --> 00:09:09,640
+Speaker 2: I think another reason why this time
+it's different is we have a very general model,
+
+114
+00:09:09,880 --> 00:09:14,380
+Speaker 2: a shockingly general model, meaning
+it can, it can reason about things, right?
+
+115
+00:09:14,460 --> 00:09:17,840
+Speaker 2: Whether it doesn't really matter
+what's happening under the hood, all that
+matters
+
+116
+00:09:17,900 --> 00:09:21,880
+Speaker 2: is the input output results in
+something that looks like commodified
+intelligence.
+
+117
+00:09:21,940 --> 00:09:26,740
+Speaker 2: It's a brain in a box. You can spin
+it up. Now it's not super smart. It's like maybe
+
+118
+00:09:26,840 --> 00:09:31,420
+Speaker 2: average adult smart, and then in a
+couple domains it's exceptionally smart, like
+law
+
+119
+00:09:31,480 --> 00:09:37,460
+Speaker 2: or some solving SAT problems. But
+what matters is that you have common
+
+120
+00:09:37,560 --> 00:09:42,120
+Speaker 2: sense reasoning in a box. That's the
+kind of thing that honestly I expected to take
+
+121
+00:09:42,180 --> 00:09:45,600
+Speaker 2: a lot longer and I think a lot of
+people did. I did not see this one coming next.
+
+122
+00:09:46,040 --> 00:09:49,520
+Speaker 2: There was a number of hurdles to
+artificial general intelligence and I didn't
+think
+
+123
+00:09:49,560 --> 00:09:55,460
+Speaker 2: this one was gonna get knocked over
+first or next anyway. So really when you think
+
+124
+00:09:55,540 --> 00:10:00,660
+Speaker 2: about how can I use this, what could
+you ask somebody that you could pay minimum
+
+125
+00:10:00,720 --> 00:10:04,980
+Speaker 2: wage or just somebody with no
+training of average intelligence to do for you
+on a
+
+126
+00:10:05,000 --> 00:10:10,980
+Speaker 2: computer? Now you can do that for
+instead of $15 an hour, depending on where
+
+127
+00:10:11,020 --> 00:10:16,639
+Speaker 2: you live, you can do that for 20
+cents and you can do it a thousand times
+
+128
+00:10:16,900 --> 00:10:22,840
+Speaker 2: faster and you can have 100,000 of
+them working. So what can you do with that?
+
+129
+00:10:23,060 --> 00:10:28,580
+Speaker 2: Well, any information processing is
+if your job is information processing,
+
+130
+00:10:30,200 --> 00:10:34,080
+Speaker 2: that's AI job now. Um, and you're
+gonna do something else. So it's kind of
+hollowing
+
+131
+00:10:34,140 --> 00:10:39,320
+Speaker 2: out the middle. It's hollowing out
+people who work on-- If your job is to turn one
+
+132
+00:10:39,400 --> 00:10:44,320
+Speaker 2: piece of information into another
+piece of information, if there is a broad skill
+
+133
+00:10:44,420 --> 00:10:48,980
+Speaker 2: set and data set for what you do,
+you're gonna be replaced pretty quickly, um,
+
+134
+00:10:49,600 --> 00:10:55,360
+Speaker 2: depending on the economic output of
+what it's worth to replace you. Except if you're
+
+135
+00:10:55,380 --> 00:11:00,540
+Speaker 2: a specialist. There is, is very hard
+to replace specialists. So I know a person
+
+136
+00:11:00,620 --> 00:11:06,140
+Speaker 2: whose job is to audit, uh, oil and
+gas refinery, uh, machinery for safety.
+
+137
+00:11:06,840 --> 00:11:11,600
+Speaker 2: And even though his job is basically
+to analyze data and spit out, okay, safe, not
+
+138
+00:11:11,660 --> 00:11:16,520
+Speaker 2: safe, do maintenance, don't do
+maintenance, replace, he's not gonna be replaced
+for
+
+139
+00:11:16,560 --> 00:11:22,480
+Speaker 2: a very long time because it's such a
+specialized knowledge set that he's fine. So
+
+140
+00:11:22,940 --> 00:11:28,780
+Speaker 2: if your job is pretty generic junior
+coder with no specialization or pretty
+
+141
+00:11:28,860 --> 00:11:32,420
+Speaker 2: generic junior designer who just does
+websites,
+
+142
+00:11:34,000 --> 00:11:38,540
+Speaker 2: you should consider using other
+things. Now I think your question was to ask how
+can
+
+143
+00:11:38,580 --> 00:11:41,480
+Speaker 2: people use this? That was sort of
+like the negative side-
+
+144
+00:11:41,540 --> 00:11:41,660
+Speaker 1: Yeah
+
+145
+00:11:41,760 --> 00:11:46,400
+Speaker 2: ... which gets a lot of attention.
+But the positive side is true too. This is
+
+146
+00:11:46,440 --> 00:11:51,460
+Speaker 2: commodified intelligence in a box. If
+something, if there's enough data, you can
+
+147
+00:11:51,500 --> 00:11:53,980
+Speaker 2: generate it. But that's the very
+general thing.
+
+148
+00:11:56,160 --> 00:12:01,700
+Speaker 2: I can tell you that what I'm using it
+for is to remove, is to really take
+
+149
+00:12:01,740 --> 00:12:07,632
+Speaker 2: control of my sort of- To fight back
+against the attention economy, I guess is the
+
+150
+00:12:07,672 --> 00:12:11,872
+Speaker 2: right way of putting it. So just for
+instance, yesterday-- Actually this morning and
+
+151
+00:12:11,912 --> 00:12:17,892
+Speaker 2: last night, I wrote a tool that uses
+OpenAI's Whisper to transcribe podcasts. So
+
+152
+00:12:17,912 --> 00:12:21,792
+Speaker 2: it takes from audio to text to give
+you a transcript, including speaker attribution,
+
+153
+00:12:21,892 --> 00:12:26,832
+Speaker 2: so who's talking. And then it takes
+that, pumps it into ChatGPT-4 through the API,
+
+154
+00:12:26,912 --> 00:12:32,252
+Speaker 2: [chuckles] and then I run it through
+a prompt where I tell it basically, "All right.
+
+155
+00:12:32,392 --> 00:12:35,692
+Speaker 2: Here's the questions I'm gonna ask.
+Here are the things I need to know about this
+
+156
+00:12:35,732 --> 00:12:39,552
+Speaker 2: podcast. Here are the viewpoints I
+wanna see." And then it just curates this
+report.
+
+157
+00:12:40,212 --> 00:12:43,532
+Speaker 2: So there are certain podcasts, let's
+say like macro investing, right? I don't really
+
+158
+00:12:43,572 --> 00:12:47,532
+Speaker 2: care about this too much. I wanna
+know roughly, you know, where the markets are. I
+
+159
+00:12:47,552 --> 00:12:52,232
+Speaker 2: don't wanna pay attention to it. News
+is-- makes you feel bad anyway. But now, with
+
+160
+00:12:52,272 --> 00:12:56,532
+Speaker 2: the push of a button, here's
+everything I need to know distilled down into a
+s- tiny
+
+161
+00:12:56,592 --> 00:13:00,312
+Speaker 2: amount, and I can curate that for
+many podcast feeds. And this is just stuff I'm
+
+162
+00:13:00,332 --> 00:13:03,392
+Speaker 2: making. So I am using it to sort of
+
+163
+00:13:04,932 --> 00:13:10,672
+Speaker 2: get more information and learn more
+than I could before, and to underst- to learn
+
+164
+00:13:10,772 --> 00:13:15,872
+Speaker 2: quickly and to synthesize
+information. I'm using it like intelligence in a
+box.
+
+165
+00:13:15,892 --> 00:13:17,292
+Speaker 2: "Hey, read this for me."
+
+166
+00:13:18,152 --> 00:13:18,292
+Speaker 1: Mm-hmm.
+
+167
+00:13:18,532 --> 00:13:23,372
+Speaker 2: "Hey, distill this down and..." But
+only in the places where my goal is just
+
+168
+00:13:23,412 --> 00:13:27,732
+Speaker 2: information. So if you wanna be
+matrix mainlined, just plug me in. Like, I just
+
+169
+00:13:27,772 --> 00:13:32,832
+Speaker 2: wanna know how to do this. This is a,
+a killer use case right now for anybody. You
+
+170
+00:13:32,852 --> 00:13:36,972
+Speaker 2: don't have to know how to program.
+Just interfacing with the, the chat clients is
+
+171
+00:13:37,012 --> 00:13:42,592
+Speaker 2: enough. Uh, you could be learning
+really, really quickly right now. And so this is
+
+172
+00:13:42,712 --> 00:13:44,912
+Speaker 2: the sort of-- This is the trade.
+
+173
+00:13:45,592 --> 00:13:45,632
+Speaker 1: Yeah.
+
+174
+00:13:45,652 --> 00:13:49,472
+Speaker 2: So you have an opportunity where AI
+is really, really useful at helping you learn
+
+175
+00:13:49,812 --> 00:13:54,432
+Speaker 2: just about anything that makes you
+very marketable right now. Or you can ignore it
+
+176
+00:13:54,572 --> 00:13:59,812
+Speaker 2: [chuckles] and sit around and wait
+for it to-- your job to be slowly eaten away.
+Um,
+
+177
+00:14:00,052 --> 00:14:04,932
+Speaker 2: so it's like you can ha- you can
+really stand out right now if you're willing to
+do
+
+178
+00:14:04,972 --> 00:14:08,752
+Speaker 2: the work and learn and try these
+things out, or you can, you know, wait on the
+
+179
+00:14:08,792 --> 00:14:09,212
+Speaker 2: sidelines.
+
+180
+00:14:11,012 --> 00:14:16,492
+Speaker 1: Wow. You know, like what you are
+trying to build is, uh, something similar. Uh, I
+
+181
+00:14:16,552 --> 00:14:22,512
+Speaker 1: mean, not exactly the same idea, but
+I wanted to... I rely on
+
+182
+00:14:22,552 --> 00:14:28,472
+Speaker 1: preparing this podcast on some news
+feeds. So, and one of the use cases I thought is
+
+183
+00:14:29,292 --> 00:14:34,672
+Speaker 1: let ChatGPT or whatever API read
+these feeds and just select which ones are
+
+184
+00:14:34,712 --> 00:14:40,372
+Speaker 1: important so I can choose a topic,
+for example. Now, you mentioned
+
+185
+00:14:40,732 --> 00:14:46,492
+Speaker 1: the word prompt several times, and
+there's a hype, if we can call it, about prompt
+
+186
+00:14:46,532 --> 00:14:51,832
+Speaker 1: engineers, right? So prompt engineers
+and, you know, from your perspective, and
+
+187
+00:14:51,892 --> 00:14:56,672
+Speaker 1: let's discuss it both, you know, from
+a real software development perspective and
+
+188
+00:14:56,832 --> 00:15:02,472
+Speaker 1: plus, you know, a realistic use case
+perspective. How important is the prompt
+
+189
+00:15:02,812 --> 00:15:05,392
+Speaker 1: when interacting with models like
+ChatGPT?
+
+190
+00:15:08,732 --> 00:15:13,592
+Speaker 2: Ideally, over time, the prompt
+becomes less important. If you have a good
+natural
+
+191
+00:15:13,652 --> 00:15:18,292
+Speaker 2: language model, the goal is for it to
+be a better interface. So I'll, I'll just take
+
+192
+00:15:18,332 --> 00:15:20,712
+Speaker 2: a step back and do a little technical
+explanation that I-
+
+193
+00:15:21,012 --> 00:15:21,332
+Speaker 1: Yes, please
+
+194
+00:15:21,352 --> 00:15:24,532
+Speaker 2: ... hopefully doesn't put people to
+sleep, but I think is very useful for
+
+195
+00:15:24,572 --> 00:15:30,352
+Speaker 2: understanding how these things work.
+So at the center of
+
+196
+00:15:30,872 --> 00:15:35,932
+Speaker 2: these large language models, and even
+stuff like diffusion models, um, is something
+
+197
+00:15:36,012 --> 00:15:40,872
+Speaker 2: that researchers call latent space,
+which in my opinion, they just use a technical
+
+198
+00:15:40,932 --> 00:15:44,932
+Speaker 2: sounding term to describe something
+that's very complicated. I like to think of it
+
+199
+00:15:44,992 --> 00:15:49,912
+Speaker 2: as just this big information soup.
+It's encoded in a sort of machine language. It's
+
+200
+00:15:49,952 --> 00:15:53,952
+Speaker 2: just a representation that the model
+has learned about the wor- the world in the
+
+201
+00:15:54,032 --> 00:15:58,292
+Speaker 2: most dense format, right? This is the
+center of everything it knows. This is where
+
+202
+00:15:58,352 --> 00:16:03,692
+Speaker 2: it's recorded all the information it
+knows, all the patterns it needs to find. You
+
+203
+00:16:03,712 --> 00:16:08,752
+Speaker 2: can think of it, it's like its
+repository of knowledge, but it's not in words.
+It's
+
+204
+00:16:08,832 --> 00:16:14,192
+Speaker 2: in, technically in embeddings. Uh,
+it's just hyper-compressed information.
+
+205
+00:16:14,992 --> 00:16:20,712
+Speaker 2: So it knows a lot of stuff about a
+lot of stuff. You know, the, the OpenAI models
+
+206
+00:16:20,752 --> 00:16:26,432
+Speaker 2: have read a bulk of the public
+internet, so they know a lot of
+
+207
+00:16:26,472 --> 00:16:30,892
+Speaker 2: things. In fact, they know a lot more
+than we can pull out of them. And so a lot of
+
+208
+00:16:30,932 --> 00:16:36,312
+Speaker 2: the trick is how do we get out-- I
+know you can do this. How do I get you to know
+
+209
+00:16:36,332 --> 00:16:40,652
+Speaker 2: what I mean and so that I can
+synthesize, either do these operations, write
+this
+
+210
+00:16:40,692 --> 00:16:42,712
+Speaker 2: code, perform these tasks, help me-
+
+211
+00:16:42,752 --> 00:16:42,932
+Speaker 1: Mm-hmm
+
+212
+00:16:42,952 --> 00:16:48,112
+Speaker 2: ... read this thing, understand what
+I'm trying to get? So that interface gap
+
+213
+00:16:48,332 --> 00:16:52,472
+Speaker 2: between I know you have this
+information in your latent space, in this ocean
+of
+
+214
+00:16:52,512 --> 00:16:57,732
+Speaker 2: information, I know you can do this.
+I'm trying to get you to focus only on what I
+
+215
+00:16:57,772 --> 00:17:02,032
+Speaker 2: want you to do, and there's some
+misalignment there. So there's a gap in the
+
+216
+00:17:02,092 --> 00:17:05,612
+Speaker 2: interface, which is do you know what
+I mean, and can you-
+
+217
+00:17:05,692 --> 00:17:05,712
+Speaker 1: Mm-hmm
+
+218
+00:17:05,712 --> 00:17:10,112
+Speaker 2: ... sort of pull it out of what you
+actually know how to do? So that's what prompt
+
+219
+00:17:10,172 --> 00:17:15,492
+Speaker 2: engineering right now solves for, is
+can you shrink that gap to be better at
+
+220
+00:17:15,792 --> 00:17:20,952
+Speaker 2: synthesizing what you want from these
+large language models? So right now it is
+
+221
+00:17:21,032 --> 00:17:27,032
+Speaker 2: useful. I-- It will probably be
+useful for a while, but in theory, as
+
+222
+00:17:27,052 --> 00:17:31,432
+Speaker 2: things get better, that interface
+should get better, and the models will get
+better
+
+223
+00:17:31,452 --> 00:17:35,692
+Speaker 2: and better at understanding what you
+want so that you don't have to use all these
+
+224
+00:17:35,732 --> 00:17:39,412
+Speaker 2: tricks of the trade. So I wouldn't
+say there's a super long shelf life on this
+
+225
+00:17:39,452 --> 00:17:41,492
+Speaker 2: skill, but I could be wrong.
+
+226
+00:17:43,472 --> 00:17:48,332
+Speaker 1: And that could be [chuckles] -- You
+know, like, because yesterday, when actually in
+
+227
+00:17:48,372 --> 00:17:54,152
+Speaker 1: the, during the weekend, one of the
+things I was trying to do is to let the
+
+228
+00:17:54,212 --> 00:17:59,852
+Speaker 1: model tells me how best it prefers to
+be interacted with.
+
+229
+00:18:00,572 --> 00:18:00,852
+Speaker 1: And-
+
+230
+00:18:01,052 --> 00:18:01,332
+Speaker 2: Got it
+
+231
+00:18:01,392 --> 00:18:07,292
+Speaker 1: ... uh, I spent some time until, and
+actually you, people might laugh, but
+
+232
+00:18:08,032 --> 00:18:13,268
+Speaker 1: I told ChatGPT after I get the answer
+I wanted, I said, "Okay." Can we write an
+
+233
+00:18:13,328 --> 00:18:18,948
+Speaker 1: e-book about the... And put some
+examples, and it did. So as per ChatGPT,
+
+234
+00:18:19,708 --> 00:18:24,448
+Speaker 1: it prefers to have the following: a
+context, specificity,
+
+235
+00:18:24,988 --> 00:18:30,988
+Speaker 1: instruction, purpose or goal, and
+limitation. So this is what I was told by
+
+236
+00:18:31,028 --> 00:18:35,848
+Speaker 1: ChatGPT, and it gives me an example,
+by the way. If you ask me this way, exactly as
+
+237
+00:18:35,888 --> 00:18:40,528
+Speaker 1: you said, Steven, I know that I
+should search exactly in this. You know, I don't
+
+238
+00:18:40,548 --> 00:18:44,488
+Speaker 1: have to go search the whole language
+now model, because I know exactly what I have
+
+239
+00:18:44,528 --> 00:18:48,828
+Speaker 1: to go. So this is maybe where the
+prompt engineering, but I believe, you know, I
+
+240
+00:18:48,868 --> 00:18:52,468
+Speaker 1: have a little bit of technical
+background and I know a little bit how these
+models
+
+241
+00:18:52,528 --> 00:18:56,648
+Speaker 1: work. I think the more they are
+trained, the better they get, so even you will
+not
+
+242
+00:18:56,728 --> 00:19:01,988
+Speaker 1: need even, you know, an exact prompt
+to get the information out of it, right? So
+
+243
+00:19:03,188 --> 00:19:08,468
+Speaker 1: that's, that's very, very cool, I
+would say. Now, here I want to ask you, now we
+
+244
+00:19:08,528 --> 00:19:14,188
+Speaker 1: have this moment, I would say, what
+do you think other technologies will get
+
+245
+00:19:14,248 --> 00:19:19,848
+Speaker 1: combined or let's say, you know, used
+together with the, you know, all this AI,
+
+246
+00:19:20,528 --> 00:19:25,748
+Speaker 1: um, technologies? Like for example,
+personally, I think automation with AI will play
+
+247
+00:19:25,788 --> 00:19:31,248
+Speaker 1: a huge role. I started to see, you
+know, someone talked about autonomous bots that
+
+248
+00:19:31,288 --> 00:19:36,068
+Speaker 1: they can interact, you know, with
+each other. What's your view on this?
+
+249
+00:19:37,408 --> 00:19:40,308
+Speaker 2: All right. So the use... Just that's
+like three good questions.
+
+250
+00:19:40,308 --> 00:19:41,008
+Speaker 1: [chuckles]
+
+251
+00:19:41,088 --> 00:19:41,368
+Speaker 2: Um,
+
+252
+00:19:43,048 --> 00:19:43,468
+Speaker 2: so
+
+253
+00:19:45,388 --> 00:19:49,008
+Speaker 2: I think that there's a lot of-- It
+will be combined with everything. It's
+
+254
+00:19:49,028 --> 00:19:53,248
+Speaker 2: intelligence, uh, so it, it gets
+combined with everything. But I think the ones
+that
+
+255
+00:19:53,268 --> 00:19:57,748
+Speaker 2: are sort of juicy and next, I
+actually don't think it's automation. Now, I
+could be
+
+256
+00:19:57,768 --> 00:20:03,728
+Speaker 2: wrong. There is a lot of value there.
+So I think it's more like narrowly there are
+
+257
+00:20:03,748 --> 00:20:07,228
+Speaker 2: new kinds of automation that were
+just unlocked and those, yeah, that's
+greenfield.
+
+258
+00:20:07,408 --> 00:20:11,508
+Speaker 2: That'll be anything that required
+like common sense reasoning. I think that those
+
+259
+00:20:11,548 --> 00:20:16,268
+Speaker 2: things... There is-- Okay, automation
+will move forward. The reason I don't think
+
+260
+00:20:16,308 --> 00:20:21,108
+Speaker 2: that this is the automation moment, I
+mean physical movement and manufacturing,
+
+261
+00:20:21,408 --> 00:20:27,308
+Speaker 2: stuff in the real world, is because
+physical stuff is hard. [chuckles] It's hard and
+
+262
+00:20:27,348 --> 00:20:33,168
+Speaker 2: expensive and physics is finicky, and
+moving stuff around in the real world requires
+
+263
+00:20:33,248 --> 00:20:38,808
+Speaker 2: precision and rules and money and a
+lot of testing that is a lot
+
+264
+00:20:38,968 --> 00:20:42,188
+Speaker 2: slower than doing stuff in the
+digital world. And this is something that
+surprised
+
+265
+00:20:42,228 --> 00:20:46,448
+Speaker 2: me, but I, as soon as I saw
+diffusion, I don't know, what is that? A year
+ago,
+
+266
+00:20:46,548 --> 00:20:51,248
+Speaker 2: something like that. When stable
+diffusion first came out, I knew immediately
+that,
+
+267
+00:20:51,528 --> 00:20:57,248
+Speaker 2: oh, I was wrong. It's not automation.
+It's, it's coming for knowledge workers
+
+268
+00:20:57,308 --> 00:21:02,508
+Speaker 2: first. It's coming for everything. So
+that sounds very sinister, but like, because
+
+269
+00:21:02,548 --> 00:21:06,188
+Speaker 2: that's where the data is. Not only is
+that where the da- the data is, but the people
+
+270
+00:21:06,308 --> 00:21:07,148
+Speaker 2: building these things,
+
+271
+00:21:08,688 --> 00:21:13,548
+Speaker 2: this is what they understand, right?
+They understand how to use computers, how to do
+
+272
+00:21:13,608 --> 00:21:19,148
+Speaker 2: information jobs, how to program, how
+to do design. So not only do they have the
+
+273
+00:21:19,168 --> 00:21:23,408
+Speaker 2: data sets, but this is a dom- set of
+domains they understand. So knowledge work will
+
+274
+00:21:23,428 --> 00:21:28,588
+Speaker 2: be automated actually before robots.
+So hilariously, it's the plumbers and the
+
+275
+00:21:28,828 --> 00:21:33,328
+Speaker 2: mechanics and even the factory
+workers of the world that will probably, uh, be
+
+276
+00:21:33,368 --> 00:21:38,288
+Speaker 2: gainfully employed, you know, longer
+than the sort of Silicon Valley types, which is
+
+277
+00:21:38,328 --> 00:21:44,148
+Speaker 2: im- highly amusing. Um, but again,
+it, that sounds sort of dark.
+
+278
+00:21:44,648 --> 00:21:48,508
+Speaker 2: I think the other ways I would
+combine this, I, I can just tell you what I'm
+doing.
+
+279
+00:21:49,228 --> 00:21:53,648
+Speaker 2: One of the products I'm most excited
+about is called Intent. Um, so I'm trying to
+
+280
+00:21:53,688 --> 00:21:59,528
+Speaker 2: build a system that literally watches
+your screen. So this is a combination with
+
+281
+00:21:59,628 --> 00:22:04,588
+Speaker 2: other data streams. So it's, it's
+using vision nets to watch your screen and it
+
+282
+00:22:04,628 --> 00:22:09,088
+Speaker 2: knows what you're doing, uh, all the
+time. It's private, so it runs on just your
+
+283
+00:22:09,148 --> 00:22:09,528
+Speaker 2: computer.
+
+284
+00:22:10,208 --> 00:22:10,368
+Speaker 1: Mm-hmm.
+
+285
+00:22:10,428 --> 00:22:13,868
+Speaker 2: And it just creates a stream of-- It
+answers the question, what did I do all day,
+
+286
+00:22:14,588 --> 00:22:18,708
+Speaker 2: right? It literally just keeps a log
+because it can understand what you're up to.
+
+287
+00:22:19,088 --> 00:22:23,408
+Speaker 2: Uh, right now you're doing an
+interview and it can log moment by moment. So at
+face
+
+288
+00:22:23,448 --> 00:22:28,628
+Speaker 2: value it's just analytics, but the
+real goal is to do executive control software.
+So
+
+289
+00:22:28,667 --> 00:22:34,088
+Speaker 2: sort of you tell it what you wanna do
+and it sort of keeps you in line. It's like-
+
+290
+00:22:34,128 --> 00:22:34,129
+Speaker 1: Mm
+
+291
+00:22:34,488 --> 00:22:37,288
+Speaker 2: ... "You shouldn't be doing that. Why
+are you up at 2:00 A.M. watching anime? You
+
+292
+00:22:37,328 --> 00:22:40,628
+Speaker 2: shouldn't be doing that. You said you
+didn't want to." So it's sort of like
+
+293
+00:22:40,688 --> 00:22:45,128
+Speaker 2: outsourcing your higher mind to keep
+your lower minds in check.
+
+294
+00:22:45,808 --> 00:22:46,028
+Speaker 1: Mm-hmm.
+
+295
+00:22:46,108 --> 00:22:52,088
+Speaker 2: And, but ultimately I wanna combine
+information from other things. So wearables
+
+296
+00:22:52,668 --> 00:22:58,588
+Speaker 2: is a big one. Uh, anything that... AI
+just wants data. So anytime-- So I have an
+
+297
+00:22:58,628 --> 00:23:02,488
+Speaker 2: Oura Ring, right? It has all my sleep
+data as well as continuous like biometrics.
+
+298
+00:23:03,008 --> 00:23:06,948
+Speaker 2: Wow, that would be great to
+incorporate into the thing that knows everything
+about
+
+299
+00:23:06,968 --> 00:23:11,108
+Speaker 2: my goals and what I'm doing all the
+time, and these things just stack on top of each
+
+300
+00:23:11,168 --> 00:23:16,748
+Speaker 2: other. So I would say anything that
+has a consistent high quality amount of data or
+
+301
+00:23:16,868 --> 00:23:21,788
+Speaker 2: data in large volumes is going to be
+very useful.
+
+302
+00:23:22,888 --> 00:23:26,948
+Speaker 2: If I had to bet on a dark horse
+interaction with AI that most people don't see
+
+303
+00:23:27,008 --> 00:23:32,788
+Speaker 2: coming, I'd say it's probably brain
+computer interfaces. Um, most likely in terms of
+
+304
+00:23:32,828 --> 00:23:34,848
+Speaker 2: consumer EEG.
+
+305
+00:23:35,568 --> 00:23:35,788
+Speaker 1: Mm-hmm.
+
+306
+00:23:35,828 --> 00:23:39,808
+Speaker 2: Um, so I think Meta and Apple both
+have EEG coming out incorporated into wearables.
+
+307
+00:23:40,548 --> 00:23:46,188
+Speaker 2: Um, it can do more than you would
+expect. Um, so that's probably...
+
+308
+00:23:46,548 --> 00:23:51,628
+Speaker 2: Plus informa- brain computer
+interface information in, you can do that
+through
+
+309
+00:23:51,688 --> 00:23:55,928
+Speaker 2: sensory augmentation. Won't go into
+it, but turns out the brain is pretty good at
+
+310
+00:23:55,948 --> 00:24:00,628
+Speaker 2: getting information into it if you
+train it. Um, that one is also pretty
+
+311
+00:24:00,668 --> 00:24:05,628
+Speaker 2: interesting. So I think people are
+gonna start to chafe at how slow information
+goes
+
+312
+00:24:05,728 --> 00:24:11,268
+Speaker 2: out and into their brains and they're
+going to be interested in more or less hooking
+
+313
+00:24:11,328 --> 00:24:17,236
+Speaker 2: up to these systems all the time, and
+these are the tools that enable that. You
+
+314
+00:24:17,296 --> 00:24:19,936
+Speaker 2: may have asked another question, but
+those, those are the answers I got for you.
+
+315
+00:24:20,676 --> 00:24:25,236
+Speaker 1: No, no, that's, that's completely
+fine. And, uh, it, it made sense because, you
+
+316
+00:24:25,256 --> 00:24:30,136
+Speaker 1: know, anything which is, as you said,
+generating data, actually these language
+
+317
+00:24:30,216 --> 00:24:34,776
+Speaker 1: models lives on data, right? So they,
+they, they need to suck data to give us back
+
+318
+00:24:34,816 --> 00:24:40,616
+Speaker 1: what we want. And I think maybe
+something related to, to, uh, if we think
+
+319
+00:24:40,656 --> 00:24:46,436
+Speaker 1: consumer perspective sensors, you
+know, anything that comes from cameras and this
+
+320
+00:24:46,776 --> 00:24:52,676
+Speaker 1: side. In industrial, uh, vertical, I
+can think also about sensors and this kind of
+
+321
+00:24:52,716 --> 00:24:57,976
+Speaker 1: thing. So yeah. Now a, a question
+that came to my mind just out of curiosity,
+
+322
+00:24:58,156 --> 00:25:03,856
+Speaker 1: honestly, like of course I'm too much
+into the, uh, you know, anything similar to
+
+323
+00:25:03,896 --> 00:25:09,216
+Speaker 1: OpenAI and like, and there are a
+couple of others, but when it comes to, you
+know,
+
+324
+00:25:09,316 --> 00:25:15,216
+Speaker 1: something like Stable Diffusion,
+like, uh, Mindjourney, like, uh, Da- uh, DALL-E
+2,
+
+325
+00:25:16,796 --> 00:25:22,295
+Speaker 1: I want to understand personally. So,
+so consider me a, a guy that, that he's not
+
+326
+00:25:22,336 --> 00:25:28,156
+Speaker 1: from a technical background now. So
+for me, what I see is that these are algorithms
+
+327
+00:25:28,196 --> 00:25:32,996
+Speaker 1: or whatever you want to call them to
+generate for you medias, right? So whether it's
+
+328
+00:25:33,036 --> 00:25:38,396
+Speaker 1: say photos or, you know, kind of
+paintings, but
+
+329
+00:25:39,236 --> 00:25:45,236
+Speaker 1: what are really the real uses or real
+world use cases that we can get out
+
+330
+00:25:45,296 --> 00:25:50,056
+Speaker 1: of, of these like, uh, Stable
+Diffusion or, uh, uh,
+
+331
+00:25:50,096 --> 00:25:52,196
+Speaker 1: Mindjourney?
+
+332
+00:25:52,316 --> 00:25:57,576
+Speaker 2: I think people would probably be
+shocked about what is currently in development.
+Um,
+
+333
+00:25:57,696 --> 00:26:03,516
+Speaker 2: it takes a long time to build
+production systems for really-- You get this
+Cambrian
+
+334
+00:26:03,556 --> 00:26:08,896
+Speaker 2: explosion of like people eat up the
+easy use cases first. Just slap a user interface
+
+335
+00:26:08,936 --> 00:26:12,956
+Speaker 2: on ChatGPT or, um, Stable Diffusion.
+Cool, there you go. Now you can edit photos.
+
+336
+00:26:13,236 --> 00:26:17,256
+Speaker 2: That's great. [chuckles] Cool. You
+can make people disappear in photos. All right.
+
+337
+00:26:17,876 --> 00:26:23,096
+Speaker 2: Now what? You can generate art. Who
+cares? Um, but you should really consider this
+
+338
+00:26:23,256 --> 00:26:23,816
+Speaker 2: more like...
+
+339
+00:26:25,395 --> 00:26:29,096
+Speaker 2: By the way, there are other really
+good generative networks. Transformer networks
+
+340
+00:26:29,176 --> 00:26:33,096
+Speaker 2: are competing against, uh, Diffusion
+now, and I think it's only a matter of time
+
+341
+00:26:33,136 --> 00:26:37,016
+Speaker 2: until they end up working together.
+They have different strengths. So generative
+
+342
+00:26:37,196 --> 00:26:42,216
+Speaker 2: information is really, it's, it's not
+slowing down either. I think you should look
+
+343
+00:26:42,236 --> 00:26:46,116
+Speaker 2: at this not as generating media,
+although it does do that, and that will have a
+
+344
+00:26:46,136 --> 00:26:51,856
+Speaker 2: profound impact, uh, particularly in
+terms of needing identity solutions, um,
+
+345
+00:26:52,056 --> 00:26:57,196
+Speaker 2: and probably the death of the public
+anonymous internet in a way. Um, but that's
+
+346
+00:26:57,236 --> 00:27:02,236
+Speaker 2: okay. Uh, it will bring other good
+things too, but it's more like generative
+
+347
+00:27:02,276 --> 00:27:08,116
+Speaker 2: information. So here's an example
+that I, I like to give. You should think of
+
+348
+00:27:08,176 --> 00:27:09,716
+Speaker 2: these things as being
+
+349
+00:27:11,396 --> 00:27:16,756
+Speaker 2: really good at generating things to
+about 80% or 90% fidelity. Uh, they're not so
+
+350
+00:27:16,796 --> 00:27:21,596
+Speaker 2: good at generating it to 100%. So
+let's say you're, I don't know, you're an
+aircraft
+
+351
+00:27:21,636 --> 00:27:26,296
+Speaker 2: designer at Boeing, or you design
+cars. Your, your job is gonna look more like
+
+352
+00:27:26,436 --> 00:27:31,856
+Speaker 2: sitting back, crossing your arms and
+saying, "Okay, I want something that is sleek,
+
+353
+00:27:32,056 --> 00:27:36,896
+Speaker 2: powerful, uses this last year's
+model. Show me 40 different combinations."
+Whoop,
+
+354
+00:27:37,016 --> 00:27:41,936
+Speaker 2: here they are. That one. [chuckles]
+Okay. Now given this one, make four different
+
+355
+00:27:41,976 --> 00:27:46,936
+Speaker 2: variations of this. Run it through
+the, you know, the stream or the, um, the tests
+
+356
+00:27:47,036 --> 00:27:51,096
+Speaker 2: for wind resistance and all this
+stuff. Great. I'll come back after lunch. Okay,
+
+357
+00:27:51,156 --> 00:27:55,456
+Speaker 2: here it is. Here's your model. That
+would've taken you how long with clay models or
+
+358
+00:27:55,536 --> 00:27:57,716
+Speaker 2: even just like going in with computer
+models?
+
+359
+00:27:58,456 --> 00:27:58,516
+Speaker 1: Wow.
+
+360
+00:27:58,556 --> 00:28:04,556
+Speaker 2: It's un- unbelievable. The amount of
+testing an idea, I- the
+
+361
+00:28:04,616 --> 00:28:10,496
+Speaker 2: i- the cost of testing out ideas is
+going to zero, and that's gonna have a very
+
+362
+00:28:10,536 --> 00:28:15,476
+Speaker 2: big impact on innovation, which is
+not really well captured right now or
+understood.
+
+363
+00:28:16,256 --> 00:28:22,176
+Speaker 2: When it costs you $100 or $1,000 or
+even $10 to do something and it takes
+
+364
+00:28:22,216 --> 00:28:28,016
+Speaker 2: you 10, 10 hours, 20 hours to test
+it, you don't test that many things.
+
+365
+00:28:28,296 --> 00:28:31,816
+Speaker 2: You have to go with, by necessity,
+the things that look like they're gonna have
+ROI.
+
+366
+00:28:32,296 --> 00:28:36,536
+Speaker 2: But when the cost of testing a
+thousand things is basically zero and you can
+test a
+
+367
+00:28:36,576 --> 00:28:42,216
+Speaker 2: thousand things in a minute, things
+change dramatically. You, you can explore
+
+368
+00:28:42,256 --> 00:28:46,156
+Speaker 2: horizontally a lot more than you
+could before. You can test out really dumb
+ideas,
+
+369
+00:28:46,676 --> 00:28:51,396
+Speaker 2: and sometimes those dumb ideas turn
+out to be really interesting, useful ideas, and
+
+370
+00:28:51,456 --> 00:28:55,196
+Speaker 2: that's gonna happen everywhere. So
+it's not just generating media, it's generating
+
+371
+00:28:55,816 --> 00:29:01,336
+Speaker 2: information of any kind. Uh, but it
+will be-- The reason we see media is because we
+
+372
+00:29:01,376 --> 00:29:06,076
+Speaker 2: have a public open internet and
+everyone dumps all their data online, so guess
+what
+
+373
+00:29:06,096 --> 00:29:10,616
+Speaker 2: they trained on, is the stuff that
+there was a lot of data for. But there is data
+
+374
+00:29:10,696 --> 00:29:15,396
+Speaker 2: for other stuff. It's a little harder
+to get and it's a little less lucrative
+
+375
+00:29:15,476 --> 00:29:21,096
+Speaker 2: upfront and a little harder to build,
+but it's coming. So, uh, any
+
+376
+00:29:21,156 --> 00:29:26,796
+Speaker 2: information fundamentally, whether
+it's science experiments, you know, generating
+
+377
+00:29:26,836 --> 00:29:31,456
+Speaker 2: novel drug compounds, all of this
+stuff is just information. Genetics.
+
+378
+00:29:32,976 --> 00:29:37,416
+Speaker 2: So if you want to test something out
+to just 80% or 90% fidelity really, really,
+
+379
+00:29:37,516 --> 00:29:42,416
+Speaker 2: really fast, and then that last 10%,
+20% is still done with humans and maybe regular
+
+380
+00:29:42,476 --> 00:29:47,616
+Speaker 2: computers, that's a big change. It's
+a couple orders of magnitude, I think, in terms
+
+381
+00:29:47,696 --> 00:29:51,036
+Speaker 2: of like speed of innovation. So
+that's, that's a huge use case for the
+generative
+
+382
+00:29:51,096 --> 00:29:51,536
+Speaker 2: networks.
+
+383
+00:29:53,196 --> 00:29:58,316
+Speaker 1: That's, uh, you know, like it, it's,
+it's like very enlightening, I would say,
+
+384
+00:29:58,736 --> 00:30:03,236
+Speaker 1: thinking about doing simulations
+using these technologies because they can
+generate
+
+385
+00:30:03,336 --> 00:30:09,156
+Speaker 1: different, let's say, prototype for
+you. But there are some people that
+
+386
+00:30:09,196 --> 00:30:15,056
+Speaker 1: they are arguing that, um, we might
+be too
+
+387
+00:30:15,096 --> 00:30:20,560
+Speaker 1: much depending on the existing
+knowledge that already these- ... models they
+have,
+
+388
+00:30:21,060 --> 00:30:26,220
+Speaker 1: so it will be lazy to generate new
+content for the language models to use. What do
+
+389
+00:30:26,260 --> 00:30:27,160
+Speaker 1: you think about that?
+
+390
+00:30:29,580 --> 00:30:29,980
+Speaker 2: I think
+
+391
+00:30:31,860 --> 00:30:37,840
+Speaker 2: how much does it cost to get the best
+aircraft modeler or
+
+392
+00:30:37,900 --> 00:30:43,520
+Speaker 2: the best car modeler to do something?
+A lot of money. How much does it cost to get
+
+393
+00:30:43,680 --> 00:30:49,660
+Speaker 2: 80 to 90% [chuckles] of the best?
+Still probably quite a bit. So the difference
+is,
+
+394
+00:30:50,160 --> 00:30:55,600
+Speaker 2: okay, yes, if even if we-- let's say
+I'll, I'll buy that argument, and we can only
+
+395
+00:30:55,640 --> 00:31:01,360
+Speaker 2: get to even 80% of the average of any
+skill, given it has enough training
+
+396
+00:31:01,420 --> 00:31:05,900
+Speaker 2: data. Who cares, right? All it's
+doing is repeating existing patterns. Well, what
+
+397
+00:31:05,960 --> 00:31:11,560
+Speaker 2: matters is that I don't have to learn
+a skill. I can have 0% car modeling knowledge,
+
+398
+00:31:11,660 --> 00:31:16,300
+Speaker 2: and now I can model a car. That's a
+very big deal. Uh, just in the practical
+
+399
+00:31:16,400 --> 00:31:21,380
+Speaker 2: perspective, like for my stories,
+right? I can do the cover art. I can't do cover
+
+400
+00:31:21,440 --> 00:31:27,220
+Speaker 2: art. Before this, I spent $250 or
+$500 for like incredible concept art, and it
+
+401
+00:31:27,260 --> 00:31:32,140
+Speaker 2: took weeks of back and forth, and it
+was a huge pain, and half the time it doesn't
+
+402
+00:31:32,160 --> 00:31:36,140
+Speaker 2: end up looking right. Now I can just,
+just, I don't know, I'll just throw stuff at
+
+403
+00:31:36,180 --> 00:31:39,360
+Speaker 2: the wall. I'll just do it for four
+hours, and I've generated a couple hundred
+
+404
+00:31:39,440 --> 00:31:44,960
+Speaker 2: pictures, and it costs me basically
+nothing. You can imagine that for any field.
+
+405
+00:31:45,020 --> 00:31:50,340
+Speaker 2: Like, you don't have to learn a skill
+to do it at 80% capacity of
+
+406
+00:31:50,800 --> 00:31:51,240
+Speaker 2: average-
+
+407
+00:31:51,520 --> 00:31:51,521
+Speaker 1: Mm-hmm
+
+408
+00:31:51,520 --> 00:31:56,660
+Speaker 2: ... like the average professional.
+That's a very big deal. And so you don't even
+
+409
+00:31:56,720 --> 00:32:01,060
+Speaker 2: have to advance state-of-the-art in
+order for it to matter significantly. It's about
+
+410
+00:32:01,080 --> 00:32:02,740
+Speaker 2: democratization of skill set.
+
+411
+00:32:05,560 --> 00:32:10,860
+Speaker 1: Well, that, that's another point of
+view, I would say, which is also valid. Uh,
+
+412
+00:32:11,060 --> 00:32:14,960
+Speaker 1: Stephen, can you tell me, because I
+know you, you write sci-fi also as well, right?
+
+413
+00:32:15,060 --> 00:32:20,580
+Speaker 1: So, uh, can you tell us a little bit
+more about this side? Uh, I, I'm sure that I
+
+414
+00:32:20,620 --> 00:32:24,280
+Speaker 1: have a lot of my audience who would
+be interested to, to know more about it.
+
+415
+00:32:24,600 --> 00:32:30,380
+Speaker 2: Sure. Yeah, it's just for fun. Um,
+but I do occasionally try to write--
+
+416
+00:32:30,560 --> 00:32:34,460
+Speaker 2: Sometimes there's a combination of
+these. So it's sci-fi and fantasy, so the
+fantasy
+
+417
+00:32:34,480 --> 00:32:40,000
+Speaker 2: is mostly for fun. I always ha- try
+to have a lesson. Um, so I've written a story
+
+418
+00:32:40,080 --> 00:32:46,060
+Speaker 2: recently called "Reverie." That is a
+story about I think that humanity doesn't have
+
+419
+00:32:46,120 --> 00:32:50,880
+Speaker 2: a lot of great things to run towards,
+like collective goals. I think we have a lot
+
+420
+00:32:50,900 --> 00:32:55,020
+Speaker 2: of things we're trying to avoid, but
+that's not super motivating. Who gets up every
+
+421
+00:32:55,120 --> 00:32:58,880
+Speaker 2: day saying, "Oh, I hope I don't--
+Hope I'm not in pain today"? That's not super
+
+422
+00:32:58,980 --> 00:33:04,080
+Speaker 2: motivating. Um, so I, I tried to come
+up with here's where I think we should try to
+
+423
+00:33:04,120 --> 00:33:09,720
+Speaker 2: go as a species. Um, I'm writing a
+story now called "Hellmakers." This is
+
+424
+00:33:09,780 --> 00:33:14,800
+Speaker 2: about... This is why I smiled when
+you mentioned, um, s- I think you mentioned
+
+425
+00:33:14,860 --> 00:33:18,140
+Speaker 2: something about, um, bots, automated
+bots.
+
+426
+00:33:18,920 --> 00:33:18,921
+Speaker 1: Yeah.
+
+427
+00:33:18,980 --> 00:33:24,280
+Speaker 2: So already I've seen people talk
+about somebody has already had the bright idea.
+You
+
+428
+00:33:24,340 --> 00:33:28,220
+Speaker 2: know what would be great? We could--
+We need to open source these models because,
+
+429
+00:33:28,460 --> 00:33:31,460
+Speaker 2: you know, people probably don't want
+us to have access to this. It sh- everything
+
+430
+00:33:31,500 --> 00:33:35,680
+Speaker 2: should be free and open. You know
+what else we should do? We should put this on
+
+431
+00:33:35,720 --> 00:33:40,220
+Speaker 2: decentralized computing platforms.
+This is a good idea. And I'm just like, this is
+
+432
+00:33:40,260 --> 00:33:41,400
+Speaker 2: the worst possible idea.
+
+433
+00:33:41,720 --> 00:33:41,721
+Speaker 1: Wow.
+
+434
+00:33:41,760 --> 00:33:46,700
+Speaker 2: Let me write a story to tell you why.
+So it's a, it's basically a story about the
+
+435
+00:33:46,760 --> 00:33:52,280
+Speaker 2: founder of a decentralized digital
+autonomous worker protocol who they just start
+
+436
+00:33:52,320 --> 00:33:58,260
+Speaker 2: like a decentralized computing, uh,
+blockchain protocol, right? Um, the goal
+
+437
+00:33:58,340 --> 00:34:02,440
+Speaker 2: is that it uses a consensus
+mechanism, so you can't turn it off easily
+unless you
+
+438
+00:34:02,480 --> 00:34:04,320
+Speaker 2: can turn off all the nodes on the
+network.
+
+439
+00:34:05,000 --> 00:34:05,060
+Speaker 1: Oh.
+
+440
+00:34:05,600 --> 00:34:10,240
+Speaker 2: You can't turn it off. And it's
+permissionless, so anyone can insert money, and
+you
+
+441
+00:34:10,300 --> 00:34:13,940
+Speaker 2: insert a prompt, pull a model off the
+shelf, and you go tell it to do something, and
+
+442
+00:34:14,000 --> 00:34:19,400
+Speaker 2: it will go do whatever until it runs
+out of money. Uh, and you can't turn it off. So
+
+443
+00:34:19,580 --> 00:34:25,560
+Speaker 2: I show this is probably not a good
+idea. So the punchline of the story is that
+
+444
+00:34:25,620 --> 00:34:30,280
+Speaker 2: the, the, uh, creator of the protocol
+ends up using this to get back at their
+
+445
+00:34:30,340 --> 00:34:35,960
+Speaker 2: co-founders who cuts them out of a
+deal and, as the name implies, creates a
+
+446
+00:34:36,340 --> 00:34:41,740
+Speaker 2: bot that literally just publicly
+tries to ruin this other person in
+
+447
+00:34:41,780 --> 00:34:46,740
+Speaker 2: perpetuity and cannot be turned off.
+So this is not good. We should think very
+
+448
+00:34:46,800 --> 00:34:50,960
+Speaker 2: carefully about not having an off
+switch for our machines. It just seemed like a
+
+449
+00:34:51,020 --> 00:34:56,080
+Speaker 2: very dumb idea to put them on a box
+that you can't turn off frankly.
+
+450
+00:34:56,180 --> 00:35:01,920
+Speaker 1: [clears throat] Um, a question that I
+ask now, you-- it, it became
+
+451
+00:35:02,000 --> 00:35:07,860
+Speaker 1: a, um, traditional question for me.
+Like, um, do you think that
+
+452
+00:35:08,180 --> 00:35:13,740
+Speaker 1: AI is allowing all of us, humanity,
+to reach, to reach
+
+453
+00:35:13,900 --> 00:35:14,600
+Speaker 1: singularity?
+
+454
+00:35:20,500 --> 00:35:22,280
+Speaker 2: Maybe. Um-
+
+455
+00:35:22,660 --> 00:35:26,160
+Speaker 1: That's a, that's a philosophical
+question, I know, so [chuckles]
+
+456
+00:35:26,240 --> 00:35:31,460
+Speaker 2: The key is in what you said at the
+end, which is all of us and humanity to reach
+the
+
+457
+00:35:31,500 --> 00:35:36,100
+Speaker 2: singularity. Yes. I actually think
+that positive outcomes are the most likely
+
+458
+00:35:36,200 --> 00:35:41,160
+Speaker 2: scenario in the long term, and
+there's a lot we can do about it, and a lot of
+things
+
+459
+00:35:41,180 --> 00:35:44,620
+Speaker 2: that we could be doing about it that
+are actually quite feasible that are probably
+
+460
+00:35:44,660 --> 00:35:50,560
+Speaker 2: not well known, so it's something I'm
+focused on. But yes, I think technically
+
+461
+00:35:50,640 --> 00:35:56,040
+Speaker 2: speaking, yes, this is the way you
+would need scaled intelligence. And I think the
+
+462
+00:35:56,080 --> 00:36:00,800
+Speaker 2: most important part of AI as moving
+us towards singularity is that
+
+463
+00:36:02,060 --> 00:36:06,200
+Speaker 2: maybe is also underappreciated, is
+that it doesn't have cognitive biases. Uh,
+unlike
+
+464
+00:36:06,220 --> 00:36:11,680
+Speaker 2: our own brains, we can reprogram it,
+and we can program away the blind spots that we
+
+465
+00:36:11,740 --> 00:36:16,440
+Speaker 2: know we have. It doesn't matter if
+you know about anchoring bias or recency bias,
+
+466
+00:36:17,260 --> 00:36:21,900
+Speaker 2: um, if you still d- you experience
+them whether you want them or not. You still
+make
+
+467
+00:36:21,940 --> 00:36:26,712
+Speaker 2: dumb choices all the-- If you're
+tired- And hungry, you're gonna make bad
+choices.
+
+468
+00:36:26,832 --> 00:36:31,492
+Speaker 2: Like, this is just how the human
+brain works. You can't program around it. But
+
+469
+00:36:31,512 --> 00:36:35,332
+Speaker 2: that's not the same for our machines,
+which means that we should be able to program
+
+470
+00:36:35,372 --> 00:36:40,712
+Speaker 2: them to our ideals. And as long as we
+can keep advancing them, I don't see why, you
+
+471
+00:36:40,752 --> 00:36:45,452
+Speaker 2: know, you can't have wonderful,
+incredible outcomes from that. So in short, yes,
+I--
+
+472
+00:36:45,612 --> 00:36:47,972
+Speaker 2: but I think it's neutral. It depends
+on what we do.
+
+473
+00:36:49,072 --> 00:36:54,812
+Speaker 1: That's, that's fair enough, I would
+say. Um, be- before I will, you know, keep it
+
+474
+00:36:54,852 --> 00:36:59,332
+Speaker 1: for you to do a final conclusion, not
+related to AI, related because you are a
+
+475
+00:36:59,372 --> 00:37:03,392
+Speaker 1: solopreneur, right? So how, how,
+
+476
+00:37:05,072 --> 00:37:08,692
+Speaker 1: how do you, do you see it? Like,
+what's your experience being a solopreneur?
+Because
+
+477
+00:37:08,772 --> 00:37:13,392
+Speaker 1: again, this is the, this is the
+second, uh, common question I'm asking to my
+guests
+
+478
+00:37:13,452 --> 00:37:18,552
+Speaker 1: if they are solopreneurs, like why
+you opted to be a solopreneur, like why you're
+
+479
+00:37:18,612 --> 00:37:23,072
+Speaker 1: not part of-- I, I know that you, you
+worked for some companies before, and I did by
+
+480
+00:37:23,112 --> 00:37:29,031
+Speaker 1: the way as well. I'm a solopreneur
+kind of now. So tell me your experience as a
+
+481
+00:37:29,072 --> 00:37:33,212
+Speaker 1: solopreneur and why we are seeing
+more solopreneurs, uh, in, in the field.
+
+482
+00:37:36,952 --> 00:37:40,392
+Speaker 2: So I'll answer the last one first
+'cause it's, it's fairly simple. I think we're
+
+483
+00:37:40,432 --> 00:37:44,252
+Speaker 2: seeing more-- people are more
+isolated in general, but I think we're also more
+
+484
+00:37:44,292 --> 00:37:48,392
+Speaker 2: empowered by technology in general.
+Like I mentioned, like I, I can do a lot of
+
+485
+00:37:48,432 --> 00:37:53,232
+Speaker 2: things I don't know how to do thanks
+to advances in, in AI and other software,
+
+486
+00:37:53,312 --> 00:37:53,412
+Speaker 2: right?
+
+487
+00:37:54,192 --> 00:37:54,272
+Speaker 1: Yeah.
+
+488
+00:37:54,292 --> 00:37:58,812
+Speaker 2: Um, I don't know how to compute
+compound interest. I mean, I could do it by hand
+if
+
+489
+00:37:58,872 --> 00:38:03,632
+Speaker 2: you gave me the formula and a lot of
+time, but a spreadsheet can do it. Uh, so I'm
+
+490
+00:38:03,652 --> 00:38:08,412
+Speaker 2: enabled to do a lot by myself, and
+because I'm working in software and AI, which is
+
+491
+00:38:08,452 --> 00:38:14,292
+Speaker 2: like software for software, it's-- I
+can-- I have a lot of leverage. Um,
+
+492
+00:38:14,772 --> 00:38:20,552
+Speaker 2: so I am enabled to do it. Um, but
+also at the same time, it's often
+
+493
+00:38:20,612 --> 00:38:24,292
+Speaker 2: easier just to pay contractors, and I
+find that there is a sort of cultural
+
+494
+00:38:24,352 --> 00:38:26,032
+Speaker 2: zeitgeist movement towards,
+
+495
+00:38:28,012 --> 00:38:32,312
+Speaker 2: uh, people who want their own
+autonomy, and they wanna interface with other
+people
+
+496
+00:38:32,372 --> 00:38:37,832
+Speaker 2: as people, and they don't want to be
+an employee. So I found it very easy to just,
+
+497
+00:38:37,932 --> 00:38:41,012
+Speaker 2: "Hey, what's your rate? Like, let's
+figure out a deal, let's figure out a
+
+498
+00:38:41,052 --> 00:38:45,852
+Speaker 2: partnership." And that has been the
+easier way to go. So that's the answer to the
+
+499
+00:38:45,872 --> 00:38:50,552
+Speaker 2: second part. So the first part, my
+experience as a solopreneur, I think that
+
+500
+00:38:51,752 --> 00:38:56,232
+Speaker 2: the challenge, especially with AI,
+right? So selling software development is fairly
+
+501
+00:38:56,312 --> 00:39:01,652
+Speaker 2: straightforward because people
+understand kind of how to, how to value it.
+
+502
+00:39:02,272 --> 00:39:07,992
+Speaker 2: The biggest challenge of getting paid
+to build stuff with AI is how to help
+
+503
+00:39:08,032 --> 00:39:13,172
+Speaker 2: people understand the opportunities
+that they have and how to help them value it.
+
+504
+00:39:13,872 --> 00:39:18,112
+Speaker 2: It's-- There's a lot of work that has
+to be done. You don't have to do a lot of work
+
+505
+00:39:18,152 --> 00:39:22,592
+Speaker 2: to tell people about regular software
+systems. They already know how to reason about
+
+506
+00:39:22,632 --> 00:39:26,912
+Speaker 2: it. There's a lot of competitors they
+know what to compare it to. It's very simple.
+
+507
+00:39:27,492 --> 00:39:33,352
+Speaker 2: But for, for AI, there's a long
+conversation of education. Okay, here's what is
+
+508
+00:39:33,372 --> 00:39:38,552
+Speaker 2: possible. Okay, now I need to fully
+understand your business so that I can analyze,
+
+509
+00:39:39,232 --> 00:39:43,732
+Speaker 2: okay, where's the opportunity? And
+then from there, I have to help you understand
+
+510
+00:39:43,772 --> 00:39:47,032
+Speaker 2: what the value is, that we can
+justify the cost, which is higher than regular
+
+511
+00:39:47,112 --> 00:39:49,752
+Speaker 2: software. There's a lot of steps. So-
+
+512
+00:39:49,832 --> 00:39:49,932
+Speaker 1: Yeah
+
+513
+00:39:49,972 --> 00:39:53,712
+Speaker 2: ... it's a very high trust thing.
+Also, I noticed that
+
+514
+00:39:55,272 --> 00:39:59,552
+Speaker 2: most businesses-- So again, this is
+just money from consulting, not building my own
+
+515
+00:39:59,572 --> 00:40:04,092
+Speaker 2: products. Most businesses would
+benefit... They're not even fully utilizing
+
+516
+00:40:04,172 --> 00:40:09,632
+Speaker 2: software. They're n- definitely not
+even fully using non-software solutions. And so
+
+517
+00:40:09,712 --> 00:40:14,532
+Speaker 2: AI is often like, why would you bring
+this really complex solution in? 'Cause it's
+
+518
+00:40:14,572 --> 00:40:19,392
+Speaker 2: sexy, it's got buzzwords. But I've
+found so far, for the most part,
+
+519
+00:40:20,732 --> 00:40:26,252
+Speaker 2: price optimization, retention
+prediction, uh, collaborative filtering, just--
+
+520
+00:40:27,012 --> 00:40:32,432
+Speaker 2: even just regression, like linear s-
+um, logistic regression, just statistical
+
+521
+00:40:32,512 --> 00:40:37,592
+Speaker 2: models. These are often like 80/20,
+so most people don't need the big guns.
+
+522
+00:40:38,872 --> 00:40:43,872
+Speaker 2: That is the cool stuff for sure. I'd
+say generative AI or the large language models
+
+523
+00:40:43,911 --> 00:40:49,412
+Speaker 2: changes things a little bit. But by
+and large, you don't need AI for most solutions.
+
+524
+00:40:50,152 --> 00:40:54,812
+Speaker 2: So a lot of the challenge is finding
+the people who really do have a slam dunk use
+
+525
+00:40:54,852 --> 00:41:00,812
+Speaker 2: case and building the trust, telling
+the story. So yeah,
+
+526
+00:41:01,292 --> 00:41:05,012
+Speaker 2: that's, that's what it's like, is
+that there's a lot of legwork. That's sort of
+the
+
+527
+00:41:05,112 --> 00:41:05,852
+Speaker 2: AI side.
+
+528
+00:41:07,932 --> 00:41:11,972
+Speaker 1: Yeah. That's fair enough, I would
+say, and, uh, I have to agree with a lot of the
+
+529
+00:41:12,072 --> 00:41:16,812
+Speaker 1: points that you mentioned, Steven.
+Steven, any final thing you-- maybe something I
+
+530
+00:41:16,852 --> 00:41:21,112
+Speaker 1: didn't ask you, you want to, to, to
+say or share before we, we close?
+
+531
+00:41:23,212 --> 00:41:29,092
+Speaker 2: Um, well, my producer and, um, the
+social media growth manager would
+
+532
+00:41:29,292 --> 00:41:33,012
+Speaker 2: probably hit me over the head if I
+didn't say go to the YouTube channel.
+
+533
+00:41:33,732 --> 00:41:33,972
+Speaker 1: Yes, please.
+
+534
+00:41:34,032 --> 00:41:35,992
+Speaker 2: Seeking Minima. [chuckles]
+
+535
+00:41:36,052 --> 00:41:36,452
+Speaker 1: Yes.
+
+536
+00:41:36,672 --> 00:41:41,992
+Speaker 2: Um, but-- So I mean, do that if you
+want to hear more words like this.
+
+537
+00:41:43,032 --> 00:41:43,033
+Speaker 2: But-
+
+538
+00:41:43,092 --> 00:41:46,832
+Speaker 1: Actually, I wanted to ask where
+people can find more about you. [laughs]
+
+539
+00:41:46,892 --> 00:41:47,012
+Speaker 2: Ah, yeah.
+
+540
+00:41:47,032 --> 00:41:48,112
+Speaker 1: Like this one. Yeah.
+
+541
+00:41:48,432 --> 00:41:53,912
+Speaker 2: I, I, I'll get better at this, guys.
+Um, but so what I wanted to say is, uh,
+
+542
+00:41:54,492 --> 00:41:58,652
+Speaker 2: I wanna-- the whole purpose of
+Seeking Minima in general is this is not a
+for-profit
+
+543
+00:41:58,732 --> 00:42:02,812
+Speaker 2: thing. Like, I can just build
+software. Like, there's no point recording
+videos or
+
+544
+00:42:03,172 --> 00:42:08,312
+Speaker 2: talking to people like you for, um,
+for a living. That's not what I wanna do. I am
+
+545
+00:42:08,672 --> 00:42:14,432
+Speaker 2: trying to help people use technology
+and to create better outcomes for everybody,
+
+546
+00:42:15,212 --> 00:42:20,392
+Speaker 2: and I think that we are at a fairly
+pivotable, pivotal moment, and I see a lot of,
+
+547
+00:42:20,892 --> 00:42:21,852
+Speaker 2: despite some of the
+
+548
+00:42:23,392 --> 00:42:28,352
+Speaker 2: pessimistic takes so far, that's not
+really how I look at the world. I think that we
+
+549
+00:42:28,372 --> 00:42:33,760
+Speaker 2: have a lot of opportunity- To make a
+big difference right now. And I want to help
+
+550
+00:42:33,800 --> 00:42:38,620
+Speaker 2: people realize that they don't need
+to stand here and look scared. Um, there's a lot
+
+551
+00:42:38,660 --> 00:42:44,580
+Speaker 2: we can do in terms of, uh, AI
+alignment, um, wealth inequality. We
+
+552
+00:42:44,620 --> 00:42:48,520
+Speaker 2: have a lot of tools at our disposal,
+and we're at the really sweet spot where
+
+553
+00:42:48,560 --> 00:42:52,520
+Speaker 2: there's... Most of this stuff is
+greenfield. It's brand new. We have a lot of
+
+554
+00:42:52,580 --> 00:42:57,180
+Speaker 2: opportunity to use it well, to put
+common sense rules in place, and to really set
+it
+
+555
+00:42:57,260 --> 00:43:02,359
+Speaker 2: up to work for us instead of against
+us or for a select few peopl- few people.
+
+556
+00:43:03,360 --> 00:43:07,400
+Speaker 2: And I think that, yeah, I'm gonna
+continue exploring those things. I have a lot of
+
+557
+00:43:07,440 --> 00:43:12,120
+Speaker 2: concrete ideas, but also I just like
+to synthesize other people's ideas. There's no
+
+558
+00:43:12,180 --> 00:43:17,280
+Speaker 2: need to be terrified of the future
+because, uh, we have a lot of control over it,
+
+559
+00:43:17,800 --> 00:43:20,640
+Speaker 2: and we're the ones who control it. I
+don't know. People seem to forget that. As if
+
+560
+00:43:20,660 --> 00:43:26,200
+Speaker 2: by the way, the future, what future
+happens is based on what we do. So
+
+561
+00:43:26,660 --> 00:43:30,700
+Speaker 2: if you don't like it, you should do
+something about it, and that's, that's what I'm
+
+562
+00:43:30,740 --> 00:43:35,460
+Speaker 2: doing. If you're interested in that
+too, then yeah, I'd love to keep talking with
+
+563
+00:43:35,500 --> 00:43:35,580
+Speaker 2: you.
+
+564
+00:43:36,720 --> 00:43:41,340
+Speaker 1: That's really great, and I think we
+are on a same mission, I would say, Steven.
+
+565
+00:43:41,440 --> 00:43:46,480
+Speaker 1: Because one of the reasons I'm doing
+all, you know, this podcast, I'm, you know,
+
+566
+00:43:47,600 --> 00:43:53,020
+Speaker 1: creating a lot of content is to raise
+awareness. This is first. And tell people, you
+
+567
+00:43:53,060 --> 00:43:58,000
+Speaker 1: know, like, hey, uh, you know, it's
+not like only the scary stuff you see in the
+
+568
+00:43:58,080 --> 00:44:02,520
+Speaker 1: media. You know, like people gonna
+lose their jobs. I don't know what. You know,
+all
+
+569
+00:44:02,580 --> 00:44:08,480
+Speaker 1: this negativity. So I'm trying to put
+some light on the positive side of the
+
+570
+00:44:08,540 --> 00:44:12,020
+Speaker 1: technology, and not just AI by the
+way, any technology. Uh-
+
+571
+00:44:12,220 --> 00:44:12,280
+Speaker 2: Sure
+
+572
+00:44:12,300 --> 00:44:17,000
+Speaker 1: ... 'cause I, I, I love technology
+myself, like since I was a child. And I always
+
+573
+00:44:17,040 --> 00:44:23,020
+Speaker 1: believe that technology's main goal
+is to take us forward, make
+
+574
+00:44:23,060 --> 00:44:28,300
+Speaker 1: our lives easy. From business
+perspective, it's always, I'm repeating myself
+on
+
+575
+00:44:28,360 --> 00:44:34,160
+Speaker 1: multiple episodes, increase revenues,
+increase customer base, decrease
+
+576
+00:44:34,260 --> 00:44:39,440
+Speaker 1: churn, all these nice things that,
+uh, business people like to, to, to, to hear.
+And
+
+577
+00:44:39,780 --> 00:44:45,340
+Speaker 1: AI is no different than this. So AI
+will make, you know, um, your business thrive
+
+578
+00:44:45,440 --> 00:44:49,220
+Speaker 1: and, uh, better. And for individuals,
+I'm saying exactly what you mentioned at the
+
+579
+00:44:49,260 --> 00:44:54,240
+Speaker 1: beginning also as well. Guys, like if
+you are scared of something, go study it. Like
+
+580
+00:44:54,280 --> 00:44:58,260
+Speaker 1: this is the best thing you can do.
+Because if you just keep watching it and do
+
+581
+00:44:58,300 --> 00:45:02,720
+Speaker 1: nothing, yeah, you're gonna be
+scared. I, sorry, I cannot help. This is why I'm
+
+582
+00:45:02,760 --> 00:45:08,100
+Speaker 1: trying to help you in generating this
+content as much as I can, of course. Um,
+
+583
+00:45:08,660 --> 00:45:12,860
+Speaker 1: so yeah, this is why we are aligned,
+and this is actually why I wanted to interview
+
+584
+00:45:12,900 --> 00:45:17,780
+Speaker 1: you, Steven, because when I read, uh,
+your bio, this what attracted me. And by the
+
+585
+00:45:17,840 --> 00:45:22,220
+Speaker 1: way, this is I do with all my guests.
+I will share, you know, the YouTube channel,
+
+586
+00:45:22,280 --> 00:45:26,040
+Speaker 1: like anything else I can find if you
+want to share that with me also as well. So
+
+587
+00:45:26,080 --> 00:45:30,740
+Speaker 1: that would go into the description of
+the episode and desc- the description on the
+
+588
+00:45:30,800 --> 00:45:35,900
+Speaker 1: YouTube also as well. Well, we, we
+came to an end, Steven. Thank you very much for
+
+589
+00:45:35,960 --> 00:45:39,380
+Speaker 1: being my guest today. I really
+appreciate the time. And-
+
+590
+00:45:39,420 --> 00:45:39,860
+Speaker 2: My pleasure
+
+591
+00:45:39,900 --> 00:45:44,140
+Speaker 1: ... hope... Thank you very much. And
+for my audience, whether you are watching this
+
+592
+00:45:44,220 --> 00:45:49,860
+Speaker 1: on YouTube or you are listening using
+your favorite podcasting platform,
+
+593
+00:45:50,340 --> 00:45:56,200
+Speaker 1: don't forget to subscribe. And as
+usual, I'm telling you guys, I would love
+
+594
+00:45:56,300 --> 00:46:00,700
+Speaker 1: to hear your feedback about this
+episode or about the show in general. If you are
+
+595
+00:46:00,740 --> 00:46:06,240
+Speaker 1: interested to be a guest like Steven
+today, like don't be shy. Please come up with
+
+596
+00:46:06,580 --> 00:46:10,340
+Speaker 1: the idea that you want to discuss,
+and I will be more than happy to have you as
+
+597
+00:46:10,380 --> 00:46:15,780
+Speaker 1: guest with me. And as usual, until we
+meet next time, thank you very much, and we
+
+598
+00:46:15,820 --> 00:46:16,300
+Speaker 1: will see you soon.
+
+599
+00:46:16,300 --> 00:46:25,860
+Speaker 1: [outro music]

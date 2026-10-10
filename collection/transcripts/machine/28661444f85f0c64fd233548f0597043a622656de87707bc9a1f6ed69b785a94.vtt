@@ -1,0 +1,1979 @@
+WEBVTT
+
+1
+00:00:00.460 --> 00:00:04.600
+Speaker 1: College football is back, so Hilton
+called in me, the superstition concierge, to
+
+2
+00:00:04.660 --> 00:00:08.880
+Speaker 1: make your fan rituals a reality. Need
+a room to match your lucky number? We got you.
+
+3
+00:00:09.100 --> 00:00:13.420
+Speaker 1: Wanna make sure our team doesn't wash
+your lucky jersey? [sniffs] Ooh, that smells
+
+4
+00:00:13.480 --> 00:00:17.300
+Speaker 1: lucky. [whistle blows] Hilton's
+unmatched hospitality can keep up with any
+
+5
+00:00:17.360 --> 00:00:22.220
+Speaker 1: superstition, even a marching band
+wake-up call at 5:55 and 55 seconds. Hit it.
+
+6
+00:00:22.220 --> 00:00:25.260
+Speaker 1: [marching band music] When you need a
+team that will do whatever it takes on game
+
+7
+00:00:25.300 --> 00:00:28.560
+Speaker 1: day, it matters where you stay.
+Hilton, for the stay.
+
+8
+00:00:30.620 --> 00:00:34.980
+Speaker 2: This episode is brought to you by
+PayPal. [upbeat music] Holiday rush? Skip the
+mall
+
+9
+00:00:35.020 --> 00:00:39.600
+Speaker 2: traffic and shop online with PayPal.
+Shop your favorite online stores like eBay,
+
+10
+00:00:39.700 --> 00:00:44.460
+Speaker 2: Fanatics, Walmart, Sephora, Target,
+and TikTok Shop, and choose to pay now or pay
+
+11
+00:00:44.520 --> 00:00:48.540
+Speaker 2: later at checkout, plus pay in four
+with no interest and no late fees.
+
+12
+00:00:50.460 --> 00:00:54.220
+Speaker 2: Shop now with PayPal. Pay in four
+subject to approval. Learn more at
+
+13
+00:00:54.260 --> 00:00:59.020
+Speaker 2: paypal.com/payin4. PayPal
+Incorporated, NMLS 910457.
+
+14
+00:01:02.340 --> 00:01:07.140
+Speaker 3: Good morning, guys, and welcome to
+the podcast today. I've got a fantastic guest
+for
+
+15
+00:01:07.200 --> 00:01:12.940
+Speaker 3: you coming out of the AI field,
+Steven Shrembeck from
+
+16
+00:01:13.020 --> 00:01:16.940
+Speaker 3: Georgia, rights out of, right outside
+of Atlanta. It's gonna be a really fascinating
+
+17
+00:01:17.400 --> 00:01:23.280
+Speaker 3: conversation because he's a startup
+founder working on AI for self-control and
+
+18
+00:01:23.380 --> 00:01:28.920
+Speaker 3: stability. And I'm always trying to
+get a pulse of the emerging technologies,
+
+19
+00:01:29.100 --> 00:01:33.880
+Speaker 3: trends, and fields, and I'm really
+in- interested and curious about, or in this
+
+20
+00:01:33.960 --> 00:01:37.280
+Speaker 3: area. So I'm really happy to have
+Steven on. So welcome, Steven.
+
+21
+00:01:38.100 --> 00:01:39.720
+Speaker 4: Good to be here. Nice to meet you,
+Chris.
+
+22
+00:01:40.180 --> 00:01:45.460
+Speaker 3: Yeah. You have a very interesting
+background and talk about your early experiences
+
+23
+00:01:45.580 --> 00:01:48.460
+Speaker 3: and what you're doing, and we'll dive
+right into the conversation.
+
+24
+00:01:49.400 --> 00:01:53.500
+Speaker 4: Yeah. I'm gonna sound like the
+opposite of impressive at first because I
+started out
+
+25
+00:01:53.540 --> 00:01:58.220
+Speaker 4: in, in college thinking that computer
+programming was something that was too hard,
+
+26
+00:01:58.760 --> 00:02:03.660
+Speaker 4: and then ended up switching into a
+computer science related major. From there, I
+did
+
+27
+00:02:03.760 --> 00:02:09.380
+Speaker 4: a pretty routine software
+development, and then I got a job at Amazon, not
+AI
+
+28
+00:02:09.419 --> 00:02:15.220
+Speaker 4: related, just regular software. About
+2016, I started realizing that deep learning
+
+29
+00:02:15.260 --> 00:02:19.420
+Speaker 4: is having a second renaissance. This
+is incredible stuff. This is now like entering
+
+30
+00:02:19.460 --> 00:02:23.760
+Speaker 4: the level of complexity where as a
+regular software developer you can begin to
+
+31
+00:02:23.800 --> 00:02:27.160
+Speaker 4: understand it with a little extra
+work. So I started training deep learning models
+
+32
+00:02:27.240 --> 00:02:32.640
+Speaker 4: and, uh, mostly vision models, some
+audio models, stuff like that. And then of
+
+33
+00:02:32.700 --> 00:02:36.880
+Speaker 4: course there is a third wave of AI
+revolution here where natural language
+
+34
+00:02:36.920 --> 00:02:41.700
+Speaker 4: processing, the advances there
+combined with transformers and other deep
+learning
+
+35
+00:02:41.760 --> 00:02:45.580
+Speaker 4: models to give you, yeah, large
+language models that you're all familiar with.
+And
+
+36
+00:02:45.600 --> 00:02:48.940
+Speaker 4: all right, great, so now I'm gonna
+learn this. It's at an even higher level of
+
+37
+00:02:49.020 --> 00:02:54.660
+Speaker 4: abstraction. And so I've been
+building my own stuff for years, some models as
+well
+
+38
+00:02:54.700 --> 00:02:59.820
+Speaker 4: through my day job, and now I'm
+applying everything I've learned to just make
+tools
+
+39
+00:02:59.860 --> 00:03:04.720
+Speaker 4: that help people. Not like
+sensational AI, just like really practical. I'm
+using it
+
+40
+00:03:05.480 --> 00:03:06.560
+Speaker 4: where it's the right thing to do.
+
+41
+00:03:09.100 --> 00:03:13.400
+Speaker 3: Really interesting foray, and I was
+actually have this kind of curiosity 'cause I
+
+42
+00:03:13.440 --> 00:03:18.060
+Speaker 3: was watching this YouTube with a
+podcast with, it was Marc Andreessen and Ben
+
+43
+00:03:18.120 --> 00:03:22.860
+Speaker 3: Horowitz and like Peter Diamandis and
+a lot of these AI innovators, and they were
+
+44
+00:03:22.920 --> 00:03:27.080
+Speaker 3: talking, and also Sam Altman, and he
+was talking about large language models as the
+
+45
+00:03:27.300 --> 00:03:32.720
+Speaker 3: baseline and was very akin to the
+browser wars, like which, which company is gonna
+
+46
+00:03:32.780 --> 00:03:36.980
+Speaker 3: come out with the, the most dominant
+one. And right now it looks like OpenAI, but
+
+47
+00:03:37.400 --> 00:03:41.100
+Speaker 3: does doing a lot of things with their
+LLaMA. But the question I have for you, 'cause
+
+48
+00:03:41.180 --> 00:03:46.860
+Speaker 3: it really sparked my curiosity, is
+like these AI models are based on language, but
+
+49
+00:03:47.620 --> 00:03:53.600
+Speaker 3: they, he was talking about AI models
+being based on video and pictures. And what
+
+50
+00:03:53.620 --> 00:03:58.500
+Speaker 3: are your thoughts on models, AI
+models based on things that are not based on
+
+51
+00:03:58.560 --> 00:04:01.040
+Speaker 3: language, but like videos and
+pictures?
+
+52
+00:04:02.820 --> 00:04:08.540
+Speaker 4: Yeah. This is slightly less explored,
+but this is coming to the foray in
+
+53
+00:04:08.580 --> 00:04:12.660
+Speaker 4: multimodal models. There's been a lot
+of advances in the encoding. At the lowest
+
+54
+00:04:12.720 --> 00:04:16.560
+Speaker 4: level, your large language models
+have taken little chunks of words. You can
+imagine
+
+55
+00:04:16.600 --> 00:04:20.959
+Speaker 4: the word, I don't know, waffle,
+broken up into just a few pieces. So sound wa
+and
+
+56
+00:04:20.980 --> 00:04:24.240
+Speaker 4: then ful. It's not necessarily how it
+gets split, but that's about right. That's
+
+57
+00:04:24.260 --> 00:04:28.380
+Speaker 4: like the lowest, that's the atoms of
+large language models. And then those little
+
+58
+00:04:28.440 --> 00:04:33.600
+Speaker 4: pieces get rearranged in a sort of
+autocomplete way, and that's how it thinks,
+
+59
+00:04:33.680 --> 00:04:37.280
+Speaker 4: right? It thinks at that low level.
+It's, those are how it represents its
+
+60
+00:04:37.340 --> 00:04:41.280
+Speaker 4: information. But how do you go from
+the word waffle to a picture of waffle?
+
+61
+00:04:41.680 --> 00:04:46.340
+Speaker 4: Something only knows text. It has no
+conception. This is like describing color to
+
+62
+00:04:46.380 --> 00:04:50.620
+Speaker 4: somebody who has never seen it in
+their entire life. So this is a dimension that
+
+63
+00:04:50.660 --> 00:04:55.180
+Speaker 4: they've never experienced. So how do
+you get them to understand it, a picture of a
+
+64
+00:04:55.220 --> 00:04:59.900
+Speaker 4: waffle intuitively like we do? And
+there's a lot of techniques for converting from
+
+65
+00:05:00.020 --> 00:05:04.940
+Speaker 4: one to the other, but what they've
+started doing is actually training these things
+
+66
+00:05:04.980 --> 00:05:10.340
+Speaker 4: at the same time, and so that the
+lowest level encodings are shared
+representations
+
+67
+00:05:10.380 --> 00:05:14.320
+Speaker 4: between all of them, so that you can
+actually seamlessly move from one to the other.
+
+68
+00:05:14.800 --> 00:05:20.200
+Speaker 4: It's really crazy. You input like the
+text waffle, and then it has an internal
+
+69
+00:05:20.260 --> 00:05:24.000
+Speaker 4: representation of the different
+meanings of the word waffle in context, like
+what a
+
+70
+00:05:24.040 --> 00:05:29.400
+Speaker 4: waffle is, what it looks like. It can
+actually generate output out the other side of
+
+71
+00:05:29.480 --> 00:05:32.740
+Speaker 4: a picture of waffle, and that doesn't
+necessarily look good 'cause that's not what
+
+72
+00:05:32.780 --> 00:05:37.900
+Speaker 4: it's for. But it, it shares, like it
+co-locates these representations together so
+
+73
+00:05:37.940 --> 00:05:40.860
+Speaker 4: that... And you can do that with
+sound, and then you can train it again with
+other
+
+74
+00:05:40.900 --> 00:05:46.040
+Speaker 4: low-level stuff. And now it begins to
+be able to intuit like how these concepts are
+
+75
+00:05:46.080 --> 00:05:50.860
+Speaker 4: related in ways other than just text.
+And I think that OpenAI's model can, what is
+
+76
+00:05:50.880 --> 00:05:56.460
+Speaker 4: it, Sora, its low-level encodings are
+basically pixels and sound.
+
+77
+00:05:56.980 --> 00:06:00.640
+Speaker 4: But it als- it does this technique.
+It also starts to marry these things together
+
+78
+00:06:00.720 --> 00:06:06.260
+Speaker 4: with words, and it's pretty cool.
+It's hard to train. [laughs] These are not easy
+to
+
+79
+00:06:06.300 --> 00:06:08.240
+Speaker 4: build. No one's gonna train them
+anyway. Just use theirs.
+
+80
+00:06:11.250 --> 00:06:14.790
+Speaker 3: It's really fascinating 'cause I'm
+just always trying to just keep grasp 'cause,
+you
+
+81
+00:06:14.830 --> 00:06:19.930
+Speaker 3: know, when OpenAI's, like their
+ChatGPT came out in November of, uh, '23.
+
+82
+00:06:20.750 --> 00:06:24.270
+Speaker 3: Was it '23 or what was... It s- it
+seems so long ago. It was very clunky. It was
+
+83
+00:06:24.310 --> 00:06:28.350
+Speaker 3: just like the texting, it wasn't
+really... But now it's like the, the large
+language
+
+84
+00:06:28.410 --> 00:06:33.510
+Speaker 3: models have been trained really well
+that you put in text or even images now, the
+
+85
+00:06:33.730 --> 00:06:37.510
+Speaker 3: output is actually pretty decent and
+it just reminds me of when I was using Google,
+
+86
+00:06:37.590 --> 00:06:41.190
+Speaker 3: like Google for search. It was just
+all text, right? But then you could use like
+
+87
+00:06:41.230 --> 00:06:46.270
+Speaker 3: Google Lens, like pictures, and you
+could use your voice as well, and it's like what
+
+88
+00:06:46.310 --> 00:06:50.590
+Speaker 3: you were describing, this multimodal.
+Which brings me to my next question is, 'cause
+
+89
+00:06:50.650 --> 00:06:55.870
+Speaker 3: you talk about everyday usage of AI
+and I had another guest who was also, he was,
+
+90
+00:06:56.250 --> 00:07:00.950
+Speaker 3: his focus was to educate those who
+don't have access to AI so that they're not left
+
+91
+00:07:01.010 --> 00:07:05.450
+Speaker 3: behind. So when you talk about these,
+they're these tools to help everyday people.
+
+92
+00:07:05.870 --> 00:07:10.370
+Speaker 3: You talk about developing AI tools to
+help individuals regain control over their
+
+93
+00:07:10.790 --> 00:07:16.630
+Speaker 3: attention and choices in a
+increasingly distracted world. Elaborate on that
+and, and
+
+94
+00:07:16.670 --> 00:07:17.570
+Speaker 3: what that means.
+
+95
+00:07:18.250 --> 00:07:21.930
+Speaker 4: Just like the general concept, and a
+lot of these general concepts you can start to
+
+96
+00:07:21.970 --> 00:07:24.990
+Speaker 4: apply in your own life. You don't
+need to use anything that I'm making or anything
+
+97
+00:07:25.050 --> 00:07:29.430
+Speaker 4: else. But think of it this way, like
+large language models specifically, and all the
+
+98
+00:07:29.490 --> 00:07:32.770
+Speaker 4: stuff that gets bolted on top of
+them, right? The... I'll just shorthand it to
+large
+
+99
+00:07:32.830 --> 00:07:35.530
+Speaker 4: language models. There's a lot of
+magic under the covers. It's the same with
+Google.
+
+100
+00:07:35.790 --> 00:07:39.330
+Speaker 4: You type in a search box, but you
+just know that there's an ocean of code under
+
+101
+00:07:39.390 --> 00:07:43.850
+Speaker 4: there. So there's a lot of stuff that
+goes into this, but for now assume it's large
+
+102
+00:07:43.890 --> 00:07:49.330
+Speaker 4: language models. It's basically
+commodity intelligence. You can think of it as
+not
+
+103
+00:07:49.370 --> 00:07:54.130
+Speaker 4: like an especially bright person,
+just like your average person, like a, a, an
+
+104
+00:07:54.270 --> 00:08:00.230
+Speaker 4: average level of reasoning in a box.
+A general reasoning, and that is really
+
+105
+00:08:00.290 --> 00:08:05.250
+Speaker 4: powerful. One thing you can use that
+for, yes, you can use it to replace people.
+
+106
+00:08:05.770 --> 00:08:10.390
+Speaker 4: Yeah, however you feel about that,
+good or bad, is neutral. But you can use it to
+
+107
+00:08:10.430 --> 00:08:15.530
+Speaker 4: replace commodity intelligence.
+That's... Everyone tends to focus on that. But
+you
+
+108
+00:08:15.570 --> 00:08:21.030
+Speaker 4: could also use it in places where it
+would be unethical, unreasonable, or just not
+
+109
+00:08:21.070 --> 00:08:26.630
+Speaker 4: preferable to have a human do the
+same thing. So think of it like a hazmat suit,
+or
+
+110
+00:08:26.730 --> 00:08:30.110
+Speaker 4: if you've seen the show Cher-
+Chernobyl or whatever, where they have, they try
+to
+
+111
+00:08:30.130 --> 00:08:34.910
+Speaker 4: get the robots to go in and clean it
+up. [laughs] So like y- you put it in an
+
+112
+00:08:34.950 --> 00:08:38.930
+Speaker 4: environments where you wouldn't want
+a human. So you can imagine there's a lot of
+
+113
+00:08:38.990 --> 00:08:44.870
+Speaker 4: environments like that on the
+internet. It's a lot more dangerous, predatory.
+
+114
+00:08:45.270 --> 00:08:50.690
+Speaker 4: There's a lot of influences. So some
+simple ways to use it are just send an AI ahead
+
+115
+00:08:50.730 --> 00:08:56.190
+Speaker 4: of you just to go look for things
+that it's triggering or is it good, and just
+
+116
+00:08:56.250 --> 00:09:00.990
+Speaker 4: pacify it or sanitize some of the
+things, or even just censor some of the things
+you
+
+117
+00:09:01.030 --> 00:09:05.550
+Speaker 4: don't want to experience. Get rid of
+the noise, the intentional bias and inf-
+
+118
+00:09:05.830 --> 00:09:10.070
+Speaker 4: influences, all that sort of stuff,
+right? So you can think of this as having a
+
+119
+00:09:10.110 --> 00:09:14.330
+Speaker 4: hazmat suit. So that is a simplistic
+way of looking at that, but there's a lot of
+
+120
+00:09:14.410 --> 00:09:18.590
+Speaker 4: other environments and situations in
+which you would like to have human-like
+
+121
+00:09:18.630 --> 00:09:24.570
+Speaker 4: intelligence evaluate a situation
+without a human so that you don't, a human
+
+122
+00:09:24.610 --> 00:09:30.470
+Speaker 4: doesn't have to. So not just saving
+work, it's also sparing a conscious [laughs]
+
+123
+00:09:30.530 --> 00:09:32.690
+Speaker 4: creature from having to experience or
+go through this.
+
+124
+00:09:35.170 --> 00:09:38.450
+Speaker 3: Interesting. It's, and I actually
+have some follow-up questions around just
+
+125
+00:09:38.570 --> 00:09:44.150
+Speaker 3: developing tools for mental clarity
+and focus, and also self-control and ADHD. I
+
+126
+00:09:44.210 --> 00:09:48.030
+Speaker 3: just wanna understand it more. If
+somebody... 'Cause I'm hearing a lot, 'cause I
+use
+
+127
+00:09:48.090 --> 00:09:52.970
+Speaker 3: the AI for a lot of content creation
+and, but I hear a lot of people are starting to
+
+128
+00:09:53.090 --> 00:09:57.850
+Speaker 3: use like AI for chatbots and
+assistants. If somebody want- wanted to learn
+how to
+
+129
+00:09:57.990 --> 00:10:02.690
+Speaker 3: use AI for this area, where would
+they go? Where would they start? How would you
+
+130
+00:10:02.730 --> 00:10:04.570
+Speaker 3: recommend them play around and
+tinker?
+
+131
+00:10:06.510 --> 00:10:10.750
+Speaker 4: Most awesome part about this like
+third wave of AI, assuming you don't count the
+
+132
+00:10:10.810 --> 00:10:16.790
+Speaker 4: early work before the early 2000s, is
+that it's mostly at, it's mostly
+
+133
+00:10:16.830 --> 00:10:21.170
+Speaker 4: these big foundational models that
+are trained on millions if not more dollars.
+
+134
+00:10:21.710 --> 00:10:25.110
+Speaker 4: There's, nobody can run these things
+on their computers, not really. Nobody c-
+
+135
+00:10:25.290 --> 00:10:28.590
+Speaker 4: definitely can't train them. It's
+highly sophisticated, but they're so
+
+136
+00:10:28.650 --> 00:10:33.150
+Speaker 4: generalizable. It turns out that
+basically everything I learned [laughs] about
+how
+
+137
+00:10:33.210 --> 00:10:36.970
+Speaker 4: to construct these neural networks
+and the software on top of it is more or less
+
+138
+00:10:37.030 --> 00:10:41.130
+Speaker 4: useless. Okay, it helps conceptually
+understand it. Like the playing field got real
+
+139
+00:10:41.190 --> 00:10:46.170
+Speaker 4: level because it's mostly prompt
+crafting and some light software engineering,
+but
+
+140
+00:10:46.230 --> 00:10:51.350
+Speaker 4: even the AIs can write the software.
+So it has leveled the playing field immensely
+
+141
+00:10:51.410 --> 00:10:55.030
+Speaker 4: to, to the point where, yes, it's a
+skill to learn how to interface with these
+
+142
+00:10:55.070 --> 00:11:00.130
+Speaker 4: things, but once you get good at
+using ChatGPT, like stitching together some
+
+143
+00:11:00.190 --> 00:11:04.410
+Speaker 4: software to do that in an automated
+way is basically just logic, like common sense,
+
+144
+00:11:04.450 --> 00:11:08.610
+Speaker 4: like just trial and error. And then
+you can use no code tools, Bubble, and there's
+
+145
+00:11:08.730 --> 00:11:12.430
+Speaker 4: LLM specific ones like, uh, Flowise,
+I think is one. There's a couple like them,
+
+146
+00:11:12.970 --> 00:11:16.590
+Speaker 4: where it's just like a little
+branching structure. If you've ever seen like a
+f-
+
+147
+00:11:16.590 --> 00:11:21.870
+Speaker 4: flow diagram. It's okay if this,
+here's the prompt, then do this. Like you've got
+
+148
+00:11:21.930 --> 00:11:25.970
+Speaker 4: customer intake or you've got, uh,
+new patients or something. Did they fill out
+this
+
+149
+00:11:26.030 --> 00:11:30.070
+Speaker 4: form? Okay, was this empty? Check for
+errors, like talk to them about it. If that's
+
+150
+00:11:30.130 --> 00:11:34.170
+Speaker 4: all good, then send them to this
+sign-up page. Okay, then send them to this
+thing.
+
+151
+00:11:34.910 --> 00:11:38.390
+Speaker 4: It's easy. If you're a human being
+with a little bit of patience and you're willing
+
+152
+00:11:38.430 --> 00:11:44.190
+Speaker 4: to l- learn a little skills, then you
+don't really need software
+
+153
+00:11:44.210 --> 00:11:49.770
+Speaker 4: developers like me. Uh, so that's the
+good news, is that 80% of the use cases you're
+
+154
+00:11:49.810 --> 00:11:54.330
+Speaker 4: enabled to do by yourself, and it's
+much more approachable. So those are the tools
+
+155
+00:11:54.390 --> 00:11:58.290
+Speaker 4: I'd recommend trying out, but there
+is no replacement for getting in there and
+
+156
+00:11:58.330 --> 00:12:02.230
+Speaker 4: learning the nuances of how it works,
+like intuitively. And this is something I'd
+
+157
+00:12:02.270 --> 00:12:06.330
+Speaker 4: recommend actually learning how to
+intuit if you don't already use the AI tools.
+
+158
+00:12:08.630 --> 00:12:12.470
+Speaker 3: Yeah. I, I love this process, how
+you're describing just tinkering and just
+playing
+
+159
+00:12:12.550 --> 00:12:17.230
+Speaker 3: around. Um, go in and just like just
+see what, you know, that's how you best learn.
+
+160
+00:12:17.510 --> 00:12:23.162
+Speaker 3: Um- Well, the other question I have
+for you is, so you talk about, um, the AI tools
+
+161
+00:12:23.242 --> 00:12:28.602
+Speaker 3: assisting those struggling with ADHD
+or addiction and, you know, what are... how is
+
+162
+00:12:28.622 --> 00:12:32.882
+Speaker 3: this possible? What are specific
+features designed to help those struggling with
+
+163
+00:12:32.982 --> 00:12:34.162
+Speaker 3: ADHD and addiction?
+
+164
+00:12:34.702 --> 00:12:38.522
+Speaker 4: There's lots of different hows. It's
+like a constellation of different tools, and a
+
+165
+00:12:38.562 --> 00:12:42.162
+Speaker 4: lot of it's just regular software.
+But one of the fundamental problems is you have
+
+166
+00:12:42.202 --> 00:12:46.782
+Speaker 4: an, the untrustworthy operator
+problem. Let's say you've got a bunch of system
+that
+
+167
+00:12:46.842 --> 00:12:50.222
+Speaker 4: keeps you healthy, in check. I
+meditate at this time. I take my medication at
+this
+
+168
+00:12:50.281 --> 00:12:54.402
+Speaker 4: time. I don't go buy drugs or alcohol
+'cause [chuckles] I'm not doing that. I
+
+169
+00:12:54.462 --> 00:12:58.902
+Speaker 4: don't... I, I make sure that I check
+into work, or I, I leave by this time. You can
+
+170
+00:12:58.942 --> 00:13:03.322
+Speaker 4: imagine a whole bunch of systems that
+people with ADHD and autism rely on. However,
+
+171
+00:13:04.142 --> 00:13:09.362
+Speaker 4: the operator themselves is not
+trustworthy, both in the sense that they forget,
+uh,
+
+172
+00:13:09.442 --> 00:13:12.522
+Speaker 4: they have low object permanence, they
+just don't even realize that they should be
+
+173
+00:13:12.562 --> 00:13:18.002
+Speaker 4: doing this, or they have emotional
+irregularity or motivational instability. So you
+
+174
+00:13:18.042 --> 00:13:22.942
+Speaker 4: simply can't operate in a way
+that's... Okay, I have a personal rule not to go
+buy
+
+175
+00:13:23.022 --> 00:13:27.702
+Speaker 4: alcohol on the way home. Okay that's
+not gonna stop you. [chuckles] Like, y- you-
+
+176
+00:13:27.742 --> 00:13:32.562
+Speaker 4: the operator themselves can't be
+trusted. So now what do you do when you- the
+system
+
+177
+00:13:32.622 --> 00:13:37.022
+Speaker 4: you rely on, you can't trust the
+person who's operating it? And you can have a
+
+178
+00:13:37.082 --> 00:13:41.942
+Speaker 4: nanny, or you can have [laughs] I
+guess a, a babysitter. You could have a sponsor.
+
+179
+00:13:42.002 --> 00:13:46.642
+Speaker 4: There are piecemeal solutions to all
+this stuff. But what would be really nice is if
+
+180
+00:13:46.702 --> 00:13:51.842
+Speaker 4: you had a system of accountability
+that understood the nuance. There's that
+
+181
+00:13:51.882 --> 00:13:55.782
+Speaker 4: commodified intelligence. This is
+where the AI part comes in. What state are you
+in?
+
+182
+00:13:55.882 --> 00:13:59.142
+Speaker 4: Can I trust you? Yes or no? Like,
+normally you can change your rules. It's just a
+
+183
+00:13:59.182 --> 00:14:04.242
+Speaker 4: rules engine. Like, I do this, I
+don't do this, make it hard to do this, hide
+this
+
+184
+00:14:04.282 --> 00:14:10.282
+Speaker 4: from me. It's more or less it, it
+knows you can't be trusted, so there's like this
+
+185
+00:14:10.342 --> 00:14:13.722
+Speaker 4: balance between this is where you
+need the intelligence. Do I let you just turn
+all
+
+186
+00:14:13.762 --> 00:14:18.802
+Speaker 4: this stuff off? Do I try to block a
+transaction at a liquor store? Okay I'm just
+
+187
+00:14:18.842 --> 00:14:23.442
+Speaker 4: buying this in order to make a, a
+flambé or [laughs] later. There's a lot of
+nuance
+
+188
+00:14:23.502 --> 00:14:29.142
+Speaker 4: here that brute force, like
+simplistic tools don't work. So in... you need
+something
+
+189
+00:14:29.182 --> 00:14:33.242
+Speaker 4: that understands. Also, you don't
+want it, it interrupting you or stopping you or
+
+190
+00:14:33.282 --> 00:14:36.782
+Speaker 4: turn- blocking your websites when
+you're trying to do stuff for work. There's an
+
+191
+00:14:36.842 --> 00:14:41.902
+Speaker 4: enormous amount of nuance in when to
+apply, like enforcement, and the net result of
+
+192
+00:14:41.962 --> 00:14:45.722
+Speaker 4: all this is that it just makes it
+easy to do what you wanna do, harder to do what
+
+193
+00:14:45.762 --> 00:14:49.422
+Speaker 4: you don't wanna do, and it makes it
+more or less impossible to not realize what you
+
+194
+00:14:49.462 --> 00:14:54.282
+Speaker 4: should be doing. And then the rest is
+more or less just set up your own rules. So
+
+195
+00:14:55.002 --> 00:14:58.822
+Speaker 4: that's the general system. But yeah,
+it's for sleep, it's for electronic addictions,
+
+196
+00:14:59.582 --> 00:15:04.522
+Speaker 4: avoiding substance abuse, spending
+control. These are the most common problems that
+
+197
+00:15:04.682 --> 00:15:09.042
+Speaker 4: people have, and so that's what we're
+focused on. But the principles are general,
+
+198
+00:15:09.642 --> 00:15:14.082
+Speaker 4: right? It's whatever rules you got
+for life. But it's just imagine a little, you
+
+199
+00:15:14.102 --> 00:15:17.122
+Speaker 4: know, guardian angel that is
+constantly paying attention to what you're
+doing.
+
+200
+00:15:17.742 --> 00:15:21.142
+Speaker 4: There's some AI there as well. And
+then whatever information you choose to give it,
+
+201
+00:15:21.242 --> 00:15:25.842
+Speaker 4: it's using that to evaluate whether
+it should step in to enforce your own rules or
+
+202
+00:15:25.882 --> 00:15:27.142
+Speaker 4: not if you don't.
+
+203
+00:15:27.562 --> 00:15:31.702
+Speaker 3: Really interesting. And then when you
+talk about ADHD and addiction, the other
+
+204
+00:15:31.762 --> 00:15:37.182
+Speaker 3: question is how do the A- AI tools
+you're developing help users main- attain mental
+
+205
+00:15:37.342 --> 00:15:41.362
+Speaker 3: clarity, and can you share examples
+of how these tools are used?
+
+206
+00:15:44.222 --> 00:15:49.962
+Speaker 4: Moving things. I'm operating from the
+state that your standard human at rest is
+
+207
+00:15:50.022 --> 00:15:54.202
+Speaker 4: already healthy, so if that's not
+true, that's a different target audience. So
+
+208
+00:15:54.302 --> 00:15:59.362
+Speaker 4: assuming that at rest when healthy
+you're functional, then it is mostly about
+
+209
+00:15:59.422 --> 00:16:04.002
+Speaker 4: removing influences. It's about
+decreasing your level of stimulation to improve
+your
+
+210
+00:16:04.022 --> 00:16:08.142
+Speaker 4: baseline dopamine. So a lot of this
+is like the hazmat suit I mentioned, like it's
+
+211
+00:16:08.182 --> 00:16:11.902
+Speaker 4: creating different interfaces to
+influences. Okay, you wanna listen to podcasts?
+You
+
+212
+00:16:12.362 --> 00:16:17.162
+Speaker 4: go through this other tool that
+desanitizes it. You wanna browse the web, you
+want
+
+213
+00:16:17.242 --> 00:16:22.002
+Speaker 4: to look at social media, you're gonna
+do it through this alternate interface that
+
+214
+00:16:22.062 --> 00:16:26.982
+Speaker 4: doesn't allow these things to pull
+your attention away. You can also tell it what
+
+215
+00:16:27.022 --> 00:16:29.882
+Speaker 4: your intentions are. This is what the
+first version of the software was. Tell it
+
+216
+00:16:29.922 --> 00:16:33.162
+Speaker 4: what your intentions are, and then
+it's paying attention to what you're doing, and
+
+217
+00:16:33.222 --> 00:16:37.082
+Speaker 4: if there's a discrepancy, it can just
+make you aware. But if you choose to... You're
+
+218
+00:16:37.101 --> 00:16:39.962
+Speaker 4: doing this to yourself. If you choose
+to follow up by adding more restrictions,
+
+219
+00:16:40.002 --> 00:16:43.802
+Speaker 4: "Hey, I said I was doing this thing
+for work and I'm not doing it after 45 minutes,"
+
+220
+00:16:43.882 --> 00:16:48.562
+Speaker 4: go through this pretty well-known
+psychotherapy routine, mirroring. There's...
+None
+
+221
+00:16:48.602 --> 00:16:52.202
+Speaker 4: of this is new, right? I'm just
+putting together existing Legos. Follow this
+step,
+
+222
+00:16:52.282 --> 00:16:56.302
+Speaker 4: then this step. If I completely
+ignore it, then I want you to turn off my
+internet.
+
+223
+00:16:56.702 --> 00:17:01.682
+Speaker 4: Not everyone's gonna do this kind of
+thing, but for certain problems it makes sense.
+
+224
+00:17:01.722 --> 00:17:05.982
+Speaker 4: Like substance abuse, for instance.
+You need a hard guardrail which says, "If a
+
+225
+00:17:06.042 --> 00:17:10.482
+Speaker 4: transaction comes through or is
+trying to be processed from these merchants or
+in
+
+226
+00:17:10.522 --> 00:17:15.842
+Speaker 4: this way, deny it." And that's just a
+hard enforcement. There are other rules, of
+
+227
+00:17:15.902 --> 00:17:19.142
+Speaker 4: course, to... It's never gonna be
+able to stop you. The purpose is just to add
+
+228
+00:17:19.202 --> 00:17:24.682
+Speaker 4: friction or to remove the presence of
+things that are making your life worse so that
+
+229
+00:17:24.722 --> 00:17:29.382
+Speaker 4: you don't have to use willpower. It's
+the, the whole purpose is you cannot rely on
+
+230
+00:17:29.442 --> 00:17:34.362
+Speaker 4: willpower. These people specifically,
+I'm definitely in the target audience, cannot
+
+231
+00:17:34.382 --> 00:17:39.522
+Speaker 4: rely on willpower reliably. So this
+removes, it adds a backstop, and ultimately
+
+232
+00:17:39.582 --> 00:17:43.662
+Speaker 4: allows you to retrain your brain for
+what you want and what you pay attention to
+
+233
+00:17:43.722 --> 00:17:48.602
+Speaker 4: because there's something, there is a
+digital adult in the room that will eventually
+
+234
+00:17:48.662 --> 00:17:53.802
+Speaker 4: step in, and that is something that
+we lose when neurodiverse people come from
+
+235
+00:17:54.182 --> 00:17:58.422
+Speaker 4: childhood to adulthood. There's
+nobody to step in anymore if you live alone or
+
+236
+00:17:58.502 --> 00:18:03.662
+Speaker 4: you're supporting yourself or others
+are dependent on you. You need reliable ways to
+
+237
+00:18:04.382 --> 00:18:09.602
+Speaker 4: not crash and burn. There's no one to
+step in. And so now this sort of preserves
+
+238
+00:18:09.662 --> 00:18:13.722
+Speaker 4: autonomy and independence and allows
+some software to step in by your own design.
+
+239
+00:18:13.782 --> 00:18:17.522
+Speaker 4: You're doing this to yourself. It's
+configurable. So that's the premise.
+
+240
+00:18:18.342 --> 00:18:22.762
+Speaker 3: Really the next question I have for
+you is, 'cause talking a- about just going away
+
+241
+00:18:22.822 --> 00:18:26.962
+Speaker 3: from the AI and just talking about
+more broader, talk about this what are your
+
+242
+00:18:27.022 --> 00:18:31.862
+Speaker 3: thoughts on society's current
+challenges with self-control, and how can
+technology,
+
+243
+00:18:32.002 --> 00:18:37.002
+Speaker 3: particularly AI, foster more mindful
+and intentional behaviors?
+
+244
+00:18:37.578 --> 00:18:42.358
+Speaker 4: Anyone relatively studied in like
+psychology or sociology recognizes just how we
+
+245
+00:18:42.398 --> 00:18:47.378
+Speaker 4: like to think we're, we have free
+will, but... And like we have a lot of agency.
+But
+
+246
+00:18:47.438 --> 00:18:51.238
+Speaker 4: most of our behaviors and the ways in
+which we can be influenced are very well
+
+247
+00:18:51.278 --> 00:18:56.278
+Speaker 4: documented. Like we are very well
+doc- they're super well-documented blueprints on
+
+248
+00:18:56.918 --> 00:19:01.918
+Speaker 4: how to get humans to do what you want
+them to do. And the sad part of this is, is
+
+249
+00:19:02.118 --> 00:19:06.838
+Speaker 4: that has been very well perfected and
+engineered upon by basically everything.
+
+250
+00:19:07.138 --> 00:19:12.498
+Speaker 4: Everything from business processes to
+the well-known attention and influence
+
+251
+00:19:12.538 --> 00:19:17.398
+Speaker 4: economies, ads, all this sort of
+stuff. Um, it's obvious people have figured out
+
+252
+00:19:18.098 --> 00:19:22.478
+Speaker 4: really how to perfectly manipulate
+others through technology. The nice part is that
+
+253
+00:19:22.538 --> 00:19:28.078
+Speaker 4: you can do that to yourself, and you
+can also detect that, and you can stop it. So
+
+254
+00:19:28.138 --> 00:19:32.518
+Speaker 4: that is the role of software in this,
+is that you can use software to harm yourself
+
+255
+00:19:32.598 --> 00:19:37.118
+Speaker 4: or to be harmed, and you can just
+accept that. Or at the individual level or an
+
+256
+00:19:37.178 --> 00:19:41.038
+Speaker 4: organizational level, you don't have
+to wait for society to change. You can just
+
+257
+00:19:41.658 --> 00:19:45.858
+Speaker 4: make your own tools or set your own
+rules, like none of this has to be software. But
+
+258
+00:19:45.918 --> 00:19:51.258
+Speaker 4: what to access and what not to
+access, um, and become aware of what's
+
+259
+00:19:51.318 --> 00:19:56.758
+Speaker 4: manipulating you or influencing you.
+And so that is really how I see it, is yes,
+
+260
+00:19:56.918 --> 00:20:01.638
+Speaker 4: collective action is great. The man
+is slow, frustrating, and often ineffective.
+
+261
+00:20:02.158 --> 00:20:07.218
+Speaker 4: Solutions are not great. So if you're
+waiting for US Congress to pass laws banning
+
+262
+00:20:07.278 --> 00:20:12.998
+Speaker 4: social media so that your 12-year-old
+isn't being unduly influenced, I think you're
+
+263
+00:20:13.018 --> 00:20:16.218
+Speaker 4: gonna be waiting a long time and
+you're gonna be disappointed. However, you can
+
+264
+00:20:16.258 --> 00:20:20.558
+Speaker 4: begin to take action now beyond
+just... A lot of it's simple, and a lot of it is
+the
+
+265
+00:20:20.598 --> 00:20:21.518
+Speaker 4: willingness to
+
+266
+00:20:23.058 --> 00:20:27.798
+Speaker 4: notice how things are making you
+feel. That is su- such a simple thing to say,
+but
+
+267
+00:20:27.938 --> 00:20:32.558
+Speaker 4: notice what is making you feel bad,
+become committed to that, and then be willing to
+
+268
+00:20:32.598 --> 00:20:37.898
+Speaker 4: live differently or to be creative on
+how you remove those, remove or blunt those
+
+269
+00:20:37.958 --> 00:20:43.218
+Speaker 4: influences on you. That's like the
+most important thing to do regardless of what
+ch-
+
+270
+00:20:43.298 --> 00:20:46.998
+Speaker 4: tools you use, 'cause nothing is ever
+perfect. You gotta fit it to your life. Remove
+
+271
+00:20:47.038 --> 00:20:50.758
+Speaker 4: the bad stuff and do more of the good
+stuff. I don't think that any of this is
+
+272
+00:20:50.858 --> 00:20:56.418
+Speaker 4: actually surprising. My insight for
+building a business in software was that people
+
+273
+00:20:56.458 --> 00:20:59.878
+Speaker 4: know what to do. The average person
+knows what is healthy for them and not healthy
+
+274
+00:20:59.918 --> 00:21:05.878
+Speaker 4: for them generally, but they have
+trouble actually doing it or not doing it. So
+
+275
+00:21:05.958 --> 00:21:10.258
+Speaker 4: that's where you should focus. Less
+on shame. Stop using effort and willpower, and
+
+276
+00:21:10.318 --> 00:21:14.278
+Speaker 4: just make it so that it's really
+hard, if not impossible, to do the things that
+are
+
+277
+00:21:14.338 --> 00:21:18.858
+Speaker 4: bad for you, and it's really easy, if
+not inevitable, to do the things that are good
+
+278
+00:21:18.898 --> 00:21:19.258
+Speaker 4: for you.
+
+279
+00:21:19.278 --> 00:21:23.058
+Speaker 1: [upbeat music] College football is
+back, so Hilton called in me, the superstition
+
+280
+00:21:23.118 --> 00:21:27.038
+Speaker 1: concierge, to make your fan rituals a
+reality. Need a room to match your lucky
+
+281
+00:21:27.098 --> 00:21:31.038
+Speaker 1: number? We got you. Wanna make sure
+our team doesn't wash your lucky jersey?
+
+282
+00:21:31.038 --> 00:21:35.698
+Speaker 1: [sniffs] Ooh, that smells lucky.
+[whistle blows] Hilton's unmatched hospitality
+can
+
+283
+00:21:35.758 --> 00:21:40.398
+Speaker 1: keep up with any superstition. Even a
+marching band wake-up call at 5:55 and 55
+
+284
+00:21:40.458 --> 00:21:43.878
+Speaker 1: seconds. Hit it. [marching band
+music] When you need a team that will do
+whatever it
+
+285
+00:21:43.938 --> 00:21:47.818
+Speaker 1: takes on game day, it matters where
+you stay. Hilton for the stay.
+
+286
+00:21:49.858 --> 00:21:54.218
+Speaker 2: This episode is brought to you by
+PayPal. [upbeat music] Holiday rush? Skip the
+mall
+
+287
+00:21:54.278 --> 00:21:58.838
+Speaker 2: traffic and shop online with PayPal.
+Shop your favorite online stores like eBay,
+
+288
+00:21:58.938 --> 00:22:03.698
+Speaker 2: Fanatics, Walmart, Sephora, Target,
+and TikTok Shop, and choose to pay now or pay
+
+289
+00:22:03.758 --> 00:22:07.778
+Speaker 2: later at checkout. Plus, Pay in 4
+with no interest and no late fees.
+
+290
+00:22:09.698 --> 00:22:13.458
+Speaker 2: Shop now with PayPal. Pay in 4 is
+subject to approval. Learn more at
+
+291
+00:22:13.518 --> 00:22:18.258
+Speaker 2: paypal.com/payin4. PayPal
+Incorporated, NMLS 910457.
+
+292
+00:22:22.318 --> 00:22:25.758
+Speaker 3: Very insightful, and I'm sure the
+audience is gonna have a lot of follow-up
+
+293
+00:22:25.798 --> 00:22:30.498
+Speaker 3: questions. I have two more questions
+before we have around three, four minutes left.
+
+294
+00:22:30.618 --> 00:22:36.578
+Speaker 3: The other question is, the... One is
+AI can feel impersonal, and how
+
+295
+00:22:36.598 --> 00:22:42.418
+Speaker 3: do you ensure your tools foster
+genuine human agency and are accessible? Because
+I
+
+296
+00:22:42.478 --> 00:22:47.478
+Speaker 3: was... There's this concern from
+people that have access to AI and that know how
+to
+
+297
+00:22:47.638 --> 00:22:51.178
+Speaker 3: use it. They're gonna use it to, of
+course, enrich themselves and progress, whereas
+
+298
+00:22:51.258 --> 00:22:57.078
+Speaker 3: the common average person that
+doesn't know or is gonna get left behind. How do
+
+299
+00:22:57.157 --> 00:22:58.258
+Speaker 3: you address this?
+
+300
+00:22:58.897 --> 00:23:03.618
+Speaker 4: That's a profound problem, and I
+think that it's accurate. But that's a question
+
+301
+00:23:03.658 --> 00:23:07.298
+Speaker 4: that is well beyond the scope of just
+AI. This is any technology, what happens when
+
+302
+00:23:07.738 --> 00:23:12.018
+Speaker 4: you have exponential, uh, abilities.
+Like some people are becoming superhuman.
+
+303
+00:23:12.558 --> 00:23:17.398
+Speaker 4: That's a major challenge that is
+really a philosophical one. So that's... I won't
+
+304
+00:23:17.438 --> 00:23:21.438
+Speaker 4: weigh into that too much other than I
+would advise you don't need to be on the
+
+305
+00:23:21.478 --> 00:23:25.418
+Speaker 4: cutting edge. But, uh, uh, usually
+being about 20, 30% behind the cutting edge,
+
+306
+00:23:25.478 --> 00:23:30.058
+Speaker 4: being an early-ish mainstream adopter
+is about good. Just pay attention [laughs] and
+
+307
+00:23:30.118 --> 00:23:33.918
+Speaker 4: try to use these things. There was a
+second part to that question that I forgot.
+
+308
+00:23:35.438 --> 00:23:41.258
+Speaker 3: Yeah. It was this, the kind of the,
+the next question is just with AI,
+
+309
+00:23:41.598 --> 00:23:47.198
+Speaker 3: how do you help people use technology
+to create more meaningful lives? Just 'cause I
+
+310
+00:23:47.238 --> 00:23:51.238
+Speaker 3: know in our day and age, it's really,
+it's just more efficient, instant
+
+311
+00:23:51.278 --> 00:23:55.898
+Speaker 3: gratification, just more effective
+and just bam. But ultimately, with technology,
+
+312
+00:23:55.938 --> 00:24:00.538
+Speaker 3: we're losing meaning. For example,
+we're very connected, but we're in the, we're
+
+313
+00:24:01.058 --> 00:24:05.438
+Speaker 3: what some of the most disconnected
+people in human history, even though the
+
+314
+00:24:05.498 --> 00:24:09.738
+Speaker 3: technology is supposed to bring us
+together. So how, how do you, uh, use AI to
+
+315
+00:24:10.078 --> 00:24:11.598
+Speaker 3: create more meaning for people?
+
+316
+00:24:12.618 --> 00:24:17.018
+Speaker 4: Okay. That's a great question, and
+I'm willing to be late for my next thing to
+
+317
+00:24:17.078 --> 00:24:20.718
+Speaker 4: answer that because that's an amazing
+question. And I feel very strongly about this.
+
+318
+00:24:22.258 --> 00:24:27.778
+Speaker 4: We should not be replacing the
+behaviors that we want to do.
+
+319
+00:24:28.478 --> 00:24:33.138
+Speaker 4: We... This is where capitalist
+profiteering, like efficiency mindset falls
+flat, is
+
+320
+00:24:33.178 --> 00:24:38.398
+Speaker 4: that it, it... If we keep going,
+we've automated away everything, right? We have
+AI
+
+321
+00:24:38.438 --> 00:24:42.238
+Speaker 4: raising our children. We have
+technology that does everything for us.
+Eventually, it
+
+322
+00:24:42.258 --> 00:24:46.946
+Speaker 4: can just live for us, and what are
+we? You can just be- Put on a, uh, a feeding
+
+323
+00:24:47.006 --> 00:24:52.846
+Speaker 4: tube, um, and just [laughs] go
+unconscious. Uh, what are you replacing? Uh, I
+think
+
+324
+00:24:52.906 --> 00:24:56.326
+Speaker 4: this is where we, we have to be quite
+mindful of the fact that we are...
+
+325
+00:24:58.706 --> 00:25:03.446
+Speaker 4: At an individual or even an
+organizational level, what are you omitting?
+What are
+
+326
+00:25:03.466 --> 00:25:07.286
+Speaker 4: you actually replacing? Did you get
+rid of the things that you wanted to do? The
+
+327
+00:25:07.346 --> 00:25:11.966
+Speaker 4: purpose of an AI tool is the obvious
+that most people talk about, to replace the
+
+328
+00:25:12.046 --> 00:25:16.146
+Speaker 4: jobs and tasks that people don't want
+to do, or that it can do it better. Sure,
+
+329
+00:25:16.286 --> 00:25:20.866
+Speaker 4: that's fine. Go use it for those
+things. That's obvious. Pay attention to where
+it's
+
+330
+00:25:20.946 --> 00:25:24.926
+Speaker 4: overrunning and recognize that there
+were... there is meaning in work, there's
+
+331
+00:25:24.966 --> 00:25:28.886
+Speaker 4: meaning in helping people, and that
+you're not remove... What are you doing with
+
+332
+00:25:28.926 --> 00:25:34.426
+Speaker 4: this extra time? Unfortunately, if
+the common denominator, like the status quo, is
+
+333
+00:25:34.486 --> 00:25:38.746
+Speaker 4: that you go back to the attention
+economy, you start grazing for information, or
+
+334
+00:25:38.806 --> 00:25:43.046
+Speaker 4: you're in a world where nobody else
+is around, in the physical world it's very
+
+335
+00:25:43.106 --> 00:25:48.586
+Speaker 4: lonely because they're all zombies,
+that's bad. What are you freeing up your time
+
+336
+00:25:48.706 --> 00:25:54.186
+Speaker 4: and energy for? So you want time,
+energy, and attention freedom. That's awesome.
+You
+
+337
+00:25:54.226 --> 00:25:59.606
+Speaker 4: can keep opening that up, but if the
+way you allocate it is just pointless leisure
+
+338
+00:26:00.386 --> 00:26:05.366
+Speaker 4: or it has no meaning for you, then
+you're just getting more of a terrible thing. So
+
+339
+00:26:06.786 --> 00:26:11.826
+Speaker 4: this is, uh, again, a neutral tool.
+All it does is give you more time, energy, and
+
+340
+00:26:11.866 --> 00:26:15.726
+Speaker 4: attention freedom, maybe some
+financial freedom as well. But what are you
+gonna do
+
+341
+00:26:15.766 --> 00:26:19.586
+Speaker 4: with that? You have an excess, you
+have a surplus of these things, but how you
+
+342
+00:26:19.706 --> 00:26:24.966
+Speaker 4: allocate that for meaning is
+critical. It doesn't... It creates more of a
+thing, but
+
+343
+00:26:25.006 --> 00:26:28.266
+Speaker 4: it doesn't mean that you're gonna use
+your f- newfound freedom and resources. That
+
+344
+00:26:28.326 --> 00:26:33.546
+Speaker 4: is an entirely different, uh,
+conversation and problem. I have a, a lot to, to
+say
+
+345
+00:26:33.626 --> 00:26:36.386
+Speaker 4: on those, but I think we'll have to
+leave it at that for now.
+
+346
+00:26:38.726 --> 00:26:42.806
+Speaker 3: Yeah, I really enjoyed this
+conversation, and very insightful just coming
+from a
+
+347
+00:26:42.866 --> 00:26:47.566
+Speaker 3: SaaS founder and just a leader in
+this area. And what if people wanted to follow
+you
+
+348
+00:26:47.646 --> 00:26:50.026
+Speaker 3: and reach out to you and connect with
+you, how could they do that?
+
+349
+00:26:51.106 --> 00:26:56.966
+Speaker 4: Uh, there's a website,
+impossiblelaboratories.com. If you're a software
+dev or a
+
+350
+00:26:57.006 --> 00:27:00.406
+Speaker 4: designer or project manager, I, I'm
+looking for collaborators. This is a lot of
+
+351
+00:27:00.446 --> 00:27:00.686
+Speaker 4: work.
+
+352
+00:27:00.686 --> 00:27:01.426
+Speaker 3: [laughs]
+
+353
+00:27:01.446 --> 00:27:04.466
+Speaker 4: But now that I've started, like,
+doing user interviews and all this stuff,
+running a
+
+354
+00:27:04.506 --> 00:27:07.366
+Speaker 4: business is, like, crazy hard.
+It's... I don't have time for all this.
+
+355
+00:27:07.386 --> 00:27:07.826
+Speaker 3: [laughs]
+
+356
+00:27:07.886 --> 00:27:11.346
+Speaker 4: The loose collection of contractors
+plus me is not cutting it anymore. So yeah, if
+
+357
+00:27:11.386 --> 00:27:14.966
+Speaker 4: you... It sounded cool and you wanna
+try it out or you wanna help, this is mission
+
+358
+00:27:15.006 --> 00:27:19.666
+Speaker 4: driven. Uh, it's got profit motive
+because this is America. You can't do anything
+
+359
+00:27:19.706 --> 00:27:23.586
+Speaker 4: without a profit motive. But really
+it's a... This is not the easiest way to make
+
+360
+00:27:23.606 --> 00:27:24.386
+Speaker 4: money. I could just-
+
+361
+00:27:24.386 --> 00:27:24.826
+Speaker 3: [laughs]
+
+362
+00:27:24.866 --> 00:27:28.886
+Speaker 4: This, this is about helping people.
+So if that sounds cool, give it a shot. That's
+
+363
+00:27:28.966 --> 00:27:31.906
+Speaker 4: impossiblelaboratories.com. I'll put
+some links on there.
+
+364
+00:27:32.586 --> 00:27:35.746
+Speaker 3: Excellent. Yeah. And, uh, keep up the
+great work, and I really enjoyed this
+
+365
+00:27:35.806 --> 00:27:36.526
+Speaker 3: conversation.
+
+366
+00:27:37.386 --> 00:27:40.526
+Speaker 4: Awesome. Well, it was nice to meet
+you, Chris. And, uh, cool. Yeah, maybe we'll do
+a
+
+367
+00:27:40.566 --> 00:27:41.206
+Speaker 4: follow-up in a while.
+
+368
+00:27:43.106 --> 00:27:47.726
+Speaker 5: Fall savings are happening now at The
+Home Depot. Save up to $500 on select
+
+369
+00:27:47.766 --> 00:27:53.266
+Speaker 5: appliances, plus enjoy free delivery
+when you spend $998 or more. From prepping, to
+
+370
+00:27:53.306 --> 00:27:56.826
+Speaker 5: cooking, to cleaning up, Frigidaire
+has you covered. The custom flex temp drawer
+
+371
+00:27:56.866 --> 00:28:00.026
+Speaker 5: switches from fridge to freezer. With
+more than 15 cooking modes, including
+
+372
+00:28:00.106 --> 00:28:03.646
+Speaker 5: stone-baked pizza mode, you can enjoy
+restaurant quality pizza in as little as two
+
+373
+00:28:03.706 --> 00:28:06.846
+Speaker 5: minutes. Then clean up with the
+Frigidaire dishwasher featuring the industry's
+
+374
+00:28:06.886 --> 00:28:10.806
+Speaker 5: fastest normal wash cycle. Shop fall
+savings now at The Home Depot. Offer valid
+
+375
+00:28:10.806 --> 00:28:12.906
+Speaker 5: through October 21st. U.S. only. See
+store online for details.
+
+376
+00:28:13.306 --> 00:28:18.286
+Speaker 6: Football is back and PrizePicks is
+bringing out their best offer yet. On
+PrizePicks,
+
+377
+00:28:18.546 --> 00:28:22.866
+Speaker 6: you can make all the picks you want,
+all in the same app. And now PrizePicks is
+
+378
+00:28:22.906 --> 00:28:28.246
+Speaker 6: available nationwide. Lock in for
+kickoff because everyone and everything is on
+
+379
+00:28:28.286 --> 00:28:29.906
+Speaker 6: PrizePicks. What you on?
+
+380
+00:28:30.146 --> 00:28:35.326
+Speaker 7: Download the PrizePicks app today and
+use code SPOTIFY to get $150 instantly in
+
+381
+00:28:35.366 --> 00:28:40.086
+Speaker 7: lineups if you win your first $5
+lineup. PrizePicks, run your game.
+
+382
+00:28:40.366 --> 00:28:42.546
+Speaker 6: Must be 18 or older and in legal
+states. Visit prizepicks.com for restrictions
+and
+
+383
+00:28:42.566 --> 00:28:43.006
+Speaker 6: details.

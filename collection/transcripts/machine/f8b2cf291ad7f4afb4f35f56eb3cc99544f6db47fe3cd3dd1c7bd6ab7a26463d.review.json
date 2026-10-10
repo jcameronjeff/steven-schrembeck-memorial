@@ -1,0 +1,27 @@
+{
+  "source_path": "collected/025-soulbinder-episode-2-raw.mp3",
+  "automated_flags": [
+    {
+      "kind": "speech_gap_over_20s",
+      "start": 0.32,
+      "end": 50.02,
+      "note": "May be music, silence or an omission; review audio."
+    },
+    {
+      "kind": "trailing_no_speech",
+      "start": 1129.468,
+      "end": 1172.256
+    }
+  ],
+  "flags_are_review_candidates_not_confirmed_errors": true,
+  "raw_word_count": 4815,
+  "spoken_word_count": 2408,
+  "speaker_ids": [
+    "speaker_0"
+  ],
+  "subtitle_cue_count": 193,
+  "first_speech_seconds": 0.1,
+  "last_speech_seconds": 1129.468,
+  "human_correction_status": "uncorrected",
+  "source_offset_seconds": 0
+}

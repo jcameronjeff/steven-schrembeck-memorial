@@ -1,0 +1,25 @@
+{
+  "imported_utc": "2026-10-10T18:01:08.607157+00:00",
+  "videos": [
+    {
+      "title": "Deep Meaning at Work",
+      "path": "cox-workplace/presentations/deep-meaning-at-work/Deep Meaning at Work-20250924_143049-Meeting Recording.mp4",
+      "sha256": "8cc7ed23ad9a14edfc77c21e81c4ee8b2f9d4609d21daad633177e80c1a17391",
+      "bytes": 318308751,
+      "recording_date": "2025-09-24",
+      "duration_seconds": 2560.896,
+      "all_cues_within_duration": true,
+      "removed_from_downloads": true
+    },
+    {
+      "title": "Not Your Job: The Art of Defiance",
+      "path": "cox-workplace/presentations/not-your-job-the-art-of-defiance/Not Your Job The Art of Defiance-20260106_143224-Meeting Recording.mp4",
+      "sha256": "db5c44a8a35c3fe0a84e99745a643ac130c39de257ab9fa02bdadf16d3d4ed35",
+      "bytes": 209663359,
+      "recording_date": "2026-01-06",
+      "duration_seconds": 2061.7605,
+      "all_cues_within_duration": true,
+      "removed_from_downloads": true
+    }
+  ]
+}

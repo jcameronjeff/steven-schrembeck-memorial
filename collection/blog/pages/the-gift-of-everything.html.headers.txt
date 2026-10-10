@@ -1,0 +1,14 @@
+HTTP/2 200 
+age: 32867
+cache-control: public, max-age=0, must-revalidate
+content-type: text/html; charset=utf-8
+date: Sat, 10 Oct 2026 08:25:21 GMT
+etag: "bmdl97od3k2jjl"
+server: Vercel
+strict-transport-security: max-age=63072000
+x-matched-path: /the-gift-of-everything
+x-powered-by: Next.js
+x-vercel-cache: STALE
+x-vercel-id: iad1::iad1::lg8vc-1791653589101-351b6ad7e1f4
+content-length: 118873
+

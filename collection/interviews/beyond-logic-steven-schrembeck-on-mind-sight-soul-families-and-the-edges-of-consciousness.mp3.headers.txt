@@ -1,0 +1,48 @@
+HTTP/2 307 
+date: Sat, 10 Oct 2026 17:33:39 GMT
+content-type: text/plain; charset=utf-8
+content-length: 580
+location: https://substackcdn.com/video_upload/post/189053964/b5c164df-bf4b-41c6-97ad-3cb350937f8a/transcoded.mp3?post_id=189053964&relation=podcast&Expires=1791740019&Key-Pair-Id=APKAIVDA3NPSMPSPESQQ&Signature=DwAXay3zZr~~wy~c~WbpkItl~-DkThod-jza9RLUwgMF8GQjVxXGsHkcVSb5sD5biOtWOFXxI2-1cETqXHnNWXbzzNMIbJtBDwCtArZxNkLwwOlVPwEi8p~pMR4x83HGQ54K1uglKb3-lMlla~sZZQExPY83Jd-E0~FCNfYhhjOFM~LL18X4npv64ICqHESLMqhzwC7boSN8DJw4aR7-Qy30aQV4hX7-pLldBarYwE2W7b0BLD95L2ikh6zx6VU3ae67kSsy-Vu6ZnblGKEkoUtV3wbIp5P2gC-trXK4HS2LXb1yttajhK7bk8Ai~cqIq57APVKd2CZ5EQXGpB5XsA__
+cf-ray: a4875f110d6bcefc-ATL
+cf-cache-status: BYPASS
+cache-control: no-cache
+server: cloudflare
+x-service: web
+strict-transport-security: max-age=31536000; includeSubDomains; preload
+vary: Accept, Accept-Encoding
+x-cluster: substack
+x-deploy: bb5e503db4
+x-powered-by: Express
+x-served-by: Substack
+set-cookie: ab_experiment_sampled=%22false%22; Max-Age=31536000; Domain=substack.com; Path=/; Expires=Sun, 10 Oct 2027 17:33:39 GMT; HttpOnly; Secure; SameSite=Lax
+set-cookie: ab_testing_id=%22283d8495-5421-44f9-abca-194c93a5b142%22; Max-Age=31536000; Domain=substack.com; Path=/; Expires=Sun, 10 Oct 2027 17:33:39 GMT; HttpOnly; Secure; SameSite=Lax
+set-cookie: AWSALBTG=jDFJ4h8vU0SP+1pCgZqITt6zWZvbVbiNxzNeP+oRiGj7Th4aZulJs2LmUJ4tor5VkPO6b2wknB7CRluuZBDvq29CikM61hDBgiAhjMdE6QrrG1KX4lHfp69HrqwVzdFZ79ALI8ZteOHdM7Nihkpjf5y7lxbPrkkQEPKfOUpH/0NV; Expires=Sat, 17 Oct 2026 17:33:39 GMT; Path=/
+set-cookie: AWSALBTGCORS=jDFJ4h8vU0SP+1pCgZqITt6zWZvbVbiNxzNeP+oRiGj7Th4aZulJs2LmUJ4tor5VkPO6b2wknB7CRluuZBDvq29CikM61hDBgiAhjMdE6QrrG1KX4lHfp69HrqwVzdFZ79ALI8ZteOHdM7Nihkpjf5y7lxbPrkkQEPKfOUpH/0NV; Expires=Sat, 17 Oct 2026 17:33:39 GMT; Path=/; SameSite=None; Secure
+set-cookie: cookie_storage_key=d360b215-addb-4f7b-9866-b03d74d89269; Max-Age=7776000; Domain=substack.com; Path=/; Expires=Fri, 08 Jan 2027 17:33:39 GMT; Secure; SameSite=None
+set-cookie: ajs_anonymous_id=%2246e1a20d-a513-46c7-bbcb-086a51c06ab3%22; Max-Age=31536000; Domain=substack.com; Path=/; Expires=Sun, 10 Oct 2027 17:33:39 GMT; SameSite=Strict
+set-cookie: visit_id=%7B%22id%22%3A%2231bd13ec-8e73-4750-9177-568301ee953a%22%2C%22timestamp%22%3A%222026-10-10T17%3A33%3A39.387Z%22%7D; Max-Age=1800; Domain=substack.com; Path=/; Expires=Sat, 10 Oct 2026 18:03:39 GMT; HttpOnly; SameSite=Strict
+set-cookie: __cf_bm=AZjSu1avmRuydtpWBRzIBU3iu1o8SExenedtJOI3lAo-1791653619.3631835-1.0.1.1-MdepQWqhbaVQTQUpPxYj5lukbBOnKGI_HwGDdAlgXTIOk2neadB7Nwg2yNHkOWbYcR6N_32ZgBTJVoZF_Ei53AXdn.YafxxjzD.60r0wbufnOK2_AcXDnJXB_w5hJbB7; HttpOnly; SameSite=None; Secure; Path=/; Domain=substack.com; Expires=Sat, 10 Oct 2026 18:03:39 GMT
+alt-svc: h3=":443"; ma=86400
+
+HTTP/2 200 
+content-type: binary/octet-stream
+content-length: 80760601
+server: AmazonS3
+last-modified: Tue, 24 Feb 2026 19:15:36 GMT
+x-amz-storage-class: INTELLIGENT_TIERING
+x-amz-server-side-encryption: AES256
+accept-ranges: bytes
+date: Sat, 10 Oct 2026 17:33:40 GMT
+etag: "2ca672162403b7c56aa60895fc0fd413-10"
+x-cache: RefreshHit from cloudfront
+via: 1.1 68a40c405a2ba280d0b148d00472963e.cloudfront.net (CloudFront)
+x-amz-cf-pop: ATL58-P5
+alt-svc: h3=":443"; ma=86400
+x-amz-cf-id: vbpCcQ2JbgCwquxCy2dsBYtUSkNUMFjxRieujosjQ11hjRLCmzdGIA==
+x-xss-protection: 1; mode=block
+x-frame-options: SAMEORIGIN
+referrer-policy: strict-origin-when-cross-origin
+x-content-type-options: nosniff
+strict-transport-security: max-age=31536000
+vary: Origin
+

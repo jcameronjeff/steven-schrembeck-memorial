@@ -1,0 +1,41 @@
+{
+  "source_path": "interviews/unlocking-human-and-machine-consciousness-with-steven-schrembeck.mp3",
+  "automated_flags": [
+    {
+      "kind": "low_word_logprob",
+      "word_index": 49,
+      "start": 8.1,
+      "end": 8.24,
+      "text": " ",
+      "logprob": -1.279840111732483
+    },
+    {
+      "kind": "low_word_logprob",
+      "word_index": 2851,
+      "start": 470.316,
+      "end": 470.416,
+      "text": "I'll",
+      "logprob": -2.1387290656565767
+    },
+    {
+      "kind": "low_word_logprob",
+      "word_index": 3387,
+      "start": 541.616,
+      "end": 541.616,
+      "text": "Right",
+      "logprob": -1.4864259958267212
+    }
+  ],
+  "flags_are_review_candidates_not_confirmed_errors": true,
+  "raw_word_count": 14409,
+  "spoken_word_count": 7173,
+  "speaker_ids": [
+    "speaker_0",
+    "speaker_1"
+  ],
+  "subtitle_cue_count": 570,
+  "first_speech_seconds": 0.2,
+  "last_speech_seconds": 2296.648,
+  "human_correction_status": "uncorrected",
+  "source_offset_seconds": 0
+}

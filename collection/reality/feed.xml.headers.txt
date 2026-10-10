@@ -1,0 +1,28 @@
+HTTP/1.1 301 Moved Permanently
+Content-Type: text/html; charset=UTF-8
+Date: Sat, 10 Oct 2026 17:33:08 GMT
+Location: https://feeds.captivate.fm/reality101
+Server: nginx/1.22.1
+Set-Cookie: XSRF-TOKEN=eyJpdiI6ImRQMTFuR3c5ZDF6dmgvRzhSakFSL0E9PSIsInZhbHVlIjoiVVZWK3dibDRMUHdSYmJjNE9uK0FDQ2JTWDNBQW1CWUE3bVU3VmF2aUpVVk1rdTN4SzBnMU5QcGMycGZzcm0rcmlYeTRjbnRDN0VNOHQ3UWVmb2hoUWRuS2dkZFlsbGRuMkI1dXFCUXNISlNkVHhERTZvNWFoblI0UHYvZzRCcnQiLCJtYWMiOiI3Nzk3NWEwNWJmMTk4NTU3MGQ0YzMxN2RjNWUzMTg3OTg3NTgyNWMyOWUzMDk1ZDIyYWU0N2FmNTEwNzViYzU0IiwidGFnIjoiIn0%3D; expires=Sat, 10-Oct-2026 19:33:08 GMT; Max-Age=7200; path=/
+Set-Cookie: laravel_session=eyJpdiI6IlhkNmJmNUtVNXhOSzJwdU13Mkp4UHc9PSIsInZhbHVlIjoiZmMrWlU1TW00YXIzREhVMllDZnF6UWt0TGhTSE04ajlaZXFOM3dBVXhMYkZPdDd4L2dzWWN0UmpzWnFmaHJkWXpUNGdSOVZYNU1ZMlU2YUxKUC9MSGcrem43dnhKcWdEdXB3b21LdENSWW5GQmVzTnQ3eE9JaTBUWG1NZkdzaEQiLCJtYWMiOiJkNjQ0ODQ1NTkyOGEyZjkxNTllZGY0Yjg0MmZhOTA3MDI4N2I5ZmU5NmQyMmE0YmM4NGI0NWUxMGEzZDFjOTkyIiwidGFnIjoiIn0%3D; expires=Sat, 10-Oct-2026 19:33:08 GMT; Max-Age=7200; path=/; httponly
+Content-Length: 394
+Connection: keep-alive
+
+HTTP/2 301 
+location: https://feeds.captivate.fm/reality101/
+content-length: 331
+content-type: text/html; charset=iso-8859-1
+date: Sat, 10 Oct 2026 17:33:08 GMT
+server: Apache/2.4.58 (Ubuntu)
+
+HTTP/2 200 
+last-modified: Sat, 03 Oct 2026 04:42:22 GMT
+etag: "58cc-65ce8465bba5d"
+accept-ranges: bytes
+content-length: 22732
+vary: Accept-Encoding
+access-control-allow-origin: *
+content-type: application/xml
+date: Sat, 10 Oct 2026 17:33:08 GMT
+server: Apache/2.4.58 (Ubuntu)
+

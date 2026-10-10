@@ -1,0 +1,57 @@
+{
+  "source_path": "interviews/107-unraveling-the-future-of-ai-the-developer-s-perspective-with-steven-schrembeck.mp3",
+  "automated_flags": [
+    {
+      "kind": "low_word_logprob",
+      "word_index": 1205,
+      "start": 220.0,
+      "end": 220.16,
+      "text": " ",
+      "logprob": -1.1540119647979736
+    },
+    {
+      "kind": "low_word_logprob",
+      "word_index": 3077,
+      "start": 558.38,
+      "end": 558.44,
+      "text": " ",
+      "logprob": -1.106542944908142
+    },
+    {
+      "kind": "low_word_logprob",
+      "word_index": 3078,
+      "start": 558.44,
+      "end": 558.8,
+      "text": "output",
+      "logprob": -1.106542944908142
+    },
+    {
+      "kind": "low_word_logprob",
+      "word_index": 6053,
+      "start": 1065.632,
+      "end": 1065.632,
+      "text": "--",
+      "logprob": -1.036205530166626
+    },
+    {
+      "kind": "low_word_logprob",
+      "word_index": 14677,
+      "start": 2581.16,
+      "end": 2581.46,
+      "text": "peopl-",
+      "logprob": -1.1138866145586992
+    }
+  ],
+  "flags_are_review_candidates_not_confirmed_errors": true,
+  "raw_word_count": 15882,
+  "spoken_word_count": 7923,
+  "speaker_ids": [
+    "speaker_0",
+    "speaker_1"
+  ],
+  "subtitle_cue_count": 599,
+  "first_speech_seconds": 10.08,
+  "last_speech_seconds": 2776.3,
+  "human_correction_status": "uncorrected",
+  "source_offset_seconds": 0
+}

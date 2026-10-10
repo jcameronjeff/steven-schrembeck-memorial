@@ -1,0 +1,29 @@
+{
+  "source_path": "collected/006-dev-commentary-6-interview-with-the-creative-mindset-mortal-steel-wrapup-season-2-updates.mp3",
+  "automated_flags": [
+    {
+      "kind": "low_word_logprob",
+      "word_index": 5007,
+      "start": 894.822,
+      "end": 894.862,
+      "text": " ",
+      "logprob": -1.1010844707489014
+    }
+  ],
+  "flags_are_review_candidates_not_confirmed_errors": true,
+  "raw_word_count": 29452,
+  "spoken_word_count": 14695,
+  "speaker_ids": [
+    "speaker_0",
+    "speaker_1",
+    "speaker_2",
+    "speaker_3",
+    "speaker_4",
+    "speaker_5"
+  ],
+  "subtitle_cue_count": 1138,
+  "first_speech_seconds": 6.02,
+  "last_speech_seconds": 4759.964,
+  "human_correction_status": "uncorrected",
+  "source_offset_seconds": 0
+}

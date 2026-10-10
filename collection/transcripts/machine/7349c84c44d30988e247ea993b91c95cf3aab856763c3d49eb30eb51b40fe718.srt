@@ -1,0 +1,5667 @@
+1
+00:00:00,120 --> 00:00:05,920
+Speaker 1: [intro jingle]
+
+2
+00:00:06,020 --> 00:00:10,560
+Speaker 1: Hello, travelers. So today's gonna be
+a pretty short dev commentary. After the
+
+3
+00:00:10,600 --> 00:00:14,740
+Speaker 1: commentary, I'm going to air an
+interview I did with a friend, Tony, on a
+podcast
+
+4
+00:00:14,820 --> 00:00:16,740
+Speaker 1: called "The Creative Mindset."
+
+5
+00:00:18,420 --> 00:00:22,700
+Speaker 1: Mortal Steel Episode 10 will not be
+ready for your morning commute tomorrow, but it
+
+6
+00:00:22,720 --> 00:00:26,420
+Speaker 1: will come out tomorrow. It took a
+little bit longer because I had to do some
+
+7
+00:00:26,820 --> 00:00:31,920
+Speaker 1: non-human voice effects that took an
+enormous amount of time. But I think it's gonna
+
+8
+00:00:31,960 --> 00:00:35,400
+Speaker 1: be worth the wait. So it'll still
+come out tomorrow. There's actually gonna be
+
+9
+00:00:35,480 --> 00:00:41,100
+Speaker 1: another delay between Mortal Steel
+episodes 11 and 12. Now,
+
+10
+00:00:41,200 --> 00:00:46,960
+Speaker 1: that's purely because episode 12, the
+finale for Mortal Steel, is incredibly
+
+11
+00:00:47,060 --> 00:00:52,300
+Speaker 1: awesome and almost twice as long as a
+normal episode. So I wanna make sure I take
+
+12
+00:00:52,340 --> 00:00:56,340
+Speaker 1: the time to get that one right. I
+think it'll take about three weeks. It could
+take
+
+13
+00:00:56,400 --> 00:01:00,840
+Speaker 1: up to four weeks. Now, if it takes
+over three weeks, I will take a little bit of
+
+14
+00:01:00,900 --> 00:01:06,280
+Speaker 1: time to create a short story, and
+I'll drop that here. And that's because
+
+15
+00:01:07,100 --> 00:01:12,920
+Speaker 1: Steven always delivers. Let it be
+known. I always deliver.
+
+16
+00:01:14,020 --> 00:01:18,800
+Speaker 1: All right, moving on to some more
+news. You're probably going to want to pick up a
+
+17
+00:01:18,860 --> 00:01:23,640
+Speaker 1: little bit of Ethereum or Solana.
+Now, if you don't know what those are, don't
+worry
+
+18
+00:01:23,720 --> 00:01:24,080
+Speaker 1: about it.
+
+19
+00:01:25,740 --> 00:01:31,320
+Speaker 1: I'm gonna do a whole bit of
+blockchain and NFT education later in the year,
+maybe
+
+20
+00:01:31,380 --> 00:01:35,240
+Speaker 1: early next year. So if you don't know
+what those are, don't worry about it. And
+
+21
+00:01:35,280 --> 00:01:40,120
+Speaker 1: you're not gonna need much, because
+remember, you're here early, and the people who
+
+22
+00:01:40,160 --> 00:01:45,720
+Speaker 1: are here early and support early. And
+if you listened to the last dev commentary,
+
+23
+00:01:46,580 --> 00:01:52,580
+Speaker 1: you know that I reward early
+supporters. All right, next up, we're
+
+24
+00:01:52,600 --> 00:01:57,260
+Speaker 1: gonna run a contest towards the end
+of November, early December, for sound design
+
+25
+00:01:57,300 --> 00:02:01,920
+Speaker 1: and writing. So if you want an
+opportunity to learn how to make sound effects
+like
+
+26
+00:02:01,960 --> 00:02:06,760
+Speaker 1: we do in Mortal Steel or try your
+hand at writing, this is a good opportunity for
+
+27
+00:02:06,860 --> 00:02:10,919
+Speaker 1: you. There's gonna be some cash
+prizes, and I'm collaborating with another
+creator,
+
+28
+00:02:11,460 --> 00:02:16,180
+Speaker 1: and we're gonna have some, uh, other
+interesting prizes as well. You'll hear a
+
+29
+00:02:16,220 --> 00:02:19,440
+Speaker 1: little bit more about that probably
+in a week or two as we finalize the details.
+
+30
+00:02:20,300 --> 00:02:24,940
+Speaker 1: While this contest is just for
+writing and sound design, if you're a visual
+artist
+
+31
+00:02:24,980 --> 00:02:30,140
+Speaker 1: or a musician, uh, I'd still like to
+hear from you. We're gonna need all sorts going
+
+32
+00:02:30,220 --> 00:02:35,700
+Speaker 1: forward, and now would be a great
+time to connect. Now, if you're a 3D
+
+33
+00:02:35,940 --> 00:02:41,240
+Speaker 1: modeler, I would really like to speak
+with you. I'll let you use your
+
+34
+00:02:41,260 --> 00:02:43,440
+Speaker 1: imagination on why I might need that
+one.
+
+35
+00:02:45,160 --> 00:02:50,220
+Speaker 1: All right, moving on to season two
+updates. The casting calls are going out soon
+for
+
+36
+00:02:50,280 --> 00:02:55,960
+Speaker 1: season two. Art and music is still
+underway. And I can say that the visual art
+looks
+
+37
+00:02:56,120 --> 00:03:01,900
+Speaker 1: incredibly cool. And if you're not
+already aware, season two is not a direct sequel
+
+38
+00:03:01,960 --> 00:03:06,300
+Speaker 1: to Mortal Steel. It's an entirely
+separate story in an entirely new world with
+
+39
+00:03:06,340 --> 00:03:11,240
+Speaker 1: different characters. And we're gonna
+be doing that with every season. Now, that
+
+40
+00:03:11,280 --> 00:03:16,380
+Speaker 1: doesn't mean that we can't or won't
+do direct sequels. But if we're gonna do direct
+
+41
+00:03:16,460 --> 00:03:19,720
+Speaker 1: sequels, we're gonna need more money,
+and we're gonna need a bigger team.
+
+42
+00:03:21,720 --> 00:03:27,480
+Speaker 1: Speaking of which, for season two, I
+am going to try to
+
+43
+00:03:27,680 --> 00:03:33,680
+Speaker 1: absolutely blow your minds. So part
+of that means I have doubled
+
+44
+00:03:33,720 --> 00:03:39,460
+Speaker 1: the production for art and music. I
+am increasing the budget everywhere I can to
+
+45
+00:03:39,520 --> 00:03:45,220
+Speaker 1: make it awesome. And the reason I'm
+doing that is I have a theory. I believe that
+
+46
+00:03:45,280 --> 00:03:50,620
+Speaker 1: doubling down on the production
+quality is the way to help everybody.
+
+47
+00:03:52,100 --> 00:03:53,100
+Speaker 1: I think it's what you want.
+
+48
+00:03:54,640 --> 00:03:59,440
+Speaker 1: And it's really a leap of faith,
+honestly. I choose to believe that this money is
+
+49
+00:03:59,480 --> 00:04:05,240
+Speaker 1: gonna come back to us eventually
+because people want to support creators who are
+
+50
+00:04:05,280 --> 00:04:09,740
+Speaker 1: putting in the time, putting in the
+money, putting in the effort to make something
+
+51
+00:04:10,080 --> 00:04:15,040
+Speaker 1: great. And we're putting in 30,
+40-hour weeks on this show while working
+full-time.
+
+52
+00:04:15,720 --> 00:04:20,540
+Speaker 1: It's not easy. And at our current
+burn rate, especially the new burn rate with
+this
+
+53
+00:04:20,579 --> 00:04:24,020
+Speaker 1: increased production budget, we're
+probably gonna run out of money in about six
+
+54
+00:04:24,120 --> 00:04:30,100
+Speaker 1: months. Now, that sounds very scary,
+but we've got six months. And
+
+55
+00:04:30,160 --> 00:04:35,900
+Speaker 1: until then, like I said, I am going
+to do absolutely everything
+
+56
+00:04:36,100 --> 00:04:39,120
+Speaker 1: I can to blow your minds.
+
+57
+00:04:42,260 --> 00:04:44,420
+Speaker 1: Finally, remember,
+
+58
+00:04:46,400 --> 00:04:52,320
+Speaker 1: Collected is not mine. It's ours. I'm
+just getting it started. This is
+
+59
+00:04:52,360 --> 00:04:58,340
+Speaker 1: an ecosystem. It's going to take a
+lot of people, a lot of effort, and a
+
+60
+00:04:58,400 --> 00:05:00,840
+Speaker 1: fair amount of money to bring this
+vision to life.
+
+61
+00:05:02,520 --> 00:05:08,240
+Speaker 1: But when you start to see what I have
+planned, oh man, it is so,
+
+62
+00:05:09,120 --> 00:05:14,680
+Speaker 1: so going to be worth it. This is not
+a podcast. It looks like a podcast right now,
+
+63
+00:05:15,440 --> 00:05:16,720
+Speaker 1: but it really is not.
+
+64
+00:05:18,600 --> 00:05:24,580
+Speaker 1: Now, without further ado, let's hear
+my interview with Tony at The Creative
+
+65
+00:05:24,660 --> 00:05:27,520
+Speaker 1: Mindset. See you, travelers.
+
+66
+00:05:30,160 --> 00:05:36,120
+Speaker 2: Mortal Steel. [rock music] Pastor
+Ethan
+
+67
+00:05:36,200 --> 00:05:40,520
+Speaker 2: Cutter was wheeled down the hallway
+of the advanced clinic, the only such building
+
+68
+00:05:40,560 --> 00:05:45,640
+Speaker 2: in Last Respite, one of the three
+remaining human strongholds in the old Los
+Angeles
+
+69
+00:05:45,740 --> 00:05:50,740
+Speaker 2: area. It differed from the other
+clinics in Last Respite. Those were hot, cramped
+
+70
+00:05:50,820 --> 00:05:56,320
+Speaker 2: buildings packed with people too sick
+to cure, too injured to heal. If you went to a
+
+71
+00:05:56,380 --> 00:06:02,040
+Speaker 2: clinic, you usually went there to
+die. Steven Schrembeck.
+
+72
+00:06:02,240 --> 00:06:02,700
+Speaker 1: Hey, Tony.
+
+73
+00:06:03,320 --> 00:06:04,320
+Speaker 2: Hey, how's it going, man?
+
+74
+00:06:04,960 --> 00:06:09,060
+Speaker 1: You know, life is, is too good to me.
+I keep waking up and thinking it can't be
+
+75
+00:06:09,120 --> 00:06:10,330
+Speaker 1: real. [laughs]
+
+76
+00:06:10,390 --> 00:06:10,890
+Speaker 3: Oh, really?
+
+77
+00:06:11,770 --> 00:06:16,790
+Speaker 1: I, I love it. I really do love my
+life. Uh, and it is an active thing, uh, that I
+
+78
+00:06:16,830 --> 00:06:22,630
+Speaker 1: cultivate that mindset, but it works
+and I'm just having fun. I really am
+
+79
+00:06:22,670 --> 00:06:26,010
+Speaker 1: having fun. It's not all fun, but
+it's almost all fun.
+
+80
+00:06:27,190 --> 00:06:28,690
+Speaker 3: Yeah? Cool. What, what's fun?
+
+81
+00:06:30,670 --> 00:06:36,390
+Speaker 1: I wake up every day trying to do
+something, trying to make the most out of the
+
+82
+00:06:36,470 --> 00:06:41,510
+Speaker 1: day. Um, and this is, again, this is
+a deliberate mindset. I don't always, didn't
+
+83
+00:06:41,570 --> 00:06:47,390
+Speaker 1: always do that. But now I just have
+this feeling that today is, like, potential.
+
+84
+00:06:47,690 --> 00:06:52,410
+Speaker 1: It's something I can use to make
+something important happen, right? This is,
+like,
+
+85
+00:06:52,490 --> 00:06:56,250
+Speaker 1: my ammunition. This is all, all I've
+got. Uh, as opposed to just waking up and
+
+86
+00:06:56,290 --> 00:07:00,830
+Speaker 1: trying to get through the day, I am
+waking up like, "How much can I squeeze out of
+
+87
+00:07:00,870 --> 00:07:04,970
+Speaker 1: this day, uh, in the best possible
+way?" I do a lot of boring stuff that's
+
+88
+00:07:05,030 --> 00:07:09,870
+Speaker 1: important, [laughs] but... And I
+don't look forward to those things, right? Those
+
+89
+00:07:09,910 --> 00:07:14,330
+Speaker 1: are still painful, but I look forward
+to what it means. I feel like I'm making
+
+90
+00:07:14,369 --> 00:07:15,610
+Speaker 1: progress every day, right?
+
+91
+00:07:16,150 --> 00:07:20,450
+Speaker 3: Forward movement, man. That's my
+phrase for 2021, forward movement.
+
+92
+00:07:20,450 --> 00:07:20,850
+Speaker 1: [laughs] Okay.
+
+93
+00:07:21,910 --> 00:07:26,670
+Speaker 3: Well, I mean, how, how do you sustain
+that attitude? I mean, what is it that excites
+
+94
+00:07:26,730 --> 00:07:26,830
+Speaker 3: you?
+
+95
+00:07:26,930 --> 00:07:27,030
+Speaker 1: Yeah.
+
+96
+00:07:27,090 --> 00:07:29,670
+Speaker 3: What's the stuff that you're thinking
+of that gets you motivated?
+
+97
+00:07:30,170 --> 00:07:34,770
+Speaker 1: Most of it comes from feeding a
+passion, right? And it is, it is l- it is a
+
+98
+00:07:35,310 --> 00:07:41,090
+Speaker 1: deliberate act of will. This isn't
+just something you get. It doesn't just
+
+99
+00:07:41,170 --> 00:07:45,410
+Speaker 1: happen to you, this kind of
+excitement and fulfillment. You have to build
+it. And
+
+100
+00:07:45,470 --> 00:07:49,690
+Speaker 1: it... The fire dies down just a
+little bit every day, too. You have to keep
+putting
+
+101
+00:07:49,770 --> 00:07:54,450
+Speaker 1: logs on it, right? I think that's a
+very apt metaphor. Um, so what kinds of things
+
+102
+00:07:54,490 --> 00:07:57,970
+Speaker 1: are... excite me? Well, I mean,
+that's just unique to me, right? Certain kinds
+of
+
+103
+00:07:58,010 --> 00:08:02,270
+Speaker 1: projects, certain kinds of ideas get
+me really excited. You know, everyone's got
+
+104
+00:08:02,310 --> 00:08:06,290
+Speaker 1: their own thing. For me, it's
+tinkering. It's figuring out what the rules are
+for a
+
+105
+00:08:06,350 --> 00:08:10,930
+Speaker 1: system and then breaking them or
+seeing just how far you can press them. It's...
+I
+
+106
+00:08:10,970 --> 00:08:16,330
+Speaker 1: am heavily motivated by curiosity.
+I'd say that's a driving force in my life and
+
+107
+00:08:16,410 --> 00:08:20,750
+Speaker 1: everything I'm interested in. The
+moment I feel like I know what's going to happen
+
+108
+00:08:21,330 --> 00:08:26,310
+Speaker 1: in whatever I'm doing, I'm no longer
+interested. I, I need that uncertainty to keep
+
+109
+00:08:26,330 --> 00:08:31,610
+Speaker 1: me going. So I kinda live, I try to
+live on the edge. [laughs] This sounds very
+
+110
+00:08:31,650 --> 00:08:37,630
+Speaker 1: exciting. We're talking about, like,
+writing stories here. [laughs] I'm not actually
+
+111
+00:08:37,670 --> 00:08:42,310
+Speaker 1: living on the edge. I'm not, like, a
+stunt driver or anything. Um, but I love that
+
+112
+00:08:42,370 --> 00:08:46,390
+Speaker 1: uncertainty. It's in- it's
+intoxicating to me. Uh, but also potential,
+right? Not
+
+113
+00:08:46,450 --> 00:08:49,730
+Speaker 1: just uncertainty in a terrible way.
+Is it gonna hurt a five or is it gonna hurt 10?
+
+114
+00:08:49,790 --> 00:08:52,510
+Speaker 1: Like, that's not exciting. Um, it has
+to be good.
+
+115
+00:08:54,070 --> 00:08:58,690
+Speaker 3: Yeah. So I'm gonna guess you're not
+the kinda person that likes to rewatch movies or
+
+116
+00:08:58,730 --> 00:09:00,230
+Speaker 3: TV shows that you've already seen.
+
+117
+00:09:00,630 --> 00:09:01,390
+Speaker 1: No. I hate that.
+
+118
+00:09:01,710 --> 00:09:01,830
+Speaker 3: Me too.
+
+119
+00:09:01,950 --> 00:09:06,430
+Speaker 1: I don't understand it. I never
+understood the people who did. Uh, I watch it
+once
+
+120
+00:09:06,490 --> 00:09:11,390
+Speaker 1: and I love it. Now, the very best,
+the very best I will watch again, but I will
+
+121
+00:09:11,430 --> 00:09:15,350
+Speaker 1: watch them again, like, a year or two
+later. Like, Scott Pilgrim vs. the World,
+
+122
+00:09:15,450 --> 00:09:17,330
+Speaker 1: okay, I've probably got five views on
+that.
+
+123
+00:09:17,330 --> 00:09:17,530
+Speaker 3: [laughs]
+
+124
+00:09:17,550 --> 00:09:20,710
+Speaker 1: And you're, like, top, top of the
+charts. Like, that's the most I will ever watch
+a
+
+125
+00:09:20,770 --> 00:09:25,490
+Speaker 1: favorite movie, which sounds crazy,
+but I would rather watch something new.
+
+126
+00:09:27,070 --> 00:09:31,870
+Speaker 3: Yeah, agreed. Me too. Although
+recently I, I have gone back and started
+watching
+
+127
+00:09:31,910 --> 00:09:32,970
+Speaker 3: things that I watched-
+
+128
+00:09:33,310 --> 00:09:33,311
+Speaker 1: Yeah
+
+129
+00:09:33,310 --> 00:09:36,950
+Speaker 3: ... about 10 years ago. And some of
+them I remember and I skip through those
+
+130
+00:09:37,030 --> 00:09:37,550
+Speaker 3: episodes.
+
+131
+00:09:37,870 --> 00:09:42,330
+Speaker 1: Yeah. I watch it, but what's funny is
+when I rewatch it, I watch it to find
+
+132
+00:09:42,390 --> 00:09:47,370
+Speaker 1: something new. Even then, I'm not
+just basking in what I already love. I'm still
+
+133
+00:09:47,430 --> 00:09:50,950
+Speaker 1: looking for the things I missed, and
+when I feel like there's nothing left there,
+
+134
+00:09:51,770 --> 00:09:54,110
+Speaker 1: uh, I'm out. [laughs]
+
+135
+00:09:54,170 --> 00:09:58,010
+Speaker 3: Yeah. Also, you're different. 10
+years has passed. I'm different.
+
+136
+00:09:58,410 --> 00:09:58,650
+Speaker 1: Mm-hmm.
+
+137
+00:09:58,910 --> 00:10:04,790
+Speaker 3: And I see things and find m- meaning
+in a different way from, from it than I
+
+138
+00:10:04,830 --> 00:10:06,130
+Speaker 3: did 10 years ago when I didn't-
+
+139
+00:10:06,170 --> 00:10:06,171
+Speaker 1: Yeah
+
+140
+00:10:06,170 --> 00:10:09,350
+Speaker 3: ... really... You know, I never liked
+Star Trek: Enterprise.
+
+141
+00:10:09,770 --> 00:10:10,090
+Speaker 1: Mm-hmm.
+
+142
+00:10:10,250 --> 00:10:11,790
+Speaker 3: You know the one with Scott Bakula?
+
+143
+00:10:12,490 --> 00:10:13,370
+Speaker 1: Yeah, I know what you're talking
+about.
+
+144
+00:10:14,270 --> 00:10:17,350
+Speaker 3: S- I watched maybe three episodes and
+said, "This sucked," and I hated-
+
+145
+00:10:17,370 --> 00:10:17,970
+Speaker 1: [laughs]
+
+146
+00:10:17,970 --> 00:10:23,590
+Speaker 3: ... Jolene Blalock. Uh, well, I...
+Not her, but her character, T'Pol.
+
+147
+00:10:23,750 --> 00:10:25,650
+Speaker 1: It's impersonal.
+
+148
+00:10:25,730 --> 00:10:29,309
+Speaker 3: Just recently have I gone back,
+'cause I don't watch that much television, but
+I'll
+
+149
+00:10:29,369 --> 00:10:34,490
+Speaker 3: watch... I'll try... You know, I may
+watch one episode a night if I am really into
+
+150
+00:10:34,530 --> 00:10:39,170
+Speaker 3: the show, and I really am into... I
+really got into Enterprise and I came to really
+
+151
+00:10:39,330 --> 00:10:44,510
+Speaker 3: love the character of T'Pol, and I
+watched the thing from start to finish, and it's
+
+152
+00:10:44,550 --> 00:10:45,550
+Speaker 3: because I'm different.
+
+153
+00:10:46,370 --> 00:10:50,930
+Speaker 1: So what changed is you. It's like
+changing taste, right? You used to hate
+broccoli,
+
+154
+00:10:51,010 --> 00:10:56,490
+Speaker 1: now you love it, right? It's, you
+have to resample things because you change as a
+
+155
+00:10:56,570 --> 00:10:58,730
+Speaker 1: person. Yeah, that makes sense.
+
+156
+00:10:58,750 --> 00:11:04,310
+Speaker 1: [instrumental music]
+
+157
+00:11:04,390 --> 00:11:08,930
+Speaker 3: Pastor Ethan Cutter was wheeled down
+the hallway of the Advanced Clinic, the only
+
+158
+00:11:08,990 --> 00:11:13,670
+Speaker 3: such building in Last Respite, one of
+the three remaining human strongholds in the
+
+159
+00:11:13,730 --> 00:11:18,790
+Speaker 3: old Los Angeles area. It differed
+from the other clinics in Last Respite. Those
+were
+
+160
+00:11:18,890 --> 00:11:24,830
+Speaker 3: hot, cramped buildings packed with
+people too sick to cure, too injured to heal. If
+
+161
+00:11:24,850 --> 00:11:29,950
+Speaker 3: you went to a clinic, you usually
+went there to die. The Advanced Clinic, in stark
+
+162
+00:11:30,010 --> 00:11:35,130
+Speaker 3: contrast, was the pinnacle of human
+achievement. It was the place you went to become
+
+163
+00:11:35,190 --> 00:11:41,030
+Speaker 3: something greater. But like the other
+clinics, it was also a place you usually went
+
+164
+00:11:41,070 --> 00:11:46,170
+Speaker 3: to die. Ethan told himself he was
+prepared to die. He'd told everyone else that at
+
+165
+00:11:46,230 --> 00:11:50,910
+Speaker 3: every step along the way, but as they
+prepped him for surgery, he found that he was
+
+166
+00:11:51,030 --> 00:11:56,710
+Speaker 3: actually terrified. Maybe it wasn't
+too late to back out. Dr.
+
+167
+00:11:56,770 --> 00:11:59,430
+Speaker 3: Marie Singer glanced at a rapidly
+beeping machine.
+
+168
+00:12:00,630 --> 00:12:01,850
+Speaker 4: Your heart rate's rising.
+
+169
+00:12:02,830 --> 00:12:04,090
+Speaker 5: What can I expect here, Doc?
+
+170
+00:12:04,870 --> 00:12:08,590
+Speaker 3: She smiled reassuringly and held his
+hand as they wheeled his gurney toward the
+
+171
+00:12:08,670 --> 00:12:09,390
+Speaker 3: operating room.
+
+172
+00:12:10,402 --> 00:12:16,322
+Speaker 4: This will be easier than any of your
+training until now. This next step is on us.
+
+173
+00:12:16,922 --> 00:12:18,402
+Speaker 4: We'll take good care of you
+
+174
+00:12:19,022 --> 00:12:24,102
+Speaker 1: Just like they'd taken care of the
+first three candidates before him? The ones that
+
+175
+00:12:24,142 --> 00:12:28,722
+Speaker 1: had died on the operating room floor?
+He wasn't supposed to know about that.
+
+176
+00:12:32,662 --> 00:12:34,002
+Speaker 6: What is Collected Stories?
+
+177
+00:12:34,222 --> 00:12:40,082
+Speaker 1: So, uh, straight off the marketing,
+Collective is a immersive audio platform.
+
+178
+00:12:41,702 --> 00:12:45,202
+Speaker 1: And what does that mean exactly?
+It's... These are just... It's like an audiobook
+
+179
+00:12:45,742 --> 00:12:49,522
+Speaker 1: with sound effects, a full team of
+voice actors, music, visual art, right? It's
+
+180
+00:12:49,602 --> 00:12:53,202
+Speaker 1: everything I could throw in there
+that makes it feel like you're actually there,
+
+181
+00:12:53,662 --> 00:12:57,382
+Speaker 1: right? It's like a TV show with the
+picture turned off, right? That's what I'm
+
+182
+00:12:57,422 --> 00:13:00,882
+Speaker 1: trying to do. But there's a narrator.
+That's, that's the trick, right? I throw that
+
+183
+00:13:00,942 --> 00:13:06,862
+Speaker 1: in there. Um, so it is those stories.
+Right now it's a podcast, uh, because I am in
+
+184
+00:13:06,882 --> 00:13:10,702
+Speaker 1: the trenches. Like, I am building
+this thing and getting practice, and it's a
+
+185
+00:13:10,722 --> 00:13:15,022
+Speaker 1: podcast just so I can get it out
+there. Uh, but eventually it's a subscription
+
+186
+00:13:15,082 --> 00:13:19,982
+Speaker 1: service, right? So sometime early
+next year. Um, it's not just art to me, it's
+
+187
+00:13:20,002 --> 00:13:25,742
+Speaker 1: business. Um, so early next year the
+business really starts. Um, yeah, so
+
+188
+00:13:26,022 --> 00:13:30,342
+Speaker 1: monthly subscription. I'm gonna bring
+in authors and voice actors and artists and
+
+189
+00:13:30,402 --> 00:13:35,582
+Speaker 1: composers from everywhere. Um, so
+that is what it is, is these stories delivered
+to
+
+190
+00:13:35,602 --> 00:13:41,022
+Speaker 1: you weekly, kind of like a TV show
+almost, dropping into an RSS feed. But really,
+
+191
+00:13:42,302 --> 00:13:47,182
+Speaker 1: that's just, like, what it is. The
+reason behind it is so much more to me, and I
+
+192
+00:13:47,242 --> 00:13:52,642
+Speaker 1: find myself more and more motivated
+by the why, that second reason, not just making
+
+193
+00:13:52,682 --> 00:13:57,142
+Speaker 1: the art, but the purpose for the art.
+I find more and more my motivation is coming
+
+194
+00:13:57,182 --> 00:14:01,762
+Speaker 1: from that why, rather than just
+self-gratification of making something cool.
+Now, I
+
+195
+00:14:01,802 --> 00:14:06,862
+Speaker 1: still feel that, and I still love it.
+I still love making the art. But now that it
+
+196
+00:14:06,902 --> 00:14:11,102
+Speaker 1: has a purpose beyond me, I'm that
+much more motivated.
+
+197
+00:14:11,662 --> 00:14:16,962
+Speaker 6: That's cool. Well, it's, it's pretty
+amazing. When we first met, when you said, uh,
+
+198
+00:14:17,102 --> 00:14:21,262
+Speaker 6: this is what you were doing, you
+know, my first impression was, uh, okay, put it
+on
+
+199
+00:14:21,362 --> 00:14:25,702
+Speaker 6: audible.com and somebody's reading
+a... It, it'll be like somebody reading a book.
+
+200
+00:14:25,742 --> 00:14:30,482
+Speaker 6: But it's not that at all. It's
+extremely compelling. The stories are really
+good,
+
+201
+00:14:31,082 --> 00:14:33,602
+Speaker 6: and the production is, is very good,
+too.
+
+202
+00:14:34,162 --> 00:14:35,042
+Speaker 1: Always improving.
+
+203
+00:14:35,622 --> 00:14:40,782
+Speaker 6: Yeah, man. When you and I first met,
+it was just you, but you have grown this into,
+
+204
+00:14:40,862 --> 00:14:45,582
+Speaker 6: you, like you said, you hire voice
+act- You hire actors-
+
+205
+00:14:45,742 --> 00:14:45,743
+Speaker 1: Yeah
+
+206
+00:14:45,742 --> 00:14:50,882
+Speaker 6: ... and you are adding sound effects
+and layered textures
+
+207
+00:14:51,442 --> 00:14:56,262
+Speaker 6: and narration. I very much enjoy
+listening. I get into this stuff.
+
+208
+00:14:56,462 --> 00:15:00,182
+Speaker 1: Yeah, it started as a theory, and
+most people have that reaction, by the way. Eh,
+
+209
+00:15:00,242 --> 00:15:05,102
+Speaker 1: it's an audiobook, right? What do I
+get? And so some people know what an audio drama
+
+210
+00:15:05,222 --> 00:15:10,322
+Speaker 1: is. They may remember the old radio
+dramas or know of them, right? It is... I
+
+211
+00:15:10,362 --> 00:15:14,922
+Speaker 1: describe this as halfway between an
+audiobook and an audio drama. I am so excited
+
+212
+00:15:15,002 --> 00:15:18,782
+Speaker 1: about this format, totally
+independent what if I'm doing. I really hope it
+takes
+
+213
+00:15:18,882 --> 00:15:23,242
+Speaker 1: off. Like, totally separate from me,
+other people go off and make this, because I
+
+214
+00:15:23,282 --> 00:15:29,042
+Speaker 1: think it really has potential. It is
+just so, so cool. It offers
+
+215
+00:15:29,122 --> 00:15:33,062
+Speaker 1: something that none of the other
+mediums offer. I can get into that. I can geek
+out
+
+216
+00:15:33,102 --> 00:15:36,762
+Speaker 1: on that. But ultimately, that's part
+of what motivates me, is I think there's
+
+217
+00:15:36,782 --> 00:15:41,922
+Speaker 1: something here. It's not something I
+made. It has a life of its own. It is an
+
+218
+00:15:42,022 --> 00:15:47,622
+Speaker 1: opportunity in the world, uh, that
+has already existed. It was already there. I'm
+
+219
+00:15:47,722 --> 00:15:51,562
+Speaker 1: just somebody who stumbled on it,
+right? I'm not even the first person to stumble
+
+220
+00:15:51,622 --> 00:15:57,002
+Speaker 1: upon this idea. I'm just the first
+person to take it and use it in this way
+
+221
+00:15:57,782 --> 00:15:59,942
+Speaker 1: for a subscription business, right?
+Um.
+
+222
+00:16:00,182 --> 00:16:02,722
+Speaker 6: What's also cool is you do it all by
+yourself.
+
+223
+00:16:02,742 --> 00:16:03,742
+Speaker 1: [laughs] Yeah.
+
+224
+00:16:03,782 --> 00:16:07,922
+Speaker 6: But, but at, uh, y- at least you're
+doing it right now by design. Other companies
+
+225
+00:16:08,002 --> 00:16:13,742
+Speaker 6: that are, uh, what did you say? Uh,
+GraphicAudio? They have a huge
+
+226
+00:16:13,802 --> 00:16:18,782
+Speaker 6: budget and lots of people working on
+it. Why did you decide to work on this and do
+
+227
+00:16:18,862 --> 00:16:23,342
+Speaker 6: all the recording and editing and
+marketing and everything all by yourself?
+
+228
+00:16:24,322 --> 00:16:28,581
+Speaker 1: First of all, yeah, GraphicAudio is
+probably my closest competitor, right, in
+
+229
+00:16:28,662 --> 00:16:34,142
+Speaker 1: format. And huge props to those
+people. I love their productions. I think it is
+so
+
+230
+00:16:34,202 --> 00:16:37,722
+Speaker 1: cool. Like, I'm not trying to put
+them down at all. I see really no competition
+
+231
+00:16:37,742 --> 00:16:42,622
+Speaker 1: there. That's an illusion. Uh, but
+yes, at face value, it looks like competition.
+
+232
+00:16:43,022 --> 00:16:46,502
+Speaker 1: But yeah, they have big teams, big
+production, right? Compared to me, right? It's
+
+233
+00:16:46,562 --> 00:16:52,282
+Speaker 1: all relative. Um, the reason I chose
+to do it alone, and I've been at this for
+
+234
+00:16:52,622 --> 00:16:57,142
+Speaker 1: eight months, everything except the
+writing, right? I've been writing for 16 years,
+
+235
+00:16:57,462 --> 00:17:03,382
+Speaker 1: uh, but not ever professionally. So
+eight months on this skill set. Yes, I
+
+236
+00:17:03,402 --> 00:17:07,782
+Speaker 1: do the narration, I do the sound
+design, I do the directing, I do everything.
+
+237
+00:17:08,202 --> 00:17:12,182
+Speaker 1: Everything which is not the voice
+acting, uh, and the visual art and the music
+
+238
+00:17:12,202 --> 00:17:16,002
+Speaker 1: composing. But even then, I went in
+there and I did most of the music myself.
+
+239
+00:17:16,122 --> 00:17:21,802
+Speaker 1: [laughs] And the reason I do all of
+this myself is because I have plans to
+
+240
+00:17:21,842 --> 00:17:27,422
+Speaker 1: eventually direct experts who are
+gonna be better than I ever could be at any of
+
+241
+00:17:27,462 --> 00:17:32,022
+Speaker 1: these skills, because it's the one
+thing they focus on. I know that's where I'm
+
+242
+00:17:32,082 --> 00:17:37,542
+Speaker 1: going, but I need to understand their
+problems. I need to
+
+243
+00:17:37,602 --> 00:17:42,942
+Speaker 1: understand how they think and what,
+how they build their part of the story. Once I
+
+244
+00:17:42,982 --> 00:17:46,702
+Speaker 1: become expert in each of these
+pieces, right? Some of them I care about more
+than
+
+245
+00:17:46,762 --> 00:17:52,402
+Speaker 1: others, to be frank. [laughs] Those
+are the ones I've outsourced already. But I just
+
+246
+00:17:52,542 --> 00:17:58,042
+Speaker 1: know that if I can master these
+skills to a sufficient degree, that when it
+comes
+
+247
+00:17:58,102 --> 00:18:02,522
+Speaker 1: time to tell them what I need from
+them, I know how to get the best out of them. I
+
+248
+00:18:02,562 --> 00:18:07,762
+Speaker 1: can direct this diverse team. I
+believe fundamentally that to be the best
+leader,
+
+249
+00:18:08,202 --> 00:18:12,562
+Speaker 1: you have to understand every single
+one of the people under you. You have to be able
+
+250
+00:18:12,582 --> 00:18:16,226
+Speaker 1: to do their job. Doesn't mean you
+have to be able to do it better than them- You
+
+251
+00:18:16,286 --> 00:18:20,366
+Speaker 1: shouldn't, otherwise it's kind of
+pointless, right? You could just do it yourself.
+I
+
+252
+00:18:20,406 --> 00:18:25,766
+Speaker 1: think that you need to understand
+their problems, and that's what I'm doing. I'm
+
+253
+00:18:25,806 --> 00:18:29,486
+Speaker 1: forcing myself to be in the thick of
+it so that when it comes time to start
+
+254
+00:18:29,546 --> 00:18:34,466
+Speaker 1: outsourcing sound design or mixing or
+whatever I'm doing, not only do I know their
+
+255
+00:18:34,526 --> 00:18:39,486
+Speaker 1: language, I know how to do their job.
+So first of all, it's way easier to hire and
+
+256
+00:18:39,566 --> 00:18:45,346
+Speaker 1: to-- you can never be BS'd by
+somebody because you know how to do it. Uh, so
+there's
+
+257
+00:18:45,406 --> 00:18:50,966
+Speaker 1: a lot of reasons to know this from a
+business perspective, but also I hate
+
+258
+00:18:51,226 --> 00:18:55,826
+Speaker 1: not understanding things. We talk
+about how I was mo-motivated by curiosity. I
+hate
+
+259
+00:18:56,066 --> 00:19:00,046
+Speaker 1: not understanding something and how
+it works, especially a thing that I'm building,
+
+260
+00:19:00,526 --> 00:19:04,566
+Speaker 1: right? I have to know how all the
+pieces work. I don't need to be the best at it,
+
+261
+00:19:05,406 --> 00:19:09,346
+Speaker 1: but that's how I feel. So I'm
+learning how all the pieces work, I guess is the
+
+262
+00:19:09,386 --> 00:19:10,526
+Speaker 1: fastest way to answer that.
+
+263
+00:19:11,206 --> 00:19:15,526
+Speaker 6: Yeah, that makes sense. Uh, you're
+acquiring skills that will make you a better
+
+264
+00:19:15,586 --> 00:19:17,186
+Speaker 6: leader and producer.
+
+265
+00:19:17,626 --> 00:19:18,006
+Speaker 1: Mm-hmm.
+
+266
+00:19:18,686 --> 00:19:24,626
+Speaker 6: You have a long-term vision for this.
+With everybody I've interviewed so far, there
+
+267
+00:19:24,666 --> 00:19:29,826
+Speaker 6: seems to be a pattern of pronouncing
+your intentions almost as if the pronouncement,
+
+268
+00:19:30,266 --> 00:19:32,246
+Speaker 6: it's a step that you can't skip.
+
+269
+00:19:32,666 --> 00:19:38,286
+Speaker 1: That is exactly right. Plans are
+pointless, but they are also essential. This
+is-- I
+
+270
+00:19:38,306 --> 00:19:41,646
+Speaker 1: think that there's a famous quote
+here that I'm not quite hitting, but you
+
+271
+00:19:41,686 --> 00:19:45,626
+Speaker 1: understand what I mean. There is
+something intoxicating about saying eight ball,
+
+272
+00:19:45,966 --> 00:19:51,206
+Speaker 1: corner pocket, and then lining up the
+shot and then sinking it, right? It is the
+
+273
+00:19:51,266 --> 00:19:56,226
+Speaker 1: intention to go somewhere that
+matters. That clarity
+
+274
+00:19:57,026 --> 00:20:01,306
+Speaker 1: resolves your entire path for you.
+You know what to do from that point forward. The
+
+275
+00:20:01,346 --> 00:20:06,346
+Speaker 1: point of the goal is not to be right
+at the outset. Ten years from now, here's where
+
+276
+00:20:06,386 --> 00:20:09,806
+Speaker 1: I'm gonna be no matter what. That's
+not important. It's actually not even important
+
+277
+00:20:09,846 --> 00:20:13,986
+Speaker 1: that I reach that point, because
+there's a ninety-nine percent chance I'm gonna
+move
+
+278
+00:20:14,026 --> 00:20:18,306
+Speaker 1: that goalpost to somewhere else for a
+lot of good reasons, not just bad reasons.
+
+279
+00:20:18,366 --> 00:20:21,566
+Speaker 1: Like, oh, turns out that's actually
+not what I wanted, or this wasn't the best way
+
+280
+00:20:21,606 --> 00:20:27,126
+Speaker 1: to get there. The point of putting
+that goal there is to give yourself
+
+281
+00:20:27,206 --> 00:20:32,986
+Speaker 1: certainty. It is, it is critical to
+motivation, is,
+
+282
+00:20:33,186 --> 00:20:37,266
+Speaker 1: is the shortest way of saying that.
+And there's something about
+
+283
+00:20:38,886 --> 00:20:43,766
+Speaker 1: setting an ambitious goal and knowing
+that you will reach it that is just so
+
+284
+00:20:43,806 --> 00:20:49,166
+Speaker 1: intoxicating. It has a motivation of
+its own. Um, and it, I think is an important
+
+285
+00:20:49,246 --> 00:20:53,446
+Speaker 1: part of any plan. You can't simply do
+it. You can't just sit down and go, "I could
+
+286
+00:20:53,466 --> 00:20:56,566
+Speaker 1: have sat down and said, 'Eh, I'm
+gonna make some audio stories. That sounds like
+
+287
+00:20:56,606 --> 00:21:00,266
+Speaker 1: fun.'" Now, it's okay to start there
+to see if you're excited about it, right?
+
+288
+00:21:00,426 --> 00:21:03,206
+Speaker 1: That's actually the best place to
+start. Don't start by saying, "I'm gonna conquer
+
+289
+00:21:03,246 --> 00:21:06,706
+Speaker 1: the world with my audio stories. I'm
+gonna take over the whole market. I'm gonna put
+
+290
+00:21:06,766 --> 00:21:10,726
+Speaker 1: Audible out of business," right? You
+can't start with that. That's insanity. But you
+
+291
+00:21:10,766 --> 00:21:14,386
+Speaker 1: can start with, "Do I like this?" And
+then once you realize you like it, and once
+
+292
+00:21:14,446 --> 00:21:19,166
+Speaker 1: you realize this is a thing, I could
+do something with this, that's when you set
+
+293
+00:21:19,186 --> 00:21:23,906
+Speaker 1: your big, ambitious goal, right? And
+that, that's the right time to do it, and
+
+294
+00:21:23,926 --> 00:21:28,386
+Speaker 1: that's where I'm at. I have big,
+ambitious goals. I've made them very clear, and
+
+295
+00:21:28,446 --> 00:21:29,866
+Speaker 1: they are incredibly motivating.
+
+296
+00:21:31,386 --> 00:21:32,866
+Speaker 6: And you've told other people about
+them.
+
+297
+00:21:33,366 --> 00:21:38,246
+Speaker 1: Yeah. So that's essential. I have
+always wavered on should you tell people your
+
+298
+00:21:38,286 --> 00:21:43,366
+Speaker 1: goals or not, and this is a common,
+common mis-- uh, I guess a contentious topic.
+
+299
+00:21:45,006 --> 00:21:50,466
+Speaker 1: It depends. For me, action is so
+important.
+
+300
+00:21:51,246 --> 00:21:56,866
+Speaker 1: It is much more important for people
+to see me doing things and getting results than
+
+301
+00:21:56,906 --> 00:22:00,606
+Speaker 1: it is for me to tell them. And I get
+this gross feeling like, "I'm gonna do this.
+
+302
+00:22:00,666 --> 00:22:06,146
+Speaker 1: I'm gonna be great," because it just
+feels like empty promises. So the reason I like
+
+303
+00:22:06,206 --> 00:22:10,706
+Speaker 1: to not tell people my goals is 'cause
+I want them to see what I'm doing and be
+
+304
+00:22:10,766 --> 00:22:13,886
+Speaker 1: shocked by it. Like, "What the heck
+is this guy up to?" Like, "How is he
+
+305
+00:22:13,926 --> 00:22:19,426
+Speaker 1: accomplishing all this," right? I
+want that. But at the same time, you need to
+tell
+
+306
+00:22:19,466 --> 00:22:24,366
+Speaker 1: people, uh, because otherwise they
+can't help you, but also because it reinforces
+
+307
+00:22:24,406 --> 00:22:30,146
+Speaker 1: your own identity. Uh, once you've
+made that part of your identity, like, you
+
+308
+00:22:30,206 --> 00:22:35,606
+Speaker 1: can't not do it. Like, it is as if it
+has almost happened. And once you get to that
+
+309
+00:22:35,686 --> 00:22:39,886
+Speaker 1: level of self-confidence, you know
+that you can say something, and you will either
+
+310
+00:22:39,946 --> 00:22:44,566
+Speaker 1: make it real or break in the process.
+Um, and then that's when your promises really
+
+311
+00:22:44,626 --> 00:22:50,166
+Speaker 1: have power over you, is when you know
+that, okay, I said I was gonna do it. I have a
+
+312
+00:22:50,226 --> 00:22:54,246
+Speaker 1: at least reasonable path to get
+there. I'm either gonna do it, or it's not
+possible.
+
+313
+00:22:56,146 --> 00:22:59,306
+Speaker 5: Sorry for the wait. It's a chore just
+to get up at my age.
+
+314
+00:23:00,486 --> 00:23:04,706
+Speaker 2: He turned and walked back into his
+office, leaving the door open for Ethan to
+follow
+
+315
+00:23:04,746 --> 00:23:04,926
+Speaker 2: him.
+
+316
+00:23:05,406 --> 00:23:07,666
+Speaker 5: I don't suppose you have that
+problem, do you?
+
+317
+00:23:08,326 --> 00:23:11,126
+Speaker 2: Negative. Ethan winced at his own
+words.
+
+318
+00:23:13,306 --> 00:23:19,186
+Speaker 2: I mean, no, sir. Archbishop Gabriel
+Klein collapsed into his large office chair
+
+319
+00:23:19,246 --> 00:23:23,406
+Speaker 2: behind his desk and gave Ethan an
+undisguised look of exhaustion.
+
+320
+00:23:24,206 --> 00:23:24,926
+Speaker 5: Do you sleep?
+
+321
+00:23:25,746 --> 00:23:29,946
+Speaker 2: Ethan moved into the room, ignoring
+the fourteen yellow warning marks that flashed
+
+322
+00:23:30,006 --> 00:23:34,766
+Speaker 2: around the room on his HUD, warning
+him of potential dangers like hidden weapons or
+
+323
+00:23:34,826 --> 00:23:38,646
+Speaker 2: secret entrances, never mind that
+this was the office of his commander.
+
+324
+00:23:40,006 --> 00:23:42,546
+Speaker 5: Sometimes. Not like I used to.
+
+325
+00:23:43,186 --> 00:23:47,146
+Speaker 2: The Archbishop motioned for him to
+have a seat. Ethan didn't know how to tell the
+
+326
+00:23:47,206 --> 00:23:52,146
+Speaker 2: man that he didn't need to, that his
+titanium joints experienced no strain from
+
+327
+00:23:52,246 --> 00:23:57,106
+Speaker 2: standing. That, and even if he did
+feel discomfort, he could simply turn it off.
+
+328
+00:23:57,786 --> 00:23:59,006
+Speaker 5: Please, sit.
+
+329
+00:23:59,946 --> 00:24:05,566
+Speaker 2: Yes, sir. Ethan sat down without even
+considering it. That unnerved him. Had he
+
+330
+00:24:05,626 --> 00:24:09,466
+Speaker 2: chosen to sit? More importantly,
+could he have chosen not to?
+
+331
+00:24:13,506 --> 00:24:15,706
+Speaker 6: You're a member of a few
+accountability groups.
+
+332
+00:24:16,026 --> 00:24:16,326
+Speaker 1: Mm-hmm.
+
+333
+00:24:17,306 --> 00:24:20,886
+Speaker 6: Why, and what are they, and what do
+they do for you?
+
+334
+00:24:21,826 --> 00:24:23,186
+Speaker 1: So the foreword to that is
+
+335
+00:24:24,774 --> 00:24:30,654
+Speaker 1: If I look like I have it all figured
+out, that is an illusion. It is an illusion
+
+336
+00:24:30,954 --> 00:24:36,114
+Speaker 1: that anybody has it figured out,
+right? The metaphor is that it's a puzzle that
+can
+
+337
+00:24:36,134 --> 00:24:40,154
+Speaker 1: never be solved. Nobody can have all
+the pieces. It's not possible. What I mean
+
+338
+00:24:40,334 --> 00:24:44,614
+Speaker 1: figured out, I mean have it all, like
+no doubt as to what they're doing. No doubt
+
+339
+00:24:44,974 --> 00:24:48,734
+Speaker 1: fundamental, even the thing I just
+told you about the promise that I'm like, "I'm
+
+340
+00:24:48,754 --> 00:24:52,614
+Speaker 1: gonna hit this huge ambitious goal."
+Of course I have doubt about that. Of course I
+
+341
+00:24:52,654 --> 00:24:55,834
+Speaker 1: have doubt about every single thing
+I'm doing. Now, to varying degrees.
+
+342
+00:24:57,614 --> 00:25:02,794
+Speaker 1: Nobody has it all figured out. So
+that's the, the preamble to this. Uh, the second
+
+343
+00:25:02,834 --> 00:25:08,774
+Speaker 1: part is that I have a long, long
+series of starting
+
+344
+00:25:09,214 --> 00:25:10,374
+Speaker 1: and giving up on projects.
+
+345
+00:25:10,954 --> 00:25:11,514
+Speaker 6: Oh, really?
+
+346
+00:25:11,714 --> 00:25:13,694
+Speaker 1: For the past, ooh, ooh,
+
+347
+00:25:15,374 --> 00:25:21,214
+Speaker 1: forever. For the past forever. Uh, so
+it's the same pattern over and over
+
+348
+00:25:21,254 --> 00:25:26,434
+Speaker 1: again. Every few months, new
+fascination, way into this, start to get
+self-doubt,
+
+349
+00:25:26,654 --> 00:25:32,534
+Speaker 1: right? Crash and burn. It's just
+slow, slow anxiety creeping in. Can I do this?
+
+350
+00:25:32,634 --> 00:25:36,594
+Speaker 1: Is this gonna work? Do I really want
+to do this? That's the real kicker. Do I want
+
+351
+00:25:36,634 --> 00:25:41,214
+Speaker 1: to do this anymore, right? It always
+erodes it, and I move on to the next thing.
+
+352
+00:25:42,094 --> 00:25:47,454
+Speaker 1: This time is different, and the
+reason this time is different is that for the
+first
+
+353
+00:25:47,494 --> 00:25:53,234
+Speaker 1: time in my life, I'm not going it
+alone on something very important to me, and
+that
+
+354
+00:25:53,294 --> 00:25:58,734
+Speaker 1: has made all the difference. So I am
+in accountability groups. I'm in an
+
+355
+00:25:58,794 --> 00:25:59,834
+Speaker 1: accountability group-
+
+356
+00:26:01,014 --> 00:26:01,234
+Speaker 6: With me
+
+357
+00:26:01,254 --> 00:26:03,914
+Speaker 1: ... I'm in... For creatives, yeah,
+I'm in your accountability group.
+
+358
+00:26:03,934 --> 00:26:04,874
+Speaker 6: We're in a couple cre- accountability
+groups.
+
+359
+00:26:04,954 --> 00:26:09,334
+Speaker 1: I'm in an account- a goal-setting and
+accountability group on a weekly basis. I am
+
+360
+00:26:09,414 --> 00:26:13,634
+Speaker 1: in a business accountability group. I
+have a creativity coach. I have a productivity
+
+361
+00:26:13,734 --> 00:26:18,914
+Speaker 1: coach. I have a health and wellness
+doctor expert, right? I, I have a psychiatrist.
+
+362
+00:26:19,674 --> 00:26:25,514
+Speaker 1: I have surrounded myself with so many
+people that I cannot possibly
+
+363
+00:26:25,614 --> 00:26:30,334
+Speaker 1: fail. In fact, I actually promised
+myself yesterday I would remove the F-word from
+
+364
+00:26:30,374 --> 00:26:35,874
+Speaker 1: my, uh, vocabulary, uh, because it's
+not useful to me anymore. Uh, so I'm going to,
+
+365
+00:26:36,454 --> 00:26:38,454
+Speaker 1: I'm gonna stop using it from this
+point forward.
+
+366
+00:26:40,654 --> 00:26:42,074
+Speaker 6: You and I are so much alike.
+
+367
+00:26:42,174 --> 00:26:48,034
+Speaker 1: [laughs] I cannot stop now, and that
+has made all the difference. And it sounds so
+
+368
+00:26:48,094 --> 00:26:52,974
+Speaker 1: crazy, but I have always had this
+feeling that if I didn't do it myself, it didn't
+
+369
+00:26:53,034 --> 00:26:53,374
+Speaker 1: count.
+
+370
+00:26:54,194 --> 00:26:54,254
+Speaker 6: Right.
+
+371
+00:26:54,294 --> 00:27:00,174
+Speaker 1: Which is absurd. It was a complete
+misconception. First of all, nobody
+
+372
+00:27:00,214 --> 00:27:01,174
+Speaker 1: ever does anything alone.
+
+373
+00:27:01,234 --> 00:27:03,434
+Speaker 6: Well, first of all, you are doing it
+all yourself.
+
+374
+00:27:04,234 --> 00:27:06,314
+Speaker 1: I'm doing the important parts, right?
+I'm-
+
+375
+00:27:06,414 --> 00:27:11,334
+Speaker 6: What you're getting help with is the
+m- is the mental stuff. There are things that I
+
+376
+00:27:11,434 --> 00:27:15,914
+Speaker 6: start and don't finish as well. Uh,
+uh, more than I care to-
+
+377
+00:27:16,514 --> 00:27:16,874
+Speaker 1: Mm-hmm
+
+378
+00:27:16,874 --> 00:27:22,094
+Speaker 6: ... admit. And I think, I wonder if
+there's a connection between that and not
+
+379
+00:27:22,154 --> 00:27:27,854
+Speaker 6: wanting, not going back and watching
+TV shows again. Because once you get
+
+380
+00:27:27,954 --> 00:27:32,494
+Speaker 6: into the grind, it's like, "Okay,
+I've done this before. It's not new." Even
+though
+
+381
+00:27:32,574 --> 00:27:37,574
+Speaker 6: you, you might have a plan, a
+long-term plan, when you get down to the daily,
+
+382
+00:27:38,774 --> 00:27:44,654
+Speaker 6: it's like sometimes it's often the
+same thing over and over. And I wonder if that's
+
+383
+00:27:44,714 --> 00:27:45,294
+Speaker 6: connected.
+
+384
+00:27:46,054 --> 00:27:50,354
+Speaker 1: So I've done a lot of soul searching
+on this, obviously. This moment happened to me,
+
+385
+00:27:50,914 --> 00:27:56,014
+Speaker 1: um, really early on in this process
+for this goal, right? Why is this time
+
+386
+00:27:56,054 --> 00:28:01,894
+Speaker 1: different? I had to ask myself that.
+I have stopped dozens of times
+
+387
+00:28:01,994 --> 00:28:06,754
+Speaker 1: on projects of this size. Why is this
+one different? And I just had this moment
+
+388
+00:28:06,754 --> 00:28:12,534
+Speaker 1: where I'm like, "I have the same
+pattern over and over and over again." Um, so
+part
+
+389
+00:28:12,574 --> 00:28:17,014
+Speaker 1: of it is ADHD, right? That's
+absolutely a part of it, and that's really just
+the
+
+390
+00:28:17,094 --> 00:28:21,474
+Speaker 1: same thing as normal human problems
+with a couple of the dials turned up, right? To
+
+391
+00:28:21,534 --> 00:28:27,314
+Speaker 1: varying degrees. One of those is
+novelty seeking. That is the desire, again, part
+of
+
+392
+00:28:27,334 --> 00:28:32,294
+Speaker 1: why I'm motivated by curiosity, is
+the desire for novelty, to see new things, to
+
+393
+00:28:32,394 --> 00:28:37,294
+Speaker 1: see, think you understand something,
+but instead get back a different result. The
+
+394
+00:28:37,354 --> 00:28:42,954
+Speaker 1: unexpected, right? Seeking that out,
+new experiences, more stimulation. So to some
+
+395
+00:28:42,994 --> 00:28:47,114
+Speaker 1: extent, once I've gotten to a point
+where I feel like I kinda get it, it makes sense
+
+396
+00:28:47,174 --> 00:28:50,914
+Speaker 1: that motivation would start to waver,
+and something else would start to look more
+
+397
+00:28:50,954 --> 00:28:54,914
+Speaker 1: interesting. It's always replaced by
+another project. So to some extent, it was
+
+398
+00:28:54,954 --> 00:28:59,634
+Speaker 1: that. Some of it is when you're by
+yourself, it is an echo chamber of your own
+
+399
+00:28:59,654 --> 00:29:03,954
+Speaker 1: thoughts and doubts. All you have
+coming back to you at some point is your own
+
+400
+00:29:04,014 --> 00:29:07,694
+Speaker 1: anxiety, bouncing off the walls over
+and over and over again until that's all you
+
+401
+00:29:07,714 --> 00:29:11,854
+Speaker 1: can hear. It doesn't matter how much
+you wanna do it anymore because you're just
+
+402
+00:29:11,914 --> 00:29:16,714
+Speaker 1: crushed by your own doubt. There's
+nobody to step in and say something, even if you
+
+403
+00:29:16,794 --> 00:29:22,154
+Speaker 1: know it to be true. This isn't about
+logic. It's about emotions. Even if you feel
+
+404
+00:29:22,254 --> 00:29:25,514
+Speaker 1: logically you know that this is
+possible, this thing you're trying to do,
+
+405
+00:29:27,094 --> 00:29:31,354
+Speaker 1: but by then it's too late. You just
+need somebody you care about who is at least a
+
+406
+00:29:31,414 --> 00:29:36,754
+Speaker 1: little bit invested in your work to
+say, "Oh, I think you can do this.
+
+407
+00:29:37,654 --> 00:29:40,694
+Speaker 1: Oh, well why don't you try this
+instead? Oh, I'm sorry you're feeling that way."
+
+408
+00:29:40,834 --> 00:29:46,754
+Speaker 1: Even just to be heard is often
+enough. Even just to speak to another person who
+you
+
+409
+00:29:46,794 --> 00:29:51,654
+Speaker 1: know sincerely wants the best for
+you, who actually wants you to succeed. Even
+that
+
+410
+00:29:51,694 --> 00:29:56,354
+Speaker 1: is enough. So I'll never go it alone
+again. It's the biggest change I've made, and
+
+411
+00:29:56,414 --> 00:30:00,954
+Speaker 1: it has been a monumental change. So
+I'm at eight months now, so significantly past
+
+412
+00:30:00,994 --> 00:30:03,914
+Speaker 1: my usual [laughs] breaking point. Um,
+
+413
+00:30:05,494 --> 00:30:10,414
+Speaker 1: and I am, if anything, more motivated
+than ever. So yesterday I had a meeting with,
+
+414
+00:30:10,474 --> 00:30:13,894
+Speaker 1: uh, two literary agents, right? So
+part of my growth strategy is to pull on
+
+415
+00:30:13,954 --> 00:30:17,614
+Speaker 1: established authors, borrow their
+audience, and get them onto my subscriber
+
+416
+00:30:17,674 --> 00:30:23,174
+Speaker 1: platform, right? It's not gonna work.
+Flat out, right? That talking to those two
+
+417
+00:30:24,114 --> 00:30:27,754
+Speaker 1: very incredible people, very
+knowledgeable. If anybody would know whether
+that would
+
+418
+00:30:27,794 --> 00:30:31,526
+Speaker 1: work or not, it's these people. They
+were rock stars, right? It's not gonna work.
+
+419
+00:30:32,006 --> 00:30:36,226
+Speaker 1: Now, they did validate my core
+premise, selling audio stories, immersive audio
+
+420
+00:30:36,306 --> 00:30:40,386
+Speaker 1: stories to people on a subscription
+does look like it has potential, right? Now,
+
+421
+00:30:40,426 --> 00:30:43,726
+Speaker 1: whether I can execute on that is
+totally separate, but the core thesis is intact.
+
+422
+00:30:44,206 --> 00:30:48,366
+Speaker 1: The growth strategy I had is not
+gonna work. It's just not gonna work for a lot
+of
+
+423
+00:30:48,386 --> 00:30:54,006
+Speaker 1: reasons I won't go into. It hurt.
+That was the kind of event which would have
+
+424
+00:30:54,046 --> 00:30:58,126
+Speaker 1: crippled me in the past. That's the
+beginning of a downward spiral. But I have
+
+425
+00:30:58,126 --> 00:30:58,146
+Speaker 1: surrounded-
+
+426
+00:30:58,146 --> 00:30:58,526
+Speaker 6: Why did it hurt?
+
+427
+00:30:59,206 --> 00:30:59,326
+Speaker 1: Hmm?
+
+428
+00:30:59,766 --> 00:31:00,486
+Speaker 6: Why did it hurt?
+
+429
+00:31:01,566 --> 00:31:06,666
+Speaker 1: It hurt because I had a theory about
+how the world worked, and I had a path that
+
+430
+00:31:06,686 --> 00:31:10,866
+Speaker 1: would get me there, that I had
+invested a lot of time and emotion into, that I
+had a
+
+431
+00:31:10,906 --> 00:31:14,846
+Speaker 1: lot of m- mental momentum and
+emotional momentum, like, "This is where I'm
+going,"
+
+432
+00:31:14,926 --> 00:31:18,806
+Speaker 1: right? You tell yourself, "This is
+where I'm going," every day when you wake up,
+and
+
+433
+00:31:18,826 --> 00:31:23,946
+Speaker 1: you're excited about it, and then
+somebody who you absolutely should believe tells
+
+434
+00:31:23,966 --> 00:31:27,206
+Speaker 1: you it's not going to work for a lot
+of very good reasons that actually make sense
+
+435
+00:31:27,246 --> 00:31:27,506
+Speaker 1: to you.
+
+436
+00:31:29,106 --> 00:31:33,746
+Speaker 1: You should take... The, the sane
+thing to do is to tear it down, right? Some
+
+437
+00:31:33,806 --> 00:31:38,006
+Speaker 1: progress is destructive. I told my
+productivity coach this yesterday. Again,
+
+438
+00:31:38,126 --> 00:31:42,306
+Speaker 1: surround yourself with people. Don't
+go alone. I told my productivity coach this
+
+439
+00:31:42,326 --> 00:31:46,326
+Speaker 1: yesterday, some progress is
+destructive. And while I know that, the... it
+would have
+
+440
+00:31:46,366 --> 00:31:50,746
+Speaker 1: been completely foolish to keep going
+down this path because it is not going to
+
+441
+00:31:50,786 --> 00:31:55,646
+Speaker 1: work. Even if it did, it would work
+so little for the amount of effort invested, it
+
+442
+00:31:55,706 --> 00:32:00,446
+Speaker 1: doesn't make sense. What makes sense
+is to take all the pieces, build a new plan,
+
+443
+00:32:01,126 --> 00:32:06,466
+Speaker 1: get a v- get invested in that new
+plan, and try again. You know, that one might
+work
+
+444
+00:32:06,506 --> 00:32:10,686
+Speaker 1: a little bit, it might work a lot, it
+might work not at all, and I have to tear it
+
+445
+00:32:10,706 --> 00:32:11,486
+Speaker 1: down and make a new one.
+
+446
+00:32:13,286 --> 00:32:18,706
+Speaker 1: That hurts, but it's not going to
+stop me, and that was not true until
+
+447
+00:32:19,626 --> 00:32:25,546
+Speaker 1: 32 years old. So... And the
+difference is I have surrounded myself with
+
+448
+00:32:25,606 --> 00:32:30,986
+Speaker 1: people who care whether it works to
+some extent or another, and I can't let them
+
+449
+00:32:31,046 --> 00:32:36,246
+Speaker 1: down. Uh, and they, all they do is
+they just step in and they just tell me one
+
+450
+00:32:36,306 --> 00:32:42,106
+Speaker 1: simple truth that I already know is
+true. I know I, I could do this if I were a
+
+451
+00:32:42,146 --> 00:32:46,966
+Speaker 1: robot that I could program. Robot
+Steve would have no problem following the new
+
+452
+00:32:47,026 --> 00:32:52,086
+Speaker 1: path, right? No emotions invested in
+it at all. But I'm not that person, and even
+
+453
+00:32:52,146 --> 00:32:56,226
+Speaker 1: hearing the truth come from a neutral
+party, that's enough. Totally dispels the
+
+454
+00:32:56,266 --> 00:32:59,726
+Speaker 1: anxiety. Like, "Okay, onto the next
+thing. No big deal."
+
+455
+00:33:00,106 --> 00:33:00,626
+Speaker 6: Awesome.
+
+456
+00:33:01,466 --> 00:33:01,686
+Speaker 1: Yep.
+
+457
+00:33:01,786 --> 00:33:07,506
+Speaker 6: Awesome. Well, just to be clear,
+you're not talking about scrapping the
+
+458
+00:33:07,606 --> 00:33:10,046
+Speaker 6: idea. You're talking about-
+
+459
+00:33:10,126 --> 00:33:10,127
+Speaker 1: No
+
+460
+00:33:10,126 --> 00:33:12,966
+Speaker 6: ... keeping the idea and just
+changing your plan.
+
+461
+00:33:13,266 --> 00:33:17,806
+Speaker 1: Exactly. This is all about my growth
+strategy. How do you go from, you know,
+
+462
+00:33:18,486 --> 00:33:24,366
+Speaker 1: whatever, a couple hundred, uh,
+unpaying listeners to a couple thousand
+
+463
+00:33:24,586 --> 00:33:28,526
+Speaker 1: paying listeners to a couple hundred
+thousand paying listeners to a couple million
+
+464
+00:33:28,586 --> 00:33:34,206
+Speaker 1: paying listeners, right? That
+strategy, my initial foray, the, the shot I
+took,
+
+465
+00:33:34,986 --> 00:33:40,706
+Speaker 1: it missed. Like, oh, okay. [laughs]
+So the right thing to do is to take a different
+
+466
+00:33:40,766 --> 00:33:45,926
+Speaker 1: position and take another shot, uh,
+which is what I'm going to do. Um, so no, the
+
+467
+00:33:46,006 --> 00:33:49,886
+Speaker 1: core premise is exactly the same.
+What I'm building, the goal is the same. The
+goal
+
+468
+00:33:49,926 --> 00:33:54,566
+Speaker 1: hasn't even changed, but the route to
+the goal has fundamentally changed, and that's
+
+469
+00:33:54,626 --> 00:33:58,466
+Speaker 1: okay. It hurts a little to have that
+broken down and to have to start over again
+
+470
+00:33:58,486 --> 00:33:59,006
+Speaker 1: with a new plan,
+
+471
+00:34:00,746 --> 00:34:02,686
+Speaker 1: but that's just how it is. That is
+this business.
+
+472
+00:34:02,706 --> 00:34:04,026
+Speaker 6: What does that say about your
+mindset?
+
+473
+00:34:04,126 --> 00:34:08,626
+Speaker 1: [laughs] That I've grown a lot.
+[laughs]
+
+474
+00:34:08,686 --> 00:34:08,786
+Speaker 6: Yeah?
+
+475
+00:34:09,306 --> 00:34:14,286
+Speaker 1: That the fact that something doesn't
+work is not a reflection of me. It's got
+
+476
+00:34:14,306 --> 00:34:19,906
+Speaker 1: nothing to do with me. To the extent
+that I have succeeded more is the more I am
+
+477
+00:34:20,006 --> 00:34:24,746
+Speaker 1: a... is the amount, relative to the
+amount I have pulled my ego out of what I'm
+
+478
+00:34:24,786 --> 00:34:30,526
+Speaker 1: doing. What I'm doing is not mine.
+It's just the way the world
+
+479
+00:34:30,586 --> 00:34:36,086
+Speaker 1: works. It's a combination of e-
+economics and human psychology and
+
+480
+00:34:36,166 --> 00:34:39,866
+Speaker 1: fundamental rules of the universe
+whether a business idea will work or not. You
+
+481
+00:34:39,906 --> 00:34:43,086
+Speaker 1: could swap me out with another person
+trying to do the same thing, and it should
+
+482
+00:34:43,146 --> 00:34:48,605
+Speaker 1: work, right? It's not mine. It's not
+me. Now, I have my own approach. I'm my own
+
+483
+00:34:48,665 --> 00:34:53,306
+Speaker 1: person who brings my own skill set,
+right? All of that changes it, for sure. But
+
+484
+00:34:53,326 --> 00:34:57,506
+Speaker 1: there's nothing special about me that
+makes this work. I am just... This is a, this
+
+485
+00:34:57,566 --> 00:35:02,986
+Speaker 1: is just a dig. I'm just trying to
+find something that is true and utilize it. Uh,
+it
+
+486
+00:35:03,026 --> 00:35:06,006
+Speaker 1: has nothing to do with me as a
+person. It's not a reflection of me if it
+doesn't
+
+487
+00:35:06,046 --> 00:35:11,186
+Speaker 1: work. It may be a reflection of my
+skill set, where I am, whether I can make it
+work
+
+488
+00:35:11,226 --> 00:35:16,266
+Speaker 1: or not, but it's not a reflection of
+me as a person, and I don't judge myself for it
+
+489
+00:35:16,306 --> 00:35:18,666
+Speaker 1: anymore, and that has helped a lot.
+
+490
+00:35:22,366 --> 00:35:24,326
+Speaker 6: Well, you seem to be learning a lot.
+
+491
+00:35:24,426 --> 00:35:26,366
+Speaker 1: [laughs] Yeah. Always better, right?
+
+492
+00:35:26,666 --> 00:35:27,206
+Speaker 6: Yeah, right.
+
+493
+00:35:27,866 --> 00:35:29,906
+Speaker 1: I was thinking about this when you
+asked earlier.
+
+494
+00:35:31,746 --> 00:35:36,306
+Speaker 1: I've been at this for a long time
+now, making stories, producing them into audio
+
+495
+00:35:36,426 --> 00:35:41,706
+Speaker 1: stories, and the way I got better was
+by,
+
+496
+00:35:43,046 --> 00:35:46,826
+Speaker 1: I don't wanna say not caring about
+the quality, but caring about the velocity and
+
+497
+00:35:46,866 --> 00:35:51,766
+Speaker 1: not the position. To get into a
+physics term, the position is totally irrelevant
+
+498
+00:35:52,346 --> 00:35:55,986
+Speaker 1: except for the fact that I need it to
+be at a certain position to be, to reach my
+
+499
+00:35:56,026 --> 00:35:57,646
+Speaker 1: goals, right? That's the only reason
+I care.
+
+500
+00:35:58,326 --> 00:35:58,506
+Speaker 6: Sure.
+
+501
+00:35:58,766 --> 00:36:04,186
+Speaker 1: When I say position, I mean a
+quantitative measure of skill. Can I produce the
+thing
+
+502
+00:36:04,266 --> 00:36:09,826
+Speaker 1: I need to produce in whatever skill?
+I have focused only on quantity
+
+503
+00:36:09,946 --> 00:36:15,886
+Speaker 1: produced. How much can I make, and am
+I improving? I
+
+504
+00:36:15,906 --> 00:36:21,486
+Speaker 1: don't care how bad I am. I do not
+care how bad I am at all. Am I improving? And I
+
+505
+00:36:21,566 --> 00:36:26,766
+Speaker 1: fixated on that, and that made all
+the difference. I stopped caring whether it was
+
+506
+00:36:26,806 --> 00:36:31,846
+Speaker 1: bad right now, and I cared only about
+is it getting better, am I making enough?
+
+507
+00:36:32,606 --> 00:36:38,446
+Speaker 6: So you dropped your perfectionism in
+order to reach new heights
+
+508
+00:36:38,606 --> 00:36:39,506
+Speaker 6: as far as skill?
+
+509
+00:36:40,578 --> 00:36:44,958
+Speaker 1: Yes, but perfectionism even is too
+simple because it, perfectionism implies that I
+
+510
+00:36:44,978 --> 00:36:48,078
+Speaker 1: think it could be perfect if I spend
+enough time on it. I don't even believe that
+
+511
+00:36:48,118 --> 00:36:52,858
+Speaker 1: anymore. I believe I have a, I have a
+fixed ceiling on what I can produce with my
+
+512
+00:36:52,978 --> 00:36:56,978
+Speaker 1: current skill level. Now, the skill
+level can increase, which means the ceiling can
+
+513
+00:36:57,018 --> 00:37:02,458
+Speaker 1: go up, but it does not make sense to
+try and push the ceiling higher from where I
+
+514
+00:37:02,578 --> 00:37:07,178
+Speaker 1: am. I need to practice to raise the
+ceiling. It doesn't make sense to just
+
+515
+00:37:08,598 --> 00:37:13,118
+Speaker 1: work, bash myself against this
+project over and over and over again because
+that is
+
+516
+00:37:13,158 --> 00:37:19,038
+Speaker 1: not going to improve me. What I need
+to do is get it out into the world, learn from
+
+517
+00:37:19,098 --> 00:37:23,658
+Speaker 1: it, get feedback, whether that's my
+own feedback or somebody else's, learn from it,
+
+518
+00:37:23,758 --> 00:37:27,398
+Speaker 1: and take that into the next project,
+and then make that one better. Because now my
+
+519
+00:37:27,458 --> 00:37:31,258
+Speaker 1: ceiling is higher, what is the point
+of spending 10 times longer on this thing when
+
+520
+00:37:31,278 --> 00:37:34,658
+Speaker 1: I'm hitting against the same ceiling,
+when I could just raise the ceiling? So I have
+
+521
+00:37:34,698 --> 00:37:39,638
+Speaker 1: fixated on raising the ceiling of
+what I can produce rather than trying to make it
+
+522
+00:37:39,678 --> 00:37:44,858
+Speaker 1: the best it can possibly be. Because
+I have seen more gains faster,
+
+523
+00:37:44,978 --> 00:37:49,578
+Speaker 1: paradoxically, by caring about the
+quality of the work. Like, I am trying to push
+
+524
+00:37:49,618 --> 00:37:53,298
+Speaker 1: myself, but the moment I feel like I
+start hitting that skill ceiling, I'm getting
+
+525
+00:37:53,338 --> 00:37:56,658
+Speaker 1: diminishing returns. Like, yeah,
+okay, I could spend 10 more hours on this sound
+
+526
+00:37:56,678 --> 00:38:01,318
+Speaker 1: effect to get it perfect, but am I
+going to learn from that? Or will I learn from
+
+527
+00:38:01,358 --> 00:38:05,218
+Speaker 1: making 100 more sound effects like it
+in that amount of time? The answer is
+
+528
+00:38:05,278 --> 00:38:10,078
+Speaker 1: obviously the second one, and I have
+grown so much faster because of it.
+
+529
+00:38:11,238 --> 00:38:17,238
+Speaker 6: So what you're interested in is
+seeing a progress growth as far as skills.
+You're
+
+530
+00:38:17,278 --> 00:38:21,858
+Speaker 6: comparing yourself, your current
+self, against your skill level last week or last
+
+531
+00:38:21,918 --> 00:38:24,978
+Speaker 6: month, and as long as the graph is
+up, then-
+
+532
+00:38:24,998 --> 00:38:25,298
+Speaker 1: Mm-hmm
+
+533
+00:38:25,298 --> 00:38:26,658
+Speaker 6: ... that's your goal.
+
+534
+00:38:26,938 --> 00:38:32,918
+Speaker 1: Yeah. I fundamentally value myself as
+a human being for whether I am on the path.
+
+535
+00:38:32,998 --> 00:38:36,118
+Speaker 1: It's a concept I came up with, like,
+I don't know how many years ago, seven or eight
+
+536
+00:38:36,138 --> 00:38:41,538
+Speaker 1: years ago in a journal. The path
+being a line that moves up and to the right. If
+I
+
+537
+00:38:41,598 --> 00:38:46,498
+Speaker 1: am improving as a person, and you
+kinda know whether you're improving or not,
+
+538
+00:38:46,578 --> 00:38:51,078
+Speaker 1: whether you've gone horizontal or
+down, you know pretty quickly whether you feel
+
+539
+00:38:51,118 --> 00:38:56,038
+Speaker 1: like you've ha- made progress lately.
+If I am making progress, I am satisfied with
+
+540
+00:38:56,078 --> 00:38:59,818
+Speaker 1: myself as a person. Now, I try to
+crank the knobs on that progress to try and
+
+541
+00:38:59,858 --> 00:39:05,278
+Speaker 1: improve as much as possible, but I
+don't value myself for how fast that goes. I
+
+542
+00:39:05,338 --> 00:39:10,538
+Speaker 1: value myself for am I sincerely
+trying to improve myself? If yes, and I am
+growing
+
+543
+00:39:10,578 --> 00:39:16,498
+Speaker 1: as a person in some way, we're good.
+That's all I ask of myself in life. Am I
+
+544
+00:39:16,558 --> 00:39:22,338
+Speaker 1: improving? Even a little bit, even a
+tiny, tiny, tiny bit, it counts. I call that
+
+545
+00:39:22,358 --> 00:39:26,758
+Speaker 1: being on the path. You're either off
+the path or on the path, and when you decide,
+
+546
+00:39:26,818 --> 00:39:30,698
+Speaker 1: when you realize you're off the path,
+all you have to do is say, "Okay, I'm back on
+
+547
+00:39:30,738 --> 00:39:34,438
+Speaker 1: the path now. I'm gonna go improve
+myself again." Because sometimes you don't want
+
+548
+00:39:34,478 --> 00:39:35,838
+Speaker 1: to improve because it hurts.
+
+549
+00:39:36,938 --> 00:39:41,878
+Speaker 6: That's cool. Um, I call it forward
+movement. It helps me sometimes to create a
+
+550
+00:39:41,918 --> 00:39:46,778
+Speaker 6: phrase like that. Forward movement
+is, I call it that because it's meaningful for
+
+551
+00:39:46,818 --> 00:39:46,958
+Speaker 6: me.
+
+552
+00:39:47,078 --> 00:39:47,079
+Speaker 1: Mm-hmm.
+
+553
+00:39:47,098 --> 00:39:51,358
+Speaker 6: But if it's not meaningful for
+somebody else, then they can find their own
+phrase-
+
+554
+00:39:51,378 --> 00:39:52,138
+Speaker 1: Yeah, sure, make your own thing
+
+555
+00:39:52,158 --> 00:39:52,438
+Speaker 6: ... and make it, yeah
+
+556
+00:39:52,458 --> 00:39:56,278
+Speaker 1: But that's like the ultimate gut
+check. When everything is crazy, everything is
+
+557
+00:39:56,318 --> 00:40:00,498
+Speaker 1: going wrong, nothing seems to be
+going my way, am I on the path?
+
+558
+00:40:00,798 --> 00:40:00,858
+Speaker 6: Yeah.
+
+559
+00:40:00,898 --> 00:40:05,398
+Speaker 1: Yes or no. It's binary. If yes, I'm
+doing the right thing. It literally does not
+
+560
+00:40:05,438 --> 00:40:09,198
+Speaker 1: matter what I'm doing or whether it
+works or not because I'm doing the right thing.
+
+561
+00:40:09,558 --> 00:40:13,218
+Speaker 1: If no, that's the only way I could be
+doing the wrong thing. I could be making a
+
+562
+00:40:13,238 --> 00:40:17,038
+Speaker 1: billion dollars a year and not being
+improving myself, and I'm doing the wrong
+
+563
+00:40:17,118 --> 00:40:17,878
+Speaker 1: thing. That's how I feel.
+
+564
+00:40:17,878 --> 00:40:22,238
+Speaker 6: And you don't mean in a narcissistic
+way. You mean in a healthy way.
+
+565
+00:40:22,538 --> 00:40:26,858
+Speaker 1: Yes, absolutely, but because to
+improve myself in a narcissistic way would not
+be
+
+566
+00:40:26,898 --> 00:40:32,058
+Speaker 1: improvement. So it would be, because
+that's not what I value. That's not who I want
+
+567
+00:40:32,098 --> 00:40:36,038
+Speaker 1: to be, and I would not consider that
+improvement. I would consider that an illusion,
+
+568
+00:40:36,598 --> 00:40:38,758
+Speaker 1: and that would be false, and I would
+not be improving.
+
+569
+00:40:48,078 --> 00:40:49,718
+Speaker 3: You, you, you let it out?
+
+570
+00:40:50,438 --> 00:40:54,158
+Speaker 2: He only has access to 30% of the
+designed weapon systems.
+
+571
+00:40:54,858 --> 00:40:59,478
+Speaker 3: It's an abomination. Who knows what
+the Japanese hid in that tech?
+
+572
+00:41:00,357 --> 00:41:05,958
+Speaker 2: Gabriel ignored both lines of
+argument. This wasn't about public safety or
+blasphemy
+
+573
+00:41:06,038 --> 00:41:10,538
+Speaker 2: or espionage. What would the now
+deceased Japanese research team hide anyway?
+
+574
+00:41:11,218 --> 00:41:15,478
+Speaker 2: Professor Saitama had been honorable
+and faithful to their shared cause until the
+
+575
+00:41:15,538 --> 00:41:20,538
+Speaker 2: very end. Gabriel felt that it was
+sometimes better to let a friend stab you in the
+
+576
+00:41:20,598 --> 00:41:26,478
+Speaker 2: back, to fully trust some people, and
+simply hope for the best. Lucius
+
+577
+00:41:26,538 --> 00:41:28,158
+Speaker 2: was not one of those people.
+
+578
+00:41:33,038 --> 00:41:37,998
+Speaker 6: You're talking about improving your
+skills. What specific skills are you talking
+
+579
+00:41:38,058 --> 00:41:39,698
+Speaker 6: about for Collected Stories?
+
+580
+00:41:40,858 --> 00:41:46,858
+Speaker 1: So I have them listed. Um, I'm
+maniacal about this. Uh, I have become that. I
+don't
+
+581
+00:41:46,958 --> 00:41:51,518
+Speaker 1: start this way. I feel like I really
+need to hone in on that point. I did not start
+
+582
+00:41:51,578 --> 00:41:57,478
+Speaker 1: this way. I decided to become this
+way, and it didn't happen overnight. It happened
+
+583
+00:41:57,578 --> 00:42:03,438
+Speaker 1: in fits and spurts, and it was slow
+and winding. That's how I got here. I have a
+
+584
+00:42:03,498 --> 00:42:07,898
+Speaker 1: list of the skills I want to master
+and to what level I want to get to them in. I
+
+585
+00:42:07,938 --> 00:42:11,198
+Speaker 1: have a list of the things I need to
+get good at and then immediately get rid of
+
+586
+00:42:11,258 --> 00:42:14,838
+Speaker 1: because I don't want to be good at
+them. I have an order in which I want to get rid
+
+587
+00:42:14,878 --> 00:42:19,718
+Speaker 1: of the skills. So in short, they are
+narration. I need to get roughly to an 8 out of
+
+588
+00:42:19,778 --> 00:42:22,798
+Speaker 1: 10, a 10 being world-class. Uh, so an
+8 is very-
+
+589
+00:42:22,838 --> 00:42:23,898
+Speaker 6: You mean your performance?
+
+590
+00:42:24,278 --> 00:42:28,978
+Speaker 1: Yes. So 8 being very good because
+that is what I need to beli- that is what I
+
+591
+00:42:29,018 --> 00:42:32,918
+Speaker 1: believe I need to be at to
+convincingly sell stories, right? That doesn't
+mean I'm
+
+592
+00:42:32,978 --> 00:42:37,578
+Speaker 1: always gonna be the narrator. That is
+good enough to me. Writing, roughly 8 or 9 out
+
+593
+00:42:37,598 --> 00:42:41,498
+Speaker 1: of 10. You see a common trend here.
+Sound design, because that's right at the point
+
+594
+00:42:41,538 --> 00:42:46,698
+Speaker 1: of diminishing returns. The
+difference between an 8 and a 10, most people
+will never
+
+595
+00:42:46,738 --> 00:42:48,978
+Speaker 1: notice. Only the, the biggest-
+
+596
+00:42:50,708 --> 00:42:53,848
+Speaker 1: Only the people who truly understand
+the craft will know the difference at that
+
+597
+00:42:53,868 --> 00:42:57,348
+Speaker 1: level. It's such fine-grained
+details. You can hit the high notes. You, you're
+gonna
+
+598
+00:42:57,388 --> 00:43:01,948
+Speaker 1: get 90% of the results. Yes, the best
+in the world will be able to outdo you, and
+
+599
+00:43:02,008 --> 00:43:05,848
+Speaker 1: yes, some people will notice on a
+subconscious level what is truly master class
+and
+
+600
+00:43:05,888 --> 00:43:06,288
+Speaker 1: what isn't.
+
+601
+00:43:07,828 --> 00:43:11,968
+Speaker 1: But you just need to get to a point
+where you can sell. I say you, as in me, because
+
+602
+00:43:12,008 --> 00:43:15,948
+Speaker 1: this is... It all comes back to where
+my goals come from. I know what I need to do,
+
+603
+00:43:16,248 --> 00:43:20,908
+Speaker 1: and from that, all other choices
+become clear. Now that I know what I need to do,
+
+604
+00:43:21,508 --> 00:43:25,328
+Speaker 1: what skills do I need to get there? I
+literally wrote them all out. Okay, now which
+
+605
+00:43:25,388 --> 00:43:29,688
+Speaker 1: ones do I actually want to be good
+at? And so I very quickly crossed out the ones I
+
+606
+00:43:29,708 --> 00:43:32,448
+Speaker 1: didn't wanna do. I don't wanna be an
+actor. I don't wanna be an actor. It doesn't
+
+607
+00:43:32,468 --> 00:43:36,508
+Speaker 1: motivate me. I don't care about that.
+And ultimately, I don't wanna be the editor. I
+
+608
+00:43:36,528 --> 00:43:39,568
+Speaker 1: don't wanna do the mixing. Uh,
+there's a lot of things I don't wanna be great
+at,
+
+609
+00:43:39,668 --> 00:43:43,208
+Speaker 1: but there are things I do want to be
+great at, even if I do eventually outsource
+
+610
+00:43:43,228 --> 00:43:48,048
+Speaker 1: them. And primarily because I love
+it, and because I love it, I know I will be
+great
+
+611
+00:43:48,108 --> 00:43:49,828
+Speaker 1: at it if I continue to put in the
+time.
+
+612
+00:43:49,948 --> 00:43:51,588
+Speaker 6: What are those things that you wanna
+be great at?
+
+613
+00:43:51,948 --> 00:43:55,147
+Speaker 1: Uh, sound design, narration, writing.
+
+614
+00:43:56,868 --> 00:43:59,608
+Speaker 1: There are some that I want to be good
+at, and there's a lot of those.
+
+615
+00:43:59,988 --> 00:44:01,988
+Speaker 6: What are some things you wanna be
+good at?
+
+616
+00:44:02,908 --> 00:44:05,968
+Speaker 1: Mixing, editing, directing.
+
+617
+00:44:07,508 --> 00:44:13,008
+Speaker 1: Um, I need to be slightly better at
+drawing. I need to be good enough at music
+
+618
+00:44:13,508 --> 00:44:17,668
+Speaker 1: composing, uh, and production in
+order to be able to guide the people under me,
+and
+
+619
+00:44:17,708 --> 00:44:22,368
+Speaker 1: to be able to talk what they talk,
+uh, in an intelligent way to get the best out of
+
+620
+00:44:22,428 --> 00:44:25,908
+Speaker 1: them. So those are all... I need to
+be able to do everything on the team, for the
+
+621
+00:44:25,948 --> 00:44:30,888
+Speaker 1: most part, uh, to at least an
+adequate degree. But the three things I'm going
+to be
+
+622
+00:44:30,948 --> 00:44:36,448
+Speaker 1: great at are narration, writing,
+sound design. Now, narration of those three is
+the
+
+623
+00:44:36,508 --> 00:44:41,248
+Speaker 1: one I care the least about. And that
+may sound bizarre, but I, I believe that the
+
+624
+00:44:41,288 --> 00:44:44,748
+Speaker 1: writing is the most important. If
+that foundation is not good, nothing else
+matters.
+
+625
+00:44:45,308 --> 00:44:49,388
+Speaker 1: Fantas- fantastic sound design and
+acting on top of crappy writing, literally
+nobody
+
+626
+00:44:49,428 --> 00:44:54,408
+Speaker 1: gonna care, right? Sound design is
+right after that. It's so important to the
+
+627
+00:44:54,468 --> 00:44:59,748
+Speaker 1: immersion of the story. Narration, as
+long as I am convincing, I care
+
+628
+00:45:00,088 --> 00:45:04,628
+Speaker 1: less about the perfectionism there.
+It just has to be good enough that you don't
+
+629
+00:45:04,688 --> 00:45:09,288
+Speaker 1: notice me. I want to fall into the
+background to the point where the narrator
+
+630
+00:45:09,328 --> 00:45:09,988
+Speaker 1: becomes
+
+631
+00:45:11,648 --> 00:45:15,828
+Speaker 1: immersive, essentially, to the point
+where I'm just telling you what is happening
+
+632
+00:45:15,888 --> 00:45:19,728
+Speaker 1: and you don't hear my voice anymore.
+You just see the story that is unfolding in
+
+633
+00:45:19,768 --> 00:45:23,408
+Speaker 1: your imagination. That's the point I
+need to get to. I don't need to get to the
+
+634
+00:45:23,448 --> 00:45:27,148
+Speaker 1: point where you're like, "Wow, this
+guy's a great narrator." I don't care about
+
+635
+00:45:27,208 --> 00:45:31,788
+Speaker 1: that. I just need to get to the point
+where I fall away. You don't notice what I'm
+
+636
+00:45:31,848 --> 00:45:35,088
+Speaker 1: saying anymore. Like, "Eh, that
+sounded weird," or, "That sounded stupid," or,
+"That
+
+637
+00:45:35,108 --> 00:45:40,348
+Speaker 1: was bad acting." Once I get past that
+point, it's good enough, right? The writing
+
+638
+00:45:40,368 --> 00:45:41,888
+Speaker 1: and sound design needs to be a little
+bit higher.
+
+639
+00:45:43,328 --> 00:45:49,208
+Speaker 6: Well, the stories are really great,
+and you a- actually, you have rules for your
+
+640
+00:45:49,288 --> 00:45:49,888
+Speaker 6: stories, right?
+
+641
+00:45:50,008 --> 00:45:50,128
+Speaker 1: I do.
+
+642
+00:45:50,148 --> 00:45:55,368
+Speaker 6: Even though they're, they're
+multi-part stories, right? They're like four,
+five, or
+
+643
+00:45:55,448 --> 00:46:01,088
+Speaker 6: six, or 12 parts, but that's it. And
+then there's another story, and then there's
+
+644
+00:46:01,148 --> 00:46:01,808
+Speaker 6: another story.
+
+645
+00:46:02,208 --> 00:46:02,508
+Speaker 1: Mm-hmm.
+
+646
+00:46:02,928 --> 00:46:06,688
+Speaker 6: But, but you said you wrote down
+rules for your world-
+
+647
+00:46:06,748 --> 00:46:07,548
+Speaker 1: Yeah, and-
+
+648
+00:46:07,548 --> 00:46:10,848
+Speaker 6: ... that all of the stories have to,
+uh, live by.
+
+649
+00:46:11,328 --> 00:46:17,088
+Speaker 1: Yes, I do have rules. So I have a
+theory as to what makes a satisfying story in
+this
+
+650
+00:46:17,148 --> 00:46:21,988
+Speaker 1: format, and this is why I'm... One of
+the reasons I'm so excited beyond just the
+
+651
+00:46:22,028 --> 00:46:24,788
+Speaker 1: format. Okay, so it's immersive audio
+story. It's cool. Yeah, whatever, right?
+
+652
+00:46:25,368 --> 00:46:28,668
+Speaker 1: Anyone can do it, right? There's not
+that much bar of a competition. Anyone can
+
+653
+00:46:28,788 --> 00:46:31,628
+Speaker 1: learn how to do the sound design and
+the voice acting and all that, and the
+
+654
+00:46:31,668 --> 00:46:35,008
+Speaker 1: directing. They can put it together,
+right? This isn't rocket science. People can
+
+655
+00:46:35,068 --> 00:46:38,648
+Speaker 1: figure this out, and they have
+figured out in the past. So what makes me
+special
+
+656
+00:46:38,688 --> 00:46:42,628
+Speaker 1: then, right? What do I have over
+Graphic Audio or any of these Audible originals
+or
+
+657
+00:46:42,688 --> 00:46:47,288
+Speaker 1: audio dramas that are coming out? And
+I think that there are layers on top of this
+
+658
+00:46:47,828 --> 00:46:52,828
+Speaker 1: that in time are going to make the
+difference. At first, I need to make the core
+
+659
+00:46:52,868 --> 00:46:58,828
+Speaker 1: product good, right? The stories.
+Beyond that, I have a, a set of codified rules
+
+660
+00:46:58,868 --> 00:47:03,628
+Speaker 1: for what I think every story I make
+and every story that I involve other people in,
+
+661
+00:47:03,908 --> 00:47:08,008
+Speaker 1: these are the rules they need to play
+by. I have a very strict rule book as to what
+
+662
+00:47:08,048 --> 00:47:11,448
+Speaker 1: makes a good story in this format,
+because this format is more than just immersive
+
+663
+00:47:11,527 --> 00:47:15,508
+Speaker 1: audio. It has a set of rules too. So
+some of them are things like, just to make it
+
+664
+00:47:15,548 --> 00:47:20,068
+Speaker 1: concrete, have characters that are
+flawed but not stupid, are self-aware and
+
+665
+00:47:20,108 --> 00:47:24,308
+Speaker 1: motivated enough to not frustrate the
+reader. And that sounds simple, but how many
+
+666
+00:47:24,368 --> 00:47:27,448
+Speaker 1: books and how many times have you
+been frustrated by a character that has an own
+
+667
+00:47:27,508 --> 00:47:32,028
+Speaker 1: goal, right? It's a typical romance
+plot where they both misunderstand something,
+
+668
+00:47:32,068 --> 00:47:35,328
+Speaker 1: and then they go off, and it's
+totally contrived. You know, like, this is so
+stupid.
+
+669
+00:47:35,408 --> 00:47:38,448
+Speaker 1: If they would literally have a
+one-minute conversation, they could resolve this
+in a
+
+670
+00:47:38,508 --> 00:47:42,608
+Speaker 1: second. Nah, I'm not doing that. If
+they have pro- Now, that doesn't mean that two
+
+671
+00:47:42,648 --> 00:47:46,408
+Speaker 1: people can't come to, in conflict
+with each other. They will. But if they do, it's
+
+672
+00:47:46,448 --> 00:47:50,908
+Speaker 1: for reasons that make sense to you.
+In fact, that is because the next rule is most
+
+673
+00:47:50,948 --> 00:47:56,648
+Speaker 1: conflict comes from hard choices,
+opposing but plausible worldviews or
+
+674
+00:47:56,728 --> 00:48:01,568
+Speaker 1: forces of nature, not own goals or
+deus ex machina. All right, so it's these kinds
+
+675
+00:48:01,628 --> 00:48:04,008
+Speaker 1: of rules, and I've got a lot of them.
+Um-
+
+676
+00:48:04,048 --> 00:48:06,028
+Speaker 6: Did you make them up yourself or...?
+
+677
+00:48:06,288 --> 00:48:10,208
+Speaker 1: Yeah, I mean, but the, everything is
+derived from something else. But yes. Uh, but
+
+678
+00:48:10,308 --> 00:48:14,788
+Speaker 1: yes, these are rules that I, I have
+codified, and every story I write will follow
+
+679
+00:48:14,828 --> 00:48:15,888
+Speaker 1: these rules to the T.
+
+680
+00:48:16,328 --> 00:48:20,648
+Speaker 6: Why? Why do you have rules that all
+your stories have to adhere to?
+
+681
+00:48:21,408 --> 00:48:26,448
+Speaker 1: Yeah, that's what it is, and it's...
+This kind of structure seems imposing. Like,
+
+682
+00:48:26,548 --> 00:48:30,448
+Speaker 1: okay, great, so anyone I ask has to
+follow all this huge list of rules? Like, that's
+
+683
+00:48:30,488 --> 00:48:34,768
+Speaker 1: kind of ridiculous. But I have
+learned more and more that the structure sets
+you
+
+684
+00:48:34,828 --> 00:48:39,828
+Speaker 1: free. Because the very last rule is,
+and everything else is pure potential.
+
+685
+00:48:40,608 --> 00:48:46,328
+Speaker 1: Because human beings, the way our
+brains work, we do horrible in a vacuum.
+
+686
+00:48:47,688 --> 00:48:51,640
+Speaker 1: Limitless possibility is the worst
+possible thing you could do to creativity. It
+
+687
+00:48:51,720 --> 00:48:56,420
+Speaker 1: sounds insane to say that, but the
+moment you start adding structure, if you give
+
+688
+00:48:56,480 --> 00:49:00,180
+Speaker 1: somebody a blank canvas and like a
+marker and you say, make something wonderful,
+
+689
+00:49:00,320 --> 00:49:04,100
+Speaker 1: they're going to be like, I don't
+know what to do. But if they're like, you have
+to
+
+690
+00:49:04,140 --> 00:49:07,080
+Speaker 1: do this, this, this, and this, you
+can only use these colors. You can only use
+these
+
+691
+00:49:07,120 --> 00:49:12,460
+Speaker 1: shapes. Now watch them go and they'll
+just go right into the task. It's crazy. Too
+
+692
+00:49:12,500 --> 00:49:17,680
+Speaker 1: much ambiguity is bad. So all of
+these rules pin you in. Now they pin you in in
+such
+
+693
+00:49:17,740 --> 00:49:21,660
+Speaker 1: a way that anything inside these
+bounds, inside these boundaries is going to be a
+
+694
+00:49:21,700 --> 00:49:26,520
+Speaker 1: good story, right? And there's so
+much space left here for potential. It doesn't
+
+695
+00:49:26,560 --> 00:49:30,920
+Speaker 1: even matter. There's infinite stories
+still within this space to get mathematical.
+
+696
+00:49:31,860 --> 00:49:34,760
+Speaker 6: Well, there are only eight notes on
+the piano.
+
+697
+00:49:35,060 --> 00:49:40,100
+Speaker 1: Yes, yes. Yeah, you're right. That's
+a great point. Exactly like that. The structure
+
+698
+00:49:40,480 --> 00:49:44,440
+Speaker 1: sets you free. So I'm pinning you
+into a specific kind of structure.
+
+699
+00:49:46,080 --> 00:49:49,820
+Speaker 1: And I think that something else that
+I'm excited about is how can I make that even
+
+700
+00:49:49,860 --> 00:49:53,400
+Speaker 1: cooler? How can I make this not like
+a top-down thing where I'm hitting people over
+
+701
+00:49:53,440 --> 00:49:55,460
+Speaker 1: the head with, oh, you forgot rule
+number seven here?
+
+702
+00:49:58,140 --> 00:50:03,760
+Speaker 1: And the way I did that is that part
+of my story world, my story world, which is
+
+703
+00:50:03,780 --> 00:50:08,420
+Speaker 1: going to be our story world, is a
+community-driven multiverse, which I've called
+the
+
+704
+00:50:08,460 --> 00:50:12,940
+Speaker 1: Eternium. And this is a very fancy
+way of saying that if you make a story on our
+
+705
+00:50:12,960 --> 00:50:18,680
+Speaker 1: platform, it isn't just a story. It's
+a story world. And that world is an
+
+706
+00:50:18,800 --> 00:50:23,100
+Speaker 1: actual place in the canon. All of
+these stories are in the world. So as long as it
+
+707
+00:50:23,140 --> 00:50:27,360
+Speaker 1: meets these bars, as long as it
+passes all these rules in some editorial
+process,
+
+708
+00:50:27,440 --> 00:50:33,020
+Speaker 1: right? That's TBD. It's canon. Your
+story world lives next to mine.
+
+709
+00:50:33,900 --> 00:50:38,780
+Speaker 1: And while they have some method of
+interacting, and we won't get into that, because
+
+710
+00:50:38,820 --> 00:50:43,440
+Speaker 1: they follow all the rules, they fit
+into our world. Furthermore, there is like a
+
+711
+00:50:43,500 --> 00:50:48,840
+Speaker 1: pantheon of gods above all of this.
+And those are the creatures, the intelligent,
+
+712
+00:50:50,120 --> 00:50:54,540
+Speaker 1: sometimes malevolent forces that are
+enforcing all these rules. The reason that only
+
+713
+00:50:54,580 --> 00:50:58,880
+Speaker 1: these worlds can exist in this
+multiverse is because every single one of these
+rules
+
+714
+00:50:58,940 --> 00:51:04,820
+Speaker 1: is personified by some, you know,
+sometimes malevolent deity who wants this
+
+715
+00:51:04,860 --> 00:51:10,780
+Speaker 1: thing, right? There's the revealers,
+one of the main gods, like goddesses. She
+
+716
+00:51:10,840 --> 00:51:16,700
+Speaker 1: wants basically to reveal secrets.
+And that motivation causes you to have stories
+
+717
+00:51:17,440 --> 00:51:22,080
+Speaker 1: which feed the reader mysteries, but
+slowly unveil them, right? You don't have, and
+
+718
+00:51:22,100 --> 00:51:26,020
+Speaker 1: this is to prevent you from doing
+things like loose threads, loose plot lines,
+
+719
+00:51:26,560 --> 00:51:32,240
+Speaker 1: having no mystery, right? I'm just
+codifying what is already a common story
+
+720
+00:51:32,300 --> 00:51:36,380
+Speaker 1: trope. You hint at something weird,
+like you tease some readers with some mystery,
+
+721
+00:51:36,900 --> 00:51:41,180
+Speaker 1: and then later you pay them off,
+right? You pay back that debt. All I'm doing is
+
+722
+00:51:41,240 --> 00:51:45,340
+Speaker 1: taking that rule and I'm making even
+the rules themselves part of the story world.
+
+723
+00:51:46,720 --> 00:51:50,580
+Speaker 1: So, you know, that part's an
+experiment. We'll see if it works. But I feel
+like that
+
+724
+00:51:50,640 --> 00:51:54,860
+Speaker 1: turns something which would be
+annoying to anybody working with me into
+something,
+
+725
+00:51:54,940 --> 00:51:59,800
+Speaker 1: okay, cool. Now I can use this. Now
+these rules are actual characters and these
+
+726
+00:51:59,860 --> 00:52:05,260
+Speaker 1: characters come into conflict with
+each other. And I can use that in my story. That
+
+727
+00:52:05,300 --> 00:52:06,040
+Speaker 1: gets me excited.
+
+728
+00:52:08,000 --> 00:52:09,300
+Speaker 5: Good evening, Francesca.
+
+729
+00:52:12,520 --> 00:52:13,540
+Speaker 5: Something on my face?
+
+730
+00:52:15,060 --> 00:52:19,380
+Speaker 5: No, sir. I'm just about to sit down
+to dinner. Come on in.
+
+731
+00:52:20,300 --> 00:52:25,680
+Speaker 1: She hesitated at the doorway. Was
+that an invitation or a dismissal?
+
+732
+00:52:26,120 --> 00:52:29,060
+Speaker 5: Seriously, come in. It's okay to let
+your hair down.
+
+733
+00:52:29,940 --> 00:52:35,460
+Speaker 1: Fran moved to see if her hood was
+still up. Yes, it was. Should she let her hair
+
+734
+00:52:35,520 --> 00:52:41,200
+Speaker 1: down? Why was that important? The
+archbishop shook his head and smiled warmly at
+
+735
+00:52:41,240 --> 00:52:46,380
+Speaker 1: her. So she took that as an
+invitation and closed the door behind her. She
+stopped
+
+736
+00:52:46,420 --> 00:52:50,400
+Speaker 1: trying to read the man's expression
+and got right down to business, where she was
+
+737
+00:52:50,440 --> 00:52:51,300
+Speaker 1: most comfortable.
+
+738
+00:52:52,340 --> 00:52:56,800
+Speaker 5: I found another file in Saitama's
+data dump. You're gonna wanna see this.
+
+739
+00:52:57,240 --> 00:53:01,240
+Speaker 1: She walked over to where Gabriel sat
+at his desk and set her tablet down in front of
+
+740
+00:53:01,280 --> 00:53:07,080
+Speaker 1: him. Fran swiped through the
+blueprints, stopping on the artist's impression
+of the
+
+741
+00:53:07,120 --> 00:53:13,099
+Speaker 1: final product, which was incredibly
+dramatic. Gabriel stopped chewing, his eyes
+
+742
+00:53:13,180 --> 00:53:14,040
+Speaker 1: opened wide.
+
+743
+00:53:15,160 --> 00:53:20,180
+Speaker 5: How would we even build something
+like that? We can't. It's as tall as a building.
+
+744
+00:53:22,080 --> 00:53:23,920
+Speaker 5: It looks like it's straight out of an
+anime.
+
+745
+00:53:24,620 --> 00:53:29,360
+Speaker 1: Fran nodded enthusiastically. They
+had maybe 10% of the materials needed to
+
+746
+00:53:29,400 --> 00:53:33,800
+Speaker 1: construct it. Not that they would
+even try. It would be an egregious waste of
+
+747
+00:53:33,840 --> 00:53:38,960
+Speaker 1: resources. There was a reason tanks
+didn't have legs. It was simply impractical.
+
+748
+00:53:39,740 --> 00:53:41,680
+Speaker 1: Gabriel scratched his chin
+thoughtfully.
+
+749
+00:53:42,700 --> 00:53:45,800
+Speaker 5: Maybe we could make a smaller one.
+
+750
+00:53:48,100 --> 00:53:49,260
+Speaker 6: Tell me about Mortal Steel.
+
+751
+00:53:49,740 --> 00:53:53,860
+Speaker 1: So that is the show I'm currently
+airing, right? This is the first full season. So
+
+752
+00:53:53,920 --> 00:53:59,460
+Speaker 1: for seven-ish months, all I did was
+write, produce stories for the Monopause
+
+753
+00:53:59,520 --> 00:54:05,040
+Speaker 1: podcast feed. Like I said, I was
+obsessed with quantity and progress. That's all
+
+754
+00:54:05,100 --> 00:54:08,900
+Speaker 1: that was. So my theory there, I had a
+second goal. My theory was
+
+755
+00:54:10,900 --> 00:54:16,420
+Speaker 1: I am building a backlog of content.
+Like I'm building the first two episodes of long
+
+756
+00:54:16,520 --> 00:54:22,420
+Speaker 1: form stories so that when I launch
+this thing, I'm not just going, can I write a
+new
+
+757
+00:54:22,480 --> 00:54:27,180
+Speaker 1: story? Can I keep them excited? Like
+I have this huge catalog of potential, right?
+
+758
+00:54:27,420 --> 00:54:31,160
+Speaker 1: Now I'm going to have to rework all
+of them, right? They're not ready. Mortal Steel
+
+759
+00:54:31,200 --> 00:54:35,380
+Speaker 1: was just one of the 12 stories that I
+released. So I basically, when I was ready to
+
+760
+00:54:35,420 --> 00:54:38,880
+Speaker 1: launch the first season, I'm like,
+okay, I'll pick from these 12 stories. Which one
+
+761
+00:54:38,920 --> 00:54:43,040
+Speaker 1: of these has the most potential? Not
+even that. For the very first one, I said to
+
+762
+00:54:43,080 --> 00:54:47,800
+Speaker 1: myself, which one will teach me the
+most? Which one am I the most excited about?
+
+763
+00:54:48,460 --> 00:54:51,820
+Speaker 1: Forget what anyone else wants. What
+am I the most excited about? Because if I'm
+
+764
+00:54:51,860 --> 00:54:56,704
+Speaker 1: excited about it, it's going to come
+through in my work. If I don't care, even if
+
+765
+00:54:56,724 --> 00:55:00,124
+Speaker 1: it's the best story I think to launch
+with from a business perspective, or even for
+
+766
+00:55:00,164 --> 00:55:05,504
+Speaker 1: reader interest, I knew that if I
+loved it, it would be the best one.
+
+767
+00:55:06,284 --> 00:55:10,324
+Speaker 1: Uh, which is kind of
+counterintuitive. So Mortal Steel was that one.
+Uh, it's based
+
+768
+00:55:10,364 --> 00:55:15,544
+Speaker 1: on a short story I wrote a long time
+ago. It is a story, the tagline is, "Pastor
+
+769
+00:55:15,644 --> 00:55:19,884
+Speaker 1: Ethan Cutter, cyborg and ordained
+priest, has come to bring a little faith and
+
+770
+00:55:19,964 --> 00:55:24,684
+Speaker 1: justice to old Los Angeles. The ruins
+of old Los Angeles." And that's the tagline.
+
+771
+00:55:25,484 --> 00:55:29,884
+Speaker 1: So you kinda get it. It's been
+described as campy, and I don't pretend that
+it's the
+
+772
+00:55:29,924 --> 00:55:33,064
+Speaker 1: best thing ever. It's n- again, it's
+not about that. You already know what I value
+
+773
+00:55:33,104 --> 00:55:38,844
+Speaker 1: myself for. I value myself for making
+things as fast as possible and improving.
+
+774
+00:55:39,424 --> 00:55:40,304
+Speaker 3: It's not campy.
+
+775
+00:55:40,884 --> 00:55:41,444
+Speaker 1: Okay. [laughs]
+
+776
+00:55:41,464 --> 00:55:42,624
+Speaker 3: It's cool. Okay?
+
+777
+00:55:43,264 --> 00:55:44,464
+Speaker 1: It all depends on your perspective.
+
+778
+00:55:44,524 --> 00:55:46,784
+Speaker 3: Well, I mean, nothing is for
+everybody.
+
+779
+00:55:47,104 --> 00:55:52,544
+Speaker 1: Right. If you, if you think Die Hard
+is stupid, this is not for you. If you think
+
+780
+00:55:52,584 --> 00:55:57,264
+Speaker 1: Die Hard is awesome, this is for you,
+right? That's it. Like, I knew my audience,
+
+781
+00:55:57,364 --> 00:56:01,564
+Speaker 1: right? And that's what it is. If you
+think action movies are dumb, then this isn't
+
+782
+00:56:01,604 --> 00:56:05,024
+Speaker 1: for you. It's not just an action
+movie. I mean, it has real characters and real
+
+783
+00:56:05,064 --> 00:56:10,224
+Speaker 1: things are happening, and I treat it
+with... I give it both a head nod to I know
+
+784
+00:56:10,284 --> 00:56:15,024
+Speaker 1: this is dumb, but it's also cool.
+And, but also, like, hey, there's a real story
+
+785
+00:56:15,064 --> 00:56:19,584
+Speaker 1: here too. Uh, because, you know, you
+have to actually care about the characters. Um,
+
+786
+00:56:20,384 --> 00:56:25,884
+Speaker 1: so yeah, that's the story. Um, I,
+what I'm most excited about is not my story or
+
+787
+00:56:25,924 --> 00:56:29,524
+Speaker 1: what I wrote, it's the people who
+brought it to life. So there's a team of 10
+voice
+
+788
+00:56:29,624 --> 00:56:34,964
+Speaker 1: actors. They're incredible. Uh, they
+really are, and these people are essentially
+
+789
+00:56:35,024 --> 00:56:38,704
+Speaker 1: volunteers, right? You know, they
+were paid a pittance more or less, and the
+promise
+
+790
+00:56:38,784 --> 00:56:41,464
+Speaker 1: of, "Ah, I promise there will be more
+stories [laughs] in the future. We're gonna
+
+791
+00:56:41,504 --> 00:56:46,164
+Speaker 1: make money eventually." Right? They
+were paid mostly on promises. Um, and they
+
+792
+00:56:46,224 --> 00:56:51,584
+Speaker 1: killed it. They really did. Um, it is
+incredible what you can get out of people who
+
+793
+00:56:51,624 --> 00:56:55,544
+Speaker 1: are motivated to help you with your
+cause. Not even because it's your cause. It has
+
+794
+00:56:55,684 --> 00:57:01,104
+Speaker 1: nothing to do with me. They are
+motivated to work on something cool, and that is
+
+795
+00:57:01,124 --> 00:57:06,784
+Speaker 1: what I focused on for this
+production, is how can I make this seem so cool
+that
+
+796
+00:57:06,864 --> 00:57:11,184
+Speaker 1: people would be dying to be a part of
+it? And that's what I did, and that's what
+
+797
+00:57:11,244 --> 00:57:13,144
+Speaker 1: worked. It had nothing to do with me.
+
+798
+00:57:13,644 --> 00:57:16,324
+Speaker 3: What was it like working with voice
+actors for the first time?
+
+799
+00:57:16,784 --> 00:57:22,424
+Speaker 1: It was initially terrifying. Uh, it
+is an entirely different skill set, learning how
+
+800
+00:57:22,444 --> 00:57:24,544
+Speaker 1: to direct people in a way that is
+both
+
+801
+00:57:26,324 --> 00:57:29,804
+Speaker 1: constructive. So all you theater
+people out here, you already get it. Like, you
+
+802
+00:57:29,824 --> 00:57:33,744
+Speaker 1: don't need... [laughs] You're not
+learning anything. Uh, but in a way that makes
+the
+
+803
+00:57:33,784 --> 00:57:38,784
+Speaker 1: performance better, and what your
+story needs most importantly. Better is like,
+you
+
+804
+00:57:38,824 --> 00:57:43,884
+Speaker 1: know, what does that mean? It fit...
+I tell every voice actor now at this point,
+
+805
+00:57:44,144 --> 00:57:49,064
+Speaker 1: there is a range for this character.
+There is a, a range of space where your
+
+806
+00:57:49,104 --> 00:57:53,904
+Speaker 1: performance makes sense narratively.
+Now, there's a lot of points in that space. You
+
+807
+00:57:53,924 --> 00:57:56,624
+Speaker 1: can lean on this part of the
+character, you can lean on that part of the
+character.
+
+808
+00:57:56,664 --> 00:58:00,224
+Speaker 1: You can come up with your own thing.
+That's fine, too. There's spaces I did not
+
+809
+00:58:00,284 --> 00:58:05,944
+Speaker 1: imagine for this character to behave.
+But it needs to fit within the narrative space
+
+810
+00:58:05,984 --> 00:58:09,544
+Speaker 1: of this character. There are ways to
+perform this character that are completely
+
+811
+00:58:09,604 --> 00:58:15,144
+Speaker 1: contrary to what is necessate-
+necessary for the plot and for the story and for
+
+812
+00:58:15,164 --> 00:58:19,984
+Speaker 1: their interactions with other
+characters. So you have to be in that space. It
+is my
+
+813
+00:58:20,044 --> 00:58:24,564
+Speaker 1: job to get you into that space,
+right? And to get the best out of you, right?
+Uh,
+
+814
+00:58:24,704 --> 00:58:29,864
+Speaker 1: there are better points in that space
+as well. My job is to make it so that you fit
+
+815
+00:58:29,924 --> 00:58:34,784
+Speaker 1: the character, your voice fits the
+character. Beyond that, the rest is your art.
+I'm
+
+816
+00:58:34,804 --> 00:58:38,904
+Speaker 1: not gonna micromanage you. I'm not
+gonna tell you how to do anything. Beyond, it
+
+817
+00:58:38,964 --> 00:58:42,964
+Speaker 1: needs to fit the story. And if it
+fits the story in a totally unexpected way, and
+by
+
+818
+00:58:43,004 --> 00:58:48,464
+Speaker 1: the way, it, multiple, even the main
+character, is totally unlike what I expected.
+
+819
+00:58:48,524 --> 00:58:53,944
+Speaker 1: Totally unlike how I wrote him. But
+it's awesome. And that's what matters. It's
+
+820
+00:58:54,044 --> 00:59:00,004
+Speaker 1: awesome. I didn't say, "You need to
+sound like this. You need to do this." In fact,
+
+821
+00:59:00,104 --> 00:59:04,144
+Speaker 1: all I did is I always say, "Hit me
+with your intuition first. I don't wanna tell
+you
+
+822
+00:59:04,164 --> 00:59:07,844
+Speaker 1: what it is. Let me tell you who they
+are, who they... where this character comes
+
+823
+00:59:07,864 --> 00:59:11,224
+Speaker 1: from, their purpose in the story,
+because you need to know what my end goal for
+the
+
+824
+00:59:11,264 --> 00:59:16,383
+Speaker 1: character is. As long as you get
+there, the rest is your art. I do not care." So
+
+825
+00:59:16,424 --> 00:59:21,544
+Speaker 1: that's my directing style now. I was
+absolutely terrified [laughs] and I probably
+
+826
+00:59:21,584 --> 00:59:26,044
+Speaker 1: made a lot of stupid decisions early
+on, where I was unwilling to push them into
+
+827
+00:59:26,084 --> 00:59:31,644
+Speaker 1: that space because I was, uh, not
+confident yet in my ability to do that, right?
+
+828
+00:59:31,744 --> 00:59:35,024
+Speaker 1: Because they know so much more about
+me, about this than me. They're actors, right?
+
+829
+00:59:35,624 --> 00:59:39,144
+Speaker 1: Uh, some of them are new, some of
+them are not new. They know what they're doing.
+
+830
+00:59:39,624 --> 00:59:43,504
+Speaker 1: And I w- this is, debut director. I
+do not know what I was doing. But when I showed
+
+831
+00:59:43,584 --> 00:59:48,784
+Speaker 1: up, and I got this advice from you,
+Tony. When I showed up, I opened with, "I have
+
+832
+00:59:48,884 --> 00:59:54,384
+Speaker 1: no idea what I am doing. Please give
+me feedback. That said, here's what I need you
+
+833
+00:59:54,424 --> 00:59:59,704
+Speaker 1: to do." [laughs] Right? I, I just
+flat out... I opened with, "I'm not pretending
+to
+
+834
+00:59:59,724 --> 01:00:04,484
+Speaker 1: be an expert here, so if I'm doing
+something dumb, tell me. Otherwise, this is what
+
+835
+01:00:04,584 --> 01:00:09,804
+Speaker 1: I need." Uh, and I think that made
+all the difference, and they were totally
+willing
+
+836
+01:00:10,384 --> 01:00:16,044
+Speaker 1: to correct me or to insist, um, and
+it made a big difference. We were teammates
+
+837
+01:00:16,104 --> 01:00:17,344
+Speaker 1: instead of a top-down thing.
+
+838
+01:00:17,764 --> 01:00:18,044
+Speaker 3: Mm-hmm.
+
+839
+01:00:18,184 --> 01:00:20,584
+Speaker 1: So now it's old hat, and now I can do
+it no problem.
+
+840
+01:00:21,884 --> 01:00:24,184
+Speaker 3: Awesome. How did the mechanics of it
+work, though?
+
+841
+01:00:24,904 --> 01:00:25,684
+Speaker 1: So for the recording?
+
+842
+01:00:26,364 --> 01:00:27,804
+Speaker 3: Yeah. So, um-
+
+843
+01:00:28,364 --> 01:00:28,404
+Speaker 1: Yeah
+
+844
+01:00:28,404 --> 01:00:31,844
+Speaker 3: ... did you get all the actors all in
+the same room, or did, you know?
+
+845
+01:00:32,224 --> 01:00:37,784
+Speaker 1: So I'm very open about this. Uh, the
+cost of producing Mortal Steel was $1,400,
+
+846
+01:00:38,364 --> 01:00:41,724
+Speaker 1: uh, approximately, right? Plus or
+minus some plugins and other software I'm
+
+847
+01:00:41,764 --> 01:00:42,104
+Speaker 1: forgetting.
+
+848
+01:00:42,184 --> 01:00:42,784
+Speaker 3: Not bad.
+
+849
+01:00:43,124 --> 01:00:43,184
+Speaker 1: Uh-
+
+850
+01:00:43,244 --> 01:00:44,404
+Speaker 3: How, how many episodes?
+
+851
+01:00:45,124 --> 01:00:45,484
+Speaker 1: 12.
+
+852
+01:00:45,984 --> 01:00:46,184
+Speaker 3: Okay.
+
+853
+01:00:46,384 --> 01:00:47,284
+Speaker 1: 25-minute episodes-
+
+854
+01:00:47,344 --> 01:00:47,384
+Speaker 3: Not bad
+
+855
+01:00:47,424 --> 01:00:50,944
+Speaker 1: ... with, you know, full design,
+sound design, music. Now, obviously I'm doing
+all
+
+856
+01:00:50,984 --> 01:00:56,924
+Speaker 1: the post-production myself beyond the
+art and the, the music. But- Still,
+
+857
+01:00:57,424 --> 01:01:01,124
+Speaker 1: 1,400 bucks ain't too shabby, and I
+know the next one, I know it could be cheaper
+
+858
+01:01:01,164 --> 01:01:02,424
+Speaker 1: too. I know how to make it cheaper.
+
+859
+01:01:02,824 --> 01:01:02,924
+Speaker 6: Mm-hmm.
+
+860
+01:01:02,964 --> 01:01:03,624
+Speaker 1: I'm not going to.
+
+861
+01:01:04,304 --> 01:01:06,324
+Speaker 6: But how did the actual mechanics of
+the-
+
+862
+01:01:06,564 --> 01:01:06,964
+Speaker 1: So the recording-
+
+863
+01:01:06,964 --> 01:01:08,504
+Speaker 6: ... uh, working with the actors go?
+
+864
+01:01:08,684 --> 01:01:13,844
+Speaker 1: Yeah, this is related. So we are
+recording asynchronously. What happens is I
+deliver
+
+865
+01:01:13,884 --> 01:01:18,304
+Speaker 1: the script, right? So I format the
+script. I give them the exact lines. They have a
+
+866
+01:01:18,424 --> 01:01:21,704
+Speaker 1: spreadsheet of all their lines, first
+of all, that's totally separate, just so they
+
+867
+01:01:21,744 --> 01:01:26,744
+Speaker 1: don't miss them. All the lines are
+individually labeled with numbers, IDs, in the
+
+868
+01:01:26,784 --> 01:01:30,224
+Speaker 1: order of appearance. Their character
+names are associated with them. So their job,
+
+869
+01:01:30,924 --> 01:01:35,304
+Speaker 1: say you have 12 lines in episode one,
+right? So we record it in four episode blocks
+
+870
+01:01:35,344 --> 01:01:40,344
+Speaker 1: at a time. All right, due date is
+next Wednesday. I want your four episodes worth
+of
+
+871
+01:01:40,404 --> 01:01:45,124
+Speaker 1: lines back in this Google Drive. So
+here's your folder. Here's, here's all the
+
+872
+01:01:45,144 --> 01:01:48,224
+Speaker 1: information about how you need to
+record and what the sound format is and all
+this.
+
+873
+01:01:49,144 --> 01:01:53,284
+Speaker 1: Here are the numbers of your lines
+and the line associated with it in
+parentheticals
+
+874
+01:01:53,384 --> 01:01:58,644
+Speaker 1: if it matters, right? You go off and
+do it, right? And you have the instruction that
+
+875
+01:01:58,744 --> 01:02:03,364
+Speaker 1: if you are in dialogue with another
+character, you listen to the dialogue line
+
+876
+01:02:03,424 --> 01:02:08,324
+Speaker 1: before yours if your, if their line
+is already in. If their line is not in, you get
+
+877
+01:02:08,344 --> 01:02:12,104
+Speaker 1: to set the pace for the dia- for the
+conversation, right? You record all your lines
+
+878
+01:02:12,184 --> 01:02:16,264
+Speaker 1: as if there were a phantom there
+talking to you, and then they listen to yours to
+
+879
+01:02:16,324 --> 01:02:21,404
+Speaker 1: make it flow. And it is shocking how
+good it is. Now, there are times when it comes
+
+880
+01:02:21,444 --> 01:02:21,804
+Speaker 1: off kind of flat.
+
+881
+01:02:21,864 --> 01:02:24,764
+Speaker 6: Oh, so you gave the recording... So
+if two people are in conversation-
+
+882
+01:02:24,964 --> 01:02:25,184
+Speaker 1: Mm-hmm
+
+883
+01:02:25,184 --> 01:02:30,864
+Speaker 6: ... person number one records their
+lines with gaps for c- for the other person's
+
+884
+01:02:30,904 --> 01:02:35,804
+Speaker 6: dialogue, and then you give that
+whole recording to the second actor?
+
+885
+01:02:35,964 --> 01:02:36,204
+Speaker 1: No, no, no.
+
+886
+01:02:36,204 --> 01:02:37,604
+Speaker 6: And the second actor responds to it?
+
+887
+01:02:37,604 --> 01:02:41,204
+Speaker 1: Even better than that. That's not
+streamlined enough. So what happens is they are
+
+888
+01:02:41,244 --> 01:02:47,044
+Speaker 1: responsible for chopping up their own
+clips. So one underscore 137 is this line.
+
+889
+01:02:47,604 --> 01:02:53,544
+Speaker 1: I want that clip, one underscore
+137.wav, in my folder by this due date. And
+
+890
+01:02:53,664 --> 01:02:57,644
+Speaker 1: I have all of these individual Lego
+pieces that I can move around to change the
+
+891
+01:02:57,684 --> 01:03:02,944
+Speaker 1: timing of the dialogue. It's not one
+track. I asked, I ha- made an e- extra ask. You
+
+892
+01:03:03,004 --> 01:03:08,264
+Speaker 1: chop it up for me and organize it so
+that I can just assemble the pieces later. Uh,
+
+893
+01:03:08,384 --> 01:03:12,104
+Speaker 1: it's even better than that. Um, so
+yeah, they listen to the other dialogue clips
+
+894
+01:03:12,164 --> 01:03:15,804
+Speaker 1: before them so that if you pressed
+play, going all the way down, you would hear the
+
+895
+01:03:15,864 --> 01:03:21,144
+Speaker 1: episode, minus narration. So the
+whole show was recorded with 11 people talking
+to
+
+896
+01:03:21,164 --> 01:03:25,024
+Speaker 1: themselves in a closet, you know, or
+wherever their recording space is. No person
+
+897
+01:03:25,084 --> 01:03:26,164
+Speaker 1: talks to themselves live.
+
+898
+01:03:26,264 --> 01:03:28,124
+Speaker 6: Wow, so they were never in the same
+room.
+
+899
+01:03:28,404 --> 01:03:34,004
+Speaker 1: Nope. Not once did we ever talk
+together. And I mean, I challenge you to listen
+to
+
+900
+01:03:34,044 --> 01:03:38,324
+Speaker 1: it and see if you can tell. There are
+some times when it falls a little flat. It's,
+
+901
+01:03:38,584 --> 01:03:40,924
+Speaker 1: you know, comes with the territory.
+But that kept costs down.
+
+902
+01:03:41,264 --> 01:03:42,624
+Speaker 6: No, I thought it was great, you know?
+
+903
+01:03:42,684 --> 01:03:46,484
+Speaker 1: Yeah. So it works. Uh, and it's very
+important because it kept, from a business
+
+904
+01:03:46,544 --> 01:03:49,824
+Speaker 1: perspective, 'cause it keeps costs
+down. All of these people have day jobs, you
+
+905
+01:03:49,864 --> 01:03:53,964
+Speaker 1: know. They work in bars. They work
+retail. They work customer support. And some of
+
+906
+01:03:54,004 --> 01:03:59,584
+Speaker 1: them work overtime, right? They're
+busy, right? This is their passion. So
+
+907
+01:04:00,244 --> 01:04:03,844
+Speaker 1: when they're coming home at 11:00 and
+they have to get their voice lines in, the
+
+908
+01:04:03,924 --> 01:04:09,324
+Speaker 1: last thing you want to tell them is,
+"Hey, you have to be here at this time for two
+
+909
+01:04:09,424 --> 01:04:14,204
+Speaker 1: hours to record the two lines that
+you have in this episode." It's an ask too much.
+
+910
+01:04:14,664 --> 01:04:18,404
+Speaker 1: Right? I could do it, but then I
+would also need to pay them thousands of
+dollars,
+
+911
+01:04:18,764 --> 01:04:21,904
+Speaker 1: because it's no longer a passion
+thing. It's like a, you know, they're ma-
+they're
+
+912
+01:04:21,944 --> 01:04:26,544
+Speaker 1: here for a job. Um, which is fine,
+and I want to get to that point where I can do
+
+913
+01:04:26,624 --> 01:04:31,324
+Speaker 1: that. But when you're starting small
+and cheap, you have to get creative about
+
+914
+01:04:31,404 --> 01:04:35,184
+Speaker 1: solving the problems to get the cost
+down. So for reference, and I think I told you
+
+915
+01:04:35,224 --> 01:04:39,464
+Speaker 1: this, Tony, I read an article
+recently that described how to make an audio
+fiction
+
+916
+01:04:39,504 --> 01:04:45,384
+Speaker 1: podcast. And part of it, the last
+third, is talking about budget. And so they
+
+917
+01:04:45,444 --> 01:04:48,684
+Speaker 1: go through this whole step-by-step
+about how they produced their own show and what
+
+918
+01:04:48,704 --> 01:04:54,104
+Speaker 1: they did. Their budget, actual co-
+dollars spent, was $75,000.
+
+919
+01:04:54,804 --> 01:04:59,384
+Speaker 1: And they told you it could not be
+done for less than 50. And it c- should have
+taken
+
+920
+01:04:59,444 --> 01:05:04,924
+Speaker 1: them $125,000, but they were so proud
+of themselves for saving money. And it
+
+921
+01:05:04,984 --> 01:05:09,224
+Speaker 1: blew my mind. Now, I've listened to
+their show, and not to throw shade on other
+
+922
+01:05:09,284 --> 01:05:13,784
+Speaker 1: artists, it's not about that. This is
+about the business of what they're doing. For
+
+923
+01:05:13,824 --> 01:05:19,624
+Speaker 1: the output they got, just objectively
+speaking, it was worse than where I am now.
+
+924
+01:05:20,584 --> 01:05:25,264
+Speaker 1: And that's, it's sad. It's, it's not
+a good thing. This is not like, "Oh yeah, I'm
+
+925
+01:05:25,304 --> 01:05:29,724
+Speaker 1: flexing on you. I figured something
+out." This is sad because it deters other people
+
+926
+01:05:29,764 --> 01:05:35,404
+Speaker 1: from thinking they can make
+incredible things on a budget. And you can solve
+so much
+
+927
+01:05:35,504 --> 01:05:40,644
+Speaker 1: if you are willing to get creative
+and approach a problem with a solution mindset
+
+928
+01:05:40,724 --> 01:05:45,524
+Speaker 1: instead of giving up and paying
+people to solve it for you. You do not need an
+
+929
+01:05:45,604 --> 01:05:51,104
+Speaker 1: expert for everything. You can be
+that expert in short order. It's been, what,
+eight
+
+930
+01:05:51,164 --> 01:05:55,884
+Speaker 1: months? And I mean, it's at least
+convincing, right? I don't sound like a master
+in
+
+931
+01:05:55,944 --> 01:06:00,864
+Speaker 1: any of the things I'm doing, but I
+sound good enough to sell, or nearly so.
+
+932
+01:06:02,064 --> 01:06:03,084
+Speaker 1: And isn't that the bar?
+
+933
+01:06:03,184 --> 01:06:03,224
+Speaker 6: And you're learning.
+
+934
+01:06:03,224 --> 01:06:04,664
+Speaker 1: If that's not the bar, I don't know
+what is.
+
+935
+01:06:05,424 --> 01:06:09,444
+Speaker 6: And you're learning. You're striving
+to get better, but you understand getting
+
+936
+01:06:09,484 --> 01:06:10,484
+Speaker 6: better is a process.
+
+937
+01:06:10,724 --> 01:06:15,084
+Speaker 1: Yeah, you don't start ready, and you
+don't need to start with $100,000 to make
+
+938
+01:06:15,124 --> 01:06:20,544
+Speaker 1: something incredible. Just start
+doing it, and you will learn very quickly
+whether
+
+939
+01:06:20,604 --> 01:06:26,544
+Speaker 1: you need a real expert or not. And
+for almost everything, you do not. And
+
+940
+01:06:26,584 --> 01:06:30,084
+Speaker 1: when you do, at least you will walk
+into it knowing, like, okay, yeah, the experts
+
+941
+01:06:30,124 --> 01:06:34,684
+Speaker 1: really are worth the money on this
+one. Like, uh, yep, for sure. Like the guitar
+
+942
+01:06:34,784 --> 01:06:38,624
+Speaker 1: player I got for the intro and outro,
+I'm not gonna learn how to play guitar. I'm
+
+943
+01:06:38,644 --> 01:06:42,464
+Speaker 1: not gonna learn how to shred. Like
+[laughs] it's not worth it. I paid him $200 on
+
+944
+01:06:42,564 --> 01:06:48,264
+Speaker 1: Fiverr, and he was happy to do it for
+me in two days, right? They spent $3,500 on
+
+945
+01:06:48,284 --> 01:06:51,244
+Speaker 1: their composing and producing, 'cause
+they hired a professional composer and
+
+946
+01:06:51,284 --> 01:06:55,304
+Speaker 1: producer who was set up to charge
+that much. They did totally custom work. They
+
+947
+01:06:55,324 --> 01:06:58,784
+Speaker 1: didn't give them the freedom. They
+went top-down on everything. "This is exactly
+
+948
+01:06:58,804 --> 01:07:02,904
+Speaker 1: what I need." They went through a ton
+of takes. I trusted an expert to give me
+
+949
+01:07:02,944 --> 01:07:07,796
+Speaker 1: something good on their timeline. So
+by being way less needy about what I got in the
+
+950
+01:07:07,876 --> 01:07:12,116
+Speaker 1: end, "Give me something good. I don't
+care what it is. This is roughly what I want.
+
+951
+01:07:13,056 --> 01:07:16,796
+Speaker 1: Give it to me. Let's see what you can
+do." And for 200 bucks, this guy was able to
+
+952
+01:07:16,836 --> 01:07:19,836
+Speaker 1: do it, no problem, in his free time.
+Probably took, took him a couple hours. He was
+
+953
+01:07:19,876 --> 01:07:23,136
+Speaker 1: happy. I was happy. Nobody got hurt
+in the exchange.
+
+954
+01:07:23,796 --> 01:07:24,776
+Speaker 6: Hmm. I like that.
+
+955
+01:07:24,956 --> 01:07:24,957
+Speaker 1: Yes.
+
+956
+01:07:24,976 --> 01:07:30,316
+Speaker 6: Because he's the one composing the
+music, you wanted him to be moved by the story.
+I
+
+957
+01:07:30,356 --> 01:07:34,116
+Speaker 6: will tell you that I charge a lot
+more than that to do a show.
+
+958
+01:07:34,116 --> 01:07:34,136
+Speaker 1: Mm-hmm.
+
+959
+01:07:34,136 --> 01:07:34,796
+Speaker 6: You know?
+
+960
+01:07:34,816 --> 01:07:36,536
+Speaker 1: And there's nothing wrong with that.
+I'm not disparaging-
+
+961
+01:07:36,556 --> 01:07:37,556
+Speaker 6: There's nothing wrong with that
+
+962
+01:07:37,596 --> 01:07:38,536
+Speaker 1: ... paying professionals.
+
+963
+01:07:38,776 --> 01:07:41,896
+Speaker 6: But, yeah, you're talking about the
+level that you're at right now and your goals.
+
+964
+01:07:42,176 --> 01:07:42,436
+Speaker 1: Yeah.
+
+965
+01:07:42,556 --> 01:07:48,356
+Speaker 6: Um, I used to, when my daughter was
+growing up, I used to tell her, "Don't worry so
+
+966
+01:07:48,396 --> 01:07:52,796
+Speaker 6: much about school." That's not to say
+school isn't important, but it's to say you
+
+967
+01:07:52,856 --> 01:07:55,836
+Speaker 6: don't go to school because you
+already know the stuff.
+
+968
+01:07:55,856 --> 01:07:56,036
+Speaker 1: Yeah.
+
+969
+01:07:56,216 --> 01:08:01,916
+Speaker 6: You're there to learn what you don't
+know, and that's kind of beautiful to me. Your
+
+970
+01:08:01,976 --> 01:08:05,876
+Speaker 6: goal was to produce these things
+because you're going to school.
+
+971
+01:08:06,096 --> 01:08:06,176
+Speaker 1: Yeah.
+
+972
+01:08:06,236 --> 01:08:09,776
+Speaker 6: You are teaching yourself how to be a
+great producer.
+
+973
+01:08:10,056 --> 01:08:10,316
+Speaker 1: Exactly.
+
+974
+01:08:10,336 --> 01:08:15,776
+Speaker 6: You know, and one of the reasons, uh,
+one great reason why I really wanted to talk
+
+975
+01:08:15,836 --> 01:08:21,496
+Speaker 6: to you about your process and all of
+this is because if you think of the arch
+
+976
+01:08:22,296 --> 01:08:27,636
+Speaker 6: of... No, not, not an arc because an
+arc implies an up and a down. Let's say a
+
+977
+01:08:27,736 --> 01:08:33,676
+Speaker 6: curve. There's a tipping point in
+that curve. After the tipping point, there are
+
+978
+01:08:33,736 --> 01:08:39,636
+Speaker 6: people after the tipping point, Josh
+Whedon, um, Aaron
+
+979
+01:08:39,776 --> 01:08:43,876
+Speaker 6: Sorkin, you know, uh, big Broadway
+theaters.
+
+980
+01:08:44,116 --> 01:08:44,316
+Speaker 1: Mm-hmm.
+
+981
+01:08:44,456 --> 01:08:50,076
+Speaker 6: You are just before the curve. You
+are going around that curve-
+
+982
+01:08:50,216 --> 01:08:50,536
+Speaker 1: Mm-hmm
+
+983
+01:08:50,536 --> 01:08:56,336
+Speaker 6: ... and I caught you just before the
+curve, and the story where you're at right now
+
+984
+01:08:56,416 --> 01:09:02,296
+Speaker 6: is extremely intriguing because there
+are other people who are in the same
+
+985
+01:09:02,336 --> 01:09:07,076
+Speaker 6: place as you, just before the tipping
+point, just before the curve-
+
+986
+01:09:07,396 --> 01:09:07,456
+Speaker 1: Yeah
+
+987
+01:09:07,456 --> 01:09:08,156
+Speaker 6: ... and they give up.
+
+988
+01:09:08,436 --> 01:09:11,476
+Speaker 1: "Can I do this? Can I do this? Can I
+do this?" And then the wheels fall off.
+
+989
+01:09:11,476 --> 01:09:12,856
+Speaker 1: [laughs]
+
+990
+01:09:12,916 --> 01:09:16,856
+Speaker 6: Yeah, and instead of... But it, but
+here's the thing. Here's the difference, and
+
+991
+01:09:16,896 --> 01:09:21,556
+Speaker 6: here's what I love about you. If the
+wheels fall off, like you said about the
+
+992
+01:09:21,616 --> 01:09:22,916
+Speaker 6: literary agents-
+
+993
+01:09:23,276 --> 01:09:23,696
+Speaker 1: Mm-hmm
+
+994
+01:09:23,716 --> 01:09:28,476
+Speaker 6: ... the, the people you spoke to, the
+difference is when the wheels fall off, you
+
+995
+01:09:29,016 --> 01:09:33,836
+Speaker 6: say, "Okay, why did they fall off?
+Let me learn from that and put it back... Let me
+
+996
+01:09:33,876 --> 01:09:36,076
+Speaker 6: figure out how to put the wheels back
+on." And maybe the wheels-
+
+997
+01:09:36,116 --> 01:09:36,136
+Speaker 1: Yeah
+
+998
+01:09:36,136 --> 01:09:37,756
+Speaker 6: ... don't come on exactly the same
+way.
+
+999
+01:09:37,776 --> 01:09:37,777
+Speaker 1: Yeah. Yes
+
+1000
+01:09:37,776 --> 01:09:40,296
+Speaker 6: ... maybe you have to take a
+different path, right?
+
+1001
+01:09:40,336 --> 01:09:41,036
+Speaker 1: You're exactly right.
+
+1002
+01:09:41,056 --> 01:09:42,316
+Speaker 6: And that's the difference.
+
+1003
+01:09:42,956 --> 01:09:47,916
+Speaker 1: It can all be distilled down to this
+one reaction. When you get punched in the face,
+
+1004
+01:09:48,896 --> 01:09:53,756
+Speaker 1: do you fall down and think to
+yourself, "I'm never gonna do that again. That
+hurt,"
+
+1005
+01:09:54,296 --> 01:09:58,616
+Speaker 1: or do you think, "I need to get
+better at avoiding getting punched in the face"?
+
+1006
+01:09:58,656 --> 01:09:59,836
+Speaker 6: [laughs]
+
+1007
+01:09:59,896 --> 01:10:03,396
+Speaker 1: Like, that is it. Everything... Now,
+there's a lot of ways to change a reaction. We
+
+1008
+01:10:03,436 --> 01:10:06,996
+Speaker 1: talked about all that, surrounding
+yourself with people who can get you back up and
+
+1009
+01:10:07,056 --> 01:10:11,196
+Speaker 1: get you better at dodging punches,
+right? But the, all of it is in a solution
+
+1010
+01:10:11,256 --> 01:10:16,696
+Speaker 1: mindset. When I get hurt, do I think,
+"I'm gonna do less of that. That hurt," or do
+
+1011
+01:10:16,736 --> 01:10:22,056
+Speaker 1: you think, "I can do this. I just
+need to figure out how to not get hurt again.
+
+1012
+01:10:22,436 --> 01:10:26,236
+Speaker 1: Let's get better." Like, how do I get
+around this obstacle? And you have... And this
+
+1013
+01:10:26,296 --> 01:10:30,016
+Speaker 1: isn't something that just happens to
+you, flip a switch one time and you're done. A
+
+1014
+01:10:30,076 --> 01:10:34,396
+Speaker 1: solution mindset is something you
+will continually, continually, continually have
+to
+
+1015
+01:10:34,436 --> 01:10:40,396
+Speaker 1: pound into yourself. When you get
+hit, you have to be thinking, "How do I get
+around
+
+1016
+01:10:40,456 --> 01:10:44,756
+Speaker 1: this next time?" And it is very hard
+because your initial reaction, especially if
+
+1017
+01:10:44,776 --> 01:10:48,456
+Speaker 1: this is new to you, is to think, "I
+never wanna do this again. I just got told no on
+
+1018
+01:10:48,496 --> 01:10:53,256
+Speaker 1: that pitch. Well, screw that. I'm
+done with this." You may not say it in as many
+
+1019
+01:10:53,316 --> 01:10:57,276
+Speaker 1: words. You may just think, "I don't
+wanna do this anymore. That felt bad. Let's do
+
+1020
+01:10:57,296 --> 01:10:58,136
+Speaker 1: something else instead."
+
+1021
+01:10:58,756 --> 01:10:58,916
+Speaker 6: Cool.
+
+1022
+01:10:58,916 --> 01:11:03,416
+Speaker 1: But instead, you think, "Well, that
+hurt. There's probably something to learn here."
+
+1023
+01:11:03,456 --> 01:11:07,116
+Speaker 1: And even if you're not ready to hear
+that right away, the next day when you wake up,
+
+1024
+01:11:07,156 --> 01:11:12,296
+Speaker 1: you think, "Okay, what did I learn?
+How can I move forward?" It doesn't feel good.
+
+1025
+01:11:12,596 --> 01:11:18,056
+Speaker 1: It never feels good to get punched,
+but [laughs] if you can continually improve,
+
+1026
+01:11:19,096 --> 01:11:22,376
+Speaker 1: it'll happen less and less and to the
+point where you don't even feel it anymore.
+
+1027
+01:11:22,436 --> 01:11:27,036
+Speaker 1: You know what's crazy, Tony? What's
+really crazy is one day you start waking up
+
+1028
+01:11:27,075 --> 01:11:30,376
+Speaker 1: hoping you get punched because it
+means you're learning something.
+
+1029
+01:11:31,096 --> 01:11:31,116
+Speaker 6: Mm-hmm.
+
+1030
+01:11:31,156 --> 01:11:35,156
+Speaker 1: It means every time you do, you start
+craving it. You s- That's when you know,
+
+1031
+01:11:35,436 --> 01:11:39,796
+Speaker 1: "Yeah, I'm gonna make it." And I
+haven't made it over the bend yet. I'm close,
+but I
+
+1032
+01:11:39,876 --> 01:11:45,276
+Speaker 1: feel like when you start craving the
+knowledge, when you start wondering how you're
+
+1033
+01:11:45,296 --> 01:11:49,716
+Speaker 1: wrong and actively seeking out, "I
+bet I'm wrong about this. I bet I'm wrong about
+
+1034
+01:11:49,756 --> 01:11:53,136
+Speaker 1: this. How can I find out if I'm wrong
+about this?" Now, you might not be, and you
+
+1035
+01:11:53,176 --> 01:11:56,236
+Speaker 1: might be right, and for once you're
+like, "Yay, I did it right. On to the next
+
+1036
+01:11:56,276 --> 01:12:01,176
+Speaker 1: thing." But if you're wrong, like I
+was yesterday, I sought that out because I
+
+1037
+01:12:01,296 --> 01:12:07,216
+Speaker 1: craved it. I wanted to know how I was
+going to fail, and I knew that when you
+
+1038
+01:12:07,316 --> 01:12:13,276
+Speaker 1: start wanting to know how you're bad,
+you're w- not only willing to hear criticism,
+
+1039
+01:12:13,376 --> 01:12:18,116
+Speaker 1: but you, you desire it because you
+want to succeed so much more than you want to
+not
+
+1040
+01:12:18,156 --> 01:12:22,456
+Speaker 1: get punched in the face. When that,
+that scale tips, I feel like that's when you
+
+1041
+01:12:22,496 --> 01:12:26,196
+Speaker 1: make it. Uh, we'll see, right?
+[laughs]
+
+1042
+01:12:26,216 --> 01:12:26,736
+Speaker 6: Hmm. Yeah. We'll see.
+
+1043
+01:12:26,776 --> 01:12:30,276
+Speaker 1: I'm not speaking from the top of a
+mountain. I'm speaking hopefully from the way
+up.
+
+1044
+01:12:30,916 --> 01:12:35,616
+Speaker 6: Now, getting back to the way you, the
+mechanics of the way you recorded it.
+
+1045
+01:12:36,036 --> 01:12:36,076
+Speaker 1: Mm-hmm.
+
+1046
+01:12:36,136 --> 01:12:41,936
+Speaker 6: As a sound designer, I know that if
+you have all those little snippets, those clips
+
+1047
+01:12:42,536 --> 01:12:47,876
+Speaker 6: of actors' lines, putting all that
+together is a nightmare.
+
+1048
+01:12:48,196 --> 01:12:48,316
+Speaker 1: Mm-hmm.
+
+1049
+01:12:48,416 --> 01:12:50,436
+Speaker 6: Uh, even if it's only 20 minutes.
+
+1050
+01:12:50,676 --> 01:12:50,776
+Speaker 1: Hmm.
+
+1051
+01:12:50,876 --> 01:12:55,016
+Speaker 6: Are you gonna do it that way again,
+or, or what did you learn from that experience?
+
+1052
+01:12:55,736 --> 01:13:01,716
+Speaker 1: I knew that I had to do it. I knew
+that it was important to take
+
+1053
+01:13:03,116 --> 01:13:08,964
+Speaker 1: a wrong step, even if it was
+inefficient. And a bad decision. I knew I
+
+1054
+01:13:09,024 --> 01:13:13,284
+Speaker 1: needed to take action. I knew I
+needed voice actors. I knew I needed their
+clips.
+
+1055
+01:13:13,904 --> 01:13:17,084
+Speaker 1: And this was the only way I could
+think of, of getting it on a reasonable
+timeframe
+
+1056
+01:13:17,124 --> 01:13:21,584
+Speaker 1: in a way that let me accomplish all
+my other goals. So ultimately, I had to do it
+
+1057
+01:13:22,304 --> 01:13:26,104
+Speaker 1: because I knew that it was o- I was
+gonna learn from it. I was gonna figure out
+
+1058
+01:13:26,144 --> 01:13:31,084
+Speaker 1: whether this worked. Either it
+doesn't work, and I have to go do the hard way
+of
+
+1059
+01:13:31,284 --> 01:13:35,264
+Speaker 1: scheduling everybody, getting them in
+the same room, whether virtual or not. All
+
+1060
+01:13:35,304 --> 01:13:40,124
+Speaker 1: right? It gets a lot harder. I knew
+that I was more likely to fail
+
+1061
+01:13:41,364 --> 01:13:46,464
+Speaker 1: by mulling on whether this was the
+right choice or not. I was more likely to fail
+
+1062
+01:13:46,504 --> 01:13:50,784
+Speaker 1: because I did not take action, and I
+overthought it, and I gave up, and I did
+
+1063
+01:13:50,824 --> 01:13:56,564
+Speaker 1: something else, than I was to fail if
+I did it wrong and it was hard work, uh,
+
+1064
+01:13:56,844 --> 01:14:00,424
+Speaker 1: in order to make it work again. So
+the short answer is it took about six hours the
+
+1065
+01:14:00,464 --> 01:14:05,224
+Speaker 1: first time. I measure every single
+step of my production, um, just to get more
+
+1066
+01:14:05,264 --> 01:14:08,324
+Speaker 1: efficient. So the first time it took
+about six hours. The second time it took about
+
+1067
+01:14:08,364 --> 01:14:13,244
+Speaker 1: two hours. It's not that hard. I have
+it down less than that now because I got good
+
+1068
+01:14:13,284 --> 01:14:16,584
+Speaker 1: at it. Because like anything else,
+it's a skill, and like anything else, you can
+
+1069
+01:14:16,644 --> 01:14:21,164
+Speaker 1: figure out how to do this. So now I
+have a way of recording my narration that makes
+
+1070
+01:14:21,184 --> 01:14:25,804
+Speaker 1: it very simple. I literally just
+clap, and I say the numbers of the clips,
+because
+
+1071
+01:14:25,824 --> 01:14:29,424
+Speaker 1: they're all numbered, right? Remember
+that? They're all numbered. I say, [claps]
+
+1072
+01:14:29,444 --> 01:14:33,524
+Speaker 1: "48, 47, [laughs] 47, 48, 49." I
+sound insane, right? I'm just, I'm in character.
+
+1073
+01:14:33,524 --> 01:14:36,484
+Speaker 6: No, that's called, that's slating.
+That's called slating.
+
+1074
+01:14:36,504 --> 01:14:36,505
+Speaker 1: Yeah.
+
+1075
+01:14:36,544 --> 01:14:39,324
+Speaker 6: You know the old movie, um, clappers?
+
+1076
+01:14:39,624 --> 01:14:39,864
+Speaker 1: Mm-hmm. Yeah.
+
+1077
+01:14:40,244 --> 01:14:42,824
+Speaker 6: They're a slate, and they would put
+the chalk and the scene number and stuff.
+
+1078
+01:14:42,844 --> 01:14:47,384
+Speaker 1: Mm-hmm. Again, another idea that came
+from you. Uh, you, Tony's advice is great,
+
+1079
+01:14:47,444 --> 01:14:52,804
+Speaker 1: everybody. Uh, so and then by
+threading it that way, um, he can't say it, but
+I can.
+
+1080
+01:14:53,324 --> 01:14:58,224
+Speaker 1: Uh, so it made a huge difference, and
+I can do it. And yeah, there are some
+
+1081
+01:14:58,264 --> 01:15:02,464
+Speaker 1: drawbacks, but there's a lot of
+upside for an independent producer. So don't be
+
+1082
+01:15:02,544 --> 01:15:08,324
+Speaker 1: afraid to break the mold if it's
+forward progress, if you're gonna learn
+something.
+
+1083
+01:15:08,504 --> 01:15:12,704
+Speaker 1: Worst case scenario, it failed
+miserably. I'd have to go back and do more
+takes. We
+
+1084
+01:15:12,784 --> 01:15:15,683
+Speaker 1: schedule some point in the future
+where we can start recording episodes. It was
+
+1085
+01:15:15,724 --> 01:15:20,464
+Speaker 1: recoverable. So I knew that I would
+learn something, and if it worked, it would make
+
+1086
+01:15:20,924 --> 01:15:24,584
+Speaker 1: everything easier. I could have
+recording done in three weeks, and I don't have
+to
+
+1087
+01:15:24,624 --> 01:15:29,244
+Speaker 1: do anything. I literally just
+directed them each for one session. I just ran
+through
+
+1088
+01:15:29,304 --> 01:15:33,204
+Speaker 1: 10 lines or so for each character. We
+narrowed down their voice, and the rest was
+
+1089
+01:15:33,244 --> 01:15:36,984
+Speaker 1: like, "Okay, have fun. See you
+later." And their clips just started showing up
+in
+
+1090
+01:15:37,024 --> 01:15:40,544
+Speaker 1: the do- in the drive. Now, of course,
+I had to push people for deadlines and all
+
+1091
+01:15:40,604 --> 01:15:44,744
+Speaker 1: that, like, but for the most part,
+these guys were professional guys and gals. They
+
+1092
+01:15:44,764 --> 01:15:48,944
+Speaker 1: were all professionals. Like, it was
+shocking what a group of volunteers put
+
+1093
+01:15:49,004 --> 01:15:54,044
+Speaker 1: together by themselves with nothing
+but a set of rules that I cooked up on the fly
+
+1094
+01:15:54,664 --> 01:15:59,404
+Speaker 1: and motivation for a project, for a
+dream. It's shocking what you can accomplish.
+
+1095
+01:16:00,904 --> 01:16:04,784
+Speaker 6: Thanks, Steven. Thank you very much
+for talking and sharing some of your
+
+1096
+01:16:04,864 --> 01:16:10,444
+Speaker 6: experiences. If you were to give any
+advice, let's say there's somebody
+
+1097
+01:16:10,544 --> 01:16:14,784
+Speaker 6: listening who is just before the
+tipping point, just before the curve, and their
+
+1098
+01:16:14,844 --> 01:16:16,864
+Speaker 6: wheels fell off, what would you tell
+them?
+
+1099
+01:16:17,704 --> 01:16:23,164
+Speaker 1: You have to know why you're doing
+what you're doing. Are you running away from
+
+1100
+01:16:23,204 --> 01:16:27,524
+Speaker 1: something? Are you building
+something? And I had this realization talking to
+another
+
+1101
+01:16:27,544 --> 01:16:31,064
+Speaker 1: person. Again, giving advice is a
+great way to learn about yourself.
+
+1102
+01:16:32,864 --> 01:16:37,944
+Speaker 1: I realized that there is no right
+path in life, which is why I go back to my
+
+1103
+01:16:37,984 --> 01:16:41,564
+Speaker 1: metaphor, the being on the path or
+off the path. It's not why it's more
+complicated.
+
+1104
+01:16:41,604 --> 01:16:47,184
+Speaker 1: Is it the right path? There is no
+right path. There are aspects of your
+personality
+
+1105
+01:16:47,764 --> 01:16:51,924
+Speaker 1: that you can emphasize. There are
+dreams, and all of them are valid. Some of them
+
+1106
+01:16:51,964 --> 01:16:55,844
+Speaker 1: have trade-offs. Some of them have
+pros and cons. They all affect your life in some
+
+1107
+01:16:55,904 --> 01:17:01,324
+Speaker 1: way. But once you've chosen one,
+understood that none of the other paths are
+better
+
+1108
+01:17:01,364 --> 01:17:06,204
+Speaker 1: than this one, this thing you chose
+to make, which you believed so dearly, and up
+
+1109
+01:17:06,244 --> 01:17:08,844
+Speaker 1: until this point, you're sitting
+there, you're looking at your car, all the
+wheels
+
+1110
+01:17:08,864 --> 01:17:12,324
+Speaker 1: are off, to go back to that metaphor.
+You're thinking, "Do I want to put this back
+
+1111
+01:17:12,384 --> 01:17:17,224
+Speaker 1: together? Do I want to get back
+together and try again, even though it hurts?"
+
+1112
+01:17:18,884 --> 01:17:22,804
+Speaker 1: This path is not better than any
+other. Those other paths are not better than
+this
+
+1113
+01:17:22,884 --> 01:17:27,904
+Speaker 1: one. Now, you may find out that you
+actually, truly do not enjoy this path. That's
+
+1114
+01:17:27,944 --> 01:17:32,784
+Speaker 1: fine. Move on. Don't judge yourself
+for it like I used to. Don't judge yourself for
+
+1115
+01:17:32,824 --> 01:17:37,524
+Speaker 1: it anymore. But if the thing is that
+you're just avoiding pain, know that all those
+
+1116
+01:17:37,584 --> 01:17:42,484
+Speaker 1: paths have breakdowns on them too.
+There is no way to avoid this pain.
+
+1117
+01:17:43,584 --> 01:17:47,644
+Speaker 1: So if this path truly isn't the right
+one, this project, this thing you're trying to
+
+1118
+01:17:47,684 --> 01:17:52,124
+Speaker 1: build isn't the right one, that's
+okay. Move on. Don't put it back together. That
+
+1119
+01:17:52,144 --> 01:17:52,764
+Speaker 1: doesn't make sense.
+
+1120
+01:17:54,384 --> 01:17:59,964
+Speaker 1: But all of those paths are hard. If
+you're doing anything meaningful, every single
+
+1121
+01:18:00,044 --> 01:18:04,444
+Speaker 1: one of them is hard, so you're not
+gonna be able to avoid pain, and none of them
+are
+
+1122
+01:18:04,504 --> 01:18:09,324
+Speaker 1: better than this one. So you are
+probably better served, I got this advice
+recently,
+
+1123
+01:18:10,064 --> 01:18:16,024
+Speaker 1: following a path and a bad goal to
+its completion than
+
+1124
+01:18:16,084 --> 01:18:20,944
+Speaker 1: you are [laughs] attempting to make a
+new goal and giving up early. You will learn
+
+1125
+01:18:21,024 --> 01:18:25,464
+Speaker 1: more following a bad path to its
+completion than you will learn from switching
+paths
+
+1126
+01:18:25,704 --> 01:18:30,704
+Speaker 1: because one looks better than the
+other. That's what I'll say. So set a goal,
+reach
+
+1127
+01:18:30,764 --> 01:18:33,904
+Speaker 1: it, and when you reach that goal, if
+you've decided it didn't give you the feeling
+
+1128
+01:18:33,944 --> 01:18:35,464
+Speaker 1: you want, then move on.
+
+1129
+01:18:36,224 --> 01:18:36,604
+Speaker 6: Nice.
+
+1130
+01:18:38,144 --> 01:18:38,764
+Speaker 6: Thanks, man.
+
+1131
+01:18:39,444 --> 01:18:45,444
+Speaker 1: Thank you, Tony. And one final pitch,
+uh, Tony is incredible. Uh, I have learned
+
+1132
+01:18:45,664 --> 01:18:51,204
+Speaker 1: so, so much from him as a creative
+coach. It really is one of the reasons that I am
+
+1133
+01:18:51,384 --> 01:18:56,564
+Speaker 1: still on the path for this goal and
+not on something else. Uh, and I'm not just,
+
+1134
+01:18:57,104 --> 01:19:01,984
+Speaker 1: just trying to butter him up. It
+really is a fundamental piece of success. It
+
+1135
+01:19:02,004 --> 01:19:06,124
+Speaker 1: doesn't have to be Tony, but it
+should be somebody. You should have somebody in
+your
+
+1136
+01:19:06,184 --> 01:19:11,544
+Speaker 1: life who cares about what you're
+producing no matter how bad it is, somebody who
+
+1137
+01:19:11,564 --> 01:19:15,664
+Speaker 1: will pat you on the back and say,
+"When's the next one?" That's what you need.
+
+1138
+01:19:17,204 --> 01:19:19,964
+Speaker 6: Aw, thanks. I'm not sure I'm gonna
+include that, but

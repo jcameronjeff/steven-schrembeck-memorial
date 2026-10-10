@@ -1,0 +1,82 @@
+{
+  "source_path": "interviews/steven-schrembeck.mp3",
+  "automated_flags": [
+    {
+      "kind": "low_word_logprob",
+      "word_index": 53,
+      "start": 22.2,
+      "end": 22.4,
+      "text": " ",
+      "logprob": -1.2562251091003418
+    },
+    {
+      "kind": "low_word_logprob",
+      "word_index": 54,
+      "start": 22.4,
+      "end": 22.7,
+      "text": "Talk",
+      "logprob": -1.2562251091003418
+    },
+    {
+      "kind": "low_word_logprob",
+      "word_index": 3357,
+      "start": 621.164,
+      "end": 621.244,
+      "text": " ",
+      "logprob": -1.1225169897079468
+    },
+    {
+      "kind": "low_word_logprob",
+      "word_index": 9055,
+      "start": 1534.104,
+      "end": 1534.104,
+      "text": " ",
+      "logprob": -1.0975210666656494
+    },
+    {
+      "kind": "low_word_logprob",
+      "word_index": 9056,
+      "start": 1534.104,
+      "end": 1534.164,
+      "text": "working",
+      "logprob": -1.0975210666656494
+    },
+    {
+      "kind": "low_word_logprob",
+      "word_index": 11294,
+      "start": 1926.36,
+      "end": 1926.36,
+      "text": "...",
+      "logprob": -16.937511444091797
+    },
+    {
+      "kind": "low_word_logprob",
+      "word_index": 15603,
+      "start": 2671.156,
+      "end": 2671.256,
+      "text": "We'll",
+      "logprob": -1.328181838989258
+    },
+    {
+      "kind": "word_duration_over_3s",
+      "word_index": 24280,
+      "text": "\"I'm",
+      "start": 4100.256,
+      "end": 4103.536,
+      "note": "Suspicious word alignment; raw timestamp preserved."
+    }
+  ],
+  "flags_are_review_candidates_not_confirmed_errors": true,
+  "raw_word_count": 25489,
+  "spoken_word_count": 12673,
+  "speaker_ids": [
+    "speaker_0",
+    "speaker_1",
+    "speaker_2"
+  ],
+  "subtitle_cue_count": 1083,
+  "first_speech_seconds": 5.26,
+  "last_speech_seconds": 4307.716,
+  "human_correction_status": "uncorrected",
+  "source_offset_seconds": 0
+}

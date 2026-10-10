@@ -1,0 +1,590 @@
+[
+  {
+    "path": "youtube/20230408-w_mPrS11HP4-The Fix 02 - How Do You Think About Trauma？.webm",
+    "readable": true,
+    "probe": {
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "vp9",
+          "codec_type": "video",
+          "width": 640,
+          "height": 360
+        },
+        {
+          "codec_name": "opus",
+          "codec_type": "audio"
+        }
+      ],
+      "format": {
+        "duration": "4863.921000"
+      }
+    },
+    "error": ""
+  },
+  {
+    "path": "youtube/20230223-6E-TbTNnVF0-How to Solve 99% of Your Problems...mkv",
+    "readable": true,
+    "probe": {
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 1920,
+          "height": 1080
+        },
+        {
+          "codec_name": "opus",
+          "codec_type": "audio"
+        }
+      ],
+      "format": {
+        "duration": "274.661000"
+      }
+    },
+    "error": ""
+  },
+  {
+    "path": "youtube/20230329-CpVUxs-BSbY-Have you thought about the idea that you are actually self employed？.webm",
+    "readable": true,
+    "probe": {
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "vp9",
+          "codec_type": "video",
+          "width": 1080,
+          "height": 1920
+        },
+        {
+          "codec_name": "opus",
+          "codec_type": "audio"
+        }
+      ],
+      "format": {
+        "duration": "10.021000"
+      }
+    },
+    "error": ""
+  },
+  {
+    "path": "youtube/20230216-BHegBC0tO6M-Reverie - The Answer.mkv",
+    "readable": true,
+    "probe": {
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 1920,
+          "height": 1080
+        },
+        {
+          "codec_name": "opus",
+          "codec_type": "audio"
+        }
+      ],
+      "format": {
+        "duration": "1024.121000"
+      }
+    },
+    "error": ""
+  },
+  {
+    "path": "youtube/20230309-oZoXwfHdLAw-Local Minima - The Answer to Why We Are Seeking Minima.mkv",
+    "readable": true,
+    "probe": {
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 1920,
+          "height": 1080
+        },
+        {
+          "codec_name": "opus",
+          "codec_type": "audio"
+        }
+      ],
+      "format": {
+        "duration": "1295.541000"
+      }
+    },
+    "error": ""
+  },
+  {
+    "path": "youtube/20230212-XO-REklMsgc-Instructions For Prototyping ChatGPT Products.webm",
+    "readable": true,
+    "probe": {
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "vp9",
+          "codec_type": "video",
+          "width": 1920,
+          "height": 1080
+        },
+        {
+          "codec_name": "opus",
+          "codec_type": "audio"
+        }
+      ],
+      "format": {
+        "duration": "2604.241000"
+      }
+    },
+    "error": ""
+  },
+  {
+    "path": "youtube/20230303-WX5SHE6mzjQ-The Fix Episode 01.mkv",
+    "readable": true,
+    "probe": {
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 1920,
+          "height": 1080
+        },
+        {
+          "codec_name": "opus",
+          "codec_type": "audio"
+        }
+      ],
+      "format": {
+        "duration": "3838.541000"
+      }
+    },
+    "error": ""
+  },
+  {
+    "path": "youtube/20230227-acP4hlPJRZo-The Fix - Coming Friday.webm",
+    "readable": true,
+    "probe": {
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "vp9",
+          "codec_type": "video",
+          "width": 720,
+          "height": 1280
+        },
+        {
+          "codec_name": "opus",
+          "codec_type": "audio"
+        }
+      ],
+      "format": {
+        "duration": "10.081000"
+      }
+    },
+    "error": ""
+  },
+  {
+    "path": "youtube/20230322-BuEReSReENg-The Dopamine Ladder….webm",
+    "readable": true,
+    "probe": {
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "vp9",
+          "codec_type": "video",
+          "width": 720,
+          "height": 1280
+        },
+        {
+          "codec_name": "opus",
+          "codec_type": "audio"
+        }
+      ],
+      "format": {
+        "duration": "10.021000"
+      }
+    },
+    "error": ""
+  },
+  {
+    "path": "youtube/20230403-0E6MlTB0TdQ-Let’s Talk About Trauma. Episode 02 of ‘The Fix’ is Coming This Friday..webm",
+    "readable": true,
+    "probe": {
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "vp9",
+          "codec_type": "video",
+          "width": 1080,
+          "height": 1920
+        },
+        {
+          "codec_name": "opus",
+          "codec_type": "audio"
+        }
+      ],
+      "format": {
+        "duration": "15.461000"
+      }
+    },
+    "error": ""
+  },
+  {
+    "path": "youtube/20230214-mgsUmaAXYKA-New Video This Thursday..webm",
+    "readable": true,
+    "probe": {
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "vp9",
+          "codec_type": "video",
+          "width": 720,
+          "height": 1280
+        },
+        {
+          "codec_name": "opus",
+          "codec_type": "audio"
+        }
+      ],
+      "format": {
+        "duration": "14.761000"
+      }
+    },
+    "error": ""
+  },
+  {
+    "path": "youtube/20230303-W4CoD6MFP_8-Tomorrow..webm",
+    "readable": true,
+    "probe": {
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "vp9",
+          "codec_type": "video",
+          "width": 720,
+          "height": 1280
+        },
+        {
+          "codec_name": "opus",
+          "codec_type": "audio"
+        }
+      ],
+      "format": {
+        "duration": "14.761000"
+      }
+    },
+    "error": ""
+  },
+  {
+    "path": "youtube/20230223-3nHjB7hrZSM-SKM Episode 3 loading tomorrow..webm",
+    "readable": true,
+    "probe": {
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "vp9",
+          "codec_type": "video",
+          "width": 720,
+          "height": 1280
+        },
+        {
+          "codec_name": "opus",
+          "codec_type": "audio"
+        }
+      ],
+      "format": {
+        "duration": "10.861000"
+      }
+    },
+    "error": ""
+  },
+  {
+    "path": "youtube/20230323-u0mE8oY3Byw-The Dopamine Ladder.mkv",
+    "readable": true,
+    "probe": {
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 1920,
+          "height": 1080
+        },
+        {
+          "codec_name": "opus",
+          "codec_type": "audio"
+        }
+      ],
+      "format": {
+        "duration": "879.481000"
+      }
+    },
+    "error": ""
+  },
+  {
+    "path": "youtube/20230330-QenUqdd29RM-Are You Losing Your Power？ Regain It With This Simple Idea.mkv",
+    "readable": true,
+    "probe": {
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 1920,
+          "height": 1080
+        },
+        {
+          "codec_name": "opus",
+          "codec_type": "audio"
+        }
+      ],
+      "format": {
+        "duration": "91.001000"
+      }
+    },
+    "error": ""
+  },
+  {
+    "path": "youtube/20230324-NIkBID7yMu0-This Is A Problem That All Of Humanity Has.mkv",
+    "readable": true,
+    "probe": {
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 1920,
+          "height": 1080
+        },
+        {
+          "codec_name": "opus",
+          "codec_type": "audio"
+        }
+      ],
+      "format": {
+        "duration": "23.801000"
+      }
+    },
+    "error": ""
+  },
+  {
+    "path": "youtube/20230518-sNeD2zNnZl0-High Impact Foods Part 01.mkv",
+    "readable": true,
+    "probe": {
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 1920,
+          "height": 1080
+        },
+        {
+          "codec_name": "opus",
+          "codec_type": "audio"
+        }
+      ],
+      "format": {
+        "duration": "59.801000"
+      }
+    },
+    "error": ""
+  },
+  {
+    "path": "youtube/20230301-I8eFLGJGyyY-Coming this Friday..webm",
+    "readable": true,
+    "probe": {
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "vp9",
+          "codec_type": "video",
+          "width": 720,
+          "height": 1280
+        },
+        {
+          "codec_name": "opus",
+          "codec_type": "audio"
+        }
+      ],
+      "format": {
+        "duration": "14.761000"
+      }
+    },
+    "error": ""
+  },
+  {
+    "path": "youtube/20230216-Uwj1bkST5Xk-Reverie Teaser.webm",
+    "readable": true,
+    "probe": {
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "vp9",
+          "codec_type": "video",
+          "width": 720,
+          "height": 1280
+        },
+        {
+          "codec_name": "opus",
+          "codec_type": "audio"
+        }
+      ],
+      "format": {
+        "duration": "8.021000"
+      }
+    },
+    "error": ""
+  },
+  {
+    "path": "youtube/20230406-ZXmace-9u9M-Web3 Fundamentals Ep. 01 Financial Alignment.mkv",
+    "readable": true,
+    "probe": {
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 1920,
+          "height": 1080
+        },
+        {
+          "codec_name": "opus",
+          "codec_type": "audio"
+        }
+      ],
+      "format": {
+        "duration": "110.101000"
+      }
+    },
+    "error": ""
+  },
+  {
+    "path": "youtube/20230313-tpC_DucAHhk-Have You Explored ‘The Fix？’.webm",
+    "readable": true,
+    "probe": {
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "vp9",
+          "codec_type": "video",
+          "width": 720,
+          "height": 1280
+        },
+        {
+          "codec_name": "opus",
+          "codec_type": "audio"
+        }
+      ],
+      "format": {
+        "duration": "10.021000"
+      }
+    },
+    "error": ""
+  },
+  {
+    "path": "youtube/20230308-iFInjbZB0Yk-The Answer to Why We Are Seeking Minima.webm",
+    "readable": true,
+    "probe": {
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "vp9",
+          "codec_type": "video",
+          "width": 1080,
+          "height": 1920
+        },
+        {
+          "codec_name": "opus",
+          "codec_type": "audio"
+        }
+      ],
+      "format": {
+        "duration": "28.021000"
+      }
+    },
+    "error": ""
+  },
+  {
+    "path": "cox-workplace/presentations/deep-meaning-at-work/Deep Meaning at Work-20250924_143049-Meeting Recording.mp4",
+    "readable": true,
+    "probe": {
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 1920,
+          "height": 1080
+        },
+        {
+          "codec_name": "aac",
+          "codec_type": "audio"
+        }
+      ],
+      "format": {
+        "duration": "2560.896000",
+        "size": "318308751",
+        "tags": {
+          "creation_time": "2025-09-24T18:30:55.000000Z"
+        }
+      }
+    },
+    "error": "",
+    "validated_utc": "2026-10-10T18:01:08.607157+00:00",
+    "validation_scope": "Container and stream inspection, file SHA-256, and caption duration bounds; not full decode or human review"
+  },
+  {
+    "path": "cox-workplace/presentations/not-your-job-the-art-of-defiance/Not Your Job The Art of Defiance-20260106_143224-Meeting Recording.mp4",
+    "readable": true,
+    "probe": {
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 1920,
+          "height": 1080
+        },
+        {
+          "codec_name": "aac",
+          "codec_type": "audio"
+        }
+      ],
+      "format": {
+        "duration": "2061.760500",
+        "size": "209663359",
+        "tags": {
+          "creation_time": "2026-01-06T19:32:31.000000Z"
+        }
+      }
+    },
+    "error": "",
+    "validated_utc": "2026-10-10T18:01:08.607157+00:00",
+    "validation_scope": "Container and stream inspection, file SHA-256, and caption duration bounds; not full decode or human review"
+  }
+]

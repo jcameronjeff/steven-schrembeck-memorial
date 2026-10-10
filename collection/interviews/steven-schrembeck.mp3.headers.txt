@@ -1,0 +1,56 @@
+HTTP/2 302 
+date: Sat, 10 Oct 2026 17:33:36 GMT
+location: https://api.spreaker.com/download/episode/67390414/ass091525kgra_alien_spirit_with_sev_steven_schrembeck.mp3
+cache-control: no-cache, no-store, must-revalidate
+pragma: no-cache
+expires: -1
+
+HTTP/2 302 
+content-type: text/html; charset=utf-8
+location: https://d1bxy2pveef3fq.cloudfront.net/v1/download/episodes/high/51294008.mp3?a=en&eg=https%3A%2F%2Fapi.spreaker.com%2Fepisode%2F67390414&eu=https%3A%2F%2Fdts.podtrac.com%2Fredirect.mp3%2Fapi.spreaker.com%2Fdownload%2Fepisode%2F67390414%2Fass091525kgra_alien_spirit_with_sev_steven_schrembeck.mp3&p=3&q=9526155&f=643&r=128&t=5&u=311&o=4319111&d=2025-08-18&g=67390414&h=6220699&k=https%3A%2F%2Fwww.spreaker.com%2Fshow%2F6220699%2Fepisodes%2Ffeed&i=51294008&n=Alien+Spirit+with+Sev&et=Steven+Schrembeck&b=%5B%22IAB6-7%22%2C%22IAB7-39%22%2C%22IAB11-4%22%2C%22IAB26%22%5D&c=%5B%22society-culture%22%5D&l=%5B%22hosting_plan_prime%22%5D&m=%5B610251%2C610251%2C610251%2C610251%2C610251%2C1277695%2C1277695%2C1277695%2C1277695%2C1277695%2C1897308%2C1897308%2C1897308%2C1897308%2C1897308%2C2225972%2C2225972%2C2225972%2C2225972%2C2225972%2C3135599%2C3135599%2C3135599%2C3135599%2C3135599%2C3793580%2C3793580%2C3793580%2C3793580%2C3793580%5D&yp=%7B%22content_catalog%22%3A%22sp_org_311%22%2C%22ads_backfill_enabled%22%3A%22true%22%7D&fax=0.41&esi=44983d14-6264-4ac8-84da-f19641995901&Expires=1791740016&Signature=GiUkGRV5nYfiQc2jVekcy6kdlrh1hl6ug4GovHKCCJcsr7tIiJaQbI14%7ELpn68NxSHn1Y6aArUl21EZpw6XFNix8eV0t0azPTvoOdNYAtpF9j36xMPprZVAfglVTJRizpfiwD758Uoycw5nBAl1ba1GVOzyFsCAkEfEVxOQYTXZfE8zdBlEcMRZKIfSVKE0wcWUxG0IVP0ZudSBZESCmQyliD2COGb6gGO6OkJjoDsw%7E4n0byv3Eo1vN4%7ERiP7BOYWhuj9IQRscHj5MDwAirn1cPziqDYny%7EIlSFfXtlhJnpdxq9mnK8W835qeeYKbFfrJgo7lA%7EKRplwW-X8l7pSQ__&Key-Pair-Id=K1J2BR3INU6RYD
+date: Sat, 10 Oct 2026 17:33:36 GMT
+access-control-allow-methods: HEAD,GET,PUT,POST,DELETE
+server: nginx
+cache-control: max-age=0, private, no-cache, no-store, must-revalidate, no-transform
+access-control-allow-origin: *
+access-control-allow-headers: Authorization, Content-Type, X-Spreaker-Amplitude-Device-Id
+access-control-max-age: 86400
+x-cache: Miss from cloudfront
+via: 1.1 c5e68bf50493e30fa56b4a5fdd34740a.cloudfront.net (CloudFront)
+x-amz-cf-pop: ATL58-P13
+x-amz-cf-id: GOWTErajqFHoY4b0bhqnvu4Ly1Eg5wjdjOJBfeXBNWyYErpoYDrDbg==
+
+HTTP/2 302 
+content-type: application/json
+content-length: 0
+location: https://d1bxy2pveef3fq.cloudfront.net/episodes/high/51294008.mp3?session_id=126746c9-a989-5b81-a9b5-52a2b1f0b3fd&ab=128&al=4319111&ao=643&cc=YYYYYYYYYY&ct=DOWNLOAD&episode_id=67390414&show_id=6220699&user_id=9526155&organization_id=311&tenant=SPREAKER&timestamp=1791653617&ppi=b5c13c8a-e102-5d4c-9dd7-7de8618600ae&epi=2567755f-de2c-500f-a976-531549200b30&sti=648033&emt=audio&media_type=static&edt=mp3&Expires=1791740017&Key-Pair-Id=K1J2BR3INU6RYD&Signature=Z21B2sJRTSaMNOxOtSMxVWXJg9CbhDlioe~Dc0qjzfMYpaIR~P~TnKoT7uINVhEqwDQYawbW-gDcRn7h52jA1D1lNwxBJDm4uCpRftDtyOwLyaLKzTyeojJ88mxJA0kQXFMfwGpuFOt4aTm5Pv0nf~x4E2a8KhjXver0E6XxSyR9uk3s4Mf0gotII9q~3CZH7jxhDHi072Kd3Ek7er6SCkRDEYrswp2543105JW0IKeAPq4Yaru2ymfuqz5e0dUOmpx4LPMw-Np6hqhyyX-XPDYIhNUvyszt0AKdMsS1893EmM9pVXkMIeCRlvENhxpJMgDjrtrR2sjzDNtuFDupNQ__
+date: Sat, 10 Oct 2026 17:33:39 GMT
+x-amzn-trace-id: Root=1-6aca76f1-416ec666712e02cc12627d5a;Parent=0528a11265ce8f49;Sampled=0;Lineage=1:8af35bed:0
+x-amzn-requestid: dfc5b616-e102-4505-a1de-2b30eb0646ce
+x-cache: Miss from cloudfront
+via: 1.1 705e629402d180f1f107a6fe04a958fa.cloudfront.net (CloudFront)
+x-amz-cf-pop: ATL58-P6
+alt-svc: h3=":443"; ma=86400
+x-amz-cf-id: Spb4xfNn1d7NStNPz8Ch3MQB-qDA7p16fXkEtHgJTWG8tmqVXUfHFw==
+vary: Origin
+
+HTTP/2 200 
+content-type: audio/mpeg
+content-length: 69106432
+accept-ranges: bytes
+date: Sat, 10 Oct 2026 17:33:39 GMT
+server: AmazonS3
+last-modified: Sat, 16 Aug 2025 14:18:56 GMT
+etag: "5b1d6c85a7903b429e4970418af31eac"
+x-amz-version-id: sH7THPcW2Ny3FXZNZ2bktv8KeKAVrfD1
+cache-control: max-age=315306000
+expires: Mon, 13 Aug 2035 23:18:54 GMT
+x-amz-server-side-encryption: AES256
+x-amz-storage-class: INTELLIGENT_TIERING
+x-cache: Miss from cloudfront
+via: 1.1 705e629402d180f1f107a6fe04a958fa.cloudfront.net (CloudFront)
+x-amz-cf-pop: ATL58-P6
+alt-svc: h3=":443"; ma=86400
+x-amz-cf-id: 5osi75sVRuWryeo9UiVUMHa9Y8psLXYayJzVT-qBBIL94H69K38BCQ==
+vary: Origin
+

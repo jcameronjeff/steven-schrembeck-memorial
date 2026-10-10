@@ -1,0 +1,39 @@
+{
+  "sample_crosschecks_completed": 21,
+  "generated_utc": "2026-10-10T18:27:14.254786+00:00",
+  "original_scope_completed": 85,
+  "original_scope_total": 85,
+  "hours_transcribed": 37.69135636361111,
+  "existing_transcripts_reused": 2,
+  "current_inventory_media": 87,
+  "associated_media": 87,
+  "failures": [],
+  "submitted_requests": 85,
+  "api_reported_fiat_cost_before_overages_usd": 8.29163633,
+  "api_reported_character_cost": 45604,
+  "budget_usd": 15,
+  "conservative_budget_reserved_usd": 11.52,
+  "subscription_usage_before": 85,
+  "subscription_usage_after": 45689,
+  "subscription_usage_delta": 45604,
+  "current_overage": {
+    "amount": "0",
+    "currency": "usd"
+  },
+  "incremental_invoice_charge_usd": null,
+  "billing_note": "Response-header usage valuation before overages, not a new invoice charge. Account usage and current overage are separately recorded.",
+  "review_counts": {
+    "low_word_logprob": 101,
+    "catalog_name_spelling_review": 2,
+    "leading_no_speech": 14,
+    "trailing_no_speech": 18,
+    "word_duration_over_3s": 35,
+    "speech_gap_over_20s": 23,
+    "cross_recognizer_disagreement": 4,
+    "no_words": 3
+  },
+  "recordings_with_review_candidates": 57,
+  "human_listening_review_performed": false,
+  "verification_failures": [],
+  "local_links_checked": 1415
+}

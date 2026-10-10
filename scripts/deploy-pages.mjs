@@ -1,0 +1,15 @@
+import fs from 'node:fs';
+import path from 'node:path';
+import {createRequire} from 'node:module';
+import {spawnSync} from 'node:child_process';
+import {env,account} from './cf-api.mjs';
+const root=path.resolve(new URL('../',import.meta.url).pathname);
+const dest=path.join(root,'output/deploy-site');
+fs.rmSync(dest,{recursive:true,force:true});
+fs.cpSync(path.join(root,'site'),dest,{recursive:true,filter:p=>!p.endsWith('/collection-files')&&!p.endsWith('/_worker.js')});
+const require=createRequire(import.meta.url);
+const esbuild=require(process.env.ESBUILD_MODULE || 'esbuild');
+await esbuild.build({entryPoints:[path.join(root,'site/_worker.js')],bundle:true,format:'esm',platform:'browser',target:'es2022',outfile:path.join(dest,'_worker.js')});
+const config=JSON.parse(fs.readFileSync(path.join(root,'wrangler.jsonc'),'utf8'));
+const r=spawnSync('wrangler',['pages','deploy',dest,'--project-name',config.name,'--branch','main','--commit-dirty=true'],{cwd:root,stdio:'inherit',env:{...process.env,CLOUDFLARE_API_TOKEN:env.CLOUDFLARE_API_TOKEN||env.CLOUDFLARE_API_KEY,CLOUDFLARE_ACCOUNT_ID:account}});
+process.exit(r.status??1);

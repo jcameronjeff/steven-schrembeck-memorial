@@ -1,0 +1,46 @@
+{
+  "source_path": "collected/023-mortal-steel-pilot-episode-1.mp3",
+  "automated_flags": [
+    {
+      "kind": "word_duration_over_3s",
+      "word_index": 2,
+      "text": "Mortal",
+      "start": 7.06,
+      "end": 51.9,
+      "note": "Suspicious word alignment; raw timestamp preserved."
+    },
+    {
+      "kind": "low_word_logprob",
+      "word_index": 3023,
+      "start": 725.376,
+      "end": 725.396,
+      "text": " ",
+      "logprob": -1.3044602870941162
+    },
+    {
+      "kind": "low_word_logprob",
+      "word_index": 3024,
+      "start": 727.376,
+      "end": 727.936,
+      "text": "Especially",
+      "logprob": -1.3044602870941162
+    },
+    {
+      "kind": "trailing_no_speech",
+      "start": 1654.256,
+      "end": 1707.36
+    }
+  ],
+  "flags_are_review_candidates_not_confirmed_errors": true,
+  "raw_word_count": 7011,
+  "spoken_word_count": 3505,
+  "speaker_ids": [
+    "speaker_0",
+    "speaker_1"
+  ],
+  "subtitle_cue_count": 287,
+  "first_speech_seconds": 7.06,
+  "last_speech_seconds": 1654.256,
+  "human_correction_status": "uncorrected",
+  "source_offset_seconds": 0
+}

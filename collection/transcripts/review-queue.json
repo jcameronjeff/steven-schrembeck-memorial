@@ -1,0 +1,2027 @@
+{
+  "note": "Candidates for review, not confirmed errors. Machine text is uncorrected.",
+  "counts": {
+    "low_word_logprob": 101,
+    "catalog_name_spelling_review": 2,
+    "leading_no_speech": 14,
+    "trailing_no_speech": 18,
+    "word_duration_over_3s": 35,
+    "speech_gap_over_20s": 23,
+    "cross_recognizer_disagreement": 4,
+    "no_words": 3
+  },
+  "recordings": [
+    {
+      "title": "1 Reality 101",
+      "source_path": "reality/002-1-reality-101.mp3",
+      "counts": {
+        "low_word_logprob": 3,
+        "catalog_name_spelling_review": 1
+      },
+      "flags": [
+        {
+          "kind": "low_word_logprob",
+          "word_index": 65,
+          "start": 20.42,
+          "end": 20.48,
+          "text": " ",
+          "logprob": -1.389077067375183
+        },
+        {
+          "kind": "catalog_name_spelling_review",
+          "word_index": 66,
+          "start": 20.48,
+          "end": 20.86,
+          "text": "Schrimbeck.",
+          "note": "Catalog spells the author Steven Schrembeck; machine text retained."
+        },
+        {
+          "kind": "low_word_logprob",
+          "word_index": 525,
+          "start": 98.5,
+          "end": 98.58,
+          "text": " ",
+          "logprob": -1.1543301343917847
+        },
+        {
+          "kind": "low_word_logprob",
+          "word_index": 526,
+          "start": 98.58,
+          "end": 98.86,
+          "text": "psi",
+          "logprob": -1.1543301343917847
+        }
+      ]
+    },
+    {
+      "title": "3 See, Wake up, Remember Pt 2",
+      "source_path": "reality/005-3-see-wake-up-remember-pt-2.mp3",
+      "counts": {
+        "low_word_logprob": 3
+      },
+      "flags": [
+        {
+          "kind": "low_word_logprob",
+          "word_index": 1040,
+          "start": 176.52,
+          "end": 176.52,
+          "text": "It",
+          "logprob": -1.0117051601409912
+        },
+        {
+          "kind": "low_word_logprob",
+          "word_index": 2402,
+          "start": 428.984,
+          "end": 429.004,
+          "text": "Yeah",
+          "logprob": -1.1290702819824219
+        },
+        {
+          "kind": "low_word_logprob",
+          "word_index": 17752,
+          "start": 2926.252,
+          "end": 2926.352,
+          "text": "Where",
+          "logprob": -1.1961650848388672
+        }
+      ]
+    },
+    {
+      "title": "4 See, Wake up, Remember Pt 3",
+      "source_path": "reality/006-4-see-wake-up-remember-pt-3.mp3",
+      "counts": {
+        "low_word_logprob": 5
+      },
+      "flags": [
+        {
+          "kind": "low_word_logprob",
+          "word_index": 3734,
+          "start": 683.08,
+          "end": 683.12,
+          "text": " ",
+          "logprob": -1.0349676609039307
+        },
+        {
+          "kind": "low_word_logprob",
+          "word_index": 13144,
+          "start": 2269.256,
+          "end": 2269.276,
+          "text": " ",
+          "logprob": -1.0128308534622192
+        },
+        {
+          "kind": "low_word_logprob",
+          "word_index": 13145,
+          "start": 2269.296,
+          "end": 2269.396,
+          "text": "this",
+          "logprob": -1.0128308534622192
+        },
+        {
+          "kind": "low_word_logprob",
+          "word_index": 14230,
+          "start": 2433.576,
+          "end": 2433.596,
+          "text": " ",
+          "logprob": -1.0359413623809814
+        },
+        {
+          "kind": "low_word_logprob",
+          "word_index": 14231,
+          "start": 2433.596,
+          "end": 2433.856,
+          "text": "psi",
+          "logprob": -1.0359413623809814
+        }
+      ]
+    },
+    {
+      "title": "5 Reality 102",
+      "source_path": "reality/007-5-reality-102.mp3",
+      "counts": {
+        "low_word_logprob": 4
+      },
+      "flags": [
+        {
+          "kind": "low_word_logprob",
+          "word_index": 4349,
+          "start": 712.02,
+          "end": 712.72,
+          "text": " ",
+          "logprob": -1.1608617305755615
+        },
+        {
+          "kind": "low_word_logprob",
+          "word_index": 4350,
+          "start": 712.72,
+          "end": 712.82,
+          "text": "How",
+          "logprob": -1.1608617305755615
+        },
+        {
+          "kind": "low_word_logprob",
+          "word_index": 11759,
+          "start": 1943.708,
+          "end": 1943.748,
+          "text": " ",
+          "logprob": -1.0224978923797607
+        },
+        {
+          "kind": "low_word_logprob",
+          "word_index": 12927,
+          "start": 2145.928,
+          "end": 2145.948,
+          "text": " ",
+          "logprob": -1.2554430961608887
+        }
+      ]
+    },
+    {
+      "title": "(Bonus) What I know about transcendence",
+      "source_path": "reality/009-bonus-what-i-know-about-transcendence.mp3",
+      "counts": {
+        "low_word_logprob": 6
+      },
+      "flags": [
+        {
+          "kind": "low_word_logprob",
+          "word_index": 800,
+          "start": 155.72,
+          "end": 155.78,
+          "text": " ",
+          "logprob": -1.2270336151123047
+        },
+        {
+          "kind": "low_word_logprob",
+          "word_index": 3249,
+          "start": 586.66,
+          "end": 586.74,
+          "text": "You're",
+          "logprob": -1.4213371078172656
+        },
+        {
+          "kind": "low_word_logprob",
+          "word_index": 5293,
+          "start": 917.992,
+          "end": 918.072,
+          "text": "you're",
+          "logprob": -1.0098000367482503
+        },
+        {
+          "kind": "low_word_logprob",
+          "word_index": 12291,
+          "start": 2035.28,
+          "end": 2035.36,
+          "text": "I've",
+          "logprob": -1.4741243422031385
+        },
+        {
+          "kind": "low_word_logprob",
+          "word_index": 15902,
+          "start": 2604.596,
+          "end": 2604.596,
+          "text": " ",
+          "logprob": -1.0598952770233154
+        },
+        {
+          "kind": "low_word_logprob",
+          "word_index": 15903,
+          "start": 2604.596,
+          "end": 2604.616,
+          "text": "can",
+          "logprob": -1.0598952770233154
+        }
+      ]
+    },
+    {
+      "title": "(Bonus) What I know about telepathy",
+      "source_path": "reality/008-bonus-what-i-know-about-telepathy.mp3",
+      "counts": {
+        "low_word_logprob": 1
+      },
+      "flags": [
+        {
+          "kind": "low_word_logprob",
+          "word_index": 19881,
+          "start": 3271.376,
+          "end": 3271.416,
+          "text": " ",
+          "logprob": -1.137819766998291
+        }
+      ]
+    },
+    {
+      "title": "\"Mine.\" | An Unofficial Merry Modz Audio Short",
+      "source_path": "collected/003-mine-an-unofficial-merry-modz-audio-short.mp3",
+      "counts": {
+        "leading_no_speech": 1,
+        "trailing_no_speech": 1
+      },
+      "flags": [
+        {
+          "kind": "leading_no_speech",
+          "start": 0,
+          "end": 25.0
+        },
+        {
+          "kind": "trailing_no_speech",
+          "start": 153.48,
+          "end": 178.964898
+        }
+      ]
+    },
+    {
+      "title": "Dev Commentary 7: PUZZL, Web 3 + Short Story: \"The Project\"",
+      "source_path": "collected/002-dev-commentary-7-puzzl-web-3-short-story-the-project.mp3",
+      "counts": {
+        "trailing_no_speech": 1
+      },
+      "flags": [
+        {
+          "kind": "trailing_no_speech",
+          "start": 774.48,
+          "end": 796.760816
+        }
+      ]
+    },
+    {
+      "title": "2 See, Wake up, Remember Pt. 1",
+      "source_path": "reality/004-2-see-wake-up-remember-pt-1.mp3",
+      "counts": {
+        "low_word_logprob": 4
+      },
+      "flags": [
+        {
+          "kind": "low_word_logprob",
+          "word_index": 565,
+          "start": 98.68,
+          "end": 98.74,
+          "text": " ",
+          "logprob": -2.467163562774658
+        },
+        {
+          "kind": "low_word_logprob",
+          "word_index": 566,
+          "start": 98.74,
+          "end": 98.92,
+          "text": "King's-",
+          "logprob": -1.4539179796619075
+        },
+        {
+          "kind": "low_word_logprob",
+          "word_index": 2821,
+          "start": 526.456,
+          "end": 526.456,
+          "text": " ",
+          "logprob": -1.332956314086914
+        },
+        {
+          "kind": "low_word_logprob",
+          "word_index": 22270,
+          "start": 3715.976,
+          "end": 3716.096,
+          "text": "I'm",
+          "logprob": -1.1297858556111653
+        }
+      ]
+    },
+    {
+      "title": "Mortal Steel: Episode 10",
+      "source_path": "collected/005-mortal-steel-episode-10.mp3",
+      "counts": {
+        "word_duration_over_3s": 2,
+        "low_word_logprob": 3,
+        "speech_gap_over_20s": 1,
+        "leading_no_speech": 1
+      },
+      "flags": [
+        {
+          "kind": "word_duration_over_3s",
+          "word_index": 3519,
+          "text": "L.A.",
+          "start": 918.32,
+          "end": 922.4,
+          "note": "Suspicious word alignment; raw timestamp preserved."
+        },
+        {
+          "kind": "low_word_logprob",
+          "word_index": 3656,
+          "start": 961.4,
+          "end": 961.9,
+          "text": " ",
+          "logprob": -1.4691812992095947
+        },
+        {
+          "kind": "low_word_logprob",
+          "word_index": 4058,
+          "start": 1113.764,
+          "end": 1113.844,
+          "text": " ",
+          "logprob": -1.2202569246292114
+        },
+        {
+          "kind": "low_word_logprob",
+          "word_index": 4059,
+          "start": 1113.844,
+          "end": 1114.324,
+          "text": "Maser.",
+          "logprob": -1.1728945473829906
+        },
+        {
+          "kind": "word_duration_over_3s",
+          "word_index": 6719,
+          "text": "Exterminate",
+          "start": 1854.78,
+          "end": 1858.82,
+          "note": "Suspicious word alignment; raw timestamp preserved."
+        },
+        {
+          "kind": "speech_gap_over_20s",
+          "start": 1552.34,
+          "end": 1608.18,
+          "note": "May be music, silence or an omission; review audio."
+        },
+        {
+          "kind": "leading_no_speech",
+          "start": 0,
+          "end": 53.38
+        }
+      ]
+    },
+    {
+      "title": "Mortal Steel: Episode 8",
+      "source_path": "collected/008-mortal-steel-episode-8.mp3",
+      "counts": {
+        "low_word_logprob": 6,
+        "speech_gap_over_20s": 1,
+        "leading_no_speech": 1
+      },
+      "flags": [
+        {
+          "kind": "low_word_logprob",
+          "word_index": 4095,
+          "start": 1066.156,
+          "end": 1066.236,
+          "text": " ",
+          "logprob": -1.7479524612426758
+        },
+        {
+          "kind": "low_word_logprob",
+          "word_index": 4096,
+          "start": 1066.236,
+          "end": 1066.916,
+          "text": "compulsion",
+          "logprob": -1.7479524612426758
+        },
+        {
+          "kind": "low_word_logprob",
+          "word_index": 4405,
+          "start": 1140.892,
+          "end": 1141.432,
+          "text": "Promise",
+          "logprob": -1.6130099296569824
+        },
+        {
+          "kind": "low_word_logprob",
+          "word_index": 4602,
+          "start": 1186.932,
+          "end": 1186.932,
+          "text": " ",
+          "logprob": -2.022332191467285
+        },
+        {
+          "kind": "low_word_logprob",
+          "word_index": 4603,
+          "start": 1187.032,
+          "end": 1188.072,
+          "text": "capability,",
+          "logprob": -1.8385626602579246
+        },
+        {
+          "kind": "low_word_logprob",
+          "word_index": 5128,
+          "start": 1324.052,
+          "end": 1324.072,
+          "text": " ",
+          "logprob": -1.0155353546142578
+        },
+        {
+          "kind": "speech_gap_over_20s",
+          "start": 1390.932,
+          "end": 1475.44,
+          "note": "May be music, silence or an omission; review audio."
+        },
+        {
+          "kind": "leading_no_speech",
+          "start": 0,
+          "end": 54.8
+        }
+      ]
+    },
+    {
+      "title": "Dev Commentary 6: Interview with The Creative Mindset, Mortal Steel wrapup, Season 2 updates",
+      "source_path": "collected/006-dev-commentary-6-interview-with-the-creative-mindset-mortal-steel-wrapup-season-2-updates.mp3",
+      "counts": {
+        "low_word_logprob": 1
+      },
+      "flags": [
+        {
+          "kind": "low_word_logprob",
+          "word_index": 5007,
+          "start": 894.822,
+          "end": 894.862,
+          "text": " ",
+          "logprob": -1.1010844707489014
+        }
+      ]
+    },
+    {
+      "title": "Mortal Steel: Episode 7",
+      "source_path": "collected/010-mortal-steel-episode-7.mp3",
+      "counts": {
+        "low_word_logprob": 4,
+        "speech_gap_over_20s": 1,
+        "leading_no_speech": 1
+      },
+      "flags": [
+        {
+          "kind": "low_word_logprob",
+          "word_index": 3851,
+          "start": 947.276,
+          "end": 947.336,
+          "text": " ",
+          "logprob": -1.1152979135513306
+        },
+        {
+          "kind": "low_word_logprob",
+          "word_index": 3852,
+          "start": 947.336,
+          "end": 947.556,
+          "text": "sad",
+          "logprob": -1.1152979135513306
+        },
+        {
+          "kind": "low_word_logprob",
+          "word_index": 3853,
+          "start": 947.556,
+          "end": 947.836,
+          "text": " ",
+          "logprob": -1.7964023351669312
+        },
+        {
+          "kind": "low_word_logprob",
+          "word_index": 3854,
+          "start": 947.836,
+          "end": 948.136,
+          "text": "burn.",
+          "logprob": -1.4371980045340025
+        },
+        {
+          "kind": "speech_gap_over_20s",
+          "start": 1525.832,
+          "end": 1576.412,
+          "note": "May be music, silence or an omission; review audio."
+        },
+        {
+          "kind": "leading_no_speech",
+          "start": 0,
+          "end": 53.48
+        }
+      ]
+    },
+    {
+      "title": "Mortal Steel: Episode 6",
+      "source_path": "collected/011-mortal-steel-episode-6.mp3",
+      "counts": {
+        "word_duration_over_3s": 2,
+        "low_word_logprob": 2,
+        "speech_gap_over_20s": 1
+      },
+      "flags": [
+        {
+          "kind": "word_duration_over_3s",
+          "word_index": 2,
+          "text": "Mortal",
+          "start": 8.86,
+          "end": 54.44,
+          "note": "Suspicious word alignment; raw timestamp preserved."
+        },
+        {
+          "kind": "word_duration_over_3s",
+          "word_index": 6014,
+          "text": "feed",
+          "start": 1590.118,
+          "end": 1593.178,
+          "note": "Suspicious word alignment; raw timestamp preserved."
+        },
+        {
+          "kind": "low_word_logprob",
+          "word_index": 6091,
+          "start": 1611.578,
+          "end": 1611.658,
+          "text": " ",
+          "logprob": -1.4509881734848022
+        },
+        {
+          "kind": "low_word_logprob",
+          "word_index": 6092,
+          "start": 1611.658,
+          "end": 1613.198,
+          "text": "come?",
+          "logprob": -1.1684726901352405
+        },
+        {
+          "kind": "speech_gap_over_20s",
+          "start": 1463.428,
+          "end": 1514.318,
+          "note": "May be music, silence or an omission; review audio."
+        }
+      ]
+    },
+    {
+      "title": "Mortal Steel: Episode 5",
+      "source_path": "collected/013-mortal-steel-episode-5.mp3",
+      "counts": {
+        "low_word_logprob": 2,
+        "speech_gap_over_20s": 1,
+        "leading_no_speech": 1
+      },
+      "flags": [
+        {
+          "kind": "low_word_logprob",
+          "word_index": 1699,
+          "start": 410.208,
+          "end": 410.308,
+          "text": " ",
+          "logprob": -1.1319191455841064
+        },
+        {
+          "kind": "low_word_logprob",
+          "word_index": 2981,
+          "start": 686.548,
+          "end": 686.608,
+          "text": " ",
+          "logprob": -1.5565499067306519
+        },
+        {
+          "kind": "speech_gap_over_20s",
+          "start": 1496.896,
+          "end": 1537.116,
+          "note": "May be music, silence or an omission; review audio."
+        },
+        {
+          "kind": "leading_no_speech",
+          "start": 0,
+          "end": 53.92
+        }
+      ]
+    },
+    {
+      "title": "Mortal Steel: Episode 9",
+      "source_path": "collected/007-mortal-steel-episode-9.mp3",
+      "counts": {
+        "word_duration_over_3s": 2,
+        "speech_gap_over_20s": 3
+      },
+      "flags": [
+        {
+          "kind": "word_duration_over_3s",
+          "word_index": 2,
+          "text": "Mortal",
+          "start": 8.86,
+          "end": 55.44,
+          "note": "Suspicious word alignment; raw timestamp preserved."
+        },
+        {
+          "kind": "word_duration_over_3s",
+          "word_index": 4253,
+          "text": "clear.",
+          "start": 1078.004,
+          "end": 1081.504,
+          "note": "Suspicious word alignment; raw timestamp preserved."
+        },
+        {
+          "kind": "speech_gap_over_20s",
+          "start": 636.108,
+          "end": 670.548,
+          "note": "May be music, silence or an omission; review audio."
+        },
+        {
+          "kind": "speech_gap_over_20s",
+          "start": 1193.388,
+          "end": 1216.288,
+          "note": "May be music, silence or an omission; review audio."
+        },
+        {
+          "kind": "speech_gap_over_20s",
+          "start": 1558.08,
+          "end": 1612.78,
+          "note": "May be music, silence or an omission; review audio."
+        }
+      ]
+    },
+    {
+      "title": "Mortal Steel: Episode 2",
+      "source_path": "collected/016-mortal-steel-episode-2.mp3",
+      "counts": {
+        "word_duration_over_3s": 1,
+        "low_word_logprob": 2,
+        "speech_gap_over_20s": 1
+      },
+      "flags": [
+        {
+          "kind": "word_duration_over_3s",
+          "word_index": 2,
+          "text": "Mortal",
+          "start": 9.08,
+          "end": 50.6,
+          "note": "Suspicious word alignment; raw timestamp preserved."
+        },
+        {
+          "kind": "low_word_logprob",
+          "word_index": 2967,
+          "start": 700.52,
+          "end": 700.56,
+          "text": " ",
+          "logprob": -1.0092272758483887
+        },
+        {
+          "kind": "low_word_logprob",
+          "word_index": 2968,
+          "start": 700.56,
+          "end": 700.72,
+          "text": "he",
+          "logprob": -1.0092272758483887
+        },
+        {
+          "kind": "speech_gap_over_20s",
+          "start": 1208.532,
+          "end": 1247.152,
+          "note": "May be music, silence or an omission; review audio."
+        }
+      ]
+    },
+    {
+      "title": "Mortal Steel: Episode 1",
+      "source_path": "collected/018-mortal-steel-episode-1.mp3",
+      "counts": {
+        "cross_recognizer_disagreement": 1,
+        "word_duration_over_3s": 1,
+        "speech_gap_over_20s": 1
+      },
+      "flags": [
+        {
+          "kind": "cross_recognizer_disagreement",
+          "start": 0,
+          "end": 70,
+          "note": "Scribe and independent local recognition disagree. Neither is ground truth; compare with source audio.",
+          "evidence": "pilot-crosschecks.json"
+        },
+        {
+          "kind": "word_duration_over_3s",
+          "word_index": 2,
+          "text": "Mortal",
+          "start": 9.08,
+          "end": 49.64,
+          "note": "Suspicious word alignment; raw timestamp preserved."
+        },
+        {
+          "kind": "speech_gap_over_20s",
+          "start": 1470.81,
+          "end": 1527.62,
+          "note": "May be music, silence or an omission; review audio."
+        }
+      ]
+    },
+    {
+      "title": "Mortal Steel: Episode 3",
+      "source_path": "collected/015-mortal-steel-episode-3.mp3",
+      "counts": {
+        "speech_gap_over_20s": 1,
+        "leading_no_speech": 1
+      },
+      "flags": [
+        {
+          "kind": "speech_gap_over_20s",
+          "start": 1504.328,
+          "end": 1545.308,
+          "note": "May be music, silence or an omission; review audio."
+        },
+        {
+          "kind": "leading_no_speech",
+          "start": 0,
+          "end": 46.8
+        }
+      ]
+    },
+    {
+      "title": "Unlocking human and machine consciousness with Steven Schrembeck",
+      "source_path": "interviews/unlocking-human-and-machine-consciousness-with-steven-schrembeck.mp3",
+      "counts": {
+        "low_word_logprob": 3
+      },
+      "flags": [
+        {
+          "kind": "low_word_logprob",
+          "word_index": 49,
+          "start": 8.1,
+          "end": 8.24,
+          "text": " ",
+          "logprob": -1.279840111732483
+        },
+        {
+          "kind": "low_word_logprob",
+          "word_index": 2851,
+          "start": 470.316,
+          "end": 470.416,
+          "text": "I'll",
+          "logprob": -2.1387290656565767
+        },
+        {
+          "kind": "low_word_logprob",
+          "word_index": 3387,
+          "start": 541.616,
+          "end": 541.616,
+          "text": "Right",
+          "logprob": -1.4864259958267212
+        }
+      ]
+    },
+    {
+      "title": "Mortal Steel: Episode 4",
+      "source_path": "collected/014-mortal-steel-episode-4.mp3",
+      "counts": {
+        "word_duration_over_3s": 1,
+        "speech_gap_over_20s": 1,
+        "leading_no_speech": 1
+      },
+      "flags": [
+        {
+          "kind": "word_duration_over_3s",
+          "word_index": 1066,
+          "text": "0.00057%.",
+          "start": 324.26,
+          "end": 330.14,
+          "note": "Suspicious word alignment; raw timestamp preserved."
+        },
+        {
+          "kind": "speech_gap_over_20s",
+          "start": 1646.526,
+          "end": 1688.946,
+          "note": "May be music, silence or an omission; review audio."
+        },
+        {
+          "kind": "leading_no_speech",
+          "start": 0,
+          "end": 52.92
+        }
+      ]
+    },
+    {
+      "title": "Imagiserum: Episode 1",
+      "source_path": "collected/021-imagiserum-episode-1.mp3",
+      "counts": {
+        "low_word_logprob": 1,
+        "word_duration_over_3s": 1,
+        "speech_gap_over_20s": 1
+      },
+      "flags": [
+        {
+          "kind": "low_word_logprob",
+          "word_index": 0,
+          "start": 0.0,
+          "end": 0.8,
+          "text": "Imagiserum.",
+          "logprob": -1.4802273404281798
+        },
+        {
+          "kind": "word_duration_over_3s",
+          "word_index": 4960,
+          "text": "busy.",
+          "start": 1064.188,
+          "end": 1101.888,
+          "note": "Suspicious word alignment; raw timestamp preserved."
+        },
+        {
+          "kind": "speech_gap_over_20s",
+          "start": 0.8,
+          "end": 46.16,
+          "note": "May be music, silence or an omission; review audio."
+        }
+      ]
+    },
+    {
+      "title": "From Between: The Woodsman",
+      "source_path": "collected/019-from-between-the-woodsman.mp3",
+      "counts": {
+        "word_duration_over_3s": 1
+      },
+      "flags": [
+        {
+          "kind": "word_duration_over_3s",
+          "word_index": 0,
+          "text": "Hello,",
+          "start": 0.14,
+          "end": 18.48,
+          "note": "Suspicious word alignment; raw timestamp preserved."
+        }
+      ]
+    },
+    {
+      "title": "Imagiserum: Episode 2 (raw)",
+      "source_path": "collected/020-imagiserum-episode-2-raw.mp3",
+      "counts": {
+        "word_duration_over_3s": 1,
+        "low_word_logprob": 1,
+        "trailing_no_speech": 1
+      },
+      "flags": [
+        {
+          "kind": "word_duration_over_3s",
+          "word_index": 0,
+          "text": "Imagicum.",
+          "start": 0.0,
+          "end": 45.38,
+          "note": "Suspicious word alignment; raw timestamp preserved."
+        },
+        {
+          "kind": "low_word_logprob",
+          "word_index": 0,
+          "start": 0.0,
+          "end": 45.38,
+          "text": "Imagicum.",
+          "logprob": -1.5498862138224974
+        },
+        {
+          "kind": "trailing_no_speech",
+          "start": 1178.64,
+          "end": 1216.056
+        }
+      ]
+    },
+    {
+      "title": "Steven Schrembeck",
+      "source_path": "interviews/steven-schrembeck.mp3",
+      "counts": {
+        "low_word_logprob": 7,
+        "word_duration_over_3s": 1
+      },
+      "flags": [
+        {
+          "kind": "low_word_logprob",
+          "word_index": 53,
+          "start": 22.2,
+          "end": 22.4,
+          "text": " ",
+          "logprob": -1.2562251091003418
+        },
+        {
+          "kind": "low_word_logprob",
+          "word_index": 54,
+          "start": 22.4,
+          "end": 22.7,
+          "text": "Talk",
+          "logprob": -1.2562251091003418
+        },
+        {
+          "kind": "low_word_logprob",
+          "word_index": 3357,
+          "start": 621.164,
+          "end": 621.244,
+          "text": " ",
+          "logprob": -1.1225169897079468
+        },
+        {
+          "kind": "low_word_logprob",
+          "word_index": 9055,
+          "start": 1534.104,
+          "end": 1534.104,
+          "text": " ",
+          "logprob": -1.0975210666656494
+        },
+        {
+          "kind": "low_word_logprob",
+          "word_index": 9056,
+          "start": 1534.104,
+          "end": 1534.164,
+          "text": "working",
+          "logprob": -1.0975210666656494
+        },
+        {
+          "kind": "low_word_logprob",
+          "word_index": 11294,
+          "start": 1926.36,
+          "end": 1926.36,
+          "text": "...",
+          "logprob": -16.937511444091797
+        },
+        {
+          "kind": "low_word_logprob",
+          "word_index": 15603,
+          "start": 2671.156,
+          "end": 2671.256,
+          "text": "We'll",
+          "logprob": -1.328181838989258
+        },
+        {
+          "kind": "word_duration_over_3s",
+          "word_index": 24280,
+          "text": "\"I'm",
+          "start": 4100.256,
+          "end": 4103.536,
+          "note": "Suspicious word alignment; raw timestamp preserved."
+        }
+      ]
+    },
+    {
+      "title": "Developer Commentary 3: Updates, Sound in Layers, The Two Stories",
+      "source_path": "collected/024-developer-commentary-3-updates-sound-in-layers-the-two-stories.mp3",
+      "counts": {
+        "low_word_logprob": 2
+      },
+      "flags": [
+        {
+          "kind": "low_word_logprob",
+          "word_index": 400,
+          "start": 67.86,
+          "end": 68.72,
+          "text": "Imagiserum.",
+          "logprob": -1.1943256204734676
+        },
+        {
+          "kind": "low_word_logprob",
+          "word_index": 2027,
+          "start": 363.2,
+          "end": 363.44,
+          "text": " ",
+          "logprob": -1.1109672784805298
+        }
+      ]
+    },
+    {
+      "title": "Soulbinder: Episode 2 (raw)",
+      "source_path": "collected/025-soulbinder-episode-2-raw.mp3",
+      "counts": {
+        "speech_gap_over_20s": 1,
+        "trailing_no_speech": 1
+      },
+      "flags": [
+        {
+          "kind": "speech_gap_over_20s",
+          "start": 0.32,
+          "end": 50.02,
+          "note": "May be music, silence or an omission; review audio."
+        },
+        {
+          "kind": "trailing_no_speech",
+          "start": 1129.468,
+          "end": 1172.256
+        }
+      ]
+    },
+    {
+      "title": "Soulbinder: Episode 1",
+      "source_path": "collected/026-soulbinder-episode-1.mp3",
+      "counts": {
+        "word_duration_over_3s": 1,
+        "speech_gap_over_20s": 1
+      },
+      "flags": [
+        {
+          "kind": "word_duration_over_3s",
+          "word_index": 5986,
+          "text": "more.",
+          "start": 1366.864,
+          "end": 1410.004,
+          "note": "Suspicious word alignment; raw timestamp preserved."
+        },
+        {
+          "kind": "speech_gap_over_20s",
+          "start": 15.3,
+          "end": 65.72,
+          "note": "May be music, silence or an omission; review audio."
+        }
+      ]
+    },
+    {
+      "title": "Beyond Logic: Steven Schrembeck on Mind Sight, Soul Families, and the Edges of Consciousness",
+      "source_path": "interviews/beyond-logic-steven-schrembeck-on-mind-sight-soul-families-and-the-edges-of-consciousness.mp3",
+      "counts": {
+        "low_word_logprob": 1,
+        "word_duration_over_3s": 1
+      },
+      "flags": [
+        {
+          "kind": "low_word_logprob",
+          "word_index": 3580,
+          "start": 627.356,
+          "end": 627.416,
+          "text": " ",
+          "logprob": -1.0616559982299805
+        },
+        {
+          "kind": "word_duration_over_3s",
+          "word_index": 30899,
+          "text": "gospelsofrupture.substack.com.",
+          "start": 4958.028,
+          "end": 4962.248,
+          "note": "Suspicious word alignment; raw timestamp preserved."
+        }
+      ]
+    },
+    {
+      "title": "Mortal Steel Pilot: Episode 2 (raw)",
+      "source_path": "collected/022-mortal-steel-pilot-episode-2-raw.mp3",
+      "counts": {
+        "speech_gap_over_20s": 1,
+        "trailing_no_speech": 1
+      },
+      "flags": [
+        {
+          "kind": "speech_gap_over_20s",
+          "start": 2.0,
+          "end": 54.2,
+          "note": "May be music, silence or an omission; review audio."
+        },
+        {
+          "kind": "trailing_no_speech",
+          "start": 1170.446,
+          "end": 1225.56
+        }
+      ]
+    },
+    {
+      "title": "Volaxis: Episode 2",
+      "source_path": "collected/027-volaxis-episode-2.mp3",
+      "counts": {
+        "word_duration_over_3s": 1,
+        "low_word_logprob": 1,
+        "trailing_no_speech": 1
+      },
+      "flags": [
+        {
+          "kind": "word_duration_over_3s",
+          "word_index": 0,
+          "text": "Velaxis.",
+          "start": 0.1,
+          "end": 41.2,
+          "note": "Suspicious word alignment; raw timestamp preserved."
+        },
+        {
+          "kind": "low_word_logprob",
+          "word_index": 681,
+          "start": 193.12,
+          "end": 193.2,
+          "text": " ",
+          "logprob": -1.6807847023010254
+        },
+        {
+          "kind": "trailing_no_speech",
+          "start": 1494.382,
+          "end": 1535.472
+        }
+      ]
+    },
+    {
+      "title": "#1300 - Empowering Minds with AI: Steven Schrembeck on Technology, Self-Control, and Mental Clarity",
+      "source_path": "interviews/1300-empowering-minds-with-ai-steven-schrembeck-on-technology-self-control-and-mental-clarity.mp3",
+      "counts": {
+        "low_word_logprob": 4
+      },
+      "flags": [
+        {
+          "kind": "low_word_logprob",
+          "word_index": 1231,
+          "start": 219.04,
+          "end": 219.3,
+          "text": " ",
+          "logprob": -1.1696635484695435
+        },
+        {
+          "kind": "low_word_logprob",
+          "word_index": 1471,
+          "start": 261.16,
+          "end": 261.22,
+          "text": " ",
+          "logprob": -1.0226802825927734
+        },
+        {
+          "kind": "low_word_logprob",
+          "word_index": 10611,
+          "start": 1721.226,
+          "end": 1721.246,
+          "text": " ",
+          "logprob": -2.551910877227783
+        },
+        {
+          "kind": "low_word_logprob",
+          "word_index": 10612,
+          "start": 1721.246,
+          "end": 1721.406,
+          "text": "Visit",
+          "logprob": -2.551910877227783
+        }
+      ]
+    },
+    {
+      "title": "Everhouse: Episode 2",
+      "source_path": "collected/029-everhouse-episode-2.mp3",
+      "counts": {
+        "leading_no_speech": 1,
+        "trailing_no_speech": 1
+      },
+      "flags": [
+        {
+          "kind": "leading_no_speech",
+          "start": 0,
+          "end": 49.92
+        },
+        {
+          "kind": "trailing_no_speech",
+          "start": 1347.086,
+          "end": 1369.416
+        }
+      ]
+    },
+    {
+      "title": "Mortal Steel Pilot: Episode 1",
+      "source_path": "collected/023-mortal-steel-pilot-episode-1.mp3",
+      "counts": {
+        "word_duration_over_3s": 1,
+        "low_word_logprob": 2,
+        "trailing_no_speech": 1
+      },
+      "flags": [
+        {
+          "kind": "word_duration_over_3s",
+          "word_index": 2,
+          "text": "Mortal",
+          "start": 7.06,
+          "end": 51.9,
+          "note": "Suspicious word alignment; raw timestamp preserved."
+        },
+        {
+          "kind": "low_word_logprob",
+          "word_index": 3023,
+          "start": 725.376,
+          "end": 725.396,
+          "text": " ",
+          "logprob": -1.3044602870941162
+        },
+        {
+          "kind": "low_word_logprob",
+          "word_index": 3024,
+          "start": 727.376,
+          "end": 727.936,
+          "text": "Especially",
+          "logprob": -1.3044602870941162
+        },
+        {
+          "kind": "trailing_no_speech",
+          "start": 1654.256,
+          "end": 1707.36
+        }
+      ]
+    },
+    {
+      "title": "Developer Commentary 2",
+      "source_path": "collected/031-developer-commentary-2.mp3",
+      "counts": {
+        "catalog_name_spelling_review": 1
+      },
+      "flags": [
+        {
+          "kind": "catalog_name_spelling_review",
+          "word_index": 2002,
+          "start": 352.4,
+          "end": 354.6,
+          "text": "stephen.schrimbeck@protonmail.com.",
+          "note": "Catalog spells the author Steven Schrembeck; machine text retained."
+        }
+      ]
+    },
+    {
+      "title": "#107 Unraveling the Future of AI: The Developer's Perspective with Steven Schrembeck",
+      "source_path": "interviews/107-unraveling-the-future-of-ai-the-developer-s-perspective-with-steven-schrembeck.mp3",
+      "counts": {
+        "low_word_logprob": 5
+      },
+      "flags": [
+        {
+          "kind": "low_word_logprob",
+          "word_index": 1205,
+          "start": 220.0,
+          "end": 220.16,
+          "text": " ",
+          "logprob": -1.1540119647979736
+        },
+        {
+          "kind": "low_word_logprob",
+          "word_index": 3077,
+          "start": 558.38,
+          "end": 558.44,
+          "text": " ",
+          "logprob": -1.106542944908142
+        },
+        {
+          "kind": "low_word_logprob",
+          "word_index": 3078,
+          "start": 558.44,
+          "end": 558.8,
+          "text": "output",
+          "logprob": -1.106542944908142
+        },
+        {
+          "kind": "low_word_logprob",
+          "word_index": 6053,
+          "start": 1065.632,
+          "end": 1065.632,
+          "text": "--",
+          "logprob": -1.036205530166626
+        },
+        {
+          "kind": "low_word_logprob",
+          "word_index": 14677,
+          "start": 2581.16,
+          "end": 2581.46,
+          "text": "peopl-",
+          "logprob": -1.1138866145586992
+        }
+      ]
+    },
+    {
+      "title": "Planescarred: Episode 2 (raw)",
+      "source_path": "collected/032-planescarred-episode-2-raw.mp3",
+      "counts": {
+        "leading_no_speech": 1,
+        "trailing_no_speech": 1
+      },
+      "flags": [
+        {
+          "kind": "leading_no_speech",
+          "start": 0,
+          "end": 53.56
+        },
+        {
+          "kind": "trailing_no_speech",
+          "start": 1501.08,
+          "end": 1573.272
+        }
+      ]
+    },
+    {
+      "title": "Volaxis: Episode 1",
+      "source_path": "collected/028-volaxis-episode-1.mp3",
+      "counts": {
+        "low_word_logprob": 1,
+        "word_duration_over_3s": 1,
+        "leading_no_speech": 1,
+        "trailing_no_speech": 1
+      },
+      "flags": [
+        {
+          "kind": "low_word_logprob",
+          "word_index": 1,
+          "start": 5.46,
+          "end": 5.46,
+          "text": " ",
+          "logprob": -1.1778736114501953
+        },
+        {
+          "kind": "word_duration_over_3s",
+          "word_index": 1040,
+          "text": "\"Have",
+          "start": 252.44,
+          "end": 255.56,
+          "note": "Suspicious word alignment; raw timestamp preserved."
+        },
+        {
+          "kind": "leading_no_speech",
+          "start": 0,
+          "end": 41.74
+        },
+        {
+          "kind": "trailing_no_speech",
+          "start": 1710.196,
+          "end": 1751.352
+        }
+      ]
+    },
+    {
+      "title": "Planescarred: Episode 1",
+      "source_path": "collected/033-planescarred-episode-1.mp3",
+      "counts": {
+        "word_duration_over_3s": 2,
+        "low_word_logprob": 2,
+        "trailing_no_speech": 1
+      },
+      "flags": [
+        {
+          "kind": "word_duration_over_3s",
+          "word_index": 0,
+          "text": "Planesguard.",
+          "start": 0.42,
+          "end": 56.02,
+          "note": "Suspicious word alignment; raw timestamp preserved."
+        },
+        {
+          "kind": "low_word_logprob",
+          "word_index": 965,
+          "start": 268.36,
+          "end": 268.42,
+          "text": " ",
+          "logprob": -1.1885225772857666
+        },
+        {
+          "kind": "word_duration_over_3s",
+          "word_index": 4118,
+          "text": "\"You",
+          "start": 924.732,
+          "end": 928.032,
+          "note": "Suspicious word alignment; raw timestamp preserved."
+        },
+        {
+          "kind": "low_word_logprob",
+          "word_index": 7747,
+          "start": 1684.46,
+          "end": 1684.54,
+          "text": " ",
+          "logprob": -1.1489511728286743
+        },
+        {
+          "kind": "trailing_no_speech",
+          "start": 1763.2,
+          "end": 1835.784
+        }
+      ]
+    },
+    {
+      "title": "NoSleep Podcast S9E09",
+      "source_path": "interviews/nosleep-podcast-s9e09.mp3",
+      "counts": {
+        "cross_recognizer_disagreement": 1,
+        "word_duration_over_3s": 2,
+        "low_word_logprob": 4,
+        "speech_gap_over_20s": 4,
+        "trailing_no_speech": 1
+      },
+      "flags": [
+        {
+          "kind": "cross_recognizer_disagreement",
+          "start": 0,
+          "end": 70,
+          "note": "Scribe and independent local recognition disagree. Neither is ground truth; compare with source audio.",
+          "evidence": "supplemental-crosschecks.json"
+        },
+        {
+          "kind": "word_duration_over_3s",
+          "word_index": 310,
+          "text": "disturb.",
+          "start": 80.56,
+          "end": 84.34,
+          "note": "Suspicious word alignment; raw timestamp preserved."
+        },
+        {
+          "kind": "low_word_logprob",
+          "word_index": 10091,
+          "start": 2121.808,
+          "end": 2121.808,
+          "text": " ",
+          "logprob": -1.0341395139694214
+        },
+        {
+          "kind": "low_word_logprob",
+          "word_index": 10092,
+          "start": 2126.828,
+          "end": 2127.108,
+          "text": "I",
+          "logprob": -1.0341395139694214
+        },
+        {
+          "kind": "low_word_logprob",
+          "word_index": 19481,
+          "start": 4421.364,
+          "end": 4421.844,
+          "text": " ",
+          "logprob": -1.8206270933151245
+        },
+        {
+          "kind": "low_word_logprob",
+          "word_index": 19482,
+          "start": 4421.844,
+          "end": 4422.304,
+          "text": "Akatic",
+          "logprob": -1.5936402877171834
+        },
+        {
+          "kind": "word_duration_over_3s",
+          "word_index": 20086,
+          "text": "fog.",
+          "start": 4612.824,
+          "end": 4616.324,
+          "note": "Suspicious word alignment; raw timestamp preserved."
+        },
+        {
+          "kind": "speech_gap_over_20s",
+          "start": 88.96,
+          "end": 113.7,
+          "note": "May be music, silence or an omission; review audio."
+        },
+        {
+          "kind": "speech_gap_over_20s",
+          "start": 1059.616,
+          "end": 1091.776,
+          "note": "May be music, silence or an omission; review audio."
+        },
+        {
+          "kind": "speech_gap_over_20s",
+          "start": 2609.856,
+          "end": 2643.516,
+          "note": "May be music, silence or an omission; review audio."
+        },
+        {
+          "kind": "speech_gap_over_20s",
+          "start": 4524.504,
+          "end": 4574.504,
+          "note": "May be music, silence or an omission; review audio."
+        },
+        {
+          "kind": "trailing_no_speech",
+          "start": 4633.904,
+          "end": 4657.998367
+        }
+      ]
+    },
+    {
+      "title": "Everhouse: Episode 1",
+      "source_path": "collected/030-everhouse-episode-1.mp3",
+      "counts": {
+        "leading_no_speech": 1,
+        "trailing_no_speech": 1
+      },
+      "flags": [
+        {
+          "kind": "leading_no_speech",
+          "start": 0,
+          "end": 50.36
+        },
+        {
+          "kind": "trailing_no_speech",
+          "start": 1690.766,
+          "end": 1712.112
+        }
+      ]
+    },
+    {
+      "title": "Dust: Episode 1",
+      "source_path": "collected/039-dust-episode-1.mp3",
+      "counts": {
+        "low_word_logprob": 1,
+        "speech_gap_over_20s": 1,
+        "leading_no_speech": 1
+      },
+      "flags": [
+        {
+          "kind": "low_word_logprob",
+          "word_index": 3403,
+          "start": 787.132,
+          "end": 787.192,
+          "text": " ",
+          "logprob": -1.4820960760116577
+        },
+        {
+          "kind": "speech_gap_over_20s",
+          "start": 1478.668,
+          "end": 1532.488,
+          "note": "May be music, silence or an omission; review audio."
+        },
+        {
+          "kind": "leading_no_speech",
+          "start": 0,
+          "end": 49.46
+        }
+      ]
+    },
+    {
+      "title": "Dust: Episode 2 (raw)",
+      "source_path": "collected/038-dust-episode-2-raw.mp3",
+      "counts": {
+        "word_duration_over_3s": 1,
+        "trailing_no_speech": 1
+      },
+      "flags": [
+        {
+          "kind": "word_duration_over_3s",
+          "word_index": 0,
+          "text": "Dust.",
+          "start": 0.0,
+          "end": 50.4,
+          "note": "Suspicious word alignment; raw timestamp preserved."
+        },
+        {
+          "kind": "trailing_no_speech",
+          "start": 1657.904,
+          "end": 1710.048
+        }
+      ]
+    },
+    {
+      "title": "The Summoner's Rulebook: Episode 1",
+      "source_path": "collected/036-the-summoner-s-rulebook-episode-1.mp3",
+      "counts": {
+        "word_duration_over_3s": 1,
+        "leading_no_speech": 1
+      },
+      "flags": [
+        {
+          "kind": "word_duration_over_3s",
+          "word_index": 7564,
+          "text": "again.",
+          "start": 1548.012,
+          "end": 1581.312,
+          "note": "Suspicious word alignment; raw timestamp preserved."
+        },
+        {
+          "kind": "leading_no_speech",
+          "start": 0,
+          "end": 31.32
+        }
+      ]
+    },
+    {
+      "title": "The Eighth Self: Episode 2 (raw)",
+      "source_path": "collected/040-the-eighth-self-episode-2-raw.mp3",
+      "counts": {
+        "word_duration_over_3s": 1,
+        "low_word_logprob": 3,
+        "trailing_no_speech": 1
+      },
+      "flags": [
+        {
+          "kind": "word_duration_over_3s",
+          "word_index": 0,
+          "text": "The",
+          "start": 0.12,
+          "end": 27.84,
+          "note": "Suspicious word alignment; raw timestamp preserved."
+        },
+        {
+          "kind": "low_word_logprob",
+          "word_index": 2547,
+          "start": 602.336,
+          "end": 602.456,
+          "text": " ",
+          "logprob": -1.1830787658691406
+        },
+        {
+          "kind": "low_word_logprob",
+          "word_index": 3278,
+          "start": 747.096,
+          "end": 747.576,
+          "text": "Tel-Tar",
+          "logprob": -1.2753612688476486
+        },
+        {
+          "kind": "low_word_logprob",
+          "word_index": 3686,
+          "start": 828.596,
+          "end": 829.136,
+          "text": "Teongo",
+          "logprob": -1.0190394520759583
+        },
+        {
+          "kind": "trailing_no_speech",
+          "start": 1235.56,
+          "end": 1256.808
+        }
+      ]
+    },
+    {
+      "title": "The Stillness: Episode 2 (raw)",
+      "source_path": "collected/042-the-stillness-episode-2-raw.mp3",
+      "counts": {
+        "low_word_logprob": 7,
+        "leading_no_speech": 1,
+        "trailing_no_speech": 1
+      },
+      "flags": [
+        {
+          "kind": "low_word_logprob",
+          "word_index": 1569,
+          "start": 321.76,
+          "end": 321.8,
+          "text": " ",
+          "logprob": -3.1472160816192627
+        },
+        {
+          "kind": "low_word_logprob",
+          "word_index": 1570,
+          "start": 321.8,
+          "end": 321.92,
+          "text": "they",
+          "logprob": -3.1472160816192627
+        },
+        {
+          "kind": "low_word_logprob",
+          "word_index": 1571,
+          "start": 321.92,
+          "end": 321.98,
+          "text": " ",
+          "logprob": -1.197369933128357
+        },
+        {
+          "kind": "low_word_logprob",
+          "word_index": 1572,
+          "start": 321.98,
+          "end": 322.14,
+          "text": "got",
+          "logprob": -1.197369933128357
+        },
+        {
+          "kind": "low_word_logprob",
+          "word_index": 4887,
+          "start": 961.26,
+          "end": 961.26,
+          "text": " ",
+          "logprob": -1.377256989479065
+        },
+        {
+          "kind": "low_word_logprob",
+          "word_index": 6009,
+          "start": 1156.636,
+          "end": 1156.696,
+          "text": " ",
+          "logprob": -1.6886128187179565
+        },
+        {
+          "kind": "low_word_logprob",
+          "word_index": 6010,
+          "start": 1156.696,
+          "end": 1157.196,
+          "text": "Ermia",
+          "logprob": -1.2156133890151977
+        },
+        {
+          "kind": "leading_no_speech",
+          "start": 0,
+          "end": 32.0
+        },
+        {
+          "kind": "trailing_no_speech",
+          "start": 1196.136,
+          "end": 1249.944
+        }
+      ]
+    },
+    {
+      "title": "The Summoner's Rulebook: Episode 2 (raw)",
+      "source_path": "collected/035-the-summoner-s-rulebook-episode-2-raw.mp3",
+      "counts": {
+        "speech_gap_over_20s": 1,
+        "trailing_no_speech": 1
+      },
+      "flags": [
+        {
+          "kind": "speech_gap_over_20s",
+          "start": 0.16,
+          "end": 35.46,
+          "note": "May be music, silence or an omission; review audio."
+        },
+        {
+          "kind": "trailing_no_speech",
+          "start": 1733.424,
+          "end": 1772.52
+        }
+      ]
+    },
+    {
+      "title": "The Eighth Self: Episode 1 (raw)",
+      "source_path": "collected/041-the-eighth-self-episode-1-raw.mp3",
+      "counts": {
+        "word_duration_over_3s": 1,
+        "trailing_no_speech": 1
+      },
+      "flags": [
+        {
+          "kind": "word_duration_over_3s",
+          "word_index": 0,
+          "text": "The",
+          "start": 0.1,
+          "end": 29.58,
+          "note": "Suspicious word alignment; raw timestamp preserved."
+        },
+        {
+          "kind": "trailing_no_speech",
+          "start": 1656.948,
+          "end": 1678.584
+        }
+      ]
+    },
+    {
+      "title": "Fractality: Episode 2 (raw)",
+      "source_path": "collected/044-fractality-episode-2-raw.mp3",
+      "counts": {
+        "word_duration_over_3s": 2,
+        "low_word_logprob": 4
+      },
+      "flags": [
+        {
+          "kind": "word_duration_over_3s",
+          "word_index": 546,
+          "text": "\"4,000.\"",
+          "start": 111.0,
+          "end": 114.4,
+          "note": "Suspicious word alignment; raw timestamp preserved."
+        },
+        {
+          "kind": "low_word_logprob",
+          "word_index": 1917,
+          "start": 367.892,
+          "end": 367.912,
+          "text": " ",
+          "logprob": -1.0375349521636963
+        },
+        {
+          "kind": "word_duration_over_3s",
+          "word_index": 2292,
+          "text": "\"Theodore?\"",
+          "start": 439.852,
+          "end": 445.352,
+          "note": "Suspicious word alignment; raw timestamp preserved."
+        },
+        {
+          "kind": "low_word_logprob",
+          "word_index": 5542,
+          "start": 1099.52,
+          "end": 1099.52,
+          "text": " ",
+          "logprob": -1.298136830329895
+        },
+        {
+          "kind": "low_word_logprob",
+          "word_index": 5543,
+          "start": 1100.16,
+          "end": 1100.38,
+          "text": "Phase",
+          "logprob": -1.298136830329895
+        },
+        {
+          "kind": "low_word_logprob",
+          "word_index": 9312,
+          "start": 1838.408,
+          "end": 1838.408,
+          "text": " ",
+          "logprob": -1.171949028968811
+        }
+      ]
+    },
+    {
+      "title": "Allegiance: Episode 1 (raw)",
+      "source_path": "collected/047-allegiance-episode-1-raw.mp3",
+      "counts": {
+        "word_duration_over_3s": 1
+      },
+      "flags": [
+        {
+          "kind": "word_duration_over_3s",
+          "word_index": 0,
+          "text": "Allegiance.",
+          "start": 0.26,
+          "end": 16.74,
+          "note": "Suspicious word alignment; raw timestamp preserved."
+        }
+      ]
+    },
+    {
+      "title": "Allegiance: Episode 2 (raw)",
+      "source_path": "collected/046-allegiance-episode-2-raw.mp3",
+      "counts": {
+        "word_duration_over_3s": 2
+      },
+      "flags": [
+        {
+          "kind": "word_duration_over_3s",
+          "word_index": 0,
+          "text": "Allegiance.",
+          "start": 0.26,
+          "end": 15.8,
+          "note": "Suspicious word alignment; raw timestamp preserved."
+        },
+        {
+          "kind": "word_duration_over_3s",
+          "word_index": 3988,
+          "text": "\"Mornin',",
+          "start": 811.872,
+          "end": 815.472,
+          "note": "Suspicious word alignment; raw timestamp preserved."
+        }
+      ]
+    },
+    {
+      "title": "The Stillness: Episode 1",
+      "source_path": "collected/043-the-stillness-episode-1.mp3",
+      "counts": {
+        "low_word_logprob": 4,
+        "word_duration_over_3s": 1
+      },
+      "flags": [
+        {
+          "kind": "low_word_logprob",
+          "word_index": 4281,
+          "start": 927.164,
+          "end": 927.224,
+          "text": " ",
+          "logprob": -1.033237099647522
+        },
+        {
+          "kind": "low_word_logprob",
+          "word_index": 4282,
+          "start": 927.224,
+          "end": 927.364,
+          "text": "should",
+          "logprob": -1.033237099647522
+        },
+        {
+          "kind": "low_word_logprob",
+          "word_index": 5416,
+          "start": 1155.956,
+          "end": 1156.796,
+          "text": "Ormaya.",
+          "logprob": -1.0125610451733726
+        },
+        {
+          "kind": "low_word_logprob",
+          "word_index": 5811,
+          "start": 1249.796,
+          "end": 1249.876,
+          "text": " ",
+          "logprob": -1.1089307069778442
+        },
+        {
+          "kind": "word_duration_over_3s",
+          "word_index": 8162,
+          "text": "tomorrow.",
+          "start": 1750.228,
+          "end": 1801.888,
+          "note": "Suspicious word alignment; raw timestamp preserved."
+        }
+      ]
+    },
+    {
+      "title": "The Answer to Why We Are Seeking Minima",
+      "source_path": "youtube/20230308-iFInjbZB0Yk-The Answer to Why We Are Seeking Minima.webm",
+      "counts": {
+        "no_words": 1
+      },
+      "flags": [
+        {
+          "kind": "no_words"
+        }
+      ]
+    },
+    {
+      "title": "Have you thought about the idea that you are actually self employed?",
+      "source_path": "youtube/20230329-CpVUxs-BSbY-Have you thought about the idea that you are actually self employed？.webm",
+      "counts": {
+        "no_words": 1
+      },
+      "flags": [
+        {
+          "kind": "no_words"
+        }
+      ]
+    },
+    {
+      "title": "Reverie Teaser",
+      "source_path": "youtube/20230216-Uwj1bkST5Xk-Reverie Teaser.webm",
+      "counts": {
+        "cross_recognizer_disagreement": 2
+      },
+      "flags": [
+        {
+          "kind": "cross_recognizer_disagreement",
+          "start": 0,
+          "end": 8.021,
+          "note": "Scribe and independent local recognition disagree. Neither is ground truth; compare with source audio.",
+          "evidence": "supplemental-crosschecks.json"
+        },
+        {
+          "kind": "cross_recognizer_disagreement",
+          "start": 0,
+          "end": 8.021,
+          "note": "Scribe and independent local recognition disagree. Neither is ground truth; compare with source audio.",
+          "evidence": "supplemental-crosschecks.json"
+        }
+      ]
+    },
+    {
+      "title": "The Dopamine Ladder…",
+      "source_path": "youtube/20230322-BuEReSReENg-The Dopamine Ladder….webm",
+      "counts": {
+        "no_words": 1
+      },
+      "flags": [
+        {
+          "kind": "no_words"
+        }
+      ]
+    },
+    {
+      "title": "Instructions For Prototyping ChatGPT Products",
+      "source_path": "youtube/20230212-XO-REklMsgc-Instructions For Prototyping ChatGPT Products.webm",
+      "counts": {
+        "word_duration_over_3s": 3,
+        "low_word_logprob": 2,
+        "speech_gap_over_20s": 1
+      },
+      "flags": [
+        {
+          "kind": "word_duration_over_3s",
+          "word_index": 6296,
+          "text": "\"Hi,",
+          "start": 1201.126,
+          "end": 1205.746,
+          "note": "Suspicious word alignment; raw timestamp preserved."
+        },
+        {
+          "kind": "word_duration_over_3s",
+          "word_index": 7392,
+          "text": "\"Caller",
+          "start": 1451.186,
+          "end": 1456.906,
+          "note": "Suspicious word alignment; raw timestamp preserved."
+        },
+        {
+          "kind": "word_duration_over_3s",
+          "word_index": 10002,
+          "text": "reinforcement",
+          "start": 2048.836,
+          "end": 2052.176,
+          "note": "Suspicious word alignment; raw timestamp preserved."
+        },
+        {
+          "kind": "low_word_logprob",
+          "word_index": 10681,
+          "start": 2166.976,
+          "end": 2167.396,
+          "text": " ",
+          "logprob": -1.1257270574569702
+        },
+        {
+          "kind": "low_word_logprob",
+          "word_index": 10682,
+          "start": 2167.396,
+          "end": 2167.776,
+          "text": "basically",
+          "logprob": -1.1257270574569702
+        },
+        {
+          "kind": "speech_gap_over_20s",
+          "start": 1632.196,
+          "end": 1673.856,
+          "note": "May be music, silence or an omission; review audio."
+        }
+      ]
+    }
+  ]
+}

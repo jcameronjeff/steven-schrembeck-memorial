@@ -1,0 +1,10 @@
+
+
+
+{
+ "resultCount":1,
+ "results": [
+{"wrapperType":"track", "kind":"podcast", "collectionId":1709388730, "trackId":1709388730, "artistName":"KGRA Digital Broadcasting", "collectionName":"KGRA Digital Broadcasting Discovery", "trackName":"KGRA Digital Broadcasting Discovery", "collectionCensoredName":"KGRA Digital Broadcasting Discovery", "trackCensoredName":"KGRA Digital Broadcasting Discovery", "collectionViewUrl":"https://podcasts.apple.com/us/podcast/kgra-digital-broadcasting-discovery/id1709388730?uo=4", "feedUrl":"https://www.spreaker.com/show/2145544/episodes/feed", "trackViewUrl":"https://podcasts.apple.com/us/podcast/kgra-digital-broadcasting-discovery/id1709388730?uo=4", "artworkUrl30":"https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/60/d7/a3/60d7a3ee-8d9a-d559-ddb3-66804860b206/mza_15139920023300693250.jpg/30x30bb.jpg", "artworkUrl60":"https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/60/d7/a3/60d7a3ee-8d9a-d559-ddb3-66804860b206/mza_15139920023300693250.jpg/60x60bb.jpg", "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/60/d7/a3/60d7a3ee-8d9a-d559-ddb3-66804860b206/mza_15139920023300693250.jpg/100x100bb.jpg", "collectionPrice":0.00, "trackPrice":0.00, "collectionHdPrice":0, "releaseDate":"2025-12-27T00:00:00Z", "collectionExplicitness":"notExplicit", "trackExplicitness":"explicit", "trackCount":33, "trackTimeMillis":6440, "country":"USA", "currency":"USD", "primaryGenreName":"Society & Culture", "contentAdvisoryRating":"Explicit", "artworkUrl600":"https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/60/d7/a3/60d7a3ee-8d9a-d559-ddb3-66804860b206/mza_15139920023300693250.jpg/600x600bb.jpg", "genreIds":["1324", "26", "1488"], "genres":["Society & Culture", "Podcasts", "True Crime"]}]
+}
+
+

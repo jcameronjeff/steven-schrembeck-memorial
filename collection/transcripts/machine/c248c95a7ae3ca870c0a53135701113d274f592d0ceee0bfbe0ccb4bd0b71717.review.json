@@ -1,0 +1,64 @@
+{
+  "source_path": "collected/044-fractality-episode-2-raw.mp3",
+  "automated_flags": [
+    {
+      "kind": "word_duration_over_3s",
+      "word_index": 546,
+      "text": "\"4,000.\"",
+      "start": 111.0,
+      "end": 114.4,
+      "note": "Suspicious word alignment; raw timestamp preserved."
+    },
+    {
+      "kind": "low_word_logprob",
+      "word_index": 1917,
+      "start": 367.892,
+      "end": 367.912,
+      "text": " ",
+      "logprob": -1.0375349521636963
+    },
+    {
+      "kind": "word_duration_over_3s",
+      "word_index": 2292,
+      "text": "\"Theodore?\"",
+      "start": 439.852,
+      "end": 445.352,
+      "note": "Suspicious word alignment; raw timestamp preserved."
+    },
+    {
+      "kind": "low_word_logprob",
+      "word_index": 5542,
+      "start": 1099.52,
+      "end": 1099.52,
+      "text": " ",
+      "logprob": -1.298136830329895
+    },
+    {
+      "kind": "low_word_logprob",
+      "word_index": 5543,
+      "start": 1100.16,
+      "end": 1100.38,
+      "text": "Phase",
+      "logprob": -1.298136830329895
+    },
+    {
+      "kind": "low_word_logprob",
+      "word_index": 9312,
+      "start": 1838.408,
+      "end": 1838.408,
+      "text": " ",
+      "logprob": -1.171949028968811
+    }
+  ],
+  "flags_are_review_candidates_not_confirmed_errors": true,
+  "raw_word_count": 10220,
+  "spoken_word_count": 5109,
+  "speaker_ids": [
+    "speaker_0"
+  ],
+  "subtitle_cue_count": 386,
+  "first_speech_seconds": 0.66,
+  "last_speech_seconds": 2014.748,
+  "human_correction_status": "uncorrected",
+  "source_offset_seconds": 0
+}

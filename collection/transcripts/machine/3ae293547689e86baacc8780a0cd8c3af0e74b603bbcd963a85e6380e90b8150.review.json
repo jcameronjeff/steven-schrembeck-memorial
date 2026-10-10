@@ -1,0 +1,40 @@
+{
+  "source_path": "collected/014-mortal-steel-episode-4.mp3",
+  "automated_flags": [
+    {
+      "kind": "word_duration_over_3s",
+      "word_index": 1066,
+      "text": "0.00057%.",
+      "start": 324.26,
+      "end": 330.14,
+      "note": "Suspicious word alignment; raw timestamp preserved."
+    },
+    {
+      "kind": "speech_gap_over_20s",
+      "start": 1646.526,
+      "end": 1688.946,
+      "note": "May be music, silence or an omission; review audio."
+    },
+    {
+      "kind": "leading_no_speech",
+      "start": 0,
+      "end": 52.92
+    }
+  ],
+  "flags_are_review_candidates_not_confirmed_errors": true,
+  "raw_word_count": 6289,
+  "spoken_word_count": 3133,
+  "speaker_ids": [
+    "speaker_0",
+    "speaker_1",
+    "speaker_2",
+    "speaker_3",
+    "speaker_4",
+    "speaker_5"
+  ],
+  "subtitle_cue_count": 342,
+  "first_speech_seconds": 52.92,
+  "last_speech_seconds": 1767.306,
+  "human_correction_status": "uncorrected",
+  "source_offset_seconds": 0
+}

@@ -1,0 +1,24 @@
+{
+  "source_path": "collected/031-developer-commentary-2.mp3",
+  "automated_flags": [
+    {
+      "kind": "catalog_name_spelling_review",
+      "word_index": 2002,
+      "start": 352.4,
+      "end": 354.6,
+      "text": "stephen.schrimbeck@protonmail.com.",
+      "note": "Catalog spells the author Steven Schrembeck; machine text retained."
+    }
+  ],
+  "flags_are_review_candidates_not_confirmed_errors": true,
+  "raw_word_count": 2439,
+  "spoken_word_count": 1212,
+  "speaker_ids": [
+    "speaker_0"
+  ],
+  "subtitle_cue_count": 83,
+  "first_speech_seconds": 1.6,
+  "last_speech_seconds": 428.32,
+  "human_correction_status": "uncorrected",
+  "source_offset_seconds": 0
+}

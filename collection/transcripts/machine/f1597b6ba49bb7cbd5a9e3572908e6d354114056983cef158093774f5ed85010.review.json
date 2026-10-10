@@ -1,0 +1,38 @@
+{
+  "source_path": "collected/021-imagiserum-episode-1.mp3",
+  "automated_flags": [
+    {
+      "kind": "low_word_logprob",
+      "word_index": 0,
+      "start": 0.0,
+      "end": 0.8,
+      "text": "Imagiserum.",
+      "logprob": -1.4802273404281798
+    },
+    {
+      "kind": "word_duration_over_3s",
+      "word_index": 4960,
+      "text": "busy.",
+      "start": 1064.188,
+      "end": 1101.888,
+      "note": "Suspicious word alignment; raw timestamp preserved."
+    },
+    {
+      "kind": "speech_gap_over_20s",
+      "start": 0.8,
+      "end": 46.16,
+      "note": "May be music, silence or an omission; review audio."
+    }
+  ],
+  "flags_are_review_candidates_not_confirmed_errors": true,
+  "raw_word_count": 4961,
+  "spoken_word_count": 2481,
+  "speaker_ids": [
+    "speaker_0"
+  ],
+  "subtitle_cue_count": 185,
+  "first_speech_seconds": 0.0,
+  "last_speech_seconds": 1101.888,
+  "human_correction_status": "uncorrected",
+  "source_offset_seconds": 0
+}
