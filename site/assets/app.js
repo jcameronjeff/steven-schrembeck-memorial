@@ -22,10 +22,14 @@ function applyFilters() {
   const query = (search?.value || '').trim().toLocaleLowerCase();
   let count = 0;
   for (const entry of entries) {
-    const show = (category === 'all' || (category === 'featured' && entry.dataset.main === 'true') || entry.dataset.kind === category) && entry.textContent.toLocaleLowerCase().includes(query);
+    const show = (category === 'all' || (category === 'featured' && entry.dataset.main === 'true') || entry.dataset.kind === category) && (entry.dataset.searchText || entry.textContent).toLocaleLowerCase().includes(query);
     entry.hidden = !show;
+    if (!show) entry.querySelectorAll('audio').forEach(player => player.pause());
     count += Number(show);
   }
+  document.querySelectorAll('[data-entry-group]').forEach(group => {
+    group.hidden = ![...group.querySelectorAll('[data-entry]')].some(entry => !entry.hidden);
+  });
   const status = document.querySelector('[data-results]');
   if (status) { const noun = status.dataset.noun ? (count === 1 ? status.dataset.noun.replace(/s$/, '') : status.dataset.noun) : (count === 1 ? 'memory' : 'memories'); status.textContent = `${count} ${noun}${query ? ` matching “${search.value.trim()}”` : ''}`; }
   const empty = document.querySelector('[data-empty]');
@@ -45,6 +49,14 @@ document.querySelector('[data-reset]')?.addEventListener('click', () => {
 document.querySelectorAll('audio').forEach(player => player.addEventListener('play', () => {
   document.querySelectorAll('audio').forEach(other => { if (other !== player) other.pause(); });
 }));
+document.querySelectorAll('.listen-item').forEach(item => item.addEventListener('toggle', () => {
+  if (!item.open) item.querySelector('audio')?.pause();
+}));
+function revealTranscript() {
+  if (location.hash === '#transcript') document.getElementById('transcript')?.setAttribute('open', '');
+}
+revealTranscript();
+window.addEventListener('hashchange', revealTranscript);
 document.querySelectorAll('[data-open-dialog]').forEach(button => button.addEventListener('click', () => {
   document.getElementById(button.dataset.openDialog).showModal();
 }));
