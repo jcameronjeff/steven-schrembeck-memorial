@@ -34,7 +34,7 @@ async function upload(job){
    const result=await call(job.key,'POST',JSON.stringify({parts}),{'content-type':'application/json'},`?action=complete&uploadId=${encodeURIComponent(uploadId)}`);if(result.size!==size)throw Error('Final size mismatch');
   }catch(err){await call(job.key,'DELETE',undefined,{},`?action=abort&uploadId=${encodeURIComponent(uploadId)}`).catch(()=>{});throw err;}finally{fs.closeSync(fd);}
  }
- const r=await fetch(host+'/'+job.key.split('/').map(encodeURIComponent).join('/'),{method:'HEAD'});if(!r.ok||Number(r.headers.get('content-length'))!==size||r.headers.get('x-archive-sha256')!==sha)throw Error('Read-after-write verification failed: '+job.key);
+ const r=await fetch(host+'/'+job.key.split('/').map(encodeURIComponent).join('/'),{method:'HEAD',headers:{'Accept-Encoding':'identity'}});if(!r.ok||Number(r.headers.get('content-length'))!==size||r.headers.get('x-archive-sha256')!==sha)throw Error('Read-after-write verification failed: '+job.key);
  const item={path:job.key,size,sha256:sha,verified:true};fs.appendFileSync(report,JSON.stringify(item)+'\n');finished++;
  if(size>1000000||finished%50===0)console.log(`${finished}/${total} verified ${job.key} (${(size/1048576).toFixed(1)} MB)`);
 }

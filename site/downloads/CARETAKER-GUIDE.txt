@@ -63,7 +63,7 @@ https://github.com/jcameronjeff/steven-schrembeck-memorial
 Install Git LFS, clone the repository, and run git lfs pull to retrieve all
 recordings. The collection/ folder holds the complete source archive.
 GitHub Releases also provides normal ZIP parts; extract all parts into the
-same folder. The smaller GitHub Pages edition links to full media on OpZero.
+same folder. The smaller GitHub Pages edition links to full media in GitHub LFS.
 
 RELATED WORKS
 The Basement in the Attic (2020) and the Inside Your House adaptation are

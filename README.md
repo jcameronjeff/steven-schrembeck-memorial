@@ -48,7 +48,7 @@ Open `http://127.0.0.1:4318/`. `python3 scripts/package.py` creates a complete o
 
 ## Publication
 
-GitHub Actions publishes `site/` to GitHub Pages after `scripts/prepare_pages.py` replaces large-media links with the OpZero address. This keeps the published Pages site below its size limit. Original media remains independently downloadable from the repository with LFS and the release archives.
+GitHub Actions publishes `site/` to GitHub Pages after `scripts/prepare_pages.py` links large media directly to GitHub LFS and includes the other preserved files. This keeps the published Pages site below its size limit and independent of the OpZero deployment. Original media remains independently downloadable from the repository with LFS and the release archives.
 
 The OpZero project is `25db8358-6294-4fff-be12-6077bdbdde42`, with Cloudflare Pages project `steven-schrembeck-archive-od6hvu-z56w`. Its frontend is the same static website. The small read-only Pages Worker serves media and the complete ZIP from the fixed R2 prefix `memorial/steven-schrembeck-archive-20261010/` in `opzero-src`. No other bucket paths are exposed.
 
