@@ -25,7 +25,9 @@ For a copy without Git, download the complete ZIP or **all** the GitHub release 
 
 ## What is here
 
-The October 10, 2026 edition catalogues 109 works: 19 captured articles, 63 original podcast/interview recordings, 24 videos and presentations, one novel linked externally, and two adaptations of *An Unwelcome Audience*. Lighthouse Horror’s adaptation is saved, bringing the audio file total to 64; The Podcast Inside Your House download returned HTTP 403. The novel has paperback and Kindle links, with no saved book file.
+The October 10, 2026 recovery edition catalogues 111 entries: 19 captured articles, 64 original podcast/interview recordings, 25 videos and presentations, one novel linked externally, and two adaptations of *An Unwelcome Audience*. Lighthouse Horror’s adaptation is saved, bringing the audio file total to 65; The Podcast Inside Your House download returned HTTP 403. The novel has paperback and Kindle links, with no saved book file.
+
+The later recovery of *The Technology That Centers You with Steven Schrembeck | 79* adds the publisher’s original MP3, a 1080p YouTube video, and the publisher-supplied transcript. Its old Buzzsprout audio link returned 404; the current podcast feed points to a working Spotify-hosted enclosure. Both formats have source metadata, checksums, and complete decode checks. The transcript is unreviewed. The recovery edition includes these files in the website, complete download, Git repository, and release ZIP parts. Earlier release snapshots remain available.
 
 Seventeen articles have dedicated reading pages. Two captures retain the source’s “Unpublished” status. Two personal photographs are integrated into the site rather than given a separate gallery. Original source URLs appear beside saved copies. Explore brings all media together with type and collection filters, search, and date or title sorting. Downloads contains the complete archive and individual files. Old Archive, Timeline, and Writing & audio URLs forward to their replacements.
 

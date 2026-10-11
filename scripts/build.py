@@ -125,7 +125,7 @@ for x in AUDIO+VIDEOS:
   if metafile.exists():info=json.loads(metafile.read_text())
   title=info.get('title') or BY_PATH.get(p,{}).get('title') or file.stem
   series={'reality':'Reality 101','collected':'Collected','interviews':'Guest appearances'}[p.split('/')[0]]
-  date=date_from(info.get('pubDate',''));basis='Feed publication date' if date else 'Date not established'
+  date=date_from(info.get('pubDate',''));basis=info.get('date_basis') or ('Feed publication date' if date else 'Date not established')
  elif p.startswith('youtube/'):
   metafile=file.with_suffix('.info.json');info=json.loads(metafile.read_text()) if metafile.exists() else {}
   title=info.get('title') or BY_PATH.get(p,{}).get('title') or file.stem
@@ -137,6 +137,8 @@ for x in AUDIO+VIDEOS:
  item={'id':item_id(p),'title':title,'path':p,'kind':kind,'series':series,'date':date,'date_basis':basis,'origin':origin,'size':file.stat().st_size,'duration':duration_text,'format':file.suffix[1:].upper()}
  job=next((j for j in jobs if j.get('source_path')==p and j.get('status')=='completed'),None)
  if job:item['transcript']=job['transcript_files']['txt']
+ elif info.get('transcript'):
+  item['transcript']=info['transcript'];item['transcript_note']=info.get('transcript_note','Source-supplied transcript; unreviewed and may contain errors.')
  elif kind=='talk' and (file.parent/'transcript.txt').exists():item['transcript']=str((file.parent/'transcript.txt').relative_to(SRC))
  MEDIA.append(item)
 WRITING=[]
@@ -179,7 +181,7 @@ for item in MEDIA:
  else:player='<div class="note-panel">This original recording is preserved in MKV format. Download the saved file for a compatible video player, or watch it at its original source.</div>'
  trans=''
  if item.get('transcript'):
-  text=(SRC/item['transcript']).read_text(); trans=f'<details class="transcript-panel" id="transcript"><summary>Read transcript</summary><p class="small muted">'+('User-supplied captions; not checked word for word.' if item['kind']=='talk' else 'Machine transcription; unreviewed and may contain errors.')+f'</p><pre>{e(text)}</pre></details>'
+  text=(SRC/item['transcript']).read_text(); trans=f'<details class="transcript-panel" id="transcript"><summary>Read transcript</summary><p class="small muted">'+e(item.get('transcript_note') or ('User-supplied captions; not checked word for word.' if item['kind']=='talk' else 'Machine transcription; unreviewed and may contain errors.'))+f'</p><pre>{e(text)}</pre></details>'
  source_link=f'<a class="button secondary" href="{e(item["origin"])}">Original source <span aria-hidden="true">↗</span></a>' if item['origin'] else '<span class="small muted">Original source not recorded</span>'
  page('items/'+item['id']+'.html',item['title'],f'<div class="page-head article-head"><div class="breadcrumbs"><a href="../explore.html">Explore</a><span>/</span><span>{e(item["series"])}</span></div><h1>{e(item["title"])}</h1><p class="intro">{e(item["series"])}</p><div class="article-meta"><span>{display_date}</span><span>{item["duration"]}</span><span>{item["format"]} · {size_label(item["size"])}</span></div></div>'+player+f'<div class="source-actions"><a class="button" href="{local}?download=1" download>Download archived file <span aria-hidden="true">↓</span></a>{source_link}</div>'+trans+f'<p class="source-note">Date basis: {date_note}. The saved file is a preservation copy, retained without re-encoding. Source records and checksums are available in <a href="../files.html">Downloads</a>.</p>','explore.html',1)
 

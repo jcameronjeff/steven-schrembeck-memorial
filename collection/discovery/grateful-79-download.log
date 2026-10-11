@@ -1,0 +1,11 @@
+[youtube] Extracting URL: https://www.youtube.com/watch?v=ayFAYBEm_rs
+[youtube] ayFAYBEm_rs: Downloading webpage
+[youtube] ayFAYBEm_rs: Downloading visionos player API JSON
+[youtube] ayFAYBEm_rs: Downloading m3u8 information
+[info] ayFAYBEm_rs: Downloading 1 format(s): 248+251
+[info] Writing video description to: /Users/opz/Documents/Codex/2026-10-10/recover-grateful-79/work/the-technology-that-centers-you-ayFAYBEm_rs.description
+Deleting existing file /Users/opz/Documents/Codex/2026-10-10/recover-grateful-79/work/the-technology-that-centers-you-ayFAYBEm_rs.webp
+[info] Downloading video thumbnail 41 ...
+[info] Writing video thumbnail 41 to: /Users/opz/Documents/Codex/2026-10-10/recover-grateful-79/work/the-technology-that-centers-you-ayFAYBEm_rs.webp
+[info] Writing video metadata as JSON to: /Users/opz/Documents/Codex/2026-10-10/recover-grateful-79/work/the-technology-that-centers-you-ayFAYBEm_rs.info.json
+ERROR: unable to download video data: HTTP Error 403: Forbidden

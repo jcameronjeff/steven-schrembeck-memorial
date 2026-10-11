@@ -1,0 +1,51 @@
+[youtube] Extracting URL: https://www.youtube.com/watch?v=ayFAYBEm_rs
+[youtube] ayFAYBEm_rs: Downloading webpage
+[youtube] ayFAYBEm_rs: Downloading visionos player API JSON
+[youtube] ayFAYBEm_rs: Downloading m3u8 information
+[info] ayFAYBEm_rs: Downloading 1 format(s): 614+234
+[info] Writing video description to: /Users/opz/Documents/Codex/2026-10-10/recover-grateful-79/work/the-technology-that-centers-you-ayFAYBEm_rs.description
+Deleting existing file /Users/opz/Documents/Codex/2026-10-10/recover-grateful-79/work/the-technology-that-centers-you-ayFAYBEm_rs.webp
+[info] Downloading video thumbnail 41 ...
+[info] Writing video thumbnail 41 to: /Users/opz/Documents/Codex/2026-10-10/recover-grateful-79/work/the-technology-that-centers-you-ayFAYBEm_rs.webp
+[info] Writing video metadata as JSON to: /Users/opz/Documents/Codex/2026-10-10/recover-grateful-79/work/the-technology-that-centers-you-ayFAYBEm_rs.info.json
+[hlsnative] Downloading m3u8 manifest
+[hlsnative] Total fragments: 531
+[download] Destination: /Users/opz/Documents/Codex/2026-10-10/recover-grateful-79/work/the-technology-that-centers-you-ayFAYBEm_rs.f614.mp4
+[download] 100.0% of ~   712.00B at    474.43B/s ETA Unknown (frag 0/531)
+[download]   5.3% of ~ 247.72MiB at    1.37MiB/s ETA 02:23 (frag 27/531)
+[download]   7.5% of ~ 259.02MiB at  936.15KiB/s ETA 05:32 (frag 39/531)
+[download]  12.8% of ~ 278.41MiB at    1.55MiB/s ETA 02:24 (frag 67/531)
+[download]  17.9% of ~ 299.30MiB at    1.74MiB/s ETA 02:16 (frag 94/531)
+[download]  24.5% of ~ 292.02MiB at    2.31MiB/s ETA 01:45 (frag 129/531)
+[download]  29.4% of ~ 291.15MiB at    1.56MiB/s ETA 02:04 (frag 155/531)
+[download]  33.9% of ~ 283.04MiB at    2.20MiB/s ETA 01:47 (frag 179/531)
+[download]  41.4% of ~ 285.18MiB at    2.22MiB/s ETA 01:14 (frag 219/531)
+[download]  46.9% of ~ 290.01MiB at    1.85MiB/s ETA 01:23 (frag 248/531)
+[download]  53.3% of ~ 284.86MiB at    1.65MiB/s ETA 01:33 (frag 282/531)
+[download]  58.8% of ~ 285.32MiB at    1.78MiB/s ETA 01:04 (frag 311/531)
+[download]  66.7% of ~ 279.07MiB at    1.48MiB/s ETA 01:00 (frag 353/531)
+[download]  74.4% of ~ 269.79MiB at    1.64MiB/s ETA 00:45 (frag 394/531)
+[download]  79.1% of ~ 275.97MiB at    1.94MiB/s ETA 00:30 (frag 419/531)
+[download]  84.1% of ~ 276.32MiB at    1.94MiB/s ETA 00:28 (frag 445/531)
+[download]  89.1% of ~ 276.37MiB at    2.25MiB/s ETA 00:25 (frag 472/531)
+[download]  95.1% of ~ 275.90MiB at    1.41MiB/s ETA 00:10 (frag 504/531)
+[download] 100% of  278.87MiB in 00:04:26 at 1.05MiB/s
+[hlsnative] Downloading m3u8 manifest
+[hlsnative] Total fragments: 531
+[download] Destination: /Users/opz/Documents/Codex/2026-10-10/recover-grateful-79/work/the-technology-that-centers-you-ayFAYBEm_rs.f234.mp4
+[download] 100.0% of ~   1.00KiB at    804.82B/s ETA Unknown (frag 0/531)
+[download]  15.1% of ~  48.01MiB at  839.91KiB/s ETA 00:50 (frag 79/531)
+
+ERROR: Interrupted by user
+[info] ayFAYBEm_rs: Downloading 1 format(s): 614+234
+[download] /Users/opz/Documents/Codex/2026-10-10/recover-grateful-79/work/the-technology-that-centers-you-ayFAYBEm_rs.f614.mp4 has already been downloaded
+[download] 100% of  278.87MiB
+[hlsnative] Downloading m3u8 manifest
+[hlsnative] Total fragments: 531
+[download] Destination: /Users/opz/Documents/Codex/2026-10-10/recover-grateful-79/work/the-technology-that-centers-you-ayFAYBEm_rs.f234.mp4
+[download]  18.5% of ~  47.87MiB at    4.67KiB/s ETA Unknown (frag 97/531)
+[download]  75.7% of ~  48.69MiB at    2.69MiB/s ETA 00:04 (frag 401/531)
+[download] 100% of   48.93MiB in 00:00:13 at 3.51MiB/s
+[Merger] Merging formats into "/Users/opz/Documents/Codex/2026-10-10/recover-grateful-79/work/the-technology-that-centers-you-ayFAYBEm_rs.mp4"
+Deleting original file /Users/opz/Documents/Codex/2026-10-10/recover-grateful-79/work/the-technology-that-centers-you-ayFAYBEm_rs.f614.mp4 (pass -k to keep)
+Deleting original file /Users/opz/Documents/Codex/2026-10-10/recover-grateful-79/work/the-technology-that-centers-you-ayFAYBEm_rs.f234.mp4 (pass -k to keep)

@@ -21,7 +21,7 @@ for p in OUT.rglob('*.html'):
     if 'collection-files' in p.relative_to(OUT).parts: continue
     s=p.read_text()
     s=re.sub(r'((?:href|src)=")(?:\.\./)?collection-files/([^"?]+)',media_link,s)
-    s=s.replace('href="downloads/steven-schrembeck-complete.zip" download','href="https://github.com/jcameronjeff/steven-schrembeck-memorial/releases/tag/archive-2026-10-10"')
+    s=s.replace('href="downloads/steven-schrembeck-complete.zip" download','href="https://github.com/jcameronjeff/steven-schrembeck-memorial/releases/latest"')
     s=s.replace('Download the complete archive ↓','Download the archive ZIP parts ↗')
     s=s.replace('ZIP64 · Extract, then open START-HERE.html','Extract all ZIP parts into one folder, then open START-HERE.html')
     p.write_text(s)

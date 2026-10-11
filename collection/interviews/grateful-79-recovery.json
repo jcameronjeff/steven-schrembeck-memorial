@@ -1,0 +1,130 @@
+{
+  "recovered_utc": "2026-10-11T01:16:16.620918+00:00",
+  "title": "The Technology That Centers You with Steven Schrembeck | 79",
+  "records": [
+    {
+      "url": "https://anchor.fm/s/115657424/podcast/play/123402400/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-27%2F428725770-44100-1-4314106b83e6bf3d.mp3",
+      "path": "interviews/the-technology-that-centers-you-with-steven-schrembeck-79.mp3",
+      "kind": "audio",
+      "title": "The Technology That Centers You with Steven Schrembeck | 79",
+      "retrieved_utc": "2026-10-11T01:16:16.620918+00:00",
+      "status": "saved",
+      "bytes": 37772924,
+      "sha256": "ac01fe588f9070dd2e19ddf507102a0aa088b1044e93548bd2cd3fc7e9ae2b7d",
+      "discovered_at": "https://feeds.buzzsprout.com/2302168.rss",
+      "attribution": "The Grateful Podcast with Jack Wagoner, episode 79; Steven Schrembeck is the named guest."
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=ayFAYBEm_rs",
+      "path": "interviews/the-technology-that-centers-you-ayFAYBEm_rs.mp4",
+      "kind": "video",
+      "title": "The Technology That Centers You with Steven Schrembeck | 79",
+      "retrieved_utc": "2026-10-11T01:16:16.620918+00:00",
+      "status": "saved",
+      "bytes": 344001213,
+      "sha256": "29f21ba86da3c53fb3dd3fa930e2e0fe223175f7021ae617181f4318b9fc30b1",
+      "discovered_at": "https://www.youtube.com/watch?v=ayFAYBEm_rs",
+      "attribution": "The Grateful Podcast with Jack Wagoner, episode 79; Steven Schrembeck is the named guest."
+    },
+    {
+      "url": "https://transcript-files.spotifycdn.com/5EsTEpQAjU4BxUrDoFyZ6b/7vJ33pWTwtq1Jy94Zilo3p/transcript.srt",
+      "path": "interviews/the-technology-that-centers-you-with-steven-schrembeck-79.srt",
+      "kind": "transcript",
+      "title": "The Technology That Centers You with Steven Schrembeck | 79",
+      "retrieved_utc": "2026-10-11T01:16:16.620918+00:00",
+      "status": "saved",
+      "bytes": 76167,
+      "sha256": "8fdd6ddf1507933a604638fb10819f28051463fd6212748232733e0fef1b13be"
+    },
+    {
+      "url": "https://feeds.buzzsprout.com/2302168.rss",
+      "path": "discovery/grateful-podcast-feed-20261010.xml",
+      "kind": "feed",
+      "title": "The Grateful Podcast — current feed",
+      "retrieved_utc": "2026-10-11T01:16:16.620918+00:00",
+      "status": "saved",
+      "bytes": 1472650,
+      "sha256": "736fd4af4cb24adfbd0a9b1d2d47b1b38b2045f6e3bc676638b13baca650898d"
+    }
+  ],
+  "media_validation": [
+    {
+      "path": "interviews/the-technology-that-centers-you-with-steven-schrembeck-79.mp3",
+      "readable": true,
+      "probe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "codec_name": "mp3",
+            "codec_type": "audio",
+            "sample_rate": "44100",
+            "channels": 1
+          },
+          {
+            "codec_name": "mjpeg",
+            "codec_type": "video",
+            "width": 600,
+            "height": 600
+          }
+        ],
+        "format": {
+          "duration": "3145.101256",
+          "size": "37772924"
+        }
+      },
+      "error": ""
+    },
+    {
+      "path": "interviews/the-technology-that-centers-you-ayFAYBEm_rs.mp4",
+      "readable": true,
+      "probe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "codec_name": "vp9",
+            "codec_type": "video",
+            "width": 1920,
+            "height": 1080
+          },
+          {
+            "codec_name": "aac",
+            "codec_type": "audio",
+            "sample_rate": "44100",
+            "channels": 2
+          }
+        ],
+        "format": {
+          "duration": "3145.049977",
+          "size": "344001213"
+        }
+      },
+      "error": ""
+    }
+  ],
+  "transcript_cues": 852,
+  "last_transcript_cue": "00:52:22,680 --> 00:52:24,720",
+  "audio_decode_check": {
+    "command": "ffmpeg -v error -xerror -i <mp3> -f null -",
+    "exit_code": 0,
+    "stderr": ""
+  },
+  "video_decode_check": {
+    "command": "ffmpeg -v error -xerror -threads 4 -i <mp4> -f null -",
+    "exit_code": 0,
+    "stderr": ""
+  },
+  "youtube_formats": "614+234",
+  "yt_dlp_version": {
+    "version": "2026.08.19",
+    "release_git_head": "594bd50c2c78ac432f81600d309fdc4e0a92d82c",
+    "repository": "yt-dlp/yt-dlp"
+  },
+  "notes": [
+    "Original 404 retrieval remains in manifest.jsonl and original response headers.",
+    "Publisher transcript was downloaded without paid transcription; its text has not been manually corrected.",
+    "The MP3 and YouTube video have separate source metadata. The transcript is attached to the MP3 only.",
+    "This recovery is included in the published recovery edition; earlier releases remain separate historical snapshots."
+  ]
+}

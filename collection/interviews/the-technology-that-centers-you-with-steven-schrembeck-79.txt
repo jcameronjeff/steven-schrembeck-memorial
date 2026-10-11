@@ -1,0 +1,1707 @@
+The Technology That Centers You with Steven Schrembeck | 79
+
+Publisher-supplied transcript from the podcast feed (Spotify-hosted SRT); unreviewed and may contain errors. Plain text retains cue order and wording.
+
+What if the next frontier of human connection isn't less
+
+tech, but better tech? Steven Schrembeck believes that
+
+the future of authenticity isn't about escaping devices, it's
+
+about redesigning them to bring us closer to ourselves and to
+
+each other. Welcome back to the Grateful
+
+Podcast, where we explore what it means to live deeply, dream
+
+big, and stay grounded through it all.
+
+Today I'm joined by Steven Schrembeck, founder of
+
+Impossible Laboratories, A boundary pushing team that's
+
+reimagining how technology can amplify our humanity.
+
+From Cognizant Threads, a wearable design to bridge
+
+physical sensation with digital intent, to his thoughts on
+
+slowing down in the speed obsessed world, Steven's work
+
+sits at the intersection of tech, philosophy and deep human
+
+presence. Steven, welcome to the show.
+
+Thanks, Jack. I'm I didn't write that intro,
+
+by the way. If I had done, it would have
+
+been way worse. It would have been way more
+
+blunt and humble. Yeah, I mean, I, I'm so
+
+fascinated by what you're building.
+
+Initially meant for ADHD and very applicable to to everyone.
+
+Impossible laboratories. What?
+
+What's impossible with what you're chasing?
+
+Where did that name come from? Well, you'll get pick this up
+
+over the course of our conversation, but I'm not big on
+
+pretending to make things more exciting than they are.
+
+I see them everything, but I see most of the world this way.
+
+It's pretty straightforward. That is a label, and yes, it's a
+
+formal company and that has a tax ID number and all that, and
+
+there's people associated with it, but it's just a label for
+
+the things that I make because that's what inspires me most is
+
+I needed a wrapper for all the projects that I'm doing.
+
+And the one three line between them all is I am motivated to
+
+prove the impossible possible, right?
+
+I'm motivated really to see what's at the edge, what can be
+
+done that hasn't been done before.
+
+That is interesting. I'm fine with proving it
+
+impossible to. That's just as exciting.
+
+But it's about curiosity, a specific kind of curiosity.
+
+It's where the name comes from. And so that that edge you're
+
+trying to go over, it's, is it the, is it technology aiding us
+
+in becoming more present? What?
+
+What is that hump? To some degree, I leave that up
+
+to the people who want to use these things and sort of make it
+
+their own. I don't think that I try to
+
+separate my beliefs and prescriptions for what I think
+
+is ideal. What is the right level of
+
+integration? What's the right way to use
+
+technology? I try to stay away from that.
+
+I mean, I can't keep myself out of it, for when you make
+
+something, you're always making a statement one way or another.
+
+So I try to separate those things.
+
+My personal belief is a dramatically different way of
+
+using technology, not necessarily less, and that this
+
+is sort of a distraction to think that less is what's
+
+necessarily better, but the quality of two different things.
+
+Like I measure it, how I measure my life in terms of happiness
+
+and fulfillment is the lived self or sorry, the experienced
+
+self and remembered self, sort of popular psychological
+
+framing. So that is, how do you think
+
+about yourself when you reflect on your life and your memories?
+
+And then how does it feel to be you in the moment and that those
+
+are both important and as long as those are both doing well,
+
+then that's that's fine, whether that's appropriate use of
+
+technology or anything else. Interesting, So what made you
+
+want to pursue this in this merging tech and human
+
+experience? A lot of people have attempted
+
+and greatly failed at this and it's, I mean, I think social
+
+media was a intended to do a similar thing and ended up doing
+
+the opposite on a macro scale. So what made you want to do what
+
+you do and create what you create?
+
+Well, there's a lot of different ways that I want to incorporate
+
+humans in technology. I think the first is just a
+
+sense of wonder and honestly sort of chafing a little bit
+
+about the limitations of the human body and brain is like,
+
+this sucks. Like, there's a lot of ways,
+
+yes, there are many ways in which we are incredible.
+
+And I am certainly not a pessimistic person or not
+
+jumping at the bandwagon if humans suck.
+
+I'd never understood this kind of nihilism.
+
+We're incredible creatures. However you look at us.
+
+However, we got some pretty obvious problems that don't fit
+
+well with modern society. So I am inspired by the sort of
+
+macro problems of attention and motivation and feeling happy or
+
+anxious all the time. But also I've been working on
+
+this on my own. Just often it's just like pen
+
+and paper systems, spreadsheets, those kinds of tools, things you
+
+can say or read back to yourself.
+
+I've been building that kind of stuff for myself for I don't
+
+know since I was a teenager. So I have ADHD, although I
+
+wasn't diagnosed until about 6 years ago.
+
+And I realized just how much, you know, hyperactivity, impulse
+
+control, and attention deficit had impacted the way I learned
+
+how hard life was, how I motivated myself.
+
+And I'd made makeshift solutions for a very long time.
+
+And I figured out roughly how to be productive and happy despite
+
+a lot of obstacles. Usually it's my own mind.
+
+And so I've been forced to understand my own behavior.
+
+And then at some point I realized, oh, I'm not alone in
+
+this this other people have these problems.
+
+The more I mentioned it or the more I would hand out just
+
+simple stuff, whether it's advice or basic systems, people
+
+would use it and found it useful.
+
+Maybe I could do something more with this.
+
+And then I have more speculative stuff, of course, that is not so
+
+straightforward. So threads threadless, I believe
+
+that was your first piece of technology, right?
+
+It's the first one that I have released that isn't like a
+
+prototype or a piece of like test software.
+
+OK. And that was something that it
+
+was just a version, like you said, of something you'd built
+
+for yourself to help with your attention and productivity.
+
+Is that correct? Yeah, it's exactly that.
+
+I built pretty much all of this for myself.
+
+That's what motivates me. It's it's very hard to get
+
+excited about a problem that I don't share.
+
+But yeah, this was honestly, this was, I was trying to build
+
+something much more complicated and I was frustrated and like I
+
+this is what I need. I need something to help me
+
+manage my working memory because I can't hold all these things in
+
+my head just over the span of a day.
+
+I don't need it like A to do list to know what to do next
+
+week or I need something that just helps me know what I'm
+
+supposed to be doing right now, maybe what's next and just
+
+manage the actual process of in the moment focus.
+
+Like it's not even really about productivity so much as it is I
+
+need to get stuff out of my head so I can do one thing.
+
+Because if I have to remember that I need to do that or
+
+somebody's interrupted me or I interrupt myself, I just lose a
+
+train of thought. So I needed a very simple system
+
+to just hold on to almost like sticky notes.
+
+Here's what I'm doing right now. Here's what I'm doing next to
+
+manage that process. And that's that's all it is.
+
+So the idea is you're writing stuff down and you're putting
+
+stuff out there to kind of empty your head of thinking about it
+
+so that you can fully focus on the task that you want to, I
+
+guess, tackle. Is that correct?
+
+Yeah, there's a lot of potential uses, but it is essentially a
+
+way to extend your short term and working memory in a way that
+
+doesn't get buried. And that's, this is one of the
+
+things a lot of existing To Do List apps or reminders.
+
+You can do this stuff with pen and paper and reminders and
+
+alarms and Pomodoro. Those things get garbage
+
+collected, first of all, especially by people with ADHD
+
+because of low object permanence.
+
+That you can't see it, it stops existing.
+
+Literally just, it's not that you can't remember, it's that it
+
+no longer exists in your mind until you see some indication,
+
+oh, that that thing exists. And so because neurodivergent
+
+people tend to live in the environment they're in, that's
+
+all that exists. You go off on a tangent and you
+
+never come back, or you become overwhelmed and burdened,
+
+literally stressed out by the number of things.
+
+You're trying to remember what you're supposed to be doing, and
+
+it degrades everything you do. It feels bad, it feels bad.
+
+Oh, I'll just check my e-mail real quick.
+
+And oh, I, that looks interesting.
+
+I want to get to that later today.
+
+But I, I don't want to hold on to it.
+
+I don't want to remember it. And that's what we do is we try
+
+to hold these things in our head and then we end up dropping
+
+them. We forget that we're supposed to
+
+do something and it becomes too difficult.
+
+So it's meant to focus on a short time scale, no more than
+
+today. And then there's the system for
+
+getting rid of it as well so that it doesn't pile up.
+
+Otherwise, A to do list is something that just continues to
+
+accumulate items with no plan for getting rid of them.
+
+So it just sort of rounds out those edges.
+
+It's conceptually very simple, but it works on just a couple
+
+key like principles that make it solve the problem that I have
+
+not been able to solve with just pen and paper or something else.
+
+Yeah, it's interesting because I, I definitely have seen the
+
+problem in my own life where I get it, I start using a new To
+
+Do List system and then it just piles up and piles up and piles
+
+up and then I just don't look at it or do it because it feels,
+
+feels even more overwhelming. I talked to a man on my podcast
+
+named Carl Pauline. He wrote your time Your way.
+
+He's all about time management and different systems for time
+
+management and I had him. He had to try to convince me
+
+that no, it is worth it to use a system to manage your time.
+
+Because after being overwhelmed by a lot of different time
+
+management tools, I'd end up getting to the point where it's
+
+like, I'm just going to keep a list in here and just do what I
+
+have to do. It feels like a waste of time to
+
+write, but I really like your system because it's it feels a
+
+little more liberating while also being organized, if that
+
+makes sense. This is, yeah.
+
+It provides just enough structure to set you free
+
+without creating a lot of intervention or enforcement.
+
+Although I have other tools for those things, this one is
+
+simple. And it's not even like a
+
+complete, nowhere near a complete system.
+
+You still have to schedule tasks.
+
+You still have to figure out what's worth doing in the 1st
+
+place. This is literally just to rein
+
+in the sort of experience self in this case, what am I doing
+
+versus what did I intend to do and make it real obvious for me
+
+to get back on track in a very open-ended way.
+
+It's not yelling at you. It's not blocking stuff.
+
+So very permissive, but simplistic.
+
+Yeah, have you ever read Rick Rubin's book The Creative Act A
+
+Way of Being? I have it right over there.
+
+I literally just bought it yesterday though so I've only
+
+read like half a chapter. Really.
+
+That's so funny because what you're saying, and you'll see
+
+this as you start to read the book, what you're saying about
+
+creating something just for yourself is very in alignment
+
+with that book. I think about it a lot.
+
+He says that good art is made for the creator and that the
+
+audience comes last. But, and a lot of business
+
+people talk about this as well. When you make something for
+
+yourself, specifically for yourself, people are going to
+
+empathize with it. They're going to relate.
+
+And that is what makes a good product because you're not
+
+thinking about the presentation of the thing, you're thinking
+
+about how it will affect you. So it's interesting when IA lot
+
+of the people I talked to have a similar approach, but Rick Rubin
+
+really describes it well in that book.
+
+Glad about it. Yeah, what else do you read?
+
+I do read a fair amount of nonfiction, but it is kind of
+
+like work to read it. It's so I also, I read a lot of
+
+fantasy. I like writing fantasy, a little
+
+bit of science fiction. That's a lot more fun for me.
+
+Most of the reading that I do is like topical.
+
+It's highly relevant to what I'm interested in now and I don't do
+
+a lot of just because non fiction reading because I don't.
+
+I won't apply it to my life and I won't remember it.
+
+I have to have some reason to care so.
+
+Give me an example of a book you've read recently.
+
+You think of something that's not super topical.
+
+I finished Scarcity Brain recently, the Michael Easter
+
+book, the second one. It's a very good book.
+
+I don't know. I don't do memory.
+
+I can go look at the stack over here.
+
+Fantasy. I I was reading James Butcher,
+
+this Jim Butcher's son. His books are great.
+
+One second. Here we go.
+
+Go grab them. I got Ian Mcgilchrist's The
+
+Matter with things. That's great.
+
+That's a neuroscientist who dabbles in philosophy.
+
+I'm sure you'd be interested in him.
+
+He's a fascinating person. Yeah, I got to write that down.
+
+That's a very good one. He's looking at split, split
+
+brain patients. So they've had their corpus
+
+callosum, the thing that joins your left and right hemispheres,
+
+severed because they have seizures and they end up
+
+behaving a lot like two different people.
+
+And that it allows us to measure the massive differences in the
+
+way the left and right hemisphere see the entire world
+
+and through that begin to understand more about the nature
+
+of reality. Which is a fascinating twist
+
+that he basically uses perception and studies from what
+
+schizophrenic patients are reporting split pain patients
+
+are reporting to try to understand the very nature of
+
+like reality itself, which is interesting spin.
+
+So he's, he's got a lot to say. It's, it's a dense read.
+
+It's not for everybody, but it is I think that there's a lot of
+
+a lot of truth definitely on the frontier, but a fascinating
+
+person. Maybe listen to an interview
+
+first. Yeah, yeah, I've been.
+
+I'm similar to you in that I read a lot of non fiction.
+
+It's pretty like maybe not the easiest reads, but I got kind of
+
+bored of it. Recently.
+
+I realized I would start a book and I would get a hundred 5200
+
+pages in and I'd be like, I'm kind of bored of it.
+
+So I'm going back and I'm rereading some of the old
+
+fiction that I've read and really shaped how I look at the
+
+world. So right now I'm about to finish
+
+rereading Siddhartha by Herman Hesse.
+
+I'm not sure if you have you read it.
+
+But it's been a long time. It is.
+
+It's amazing. And I find myself very drawn to
+
+these books that they don't just cultivate knowledge, they
+
+cultivate a feeling, a way of being.
+
+It's yeah, I love books like that.
+
+Yeah, I think a novel is an important like format for
+
+communicating ideas because it forces you to go slow and
+
+sequentially and to think and take your time and go back and
+
+look. It's completely different from
+
+video and even even podcast. It's it is like a distillation
+
+of somebody's life or most important ideas all in one, like
+
+perfect little package. And what a gift that we can, we
+
+can read these things and pick these up from other people.
+
+Yeah, I had a conversation with a friend on the podcast.
+
+A few weeks ago, and he said to me, I don't know if he said it
+
+on on air, but he said to me before that he thinks myth and
+
+fiction is so powerful because of the empathy that we have for
+
+our characters or for the characters in it.
+
+So we're such empathetic creatures.
+
+And he is not a big nonfiction reader because he thinks that
+
+the more powerful thing than reading something explicitly is
+
+getting repetitive and pathetic messaging that's going to allow
+
+us to really download that that knowledge, that wisdom into our
+
+into our being and incorporate it in the way that we live our
+
+lives. And I find that fascinating.
+
+There's something to that for sure.
+
+Most of the best selling or really impactful nonfiction
+
+books contain lots of narrative as is, but also, I mean, we're
+
+kind of talking about the same thing.
+
+And when I, this is another strategy, when I read things
+
+that are topical to my interests, I am using my own
+
+life story is the thing that gives me emotion.
+
+When I see somebody say something, it will immediately
+
+resonate because I'll see myself in it or my problems or a
+
+problem I care about, and that is what causes the feeling.
+
+So I wouldn't say that he's definitely right on the
+
+mechanism, but I don't think that's the only way.
+
+I think it's just important that you, it matters that there's
+
+some meaning or deep emotion, some sort of resonance there.
+
+It doesn't necessarily have to be a fictionalized story to get
+
+there. There's a lot of other.
+
+We make stories up all the time. So as long as it inspires some
+
+emotion then. I would agree.
+
+Yeah, interesting. You are very, you seem like
+
+you're a very deep thinker. You're very present.
+
+I can tell in this conversation you're very, what's the word
+
+You're, you're conscious of the words that you're saying.
+
+You seem like a very conscious person.
+
+How has this impacted you in building a product and building
+
+a life? What's a blessing and a curse?
+
+I think that it helps with reflection.
+
+It is like it is the source of all of my like ability to
+
+reflect and improve and be anti fragile and understand what
+
+behavior influences caused me pain or problems or are working
+
+or making me feel better or worse.
+
+So this sort of conscientiousness and ability to
+
+reflect and be calm enough and observant enough to see the
+
+patterns and do something with them is simultaneously like one
+
+of the things that is most valuable in my career or
+
+business or any of my creative works just being alive.
+
+But it also the other edge of the sword is over contemplation,
+
+excessive rumination, paralysis, either by analysis or by the
+
+inability to step outside yourself and see you're in a
+
+sort of cognitive trap. It's it is easy to
+
+overcomplicate things when you have the ability to sort of sift
+
+through patterns and understand abstractions well.
+
+You can get lost in it very easily.
+
+And it sounds silly from the outside.
+
+It's like I just go get up and work out.
+
+You don't need to like overthink this or like have a big plan or
+
+you know. Get lost in your thoughts or any
+
+of that, but it's not easy to see from the inside.
+
+So I would say it has. It is mostly a positive thing,
+
+but it does it does have drawbacks.
+
+Yeah, yeah, I, I really, I really relate with that.
+
+I think they'll work out thing. It's interesting how when you
+
+are more when you're more thoughtful person in that way,
+
+when you when you're prone to rumination and overthinking, you
+
+can often get your intelligence and your if you're a very good
+
+articulator orator, you can almost talk yourself out of
+
+doing something good for yourself like these two this war
+
+in your head. So if I'm going to wake up for
+
+it was a few months straight. I woke up at like 5:00 AM and
+
+ran every single morning a few summers ago and I remember on
+
+the hard mornings it would be like this voice in my head very
+
+clearly articulating some seemingly very very good points
+
+on why I shouldn't do the thing. And I wonder if people without
+
+that intelligence might not be the best word, but ability to
+
+think and or a have the same problems.
+
+Yes, there is a dark side to different kinds of intelligence,
+
+of which there are many kinds not yet.
+
+In this case you have verbal intelligence because it can be
+
+turned on yourself and not always in a good way as many
+
+people can relate. Your own mind is often your
+
+worst enemy and biggest critic and it's not as we've talked
+
+about and I'm sure will continue to is not always on your side
+
+meaning holistically long term thinking and often is completely
+
+opposed to what is good for you. And it is not great to have that
+
+turned on you or to not stop either.
+
+Generally speaking, either my brain, my mind is going or my
+
+body is going. It has to be one or the other.
+
+One of them will be going at all times.
+
+So that is another drawback is then what has made me good at
+
+thinking and speaking is that it never stops almost never stops.
+
+So that's, you know, that's the drawback is that that's one of
+
+the reasons you get good at things is because you
+
+obsessively or incessantly do something.
+
+So before we started talking, you said that you meditate about
+
+an hour an hour a day, which I really respect.
+
+Has that meditation helped you with calming your mind and
+
+building a quieter home inside? I would say it's a bigger, it's
+
+hard to say because it's different, bigger effect than
+
+actual like ADHD medication has been on my life.
+
+It completely changes the way you see the world.
+
+I mean, I started out, I think, as you mentioned, like you or
+
+many others, where it's a sporadic habit.
+
+It's like I should eat healthy or I, you know, I should fix
+
+this part. I should do this thing.
+
+It's like a just another thing to tack on that is mildly good
+
+for you. And for a lot of years, that's
+
+where my meditation habit was. But after reading what is it,
+
+Michael Singer's book The Untethered Soul and and then I
+
+read his autobiography, I had no idea that you could have, you
+
+could actually do real exploration and sort of the
+
+inner space. You could understand
+
+consciousness in the world and what is happening just by
+
+sitting there, or have transcendental experiences,
+
+experience things that there's no other way to experience.
+
+I had no idea how much was possible through meditation,
+
+that it wasn't just sitting there waiting for something,
+
+that it was an active thing. And that inspired me to do more.
+
+And then I slowly increased the time.
+
+But the level of clarity and just patience, the ability to
+
+not immediately react, which is incredibly valuable when you're
+
+an impulsive person goes up significantly.
+
+There's a half life of course, with it's not doesn't last
+
+forever, but it just retrained. It allows you to step outside of
+
+your own emotions and thoughts, not only calm them down and
+
+quiet them down to 0 when you get good at it, but it allows
+
+you to sort of step behind them and carry that forward into
+
+everyday life in such a way that, I don't know, you just,
+
+you don't take it too seriously when you start to feel depressed
+
+or panicked or worried or angry. You can.
+
+It's like watching somebody else be angry.
+
+You still feel it, but it you don't take it too seriously
+
+because it doesn't feel like you anymore.
+
+So that's what it's done in a nutshell.
+
+Yeah, I can relate with that. On a, on a micro scale, I think
+
+I I had a present probably like eight months where I meditated.
+
+I think it was every single day. I didn't miss a day.
+
+And that was before and the beginning of when I was in
+
+France for my junior year. And then stuff just got in the
+
+way and started to become seemingly more important.
+
+What I realized is that there's nothing more important than the
+
+Interstate of of me. I think a lot of entrepreneurs
+
+can really become very focused on their time and how they're
+
+using their time and how productive they can be toward a
+
+certain outcome. But what I've found is that as
+
+I've gotten further and further away from my meditative state,
+
+my calm, I've become less productive, meaning I've needed
+
+more time to do certain things, whether that's because of the
+
+fact that I've become less focused or less aligned or
+
+whatever. And so building that meditation
+
+practice and building quiet time into my day to reflect and to
+
+just be is some is something that is actually more productive
+
+than anything that I've I've done.
+
+And I think many entrepreneurs, once they realize that, can
+
+start to prioritize it more. Have you gone with through any
+
+points in your life where it's been you had to convince
+
+yourself of the same thing? Yes, I'd say that now having had
+
+enough like practice with this, I don't know how many I'm at.
+
+I'm probably I've done 1000 hours at least I'd guess.
+
+I mean, that's not world class, but it's it's no longer amateur.
+
+So I'd say it's different now. This is like having been like a
+
+long distance runner for 10 years.
+
+And then, you know, you, you go do something else and you get
+
+out of shape and somebody asks you whether long distance
+
+running is worth it. And you're like, you sort of
+
+inherently deep down understand how valuable it is.
+
+It's been fried into my circuitry how good this is.
+
+So it's easy to pick back up again.
+
+It's not like a thing I should do I, I fall out of the habit
+
+like anyone else. But once you've seen the impact
+
+on your life, especially long term, it's it's not quite as
+
+hard. But you mentioned something else
+
+that was useful there, which is just time for quiet and to be
+
+alone and reflect. I think that that is actually a
+
+much more approachable set of advice for most people is to
+
+just allow their default mode network to turn on rather than
+
+trying to sit down and make yourself focus or not focus or
+
+whatever your style of meditation is.
+
+As a bit too much of an ask. Actually just making a habit of
+
+a 30 minute walk is significant. It's a big portion of it.
+
+You need to allow the part of your brain that does garbage
+
+collection and solves your problems and processes your
+
+feelings, decides how it feels about itself and your life and
+
+what you're doing comes up with ideas to just run if you're
+
+suppressing it. Talk about all the ways to get
+
+suppressed by modern life. You feel deep anxiety and a loss
+
+of identity and a loss of ability to choose and that is
+
+plagued a lot of people. So basically just go for a walk.
+
+Just sit there and be bored for about 30 minutes a day or more,
+
+ideally in silence, literally doing nothing, and your life
+
+will improve significantly if you can do it.
+
+I hope you're enjoying this episode of the Grateful Podcast.
+
+I'm interrupting to let you know that it would mean the world to
+
+me if you could share this episode with someone that you
+
+think would enjoy it or leave a review down below so I can learn
+
+what I can do better and what I'm doing well with this
+
+podcast. It's a passion project and I
+
+really want it to turn into something that helps people
+
+everywhere. Thank you so much for listening.
+
+I hope you enjoy the rest of the episode.
+
+Yeah. How did you start out?
+
+Because I know that I have many friends, some with ADHD that are
+
+very, they have, they have trouble being quiet and not
+
+having any stimuli. So how did you get over that
+
+initial hump? Because I think this is really,
+
+really important vice for advice for many people that are
+
+struggling with attention spans. Yeah, attention, much like
+
+productivity, is sort of like a a distraction.
+
+It's really like a downstream effect that attention gets
+
+destroyed. It really does have more to do
+
+with your level of stimulation need and depending on kind of
+
+like not paying down a debt. The longer you go without paying
+
+it down, the worse it feels. So a lot of people are to a
+
+point where they can't fall asleep without ATV or music or
+
+show playing in their ears or watching it, or they can't not
+
+have sound playing. They can't do a chore without
+
+sound playing. This comes from basically a low
+
+level baseline dopamine and a bunch of other neurological
+
+changes. You can't sit still.
+
+So one of the things I recommend to people.
+
+I wrote this down so I wouldn't forget the name Is the chair
+
+test which is relevant? It is basically if you can't sit
+
+in a chair for 5 minutes and do nothing or just look at a wall,
+
+you are not OK. And that is like a quick
+
+heuristic that I use in my life. If I can't do that or I am
+
+resisting doing that, that alone is a sign that I'm not OK on the
+
+inside and anything I do on the outside is only going to make it
+
+worse or to kick the problem down the road.
+
+So there's an answer how to get over it, but it changes the
+
+framing to I'm not OK. And but you will rebalance your
+
+pleasure pain systems. That's from Dopamine Nation, the
+
+book. You will rebalance the systems
+
+literally just by letting yourself sit there.
+
+So if you will just sit there in a chair for probably about 5
+
+minutes, maybe longer depending on how long it's been, and just
+
+feel the pain, kind of like an ice bath or something.
+
+It is good pain. You will find that it subsides
+
+and then you're just like mildly bored or OK, however long you
+
+have to sit there, and that the longer you put it off, you're
+
+actually making it worse and you're also depriving yourself
+
+of actual pleasure. It's like the 50th of ice cream.
+
+You don't really even feel it anymore.
+
+If you would like to actually taste it again, you have to stop
+
+eating ice cream for a little while and just feel terrible.
+
+Just crash. You just have to crash because
+
+you're actually depriving. You should think of pleasure as
+
+being conserved. There's always the same amount,
+
+and the more you try to pile on more pleasure, you're actually
+
+just devaluing all the pleasure to zero.
+
+You don't taste it anymore. So you're going to get the same
+
+amount regardless whether you're a monk who gets no ice cream or
+
+somebody who's just eating more and more ice cream, trying to
+
+feel more and more pleasure but feeling nothing.
+
+Right at some point it zeroes out.
+
+At some point there is no additional pleasure or there's
+
+negative. Yeah, yeah, that is
+
+unfortunately what happens is why you're not OK sitting in a
+
+chair is because your brain rebalances towards pain by
+
+default, because your midpoint basically is below the sort of 0
+
+OK line. To just turn it into a metaphor
+
+that's a rough model for how it works is if you are feeling too
+
+much pleasurable stimulation for too long or comfort, that's
+
+probably a better word for it. Then you will feel bad by
+
+default doing nothing, so you'll be in the negatives.
+
+But you will go back to 0 if you just sit there and feel the
+
+pain. But you go back to 0 even faster
+
+if you deliberately become uncomfortable.
+
+And so hopefully not a not a healthy way.
+
+Are are you familiar with economic utility theory?
+
+No, but the words alone sort of describe what it is that
+
+everything has some economic utility.
+
+Or what does it mean? So in like economics, there's
+
+this concept of utility and it's like these units of utils.
+
+It's basically how much you get out of something like how much
+
+pleasure. It's before you start
+
+incorporating any currency into the the mix of economics and
+
+economics is based solely on the principle that humans are
+
+rational, which is has been disproven by initially Danny
+
+Kahneman and Amos Fersky. But it's basically saying that
+
+as you, as you start getting more and more of something,
+
+there's this thing called marginal utility, which is the
+
+pleasure you get with another with an additional unit of that
+
+thing. And it's a graph like this.
+
+It starts getting steep up and then it starts to curve and
+
+eventually you get diminishing returns.
+
+So you're getting less and less on every extra unit and every
+
+additional unit, and then at some point, you start just going
+
+down. Yeah.
+
+And that's what I was talking about.
+
+When you start getting less and negative pleasure out of
+
+something, you've gotten so much that it starts going down.
+
+And I think it's crazy what you said.
+
+The monk and the person that's eating all of that ice cream,
+
+they are at the same point. They're at this zeroed level of
+
+pleasure. Fascinating, that is.
+
+Well, to might actually be enjoying something.
+
+Here's a useful example. I think that it is exactly what
+
+you're talking about, but incorporates also a balance
+
+point, which is your average level of stimulation is a
+
+descriptor of how you're going to feel when nothing's
+
+happening. How are you when nothing is
+
+happening? Is that's what your balance
+
+point is, more or less. And if you why is it that after
+
+running a marathon you would be happy to just lay down in mud,
+
+That would be amazing. I would just love to just lay
+
+down. That would be so great.
+
+But if you're just walking outside and maybe going to the
+
+park and you lay down in mud, it's intolerable.
+
+This is terrible. And the difference is 1.
+
+You've been through an immense amount of pain and so literally
+
+doing nothing is complete ecstasy.
+
+This is awesome. I would love to just lay here.
+
+You got 1/2 eaten sandwich. I'll knock the ants off.
+
+I'll take that. That would be amazing.
+
+I would love that, but in a different situation.
+
+That's intolerable pain. The only difference really is
+
+what you've experienced lately, but there are long term trends
+
+as well that take time to work through.
+
+If you're used to comfort and stimulation and pleasure
+
+constantly, that is what it takes for you to feel normal,
+
+not to feel happy. And so you will feel bad by
+
+default, which is why it's so hard to just sit there.
+
+But it will stop happening if you just change your balance
+
+point by changing what you do. Just get to deal with the pain
+
+for a little while, it'll go away.
+
+You know when you're in the rain and you've like submitted to it
+
+and you're happy to be in the rain.
+
+You're not like trying to get out.
+
+But then there's those moments where it starts raining and see
+
+absolute last thing, the last place you want to be and you're
+
+like, let me get to cover as soon as I can.
+
+Umbrella poncho, get me in my car.
+
+I think that's similar to what you said where once you've, I'm
+
+not sure why, sometimes I feel the way I do toward rain.
+
+Sometimes I'm like this is awesome and very carefree and
+
+sometimes I hate it. But I think it's something some
+
+related to the balance point or expectation or something like
+
+that. That is definitely related.
+
+That is probably speaks more of the power of perspective and
+
+mindset to control a narrative and change how something feels,
+
+which is an incredible tool in the moment.
+
+The trouble is that it requires you to like actively have a
+
+positive mindset or to choose it, and that is great when it
+
+works, maybe sort of in the neutral zone or like you're in
+
+a, you have just enough will or impulse control to or just
+
+happen to remember to change your mindset.
+
+And that's great. It does work.
+
+It's I have found those are good spot tools in the moment, good
+
+practices to keep up, but the invaluable tools are the ones
+
+that make me feel good or happy or productive or content without
+
+even trying. That should be the real goal is
+
+happiness isn't this thing that you have to grind for every day,
+
+but it's just what happens when you close your computer at the
+
+end of the day or you just you come home this it's just how you
+
+feel when nothing is happening. That that should be the real
+
+goal of a lot of our life practices is to just, it's never
+
+going to happen by default. We are pretty tumultuous, like
+
+unstable emotional creatures, and that's fine too.
+
+But most of the time you should be good when nothing is
+
+happening and that that should be the goal.
+
+You shouldn't have to try to be happy all the time.
+
+That's not a good sign. And I've definitely been there
+
+myself. Right now, would you say you're
+
+at a point where if you're doing nothing, you are happy?
+
+Pretty good, I think. I've let lapse a few of my sleep
+
+routines. My morning routine is a little
+
+screwed up as well. I've let slide one of my master
+
+habits, which is to review my own principles and rules for
+
+life every morning. So that causes some identity
+
+drift I need. This is a sort of a master habit
+
+that allows me to remember all the other rules and habits that
+
+aren't like automated tools or anything like that.
+
+They're just like statements for how to be and why things are
+
+important. I've taken the time over many
+
+years to when something important happens, like, OK, you
+
+need to remember this, we're not doing this again.
+
+Here's a life lesson. So I used to review that every
+
+morning. That has slipped over the past
+
+few months. To infrequent and I noticed that
+
+that that definitely has an effect on me.
+
+But overall, yeah, I, I find that most of the time,
+
+especially the last three or four years, unless something is
+
+happening or I'm messed up or I'm associated with my problems
+
+or life for some reason, I'm content even when things are
+
+wrong. It's a very strange feeling when
+
+you're satisfied and content but also sad or angry or frustrated
+
+or worried about something. You can feel them both at the
+
+same time and it is a little weird.
+
+Yeah, it is a weird feeling. It almost feels guilty, like
+
+why? Why do I, Why am I entitled to
+
+feel this way when others around me are suffering, complete
+
+suffering, in this same situation?
+
+Being a human is complex. It it will never be easy, nor
+
+should we really want it to be. But I think at least a lot of my
+
+work and a lot of the things I feel drawn to is to remove a lot
+
+of the own goals, remove the stuff that is like, just make it
+
+easier to be a good person and to feel happy and to live a good
+
+life and help others do the same.
+
+So that's some of my work as far because I got a lot of interest.
+
+So this duality you kind of talk about where you can be feeling
+
+happy but also sad at the same time or content and sad at the
+
+same time. It's very interesting.
+
+I based this podcast around a hypothesis I had that also has a
+
+duality to it, and it's what I call the duality of gratitude
+
+and ambition. Where I think that at least in
+
+my life, my recipe to joy and fulfillment has been being
+
+ambitious, having goals to complete something or building
+
+towards something while also being as grateful as possible
+
+for what is right now. I find that many people conflate
+
+gratitude with complacency, which is very wrong.
+
+And I believe that my gratitude can actually push me toward
+
+these goals in in a cycle that just keeps building and building
+
+toward more fulfillment. How do you feel about that?
+
+That is incredibly prescient for your age.
+
+But yes, I also have a somewhat analogous central thesis that
+
+there is a duality between contentment and stillness.
+
+Basically you know what what you want to feel in the sort of
+
+experience self like you, how you want to feel most of the
+
+time and happy, at peace, sort of carefree, playful.
+
+And then there is another side which is ambitious, highly
+
+structured. It wants to create things
+
+outside of yourself and impact. And you can shorthand this as
+
+ambition, but it is a desire to build, not just to explore, to
+
+go deep on something that takes a long time.
+
+It was difficult or challenging no one has asked you to do.
+
+And these things are by default a post and you just sort of
+
+approach it without any thought. They'll destroy each other.
+
+And it had, I mean, look at pretty much every rich or
+
+successful artist, entrepreneur, They're almost universally
+
+unhappy. They're very sick people.
+
+And it is their obsession that made them great at what they do.
+
+It just sort of destroyed the quality of their life.
+
+Is that good? And then you have, you know,
+
+like the Yogi's or whatever. If you want to feel completely
+
+enlightened and just amazing all the time.
+
+I mean, the playbook is there. They tell you how to do it.
+
+It's highly gamified. It's not a secret.
+
+They tell everyone here's how you do it.
+
+But the net result is basically somebody who sits there in robes
+
+and smiles at the wall all day and is completely blissful and
+
+has no problems. And yes, they're very thoughtful
+
+and calm and patient, but when's the last time they cured a
+
+disease or built a skyscraper? They don't.
+
+And they would laugh at you for even suggesting that.
+
+That is like, the pinnacle of a human achievement or purpose.
+
+But I see both as being valuable.
+
+And I want elements of both. But I sort of insist on having
+
+both without them destroying each other.
+
+And that has been a principal challenge of my life.
+
+I have found ways to do it. It is not easy.
+
+It is a constant thing. It is very hard to stay centered
+
+and sort of carefree and cheerful and content while doing
+
+something exceptionally difficult, looking and staring
+
+at painful problems. So while people are telling you
+
+that their marriage is falling apart because they can't stop
+
+looking at a website, they have pornography addictions or drug
+
+addictions, it's difficult to stare those problems in the face
+
+or your own insecurities or your own desires and maintain a sort
+
+of calm, peaceful, happy demeanor and not just get
+
+wrapped up in what you're doing and all sorts of unhealthy ways.
+
+So it is exceptionally challenging.
+
+I'd say it's a a noble goal. I don't have that one all
+
+figured out, but I have found strategies that I can do it for
+
+a while. It's hard to maintain that sort
+
+of state of, in my mind at least, my ideal of perfection
+
+for this duality is this sort of highly accomplished, creative,
+
+innovative person who's completely unflappable.
+
+I want to be invincible. I want to go forward and do
+
+incredible things with other people, and I don't want to care
+
+about it at all. I don't want to need any of it.
+
+I want to be able to change on a dime and become somebody else if
+
+I feel like it. I don't want to be held down or
+
+trapped by relationships or sense of power or resources.
+
+I want to be completely unburdened.
+
+So I don't want to need any of it.
+
+But I do want to experience and do awesome, useful things as
+
+well. I don't want to just sit there
+
+and stare at a monastery wall, so that is my sort of ideal
+
+state here. I'm so in alignment with that.
+
+And yeah, you don't want your pursuit of a goal to trap you in
+
+that pursuit, right? You don't want to be so
+
+committed to an outcome of something that you can't listen
+
+to what you're what you're telling yourself and what you're
+
+consciousness once. It's hard.
+
+I mean, look at every entrepreneur that has a
+
+suffering, you know, marriage or you know, a child that like they
+
+don't get to see as much or people not that's driving or
+
+grinding is inherently bad. But it is so easy to lose your
+
+way in contact with the world, but especially when people start
+
+giving you positive feedback, that is when you that is really
+
+dangerous. You start getting likes, you
+
+start getting people telling you, oh, you should do this or
+
+you should help me with that. And you will lose years that way
+
+easily. And look back, why am I here?
+
+Why am I doing this? How did I get to this
+
+meaningless place? This is what I wanted at all.
+
+And yet it is what will happen by default if you don't
+
+consciously put at the center of your life what you want and how
+
+you want to be. Just like perpetually.
+
+Not like a goal, nothing you're trying to reach, but just the
+
+state you're trying to be in constantly.
+
+Because if you don't, other forces will direct you.
+
+Yeah. I think when people think about
+
+the idea of manifestation, they often are trying to manifest
+
+material goals as a means, maybe subconsciously, of manifesting
+
+internal goals. But what you said that it was so
+
+profound is there's the state that we should be chasing rather
+
+than these external things. So when I think about
+
+manifestation, if I I'm, it's not necessarily something I
+
+practice often, but if I do, I try to practice how I feel, what
+
+is the state of my being rather than what is the outside look
+
+like? Because I think that when we do
+
+pursue anything external, it is just a means to something
+
+internal, even if we don't understand that.
+
+Green those causes are not always noble.
+
+It can be the pursuit of just wanting to have sex or just like
+
+being angry at somebody or feeling like, oh, I never had
+
+this as a kid, so now, but you may not be aware of that.
+
+For complicated creatures for sure there's a lot of competing
+
+desires and you should neither ignore them nor follow them
+
+blindly. Both would lead to ruin in
+
+different ways. Yeah.
+
+All right. So my final question for you
+
+today on the basis of gratitude is what are you grateful for
+
+most in your life? I'm grateful just to be here,
+
+that that alone is is wonderful. Yes, the content of my life has
+
+been good. It's been lots of ups and downs
+
+and I hope that there there will be more, but I am.
+
+I'm grateful that there is. Anything at all is to me one of
+
+the most profound like mysteries of everything.
+
+Why is there anything instead of nothing?
+
+It doesn't make any sense to me. It's something that can't be
+
+resolved by logic. And I've spent a lot of time
+
+thinking about this. The more I've learned, the more
+
+I come back to it. Just it just is that way.
+
+But it didn't have to be, and I'm incredibly grateful that
+
+anything exists at all and that I get to be alive and I get to
+
+experience things and no matter what happens, it was worth it.
+
+That's pretty cool. Yeah, I think we think very
+
+similarly. I I often think about those same
+
+things. Good.
+
+Please keep thinking. I like I like what you're
+
+thinking about. I think that you're going to
+
+have a a lot of interesting things to to share about the
+
+world. Just keep keep experiencing
+
+things because honestly, that's any useful lesson I've ever had
+
+came from a moment of pain or some experience and came from
+
+doing things and feeling things and having things happen to me.
+
+Not all of them. I wanted to and then dealing
+
+with it and that those are, those end up being ammunition in
+
+the future. Those are the things that you
+
+get to use or help other people with and that's where it comes
+
+from. It doesn't come from sitting in
+
+a chair doing nothing. Ironically, that can prepare
+
+you, but that doesn't give you anything worthwhile.
+
+Yeah. Thank you so much, Steven.
+
+This has been a wonderful conversation.
+
+So many different points of interest, different takeaways.
+
+I loved it. Cool.
+
+Absolutely. Thank you for listening to the
+
+Grateful Podcast. If you enjoyed this episode, it
+
+would mean the world to me if you could either share this
+
+episode with friends and family who you think would enjoy it or
+
+leave a review down below on what I can do to make this
+
+better for you and for other listeners.
+
+All that would just help me and be able to spread my message of
+
+gratitude and living a purposeful life.
+
+I hope you have a great day, see you soon.

@@ -3,14 +3,14 @@
     "path": "README.md",
     "title": "README.md",
     "kind": "metadata",
-    "size": 7765,
+    "size": 9383,
     "source": ""
   },
   {
     "path": "SHA256SUMS.txt",
     "title": "SHA256SUMS.txt",
     "kind": "metadata",
-    "size": 156755,
+    "size": 159675,
     "source": ""
   },
   {
@@ -52,7 +52,7 @@
     "path": "audio-validation.json",
     "title": "audio-validation.json",
     "kind": "metadata",
-    "size": 22448,
+    "size": 23048,
     "source": ""
   },
   {
@@ -2254,6 +2254,27 @@
     "source": ""
   },
   {
+    "path": "discovery/grateful-79-download-hls.log",
+    "title": "grateful-79-download-hls.log",
+    "kind": "metadata",
+    "size": 4010,
+    "source": ""
+  },
+  {
+    "path": "discovery/grateful-79-download.log",
+    "title": "grateful-79-download.log",
+    "kind": "metadata",
+    "size": 984,
+    "source": ""
+  },
+  {
+    "path": "discovery/grateful-podcast-feed-20261010.xml",
+    "title": "grateful-podcast-feed-20261010.xml",
+    "kind": "metadata",
+    "size": 1472650,
+    "source": "https://feeds.buzzsprout.com/2302168.rss"
+  },
+  {
     "path": "discovery/initial-page-responses/33-years-in-a-room-with-no-exits.html",
     "title": "33-years-in-a-room-with-no-exits.html",
     "kind": "metadata",
@@ -2320,7 +2341,7 @@
     "path": "index.html",
     "title": "index.html",
     "kind": "metadata",
-    "size": 74944,
+    "size": 75674,
     "source": ""
   },
   {
@@ -2394,6 +2415,13 @@
     "source": ""
   },
   {
+    "path": "interviews/grateful-79-recovery.json",
+    "title": "grateful-79-recovery.json",
+    "kind": "metadata",
+    "size": 4759,
+    "source": ""
+  },
+  {
     "path": "interviews/nosleep-podcast-s9e09.mp3",
     "title": "NoSleep Podcast S9E09",
     "kind": "audio",
@@ -2422,10 +2450,108 @@
     "source": ""
   },
   {
+    "path": "interviews/the-technology-that-centers-you-ayFAYBEm_rs.description",
+    "title": "the-technology-that-centers-you-ayFAYBEm_rs.description",
+    "kind": "metadata",
+    "size": 3721,
+    "source": ""
+  },
+  {
+    "path": "interviews/the-technology-that-centers-you-ayFAYBEm_rs.info.json",
+    "title": "the-technology-that-centers-you-ayFAYBEm_rs.info.json",
+    "kind": "metadata",
+    "size": 574336,
+    "source": ""
+  },
+  {
+    "path": "interviews/the-technology-that-centers-you-ayFAYBEm_rs.json",
+    "title": "the-technology-that-centers-you-ayFAYBEm_rs.json",
+    "kind": "metadata",
+    "size": 484,
+    "source": ""
+  },
+  {
+    "path": "interviews/the-technology-that-centers-you-ayFAYBEm_rs.mp4",
+    "title": "The Technology That Centers You with Steven Schrembeck | 79",
+    "kind": "video",
+    "size": 344001213,
+    "source": "https://www.youtube.com/watch?v=ayFAYBEm_rs"
+  },
+  {
+    "path": "interviews/the-technology-that-centers-you-ayFAYBEm_rs.webp",
+    "title": "the-technology-that-centers-you-ayFAYBEm_rs.webp",
+    "kind": "photo",
+    "size": 70048,
+    "source": ""
+  },
+  {
+    "path": "interviews/the-technology-that-centers-you-with-steven-schrembeck-79.episode.xml",
+    "title": "the-technology-that-centers-you-with-steven-schrembeck-79.episode.xml",
+    "kind": "metadata",
+    "size": 12932,
+    "source": ""
+  },
+  {
+    "path": "interviews/the-technology-that-centers-you-with-steven-schrembeck-79.json",
+    "title": "the-technology-that-centers-you-with-steven-schrembeck-79.json",
+    "kind": "metadata",
+    "size": 6368,
+    "source": ""
+  },
+  {
+    "path": "interviews/the-technology-that-centers-you-with-steven-schrembeck-79.mp3",
+    "title": "The Technology That Centers You with Steven Schrembeck | 79",
+    "kind": "audio",
+    "size": 37772924,
+    "source": "https://anchor.fm/s/115657424/podcast/play/123402400/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-27%2F428725770-44100-1-4314106b83e6bf3d.mp3"
+  },
+  {
     "path": "interviews/the-technology-that-centers-you-with-steven-schrembeck-79.mp3.headers.txt",
     "title": "the-technology-that-centers-you-with-steven-schrembeck-79.mp3.headers.txt",
     "kind": "metadata",
     "size": 682,
+    "source": ""
+  },
+  {
+    "path": "interviews/the-technology-that-centers-you-with-steven-schrembeck-79.mp3.recovered.headers.txt",
+    "title": "the-technology-that-centers-you-with-steven-schrembeck-79.mp3.recovered.headers.txt",
+    "kind": "metadata",
+    "size": 1023,
+    "source": ""
+  },
+  {
+    "path": "interviews/the-technology-that-centers-you-with-steven-schrembeck-79.mp3.retrieval.json",
+    "title": "the-technology-that-centers-you-with-steven-schrembeck-79.mp3.retrieval.json",
+    "kind": "metadata",
+    "size": 436,
+    "source": ""
+  },
+  {
+    "path": "interviews/the-technology-that-centers-you-with-steven-schrembeck-79.srt",
+    "title": "the-technology-that-centers-you-with-steven-schrembeck-79.srt",
+    "kind": "transcript",
+    "size": 76167,
+    "source": "https://transcript-files.spotifycdn.com/5EsTEpQAjU4BxUrDoFyZ6b/7vJ33pWTwtq1Jy94Zilo3p/transcript.srt"
+  },
+  {
+    "path": "interviews/the-technology-that-centers-you-with-steven-schrembeck-79.srt.headers.txt",
+    "title": "the-technology-that-centers-you-with-steven-schrembeck-79.srt.headers.txt",
+    "kind": "metadata",
+    "size": 513,
+    "source": ""
+  },
+  {
+    "path": "interviews/the-technology-that-centers-you-with-steven-schrembeck-79.srt.retrieval.json",
+    "title": "the-technology-that-centers-you-with-steven-schrembeck-79.srt.retrieval.json",
+    "kind": "metadata",
+    "size": 380,
+    "source": ""
+  },
+  {
+    "path": "interviews/the-technology-that-centers-you-with-steven-schrembeck-79.txt",
+    "title": "the-technology-that-centers-you-with-steven-schrembeck-79.txt",
+    "kind": "metadata",
+    "size": 46003,
     "source": ""
   },
   {
@@ -2446,21 +2572,21 @@
     "path": "inventory.csv",
     "title": "inventory.csv",
     "kind": "metadata",
-    "size": 50651,
+    "size": 51591,
     "source": ""
   },
   {
     "path": "inventory.json",
     "title": "inventory.json",
     "kind": "metadata",
-    "size": 119135,
+    "size": 120519,
     "source": ""
   },
   {
     "path": "manifest.jsonl",
     "title": "manifest.jsonl",
     "kind": "metadata",
-    "size": 104173,
+    "size": 106209,
     "source": ""
   },
   {
@@ -7206,7 +7332,7 @@
     "path": "video-validation.json",
     "title": "video-validation.json",
     "kind": "metadata",
-    "size": 12914,
+    "size": 13500,
     "source": ""
   },
   {

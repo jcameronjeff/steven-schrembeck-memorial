@@ -462,6 +462,34 @@
     "transcript": "cox-workplace/presentations/deep-meaning-at-work/transcript.txt"
   },
   {
+    "id": "interviews-the-technology-that-centers-you-with-steven-schrembeck-79",
+    "title": "The Technology That Centers You with Steven Schrembeck | 79",
+    "path": "interviews/the-technology-that-centers-you-with-steven-schrembeck-79.mp3",
+    "kind": "audio",
+    "series": "Guest appearances",
+    "date": "2025-06-11",
+    "date_basis": "Feed publication date",
+    "origin": "https://anchor.fm/s/115657424/podcast/play/123402400/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-27%2F428725770-44100-1-4314106b83e6bf3d.mp3",
+    "size": 37772924,
+    "duration": "52 min 25 sec",
+    "format": "MP3",
+    "transcript": "interviews/the-technology-that-centers-you-with-steven-schrembeck-79.txt",
+    "transcript_note": "Publisher-supplied transcript from the podcast feed (Spotify-hosted SRT); unreviewed and may contain errors. Plain text retains cue order and wording."
+  },
+  {
+    "id": "interviews-the-technology-that-centers-you-ayfaybem-rs",
+    "title": "The Technology That Centers You with Steven Schrembeck | 79",
+    "path": "interviews/the-technology-that-centers-you-ayFAYBEm_rs.mp4",
+    "kind": "video",
+    "series": "Guest appearances",
+    "date": "2025-06-11",
+    "date_basis": "YouTube upload date (day precision)",
+    "origin": "https://www.youtube.com/watch?v=ayFAYBEm_rs",
+    "size": 344001213,
+    "duration": "52 min 25 sec",
+    "format": "MP4"
+  },
+  {
     "id": "an-unwelcome-audience-lighthouse-horror",
     "title": "If You’re Alone in the Woods and They See You, Don’t Even Breathe",
     "kind": "audio",

@@ -3,14 +3,14 @@
   "files": [
     {
       "path": "README.md",
-      "size": 7765,
-      "sha256": "98104c388aebe69e496ee5ae2a0384eefd87cf0e2e2e5e39b94da893c5703f8b",
+      "size": 9383,
+      "sha256": "5f0ca23c0800b27bff488135bbc3ba034017d6d7905b16ccb51a317ae682245b",
       "lfs": false
     },
     {
       "path": "SHA256SUMS.txt",
-      "size": 156755,
-      "sha256": "0812ac2c6c6b1af5ae2c5d85169472f792c229b1d5101f91e979ae58f25f0e5d",
+      "size": 159675,
+      "sha256": "939c5f9a9e0140ffdd96b33f89ff307d82076e81c98d9b7d07c9812c680acaa9",
       "lfs": false
     },
     {
@@ -45,8 +45,8 @@
     },
     {
       "path": "audio-validation.json",
-      "size": 22448,
-      "sha256": "d68762654a9dc9122cc129bb88d9e614f90c5cfbdcaf552c9faf42d190ecf263",
+      "size": 23048,
+      "sha256": "1ef1029cddf12000fdf0afb0b6a3481abb2541080e94bef85ef943cde3f1d937",
       "lfs": false
     },
     {
@@ -1934,6 +1934,24 @@
       "lfs": false
     },
     {
+      "path": "discovery/grateful-79-download-hls.log",
+      "size": 4010,
+      "sha256": "5d55e9953dedbdfb6a16e2e7bb397a48126dcc76104b122196e17f3e8da3d6fd",
+      "lfs": false
+    },
+    {
+      "path": "discovery/grateful-79-download.log",
+      "size": 984,
+      "sha256": "cb43862c2989b2c3df0345ace47c1585248a496847744298c68feab540fada47",
+      "lfs": false
+    },
+    {
+      "path": "discovery/grateful-podcast-feed-20261010.xml",
+      "size": 1472650,
+      "sha256": "736fd4af4cb24adfbd0a9b1d2d47b1b38b2045f6e3bc676638b13baca650898d",
+      "lfs": false
+    },
+    {
       "path": "discovery/initial-page-responses/33-years-in-a-room-with-no-exits.html",
       "size": 4450,
       "sha256": "269b0f3b6dbf8393657bdc428e69b784520147d749dc3d1a2f90ae24466b0076",
@@ -1989,8 +2007,8 @@
     },
     {
       "path": "index.html",
-      "size": 74944,
-      "sha256": "4bb4f7675519581f878ba8e348300b6f00fb9df686c00d4ec2ea16ba7706cfc0",
+      "size": 75674,
+      "sha256": "ef951a57f9e59d1948c7727634387f2ec726b32822b12ee23d8ed50a0c3cf3bc",
       "lfs": false
     },
     {
@@ -2054,6 +2072,12 @@
       "lfs": false
     },
     {
+      "path": "interviews/grateful-79-recovery.json",
+      "size": 4759,
+      "sha256": "43bdff89881f0eff6c46ace1138a5f97fefc5a360a221ceec765e2c00960ee9a",
+      "lfs": false
+    },
+    {
       "path": "interviews/nosleep-podcast-s9e09.mp3",
       "size": 74617033,
       "sha256": "2fa3013648a0604bca6210b0e9a5fc1a939e6dfd3d4eccd4f2aac87adc4d28e5",
@@ -2078,9 +2102,93 @@
       "lfs": false
     },
     {
+      "path": "interviews/the-technology-that-centers-you-ayFAYBEm_rs.description",
+      "size": 3721,
+      "sha256": "cb2dd39473607d0be8a14fa1481a089aa71d4e1c841dbd927da6cb98dd5e5a70",
+      "lfs": false
+    },
+    {
+      "path": "interviews/the-technology-that-centers-you-ayFAYBEm_rs.info.json",
+      "size": 574336,
+      "sha256": "157f40e6c2d1428f5b6c2040903f372d0ad00de1298d5b2ca3a293efea749a37",
+      "lfs": false
+    },
+    {
+      "path": "interviews/the-technology-that-centers-you-ayFAYBEm_rs.json",
+      "size": 484,
+      "sha256": "0ed687627e3d750ac7228e8c788ac07b29328eeb1fe817ecdbf01737d8b77b8a",
+      "lfs": false
+    },
+    {
+      "path": "interviews/the-technology-that-centers-you-ayFAYBEm_rs.mp4",
+      "size": 344001213,
+      "sha256": "29f21ba86da3c53fb3dd3fa930e2e0fe223175f7021ae617181f4318b9fc30b1",
+      "lfs": true
+    },
+    {
+      "path": "interviews/the-technology-that-centers-you-ayFAYBEm_rs.webp",
+      "size": 70048,
+      "sha256": "457edaf76e169304529cea39fb6a70962f12a3f0f648f939953a06dc5fe00454",
+      "lfs": false
+    },
+    {
+      "path": "interviews/the-technology-that-centers-you-with-steven-schrembeck-79.episode.xml",
+      "size": 12932,
+      "sha256": "c0189928cbbf3565f5f8066f257fe9bf03b6b8935a40a82ea912fedf0e002ca4",
+      "lfs": false
+    },
+    {
+      "path": "interviews/the-technology-that-centers-you-with-steven-schrembeck-79.json",
+      "size": 6368,
+      "sha256": "ae47b3d03ae10720c60bffb1cd07c7a3516828665708941bea226aca4f2b8ab3",
+      "lfs": false
+    },
+    {
+      "path": "interviews/the-technology-that-centers-you-with-steven-schrembeck-79.mp3",
+      "size": 37772924,
+      "sha256": "ac01fe588f9070dd2e19ddf507102a0aa088b1044e93548bd2cd3fc7e9ae2b7d",
+      "lfs": true
+    },
+    {
       "path": "interviews/the-technology-that-centers-you-with-steven-schrembeck-79.mp3.headers.txt",
       "size": 682,
       "sha256": "5e0131e72dfcf31fa5a99309494dc527ff6c843e9f21cddd7d305afead9415d6",
+      "lfs": false
+    },
+    {
+      "path": "interviews/the-technology-that-centers-you-with-steven-schrembeck-79.mp3.recovered.headers.txt",
+      "size": 1023,
+      "sha256": "64f85c5d92fccd67815a25b5b6c0e87c839ccbac4899fdc3f33e11ee6462b122",
+      "lfs": false
+    },
+    {
+      "path": "interviews/the-technology-that-centers-you-with-steven-schrembeck-79.mp3.retrieval.json",
+      "size": 436,
+      "sha256": "5829c58f442c4ee554511d0fd0cf1dbf62c7524d8033acde7a0bfc49b60eadd9",
+      "lfs": false
+    },
+    {
+      "path": "interviews/the-technology-that-centers-you-with-steven-schrembeck-79.srt",
+      "size": 76167,
+      "sha256": "8fdd6ddf1507933a604638fb10819f28051463fd6212748232733e0fef1b13be",
+      "lfs": false
+    },
+    {
+      "path": "interviews/the-technology-that-centers-you-with-steven-schrembeck-79.srt.headers.txt",
+      "size": 513,
+      "sha256": "4817a0481ebd0ca09401503a47baaf653241cd37a36c92dfd9da91925c336e03",
+      "lfs": false
+    },
+    {
+      "path": "interviews/the-technology-that-centers-you-with-steven-schrembeck-79.srt.retrieval.json",
+      "size": 380,
+      "sha256": "84903f47f1c2ca5c752a3bd07c3e77084441f864131c1865c64c0f6c51083d35",
+      "lfs": false
+    },
+    {
+      "path": "interviews/the-technology-that-centers-you-with-steven-schrembeck-79.txt",
+      "size": 46003,
+      "sha256": "0c7c4314d94729c8a741cbf2fd55ed5fb37009ec03f3cae9a104a0f24d48704d",
       "lfs": false
     },
     {
@@ -2097,20 +2205,20 @@
     },
     {
       "path": "inventory.csv",
-      "size": 50651,
-      "sha256": "9a985c818326e9a19d3bcdf850a35d9b477b79afb1e3c6603f686a356675859d",
+      "size": 51591,
+      "sha256": "b0fb27d375c0bb3f936d44e32f831139fee604cfef5db08480d2903d4e4898eb",
       "lfs": false
     },
     {
       "path": "inventory.json",
-      "size": 119135,
-      "sha256": "cd876ce1449fc56a2726b3bcca3454c868c26872e5545d37feda1b6e201a32c5",
+      "size": 120519,
+      "sha256": "57a6ba7312264793cd0ee5e99f1bf4530d44a114c3101ce0edd3e99d5acc43bc",
       "lfs": false
     },
     {
       "path": "manifest.jsonl",
-      "size": 104173,
-      "sha256": "4d08ba7960ee764f349028569bac4f11dbf17c1dc104cfe6c76961ac22dc55c1",
+      "size": 106209,
+      "sha256": "43b211695dc977d5a25579ed694fa3bd04bb492b09daacd2bb1258f3a8270619",
       "lfs": false
     },
     {
@@ -6177,8 +6285,8 @@
     },
     {
       "path": "video-validation.json",
-      "size": 12914,
-      "sha256": "f4a1542b779ca7e9a35992a6a6b7181654167a326c7dba57cec797a4eecd70c2",
+      "size": 13500,
+      "sha256": "7fc81b43785f42a00f09726ce7efe73a3e761a2d061d29c67619003be1786575",
       "lfs": false
     },
     {

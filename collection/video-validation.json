@@ -586,5 +586,32 @@
     "error": "",
     "validated_utc": "2026-10-10T18:01:08.607157+00:00",
     "validation_scope": "Container and stream inspection, file SHA-256, and caption duration bounds; not full decode or human review"
+  },
+  {
+    "path": "interviews/the-technology-that-centers-you-ayFAYBEm_rs.mp4",
+    "readable": true,
+    "probe": {
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "vp9",
+          "codec_type": "video",
+          "width": 1920,
+          "height": 1080
+        },
+        {
+          "codec_name": "aac",
+          "codec_type": "audio",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ],
+      "format": {
+        "duration": "3145.049977",
+        "size": "344001213"
+      }
+    },
+    "error": ""
   }
 ]

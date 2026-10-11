@@ -16,7 +16,7 @@ Open **index.html** to browse the collection and play saved audio. Nothing has b
 
 ## Provenance and verification
 
-inventory.csv and inventory.json list downloaded sources and failures. manifest.jsonl preserves web/audio retrieval records; YouTube source details are in each .info.json. SHA256SUMS.txt covers retained files, including derivatives and metadata. audio-validation.json records successful media-container inspection of all 63 MP3s, including durations and codecs. This confirms readable containers, not a full human listening review. video-validation.json records successful container checks for all 24 saved videos (22 Seeking Minima videos and 2 Cox workplace recordings), including both video and audio streams.
+inventory.csv and inventory.json list downloaded sources and failures. manifest.jsonl preserves web/audio retrieval records; YouTube source details are in each .info.json. SHA256SUMS.txt covers retained files, including derivatives and metadata. audio-validation.json records successful media-container inspection of the original 63 MP3s plus the recovered Grateful interview, including durations and codecs. This confirms readable containers, not a full human listening review. video-validation.json records successful container checks for all 25 saved videos (22 Seeking Minima videos, 2 Cox workplace recordings, and the recovered Grateful interview), including both video and audio streams.
 
 The raw HTML, feeds, and media are retained separately from generated reading copies and the index. Response headers record HTTP retrieval details. Files ending in .part or .ytdl are incomplete and must not be submitted.
 
@@ -24,7 +24,7 @@ The raw HTML, feeds, and media are retained separately from generated reading co
 
 1. The blog RSS returned an empty feed; articles were collected directly from the website instead.
 2. Five blog image requests failed with HTTP 419 (expired source links). Article text and embedded page data were retained.
-3. Three guest appearances were not downloaded: **Fastest way to Get Great And Take Your Goals All The Way** (403), **An Unwelcome Audience** (403), and **The Technology That Centers You | 79** (404). Source URLs and errors are in the inventory.
+3. Two original guest-appearance downloads remain unavailable: **Fastest way to Get Great And Take Your Goals All The Way** (403) and **An Unwelcome Audience** (403). **The Technology That Centers You | 79**, initially a 404, was later recovered from the current podcast feed and YouTube; see the recovery note below. The original failed requests remain in manifest.jsonl.
 4. The Apple link on the memorial currently resolves to a broad KGRA feed that does not expose the named interview. An Alien Spirit recording naming Steven was recovered through his appearances profile; whether this is the exact same recording as the original Apple episode remains unverified.
 5. Both the regular videos and Shorts tabs were inventoried; no streams tab was available. Unavailable/deleted uploads, social posts, repositories, older websites, and unlinked works have not been exhaustively searched.
 6. Review titles, dates, attribution, and publication permission with the relevant rights holders before an Internet Archive submission. No license or permission is inferred from public accessibility.
@@ -42,7 +42,7 @@ Initial loading-shell responses for five older blog routes are retained in disco
 <!-- transcription-notes -->
 ## Machine transcription — October 10, 2026
 
-The original 63 audio recordings and 22 Seeking Minima videos have Scribe v2 machine transcripts in **transcripts/machine/**. Start with **transcripts/index.html** for offline full-text search, readable transcripts, SRT/VTT subtitles and untouched API JSON. The two subsequently added Cox videos reuse their supplied transcripts; neither was sent for paid transcription. All 87 current media files have transcript associations in transcripts/associations.json.
+The original 63 audio recordings and 22 Seeking Minima videos have Scribe v2 machine transcripts in **transcripts/machine/**. Start with **transcripts/index.html** for offline full-text search, readable transcripts, SRT/VTT subtitles and untouched API JSON. The two subsequently added Cox videos reuse their supplied transcripts; neither was sent for paid transcription. Those 87 media files have transcript associations in transcripts/associations.json. Later recovery additions are documented separately below.
 
 Machine transcripts are uncorrected. New speaker labels are neutral and local to each recording. Words, names, speaker separation and timing can contain errors; review candidates and pilot findings are available in transcripts/REVIEW.html and transcripts/PILOT-REVIEW.md. Independent local recognition checks are not a human listening review. No corrected editions have been created. Supplied Cox captions retain their existing source attribution and provenance.
 
@@ -50,3 +50,9 @@ The 22 video audio tracks were extracted separately in this transcription chat's
 
 transcripts/provenance/ preserves metadata and checksums from before transcription and after the concurrent Cox additions. The original retrieval inventory and manifest remain intact; transcripts/transcription-manifest.jsonl adds transcription provenance, and SHA256SUMS.txt is refreshed to cover retained archive files. See transcripts/REPORT.md for coverage, costs and verification. Nothing has been published or submitted to the Internet Archive.
 <!-- /transcription-notes -->
+
+## Recovered interview — October 10, 2026
+
+**The Technology That Centers You with Steven Schrembeck | 79** from *The Grateful Podcast with Jack Wagoner* is now saved in `interviews/` as the publisher’s original MP3 and a 1080p, 24 fps YouTube MP4. Both are approximately 52 minutes 25 seconds. The video’s public delivery streams were merged without re-encoding. The publisher’s current podcast feed also provided an SRT transcript; its unreviewed wording is retained as SRT and a plain-text reading copy, without paid transcription. The transcript is associated with the MP3 only; synchronization to the YouTube copy has not been established.
+
+The podcast feed and YouTube metadata both date publication to June 11, 2025. The current feed retains the original `Buzzsprout-17280600` episode GUID but now points to a Spotify-hosted MP3. The earlier 404 response headers and failed manifest entry are retained. `interviews/grateful-79-recovery.json` records sources, file hashes, duration, and complete audio/video decode checks. The current inventory marks the recovered MP3 as saved. Current totals are 65 MP3s and 25 videos, including Lighthouse Horror’s previously saved adaptation. The recovery edition includes this addition in the archive website and downloadable collection. Earlier published releases remain separate historical snapshots.

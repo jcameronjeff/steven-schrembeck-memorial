@@ -1140,5 +1140,32 @@
       }
     },
     "error": ""
+  },
+  {
+    "path": "interviews/the-technology-that-centers-you-with-steven-schrembeck-79.mp3",
+    "readable": true,
+    "probe": {
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "mp3",
+          "codec_type": "audio",
+          "sample_rate": "44100",
+          "channels": 1
+        },
+        {
+          "codec_name": "mjpeg",
+          "codec_type": "video",
+          "width": 600,
+          "height": 600
+        }
+      ],
+      "format": {
+        "duration": "3145.101256",
+        "size": "37772924"
+      }
+    },
+    "error": ""
   }
 ]

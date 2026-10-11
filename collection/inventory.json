@@ -922,16 +922,16 @@
     "sha256": "39c11108e7469e950e0037fbca9b84f5ee0acf90331c9c456090b429dd9c984f"
   },
   {
-    "url": "https://pdcn.co/e/www.buzzsprout.com/2302168/episodes/17280600-the-technology-that-centers-you-with-steven-schrembeck-79.mp3",
+    "url": "https://anchor.fm/s/115657424/podcast/play/123402400/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-27%2F428725770-44100-1-4314106b83e6bf3d.mp3",
     "path": "interviews/the-technology-that-centers-you-with-steven-schrembeck-79.mp3",
     "kind": "audio",
     "title": "The Technology That Centers You with Steven Schrembeck | 79",
-    "retrieved_utc": "2026-10-10T17:33:45.386137+00:00",
-    "response": "404\thttps://www.buzzsprout.com/2302168/episodes/17280600-the-technology-that-centers-you-with-steven-schrembeck-79.mp3\ttext/html; charset=UTF-8",
-    "status": "failed",
-    "discovered_at": "https://talks.co/reality101/",
-    "attribution": "Listed as a Steven Schrembeck appearance; individual attribution should be reviewed before publication.",
-    "error": "curl: (56) The requested URL returned error: 404\n"
+    "retrieved_utc": "2026-10-11T01:16:16.620918+00:00",
+    "status": "saved",
+    "bytes": 37772924,
+    "sha256": "ac01fe588f9070dd2e19ddf507102a0aa088b1044e93548bd2cd3fc7e9ae2b7d",
+    "discovered_at": "https://feeds.buzzsprout.com/2302168.rss",
+    "attribution": "The Grateful Podcast with Jack Wagoner, episode 79; Steven Schrembeck is the named guest."
   },
   {
     "url": "https://podcasts.captivate.fm/media/9f77f988-2faa-419c-8c66-dc1795ef1aa0/soulbinder2.mp3",
@@ -1923,5 +1923,37 @@
     "creation_time": "2026-01-06T19:32:31.000000Z",
     "transcript_path": "cox-workplace/presentations/not-your-job-the-art-of-defiance/Not Your Job_ The Art of Defiance.vtt",
     "transcript_status": "Existing user-supplied VTT; cue timing fits video duration; speech alignment not reviewed"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=ayFAYBEm_rs",
+    "path": "interviews/the-technology-that-centers-you-ayFAYBEm_rs.mp4",
+    "kind": "video",
+    "title": "The Technology That Centers You with Steven Schrembeck | 79",
+    "retrieved_utc": "2026-10-11T01:16:16.620918+00:00",
+    "status": "saved",
+    "bytes": 344001213,
+    "sha256": "29f21ba86da3c53fb3dd3fa930e2e0fe223175f7021ae617181f4318b9fc30b1",
+    "discovered_at": "https://www.youtube.com/watch?v=ayFAYBEm_rs",
+    "attribution": "The Grateful Podcast with Jack Wagoner, episode 79; Steven Schrembeck is the named guest."
+  },
+  {
+    "url": "https://transcript-files.spotifycdn.com/5EsTEpQAjU4BxUrDoFyZ6b/7vJ33pWTwtq1Jy94Zilo3p/transcript.srt",
+    "path": "interviews/the-technology-that-centers-you-with-steven-schrembeck-79.srt",
+    "kind": "transcript",
+    "title": "The Technology That Centers You with Steven Schrembeck | 79",
+    "retrieved_utc": "2026-10-11T01:16:16.620918+00:00",
+    "status": "saved",
+    "bytes": 76167,
+    "sha256": "8fdd6ddf1507933a604638fb10819f28051463fd6212748232733e0fef1b13be"
+  },
+  {
+    "url": "https://feeds.buzzsprout.com/2302168.rss",
+    "path": "discovery/grateful-podcast-feed-20261010.xml",
+    "kind": "feed",
+    "title": "The Grateful Podcast — current feed",
+    "retrieved_utc": "2026-10-11T01:16:16.620918+00:00",
+    "status": "saved",
+    "bytes": 1472650,
+    "sha256": "736fd4af4cb24adfbd0a9b1d2d47b1b38b2045f6e3bc676638b13baca650898d"
   }
 ]
