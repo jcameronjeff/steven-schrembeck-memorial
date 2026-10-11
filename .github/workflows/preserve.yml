@@ -1,6 +1,11 @@
 name: Verify and preserve complete collection
 on:
   workflow_dispatch:
+    inputs:
+      release_tag:
+        description: New release tag for this preservation snapshot
+        required: true
+        type: string
 permissions:
   contents: write
 jobs:
@@ -12,6 +17,7 @@ jobs:
       ARCHIVE_UPLOAD_TOKEN: ${{ secrets.ARCHIVE_UPLOAD_TOKEN }}
       ARCHIVE_PART_CONCURRENCY: '8'
       GH_TOKEN: ${{ github.token }}
+      ARCHIVE_RELEASE_TAG: ${{ inputs.release_tag }}
     steps:
       - uses: actions/checkout@v4
         with:
@@ -33,4 +39,4 @@ jobs:
       - name: Publish complete ZIP to the archive
         run: node scripts/upload-archive.mjs output/steven-schrembeck-complete.zip output/steven-schrembeck-complete.zip.sha256
       - name: Preserve downloadable ZIP parts on GitHub
-        run: gh release create archive-2026-10-10 output/releases/* --title "Steven Schrembeck archive · October 10, 2026" --notes-file RELEASE-NOTES.md --target "$GITHUB_SHA"
+        run: gh release create "$ARCHIVE_RELEASE_TAG" output/releases/* --title "Steven Schrembeck archive · $ARCHIVE_RELEASE_TAG" --notes-file RELEASE-NOTES.md --target "$GITHUB_SHA" --latest
