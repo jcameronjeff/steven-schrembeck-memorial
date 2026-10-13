@@ -2,7 +2,11 @@ from html.parser import HTMLParser
 from pathlib import Path
 from urllib.parse import urlsplit,unquote
 import json
-ROOT=Path(__file__).resolve().parents[1];site=ROOT/'site'
+import argparse
+ROOT=Path(__file__).resolve().parents[1]
+args=argparse.ArgumentParser()
+args.add_argument('--site',type=Path,default=ROOT/'site')
+site=args.parse_args().site.resolve()
 (ROOT/'qa').mkdir(exist_ok=True)
 class Links(HTMLParser):
  def __init__(self):super().__init__();self.links=[];self.ids=set();self.h1=0

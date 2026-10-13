@@ -6,6 +6,8 @@ from datetime import datetime
 from listening import publication_label
 from explore import explore_library
 from book import build_book, book_download_card
+from archive_files import file_size
+from contribution_pages import build_contributions, build_form
 
 ROOT=Path(__file__).resolve().parents[1]
 (ROOT/'output').mkdir(exist_ok=True)
@@ -28,7 +30,7 @@ body=re.sub(r'<h2>(.*?)</h2>',lambda m:f'<h2 id="section-{re.sub(r"[^a-z0-9]+","
 shutil.copy2(SRC/'memorial/READ.html',ROOT/'output/original-memorial.html')
 (OUT/'downloads/memories.json').write_text(json.dumps([{k:p.get(k,'') for k in ['id','type','by','text','team','year','month','context']} for p in POSTS],ensure_ascii=False,indent=2))
 GLASSES='<svg class="glasses" viewBox="0 0 64 34" fill="none" aria-hidden="true"><path d="M3 9h22l-2 16H8L3 9Zm36 0h22l-5 16H41L39 9ZM25 13c5-4 9-4 14 0M2 8 0 3m62 5 2-5" stroke="currentColor" stroke-width="3.5" stroke-linejoin="round"/></svg>'
-NAV=[('explore.html','Explore'),('files.html','Downloads'),('story.html','About')]
+NAV=[('explore.html','Explore'),('files.html','Downloads'),('story.html','About'),('contribute.html','Contribute')]
 
 def page(name,title,content,active='',depth=0,description=None):
  base='../' if depth else ''
@@ -134,7 +136,7 @@ for x in AUDIO+VIDEOS:
  else:
   info=json.loads((file.parent/'metadata.json').read_text());title=info['title'];date=info.get('recording_date','');basis='Recording date from filename and embedded metadata';series='Workplace presentations';kind='talk';origin=info.get('source_url','')
  duration=float(x.get('probe',{}).get('format',{}).get('duration',0));duration_text=f'{int(duration)//60} min {int(duration)%60:02d} sec'
- item={'id':item_id(p),'title':title,'path':p,'kind':kind,'series':series,'date':date,'date_basis':basis,'origin':origin,'size':file.stat().st_size,'duration':duration_text,'format':file.suffix[1:].upper()}
+ item={'id':item_id(p),'title':title,'path':p,'kind':kind,'series':series,'date':date,'date_basis':basis,'origin':origin,'size':file_size(file),'duration':duration_text,'format':file.suffix[1:].upper()}
  job=next((j for j in jobs if j.get('source_path')==p and j.get('status')=='completed'),None)
  if job:item['transcript']=job['transcript_files']['txt']
  elif info.get('transcript'):
@@ -148,14 +150,14 @@ for f in (SRC/'blog/pages').glob('*.txt'):
  if 'Created time' not in lines:continue
  date=datetime.strptime(lines[lines.index('Created time')+1],'%b %d, %Y %I:%M %p').date().isoformat()
  origin=BY_PATH.get('blog/pages/'+f.stem+'.html',{}).get('url','')
- item={'id':f.stem,'title':lines[0],'path':str(f.relative_to(SRC)),'kind':'writing','series':'A Different Compass','date':date,'date_basis':'Source Created time (not a verified publication date)','origin':origin,'size':f.stat().st_size,'format':'TXT','unpublished':lines[lines.index('Status')+1]=='Unpublished'}
+ item={'id':f.stem,'title':lines[0],'path':str(f.relative_to(SRC)),'kind':'writing','series':'A Different Compass','date':date,'date_basis':'Source Created time (not a verified publication date)','origin':origin,'size':file_size(f),'format':'TXT','unpublished':lines[lines.index('Status')+1]=='Unpublished'}
  if not item['unpublished']:item['reader']='writing/'+f.stem+'.html'
  WRITING.append(item)
 RELATED=json.loads((ROOT/'scripts/related-works.json').read_text())
 for item in RELATED:
  item['reader']='items/'+item['id']+'.html'
  item['path']=item.get('path','')
- item['size']=(SRC/item['path']).stat().st_size if item['path'] else 0
+ item['size']=file_size(SRC/item['path']) if item['path'] else 0
  item['archive_status']='saved' if item['path'] else 'link-only'
  if item['path']:BY_PATH[item['path']]={'url':item['origin']}
  links=''.join(f'<li><a href="{e(url)}">{e(label)} ↗</a></li>' for label,url in item['links'])
@@ -164,7 +166,9 @@ for item in RELATED:
   local='../'+archive_url(item['path'])
   player=f'<audio controls preload="none" style="width:100%" aria-label="{e(item["title"])}"><source src="{local}" type="audio/mpeg"></audio><p class="source-actions"><a class="button" href="{local}?download=1" download>Download saved recording ↓</a></p>'
  page(item['reader'],item['title'],head(e(item['series']),e(item['title']),e(item['note']))+f'<div class="article-body">{player}<p class="note-panel">'+('Saved recording · MP3 · '+size_label(item['size']) if item['path'] else 'Original links only · No saved copy in this archive.')+f'</p><ul class="related-links">{links}</ul><p class="source-note">{e(item["date"])} · {e(item["date_basis"])}. Source links checked October 10, 2026.</p></div>','explore.html',1)
-ITEMS=sorted(WRITING+MEDIA+RELATED,key=lambda i:(i['date'],i['title']),reverse=True)
+CONTRIBUTIONS=build_contributions(SRC,page,head)
+for item in CONTRIBUTIONS: BY_PATH[item['path']]={'url':item['origin']}
+ITEMS=sorted(WRITING+MEDIA+RELATED+CONTRIBUTIONS,key=lambda i:(i['date'],i['title']),reverse=True)
 (OUT/'downloads/catalogue.json').write_text(json.dumps(ITEMS,ensure_ascii=False,indent=2))
 # Explicit original-source links also appear on each reading page and each selected recording.
 for a in WRITING:
@@ -194,7 +198,7 @@ rows=[];files=[]
 for f in sorted(SRC.rglob('*')):
  if not f.is_file() or f.name=='.DS_Store':continue
  rel=str(f.relative_to(SRC));suffix=f.suffix.lower();kind='audio' if suffix=='.mp3' else 'video' if suffix in ['.mp4','.mkv','.webm'] else 'photo' if suffix in ['.jpg','.jpeg','.png','.webp'] else 'transcript' if rel.startswith('transcripts/') or suffix in ['.vtt','.srt'] else 'writing' if rel.startswith('blog/pages/') and suffix in ['.txt','.html'] and '.headers.' not in rel else 'metadata'
- source=BY_PATH.get(rel,{}).get('url','');size=f.stat().st_size;title=next((i['title'] for i in ITEMS if i['path']==rel),f.name)
+ source=BY_PATH.get(rel,{}).get('url','');size=file_size(f);title=next((i['title'] for i in ITEMS if i['path']==rel),f.name)
  file={'path':rel,'title':title,'kind':kind,'size':size,'source':source};files.append(file)
  original=f'<a href="{e(source)}" class="original-link">Source ↗<span class="visually-hidden">: {e(title)}</span></a>' if source else '<span class="muted">—</span>'
  rows.append(f'<tr data-entry data-kind="{kind}"><td><span class="file-title">{e(title)}</span><span class="file-path">{e(rel)}</span><span class="file-original-mobile">{original}</span></td><td>{suffix[1:].upper() or "FILE"}</td><td>{size_label(size)}</td><td>{original}</td><td><a class="file-download" href="{archive_url(rel)}?download=1" download aria-label="Download {e(f.name)}">Download ↓</a></td></tr>')
@@ -243,3 +247,6 @@ for old, target in redirects.items():
  script = f"const next = new URL({json.dumps(target)}, location.href); for (const [key, value] of new URLSearchParams(location.search)) next.searchParams.set(key, value); if (location.hash === '#listen') next.searchParams.set('type', 'audio'); if (location.hash === '#writing') next.searchParams.set('type', 'writing'); location.replace(next.href);"
  s=s.replace('</head>',f'<script>{script}</script><noscript><meta http-equiv="refresh" content="0;url={target}"></noscript></head>')
  p.write_text(s)
+
+# The upload page is enhanced by the bundled client on Vercel.
+build_form(page,head)

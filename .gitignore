@@ -6,3 +6,6 @@ __pycache__/
 node_modules/
 site/collection-files
 .DS_Store
+.vercel/
+.env*
+.vercel

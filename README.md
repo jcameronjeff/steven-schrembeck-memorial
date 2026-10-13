@@ -35,6 +35,12 @@ The compiled book, *The Small Moments Are Everything*, has a web reading edition
 
 The archive is ordinary HTML, CSS, JavaScript and files. Core reading and links work without JavaScript; search and menus are progressive enhancements. No account, database, external fonts or analytics are required. Machine transcripts are marked as unreviewed. Original MKV videos may require a desktop player.
 
+## Contribute and deploy
+
+See [CONTRIBUTING.md](CONTRIBUTING.md) to share files through an invitation form or a GitHub pull request. Accepted contributions are added to Explore and Downloads automatically. The [Vercel website](https://steven-schrembeck-memorial.vercel.app/) deploys from `main`, with previews for proposed changes. [Deployment and caretaker instructions](docs/vercel.md) cover private uploads, review, and operation.
+
+For a Vercel build without downloading all recordings, run `npm ci`, `npm run build`, and `python3 scripts/validate.py --site output/vercel`. This builds the current site and links to originals in Git LFS.
+
 ## Build and preview
 
 Python 3.10+ builds the site using the standard library. ReportLab is needed only to regenerate the memory PDF.

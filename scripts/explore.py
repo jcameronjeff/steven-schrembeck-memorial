@@ -7,7 +7,7 @@ def explore_library(items, articles, archive_url):
     descriptions = {article['slug']: article['description'] for article in articles}
     series = sorted({item['series'].split(' · ')[0] for item in items})
     kinds = [('all', 'Everything'), ('writing', 'Writing'), ('audio', 'Audio'),
-             ('video', 'Video'), ('talk', 'Presentations'), ('book', 'Books')]
+             ('video', 'Video'), ('talk', 'Presentations'), ('book', 'Books'), ('contribution', 'Contributions')]
     buttons = ''.join(
         f'<button class="filter-button" data-filter="{kind}" aria-pressed="{str(kind == "all").lower()}">{label} '
         f'<span>{len(items) if kind == "all" else sum(item["kind"] == kind for item in items)}</span></button>'
@@ -43,7 +43,7 @@ def explore_library(items, articles, archive_url):
         if note:
             extra += f'<p class="catalog-note">{e(note)}</p>'
         action = {'writing': 'Read', 'video': 'Watch & explore', 'talk': 'Watch presentation',
-                  'book': 'Explore the book', 'audio': 'Listen at source'}[item['kind']]
+                  'book': 'Explore the book', 'audio': 'Listen at source', 'contribution': 'View contribution'}[item['kind']]
         if item.get('edition'):
             action = 'Read the book'
         if item['kind'] == 'audio' and item.get('path'):
