@@ -11,7 +11,9 @@ export default async function handler(req, res) {
       request: req, body: typeof req.body === 'string' ? JSON.parse(req.body) : req.body,
       onBeforeGenerateToken: async (pathname, payload) => {
         const {invite, metadata} = uploadMetadata(pathname, payload);
-        return {maximumSizeInBytes: invite.maxBytes, validUntil: Math.min(invite.expires, Date.now() + 3600000), addRandomSuffix: false, allowOverwrite: false, tokenPayload: JSON.stringify(metadata)};
+        // Use the public production alias: immutable deployment URLs can require Vercel login.
+        const host = process.env.VERCEL_PROJECT_PRODUCTION_URL || 'steven-schrembeck-memorial.vercel.app';
+        return {maximumSizeInBytes: invite.maxBytes, validUntil: Math.min(invite.expires, Date.now() + 3600000), addRandomSuffix: false, allowOverwrite: false, tokenPayload: JSON.stringify(metadata), callbackUrl: `https://${host}/api/upload`};
       },
       onUploadCompleted: async ({blob, tokenPayload}) => {
         // handleUpload verifies the provider's callback signature before this runs.
