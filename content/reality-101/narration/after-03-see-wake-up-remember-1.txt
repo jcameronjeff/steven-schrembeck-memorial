@@ -1,0 +1,27 @@
+## The wheel
+
+What he describes is a known training path. His stages, an open wheel, then a wheel under glass, then from across the room, are the stages in the manual he read, whose actual title is *Defy Your Limits: The Telekinesis Training Method* {cite:mcnamara2017}.
+
+The standard objection is known too. A tent of foil balanced on a needle turns in the warm air rising off your hands, and a glass cover reduces that without ending it {cite:utphysics}. Two researchers built an instrumented bench to separate airflow from anything else and report motion that airflow does not explain. Their work appeared in parapsychology journals and nobody independent has repeated it {cite:dullinjamet2018,dullinjamet2020}.
+
+Steven kept the wheel out of moving air and put it under a jar. What his account lacks is the dull half of an experiment: sessions in which the wheel was watched with nobody trying.
+
+## Seeing with eyes closed
+
+The claim is a century old. A French writer published experiments on "eyeless sight" in 1920 {cite:romains1920}. Every documented test I could find ended the same way: once the blindfold was made fully light-tight, the ability stopped {cite:gardner1966,jaroff2002,medvedev2005}. Closed eyelids let light through {cite:andokripke1996}. Steven says something close to this himself, about the sun: {q:01-prologue|I think I'm also looking at artifacts in my cornea.} A proper research program has been proposed {cite:gomezmarin2023}. I found no results from it yet.
+
+He knew what a real test would be, and says why he didn't run one: {q:03-see-wake-up-remember-1|I haven't bothered to engineer that test because I don't care. I'm not doing this to prove it to anyone else.}
+
+## Doubt as an off switch
+
+He says a skeptical person in the room turns it off, and that at first his own doubt did. Kenneth Batcheldor, an English psychologist who ran table-tilting groups for years, arrived at the same rule: what matters is the balance of belief over doubt at the instant something is about to happen {cite:batcheldor1984}. In ESP tests believers do score slightly better than disbelievers, by a very small margin {cite:sheepgoat}.
+
+The trouble with the rule is plain. From the outside, something that stops working when it is doubted cannot be told apart from something that does not work.
+
+## What I wonder
+
+I don't think he was fooling anyone, least of all on purpose. He names the weak points before a critic can. But he was an engineer and he knew what a controlled test looks like, and for these two abilities there is none on record, his or anyone's.
+
+That is the first thing I would want done, and it is cheap. Film the wheel under glass for an hour with no one near it, then for an hour with someone trying, and have a third person score the footage without knowing which is which. Use a mask a stage magician has approved, and targets nobody in the room has seen.
+
+He would say that misses the point, and he says what the point is at the end of this chapter: {q:03-see-wake-up-remember-1|you are loved, and you're not alone, and you never were}. I think both things can be done.

@@ -432,7 +432,7 @@ def coverage(chapters: list[Chapter], sources: dict[str, Source], omitted: int =
 
 def load_chapters(paths: list[Path] | None, config: dict) -> tuple[list[Chapter], list[str]]:
     if not paths:
-        paths = [BOOK / 'chapters' / f'{slug}.txt' for part in config['parts'] for slug in part['chapters']]
+        paths = [BOOK / 'chapters' / f'{slug}.txt' for part in config['parts'] for slug in part.get('chapters', [])]
     chapters: list[Chapter] = []
     errors: list[str] = []
     for path in paths:

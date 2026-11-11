@@ -23,7 +23,7 @@ class Fidelity(unittest.TestCase):
     def test_every_passage_matches_its_transcript(self):
         chapters, _sources, errors, _warnings, config = book.run_check(None, quiet=True)
         self.assertEqual(errors, [])
-        self.assertEqual([c.slug for c in chapters], [slug for part in config['parts'] for slug in part['chapters']])
+        self.assertEqual([c.slug for c in chapters], [slug for part in config['parts'] for slug in part.get('chapters', [])])
         self.assertTrue(all(passage.kept for chapter in chapters for passage in chapter.passages))
 
     def test_cutting_is_accepted(self):

@@ -65,6 +65,9 @@
         "speaker_0": "Steven",
         "speaker_1": "Joshua",
         "speaker_2": "Joshua"
+      },
+      "spelling": {
+        "dahlia": "dalia"
       }
     },
     "ep3": {
@@ -119,6 +122,10 @@
       "date_basis": "Feed publication date",
       "speakers": {
         "speaker_0": "Steven"
+      },
+      "spelling": {
+        "bertie": "birdie",
+        "bernie": "birdie"
       }
     },
     "transcendence": {
@@ -245,6 +252,20 @@
         "11-the-technology-that-centers-you",
         "12-human-and-machine-consciousness",
         "13-alien-spirit"
+      ]
+    },
+    {
+      "title": "Math and Magic",
+      "intro": "The editor’s own pages: a map of what Steven describes and who else has described it, what could be done next, and how he said to reach him.",
+      "essays": [
+        {
+          "file": "the-map",
+          "title": "The Map"
+        },
+        {
+          "file": "carrying-it-on",
+          "title": "Carrying It On"
+        }
       ]
     }
   ],
