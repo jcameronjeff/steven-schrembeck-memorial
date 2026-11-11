@@ -1,6 +1,8 @@
 # Reality 101: A Journal of Impossible Experiences
 
-The reading edition of Steven's *Reality 101* series: the trailer, the prologue, episodes 1 to 5, the three bonus audio journals, and selections from four earlier interviews. Compiled November 11, 2026.
+The reading edition of Steven's *Reality 101* series: the trailer, the prologue, episodes 1 to 5, the three bonus audio journals, and selections from four earlier interviews, with a preface, chapter introductions, comparisons and essays by the editor, Jeff Cameron. Compiled November 11, 2026.
+
+The book has two voices and the build keeps them apart. Chapters are the speakers' own words. Narration is the editor's.
 
 The text is made from the archive's transcripts by cutting only. No word is added, replaced, or moved. `scripts/reality_book.py` enforces that for every paragraph, and the website build and the test suite both fail if a manuscript stops matching its transcript.
 
@@ -11,7 +13,10 @@ The text is made from the archive's transcripts by cutting only. No word is adde
 | `chapters/NN-slug.txt` | Chapter manuscripts. The only place the book's prose lives. | Yes |
 | `book.json` | Title, parts and chapter order, each source's transcript, speakers and date, name-spelling corrections, per-chapter editorial notes. | Yes |
 | `editorial/about.txt`, `sources.txt`, `sources-end.txt` | The editor's front and back matter. | Yes |
+| `narration/*.txt` | The editor's voice: `preface`, `before-NN-slug` (introduction to a chapter), `after-NN-slug` (connections and questions), and the essays named in `book.json`. | Yes |
+| `references.json` | Every source the narration may cite. Only cited entries are printed under Works cited. | Yes |
 | `guide.json` | The reader's guide: quotations, practices, and the list of experiences. | Yes |
+| `listening-review.json` | About 200 places where the machine transcript looks wrong, with the recording time of each, whether the words were kept or cut, and what was probably said. A queue for a person with headphones. | Yes |
 | `cover.svg` | Cover. | Yes |
 | `reading.html` | Standalone web reading edition. | No, built |
 | `reality-101-a-journal-of-impossible-experiences.epub` | EPUB 3. | No, built |
@@ -59,6 +64,21 @@ One paragraph of his words.
 | `@B0012 Name moved` | Deliberately out of recording order. Counted in `validation.json`. |
 | `*text*` | Italics, for titles. |
 
+## Narration format
+
+Plain paragraphs separated by blank lines. `## Heading`, `- ` lists and `1. ` lists work as usual.
+
+| Marker | Meaning | Checked |
+|---|---|---|
+| `> [NN-slug] words` | A block quotation of a speaker from that chapter. | The words must occur verbatim in one passage of the chapter. |
+| `{q:NN-slug\|words}` | An inline quotation, printed in quotation marks and linked to its passage. | Same. |
+| `{cite:key}` or `{cite:key,key2}` | A citation, printed as the reference's short label and linked to Works cited. | The key must be in `references.json`. |
+| `{ch:NN-slug}` | A link to a chapter by its title. | The chapter must exist. |
+
+Quotations of other authors are not machine-checked. Paraphrase them, or quote only words seen at the cited URL.
+
+A part in `book.json` may list `essays` (`{"file": "the-map", "title": "The Map"}`) as well as, or in place of, `chapters`.
+
 ## What the checker enforces
 
 | Rule | Result if broken |
@@ -69,7 +89,8 @@ One paragraph of his words.
 | Passages follow recording order and do not reuse words. | Error unless `moved` |
 | A transcript misspelling listed in `spelling` is not printed. | Error |
 | A paragraph cuts more than 30 words in one place, keeps under half of the stretch it spans, drops a negation, or runs past 240 words. | `review` line for a person to read |
-| Every quotation in `guide.json` is found verbatim in the chapter it cites. | Build fails |
+| Every quotation of a speaker in `guide.json` and in `narration/` is found verbatim in the chapter it cites. | Build fails |
+| Every `{cite:}` key is in `references.json` and every `{ch:}` names a chapter. | Build fails |
 
 Comparison is by words only: case, punctuation, quotation marks, paragraph breaks and dashes are editorial. `spelling` in `book.json` maps a transcript spelling to the printed one (for example `stephen` to `steven`); each use is counted in `validation.json`.
 
@@ -77,6 +98,7 @@ Comparison is by words only: case, punctuation, quotation marks, paragraph break
 
 - That the machine transcript heard each word correctly. No transcript has had a full listening review.
 - That a cut preserved the speaker's emphasis. The `review` lines exist to make a person look at the riskiest cuts.
+- That the editor's comparisons are right. The sources were confirmed to exist and to say what is attributed to them; how close a parallel is, and what it shows, is the editor's judgment.
 - That the selection is neutral. Part Three is a selection; what each chapter leaves out is described in the book's sources note and in `chapter_notes`.
 - Speaker attribution in `11-the-technology-that-centers-you`: its transcript is the publisher's caption file, which has no speaker labels, so speakers there were assigned from context.
 
