@@ -32,7 +32,7 @@ def explore_library(items, articles, archive_url):
         if item.get('unpublished'):
             note = 'Source marked Unpublished · preserved text'
         elif item.get('edition'):
-            note = 'Edited reading edition · 10 chapters'
+            note = item['edition_note']
         elif not item.get('path'):
             note = 'Original links only · no saved copy'
         elif collection == 'Adaptations':

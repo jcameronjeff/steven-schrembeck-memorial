@@ -31,7 +31,9 @@ The later recovery of *The Technology That Centers You with Steven Schrembeck | 
 
 Seventeen articles have dedicated reading pages. Two captures retain the source’s “Unpublished” status. Two personal photographs are integrated into the site rather than given a separate gallery. Original source URLs appear beside saved copies. Explore brings all media together with type and collection filters, search, and date or title sorting. Downloads contains the complete archive and individual files. Old Archive, Timeline, and Writing & audio URLs forward to their replacements.
 
-The compiled book, *The Small Moments Are Everything*, has a web reading edition with chapter navigation and an EPUB download. Its current ten-chapter edition is retained in `content/small-moments/`; the site builder preserves its paragraphs and editorial notes. The book is an edited selection from recordings, distinct from the 109 original catalogued works.
+*Reality 101: A Journal of Impossible Experiences* collects the complete Reality 101 series, the three bonus audio journals, and selections from four earlier interviews into one book, with a web reading edition and an EPUB download. Steven's chapters are edited from the transcripts by cutting only: no word is added, replaced, or moved, and the build checks every paragraph against its transcript. Around them, in a separate marked voice, Jeff Cameron narrates, compares Steven's account with what others have reported, and speculates; every quotation of Steven there is checked against the chapters and every source is listed. The manuscripts, narration, builder, and editorial record are in `content/reality-101/`; see the README there.
+
+The compiled book, *The Small Moments Are Everything*, has a web reading edition with chapter navigation and an EPUB download. Its current ten-chapter edition is retained in `content/small-moments/`; the site builder preserves its paragraphs and editorial notes. Both books are edited from recordings, distinct from the 109 original catalogued works.
 
 The archive is ordinary HTML, CSS, JavaScript and files. Core reading and links work without JavaScript; search and menus are progressive enhancements. No account, database, external fonts or analytics are required. Machine transcripts are marked as unreviewed. Original MKV videos may require a desktop player.
 
@@ -46,6 +48,7 @@ For a Vercel build without downloading all recordings, run `npm ci`, `npm run bu
 Python 3.10+ builds the site using the standard library. ReportLab is needed only to regenerate the memory PDF.
 
 ```sh
+python3 scripts/reality_book.py build  # only after editing content/reality-101/
 python3 scripts/build.py
 python3 scripts/make_pdf.py  # optional; requires reportlab
 python3 scripts/collection_manifest.py
