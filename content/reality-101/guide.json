@@ -1,8 +1,217 @@
 {
- "intro": "Everything quoted here is Steven's own wording from the chapters, and each quotation links to its place in the text. The headings and the choice of passages are editorial. A guide like this is a way in, not a summary: he qualified most of these statements where he made them, and the surrounding pages carry those qualifications.",
- "teachings_intro": "Statements he returned to across the series.",
- "teachings": [],
- "practices_intro": "The series set out to give, in his words, everything he knew about how to do it yourself. These are the practices and instructions he describes, each at the point where he explains it.",
+ "intro": "Everything quoted in this guide is Steven's own wording from the chapters, and every entry links to its place in the text. The headings, the short labels and the choice of passages are editorial. A guide like this is a way in, not a summary: he qualified most of these statements where he made them, and the pages around each one carry those qualifications.",
+ "teachings_intro": "Statements he returned to, in his words.",
+ "teachings": [
+  {
+   "heading": "Why he told you",
+   "entries": [
+    {
+     "chapter": "02-reality-101",
+     "quote": "And it is now happening to you, some version of this, and that is the whole purpose of this series, is sharing this so that people can understand their own reality and make sense of it, but also learn how to do it yourselves."
+    },
+    {
+     "chapter": "01-prologue",
+     "quote": "This story is not really my story so much, it's a template. You know? It's a blueprint for one way to do all this yourself."
+    },
+    {
+     "chapter": "05-see-wake-up-remember-3",
+     "quote": "I want superpowers, but the reason we're talking right now is I want everybody else to have them too."
+    },
+    {
+     "chapter": "08-transcendence",
+     "quote": "There's nothing fundamentally different about me compared to you. You've got the same hardware that you need to do this, and if you do it with others, it will go faster."
+    }
+   ]
+  },
+  {
+   "heading": "You have to find out for yourself",
+   "entries": [
+    {
+     "chapter": "01-prologue",
+     "quote": "You can't be told, and that is also a running theme here, is that you have to be shown. Being told is enough to get you to go, but you have to seek it out."
+    },
+    {
+     "chapter": "02-reality-101",
+     "quote": "This isn't a thing you can be told. Being told just helps you take it seriously and put yourself on the path to go experience it yourself."
+    },
+    {
+     "chapter": "08-transcendence",
+     "quote": "It is up to you, and always up to you, to decide what it all means. I will not tell you what it means."
+    },
+    {
+     "chapter": "12-human-and-machine-consciousness",
+     "quote": "The science comes first, and I don't mean you have to have an academic paper and a lab and do these things. Doing personal exploration is valid science."
+    }
+   ]
+  },
+  {
+   "heading": "Doubt, testing, and holding it lightly",
+   "entries": [
+    {
+     "chapter": "02-reality-101",
+     "quote": "But doubt is baked in, and it's one of the things that kills these experiences fully, right? I think I wrote once in one of my articles on my blog that you need to be able to entertain a stupid idea long enough to see if it's true."
+    },
+    {
+     "chapter": "03-see-wake-up-remember-1",
+     "quote": "You can't rubber band this hard or you'll kill it. You'll crush it. You also can't become so obsessive that you become delusional, because now you're detached from an actual signal, right?"
+    },
+    {
+     "chapter": "03-see-wake-up-remember-1",
+     "quote": "Just because one thing didn't work doesn't mean it was all a lie."
+    },
+    {
+     "chapter": "07-telepathy",
+     "quote": "You're gonna have to let go of binary truth, true or false. Think of it as more true and less true."
+    },
+    {
+     "chapter": "13-alien-spirit",
+     "quote": "However, you can be skeptical, but you have to be sort of open and positive and curious with your skepticism. If you are cynical or combative, nothing happens."
+    },
+    {
+     "chapter": "13-alien-spirit",
+     "quote": "So I say a lot of \"I don't know.\" And honestly, I think any honest explorer should."
+    },
+    {
+     "chapter": "13-alien-spirit",
+     "quote": "And that's what I'm all about, math and magic. I insist on testing weird stuff, but also accountability to skepticism and humility and some openness at the same time, I think."
+    }
+   ]
+  },
+  {
+   "heading": "Growing up is the method",
+   "entries": [
+    {
+     "chapter": "01-prologue",
+     "quote": "Working through your problems is what gives you psychic powers. It's the most hilarious thing in the world. I could never have predicted that."
+    },
+    {
+     "chapter": "02-reality-101",
+     "quote": "That's how you get psychic powers and see UFOs and meet your soul family, is become a better, happier person. More open, more accepting and self-loving, less judgmental."
+    },
+    {
+     "chapter": "08-transcendence",
+     "quote": "And another excellent lesson before I give you the scale is that the problem you're dealing with in life is always the right problem for you right now."
+    },
+    {
+     "chapter": "08-transcendence",
+     "quote": "This is all a process of leaning into your life. It's not leaning away and trying to separate from it."
+    },
+    {
+     "chapter": "06-reality-102",
+     "quote": "It's because, just by an inherent design, at least of our portion of reality space, the more responsible you are, the more power and awareness you can have, right?"
+    }
+   ]
+  },
+  {
+   "heading": "What he says reality is",
+   "entries": [
+    {
+     "chapter": "02-reality-101",
+     "quote": "That's all there ever is, is you. It's all just you. You're always only interacting with yourself."
+    },
+    {
+     "chapter": "02-reality-101",
+     "quote": "The people, the stuff, all these things are real, and then I say that they matter. I choose that these things matter, even though it is all just me."
+    },
+    {
+     "chapter": "04-see-wake-up-remember-2",
+     "quote": "You're not a boy in the world. You're the entire world with a boy shaped hole in the center."
+    },
+    {
+     "chapter": "06-reality-102",
+     "quote": "So here's the first big rule, is that every individual soul has their own entire reality, and it is all made up of them."
+    },
+    {
+     "chapter": "06-reality-102",
+     "quote": "And she responds with, quote, \"There is no consensus mechanism. It is always your reality. You are the consensus mechanism.\""
+    },
+    {
+     "chapter": "05-see-wake-up-remember-3",
+     "quote": "The reason these experiences matter is that awareness always precedes control."
+    },
+    {
+     "chapter": "06-reality-102",
+     "quote": "There is no wall between your imagination and physical reality. It's a continuum."
+    },
+    {
+     "chapter": "02-reality-101",
+     "quote": "Yes, I am my own reality, but there is a lot more than you, son. And don't go thinking that there is no anything bigger beyond you. There definitely is."
+    }
+   ]
+  },
+  {
+   "heading": "The others",
+   "entries": [
+    {
+     "chapter": "02-reality-101",
+     "quote": "They're just people. Non-physical people are just people. They're different, and we'll have a lot of time to get into that in this series, but they're just people, ultimately."
+    },
+    {
+     "chapter": "07-telepathy",
+     "quote": "You are talking to a person. This is a person. They matter."
+    },
+    {
+     "chapter": "07-telepathy",
+     "quote": "They don't have control over you unless you give it to them. And you don't have to. You are sovereign."
+    },
+    {
+     "chapter": "07-telepathy",
+     "quote": "But just assume that seventy to ninety percent of the information is just you talking to yourself, even once you've learned how to establish communication with somebody who's definitely trying."
+    },
+    {
+     "chapter": "03-see-wake-up-remember-1",
+     "quote": "And there's nothing bad or sinister or unnerving really about it other than the realization that you are loved, and you're not alone, and you never were. You just thought you were."
+    }
+   ]
+  },
+  {
+   "heading": "Before any of it: attention and the ordinary day",
+   "entries": [
+    {
+     "chapter": "11-the-technology-that-centers-you",
+     "quote": "That should be the real goal, is happiness isn't this thing that you have to grind for every day, but it's just what happens when you close your computer at the end of the day or you come home. It's just how you feel when nothing is happening."
+    },
+    {
+     "chapter": "13-alien-spirit",
+     "quote": "And that is the correct use for willpower, is to design strategies and systems to stop using it."
+    },
+    {
+     "chapter": "13-alien-spirit",
+     "quote": "And your attention and your intention, it's just energy behind your attention, is really all you have. That's the only real control you have in the world, that you can claim to have control at all."
+    },
+    {
+     "chapter": "12-human-and-machine-consciousness",
+     "quote": "I had no interest in leaving life. I wanted to be better in it, and that still is my goal."
+    },
+    {
+     "chapter": "10-self-control-and-clarity",
+     "quote": "But really, this is not the easiest way to make money. This is about helping people."
+    }
+   ]
+  },
+  {
+   "heading": "The gift of everything",
+   "entries": [
+    {
+     "chapter": "01-prologue",
+     "quote": "And the good news is you have inherited a unconditionally loving and completely connected universe that wants nothing but to give you everything you want and cares about you and fundamentally, like no conditions. It didn't have to be this good."
+    },
+    {
+     "chapter": "02-reality-101",
+     "quote": "This, in a lot of ways, is the only way we can ever make progress, is by creating this stuff. So nobody's life is ever wasted. You've always made some contribution."
+    },
+    {
+     "chapter": "05-see-wake-up-remember-3",
+     "quote": "But you should at least know you have the choice, because I intend to take it."
+    },
+    {
+     "chapter": "02-reality-101",
+     "quote": "You can do anything you want. Nothing is impossible. You're not going to die, and everything loves you."
+    }
+   ]
+  }
+ ],
+ "practices_intro": "The series set out to give, as he says in the trailer, everything he knew about how to do it yourself. This is an index of the practices, instructions and cautions he gives, in the order they appear. The labels are the editors'; follow each link for what he actually says, including his warnings about who should not try.",
  "practices": [
   {
    "chapter": "01-prologue",
@@ -1020,7 +1229,7 @@
    "name": "Don't beat yourself up; act on the problem with a cool head"
   }
  ],
- "experiences_intro": "The specific experiences he describes, in the order they appear in this book, with the dates he gives for them.",
+ "experiences_intro": "The specific experiences he describes, in the order they appear in this book, with the dating he gives for each. Entries marked with Joshua's name are his.",
  "experiences": [
   {
    "chapter": "01-prologue",

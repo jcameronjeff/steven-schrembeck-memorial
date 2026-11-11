@@ -2,7 +2,7 @@
   "chapters": 14,
   "passages": 1507,
   "words": 113896,
-  "editor_words": 0,
+  "editor_words": 1959,
   "sources": 14,
   "all_body_words_match_source_in_order": true,
   "added_body_words": 0,
@@ -181,7 +181,7 @@
       }
     }
   },
-  "steven_quotes_in_guide_and_commentary_verified": 0,
+  "steven_quotes_in_guide_and_commentary_verified": 50,
   "works_cited": 0,
   "review_prompts_open": 64,
   "full_listening_review": false,
@@ -201,5 +201,5 @@
     "transcripts/machine/638a92e3867c0e3f6ec722d35828c056802bc45eade8ca40121371878810cabf.json": "40839d3eecb865e5899920a529dd5d59f6e3c00b473f54005a49167c5f7352ae",
     "transcripts/machine/9bf543ae8f0efe1019ae87ddc3404937543009d8e323f57a1692253373b97117.json": "d3229ea0eb808db53aab1a8ac6060e718e0b7600a339f6b552c9c3a63d4a763b"
   },
-  "epub_sha256": "f600c78138d9fc4054af500498af4fd5ff150fd4cd2dfa9eba110c35b41264ef"
+  "epub_sha256": "1faa191df73c349459f093287d6070d00866575d9130ae88f5ba128108e73afc"
 }

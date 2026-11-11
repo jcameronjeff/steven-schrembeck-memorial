@@ -32,6 +32,8 @@ STAMP = (2026, 11, 11, 0, 0, 0)
 CITE = re.compile(r'\{cite:([^}|]+)(?:\|([^}]+))?\}')
 CHAPTER_LINK = re.compile(r'\{ch:([^}]+)\}')
 STEVEN_QUOTE = re.compile(r'>\s*\[([^\]]+)\]\s*(.+)', re.S)
+INLINE_QUOTE = re.compile(r'\{q:([^|}]+)\|([^}]+)\}')
+MARKER = re.compile(r'(\{(?:q|cite|ch):[^}]+\})')
 
 Href = Callable[[str], str]
 
@@ -104,6 +106,7 @@ class Edition:
         self.references = {ref['key']: ref for ref in json.loads((BOOK / 'references.json').read_text(encoding='utf-8'))}
         self.problems: list[str] = []
         self.cited: list[str] = []
+        self.quote_targets: dict[tuple[str, str], str] = {}
         self.quoted = 0
         self.narration_words = 0
         self.narration = {path.stem: self._parse_narration(path.stem, path.read_text(encoding='utf-8'))
@@ -124,7 +127,10 @@ class Edition:
         for match in CHAPTER_LINK.finditer(text):
             if match[1] not in self.chapters:
                 self.problems.append(f'narration/{name}: unknown chapter "{match[1]}"')
-        self.narration_words += len(norm_tokens(CITE.sub('', CHAPTER_LINK.sub('', text))))
+        for match in INLINE_QUOTE.finditer(text):
+            self.quote_targets[(match[1].strip(), match[2])] = self.find_quote(match[1].strip(), match[2], f'narration/{name}')
+            self.quoted += 1
+        self.narration_words += len(norm_tokens(MARKER.sub('', text)))
 
     def _parse_narration(self, name: str, text: str) -> list[tuple]:
         """Editor's writing. '> [chapter-slug] words' quotes Steven and must be found in that chapter."""
@@ -150,16 +156,23 @@ class Edition:
         return parsed
 
     def ninline(self, text: str, href: Href) -> str:
-        out = inline(text)
-
-        def cite(match) -> str:
-            links = [f'<a href="{href("ref-" + key.strip())}">{html.escape(self.references[key.strip()]["short"])}</a>'
-                     for key in match[1].split(',') if key.strip() in self.references]
-            where = f', {match[2]}' if match[2] else ''
-            return '(' + '; '.join(links) + where + ')'
-        out = CITE.sub(cite, out)
-        return CHAPTER_LINK.sub(lambda m: f'<a href="{href("chapter-" + m[1][:2])}">{inline(self.chapters[m[1]].title)}</a>'
-                                if m[1] in self.chapters else m[0], out)
+        """Editor's prose. {q:chapter|words} quotes Steven (verified), {cite:key} cites a source, {ch:chapter} links a chapter."""
+        out: list[str] = []
+        for piece in MARKER.split(text):
+            quote, cite, link = INLINE_QUOTE.fullmatch(piece), CITE.fullmatch(piece), CHAPTER_LINK.fullmatch(piece)
+            if quote:
+                target = self.quote_targets.get((quote[1].strip(), quote[2]), '')
+                out.append(f'<a class="his-words" href="{href(target)}">\u201c{inline(quote[2])}\u201d</a>' if target else inline(quote[2]))
+            elif cite:
+                links = [f'<a href="{href("ref-" + key.strip())}">{html.escape(self.references[key.strip()]["short"])}</a>'
+                         for key in cite[1].split(',') if key.strip() in self.references]
+                out.append('(' + '; '.join(links) + (f', {inline(cite[2])}' if cite[2] else '') + ')')
+            elif link:
+                out.append(f'<a href="{href("chapter-" + link[1][:2])}">{inline(self.chapters[link[1]].title)}</a>'
+                           if link[1] in self.chapters else inline(piece))
+            else:
+                out.append(inline(piece))
+        return ''.join(out)
 
     def narration_html(self, name: str, level: int, href: Href) -> str:
         out: list[str] = []
@@ -430,6 +443,7 @@ a { color: inherit; }
 .narrator-essay { font-family: Helvetica, Arial, sans-serif; font-size: .95em; line-height: 1.65; }
 .narrator-label { font-size: .78em; letter-spacing: .14em; text-transform: uppercase; font-weight: bold; margin-bottom: 1em; }
 .narrator h2, .narrator h3, .narrator-essay h2, .narrator-essay h3 { font-family: Helvetica, Arial, sans-serif; font-style: normal; font-weight: bold; font-size: 1.05em; }
+.his-words { text-decoration: none; font-family: Georgia, "Times New Roman", serif; }
 blockquote.steven-quote { font-family: Georgia, "Times New Roman", serif; font-size: 1.08em; margin: 1.2em 0 1.4em .6em; padding-left: 1em; border-left: 2px solid #999; }
 blockquote.guide-quote { margin: 1.2em 0 1.4em 1.2em; padding-left: 1em; border-left: 2px solid #999; }
 .guide-cite { font-size: .85em; font-style: italic; margin-top: -.4em; }
