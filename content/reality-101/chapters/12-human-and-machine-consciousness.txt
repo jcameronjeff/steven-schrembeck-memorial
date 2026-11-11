@@ -1,0 +1,256 @@
+# Human and Machine Consciousness
+subtitle: A conversation with Ryan Estes
+source: unlocking
+
+[note] This conversation was recorded for the podcast AI for Founders, hosted by Ryan Estes. In his introduction Ryan describes Steven as the founder of Impossible Labs, a software engineer with over 1,000 hours of meditation practice.
+
+## An hour every morning
+
+@B0003 Ryan
+All right, Steven, how are you doing?
+
+@B0004 Steven
+I'm having a pretty good day, actually. Just finished a run, so feeling pretty mellow. Did a long meditation. Ready to chat.
+
+@B0005 Ryan
+When you became available for an interview, one thing really stood out, and that's this: the intersection of AI and human meaning, meditation research, brain-computer interfaces, and sensory substitution. So because you mentioned meditation, let's start there. What kind of meditation do you do?
+
+@B0006 Steven
+At this point, I have my own spin on it. I don't follow a specific school or methodology, although I like to borrow from them. Frankly, I do about an hour of meditation every morning. I've probably got maybe 1,000 hours under my belt, so I'm not a guru or anything, but for me, it's two different things. This is how I reset myself. This is how I get my brain and body to function. It has a bigger effect than almost anything else I do in life, even than medications, anything like that, besides maybe sleep.
+
+@B0008 Steven
+And the other is inner space exploration. It's that we've got this tool to explore what is reality, right? How does consciousness interact with the physical world, and what are the rules? And so you got this tool to probe at what are the rules of experience. And I can't think of a better tool for exploration for meaning and purpose and our place in the world, what matters, how it all works. So that's the other big thing. That's what it is to me.
+
+@B0010 Ryan
+So you've got 1,000 hours under your belt. What brought you to the cushion?
+
+@B0011 Steven
+Well, I started out probably like a lot of people. It's, "Okay, I'll do 10 minutes here, 20 minutes here. I'll guilt trip myself into it. I'll take a couple months off." It was a thing you should do, you know? And then at some point, I read the autobiography from Michael Singer. I think it's *The Surrender Experiment*. Then I read his actual book after that. The name escapes me at this point. It'll come back. *The Untethered Soul*.
+
+@B0012 Steven
+And he talked about just, "Oh, I did this two-hour meditation and had this profound experience." And I'm like, "What? You can do that just by sitting there?" I had no idea that this was even a thing. Very naïve at this point in time. Didn't know anything about yoga traditions or the yogis or, you know, there's paths to enlightenment or different techniques or any of the altered states that are possible without psychedelics or anything, right? No intervention at all.
+
+@B0013 Steven
+The things you can do with just your own mind and where you put your attention and your concentration is crazy, and I had no idea you could reach these kinds of experiences or insight just by sitting there properly, and that's really what brought me in is this fascination. It's the same thing that draws me to technology. It's like, I gotta know. I gotta play with it. I'm curious. I need to know the rules, and can I do some engineering with it once I understand how it works? So, yeah, that's what pulled me in.
+
+## That's not me
+
+@B0015 Ryan
+And then when you're sitting, you said you're pulling from multiple traditions, but nothing in particular. What are you doing when you're meditating?
+
+@B0016 Steven
+Sometimes it's, oh, I realize I'm angry and stressed out, and most of the session is just resetting to zero, right? That's not exciting. My basic protocol draws from the Yoga Sutras, right? It's pretty simple. It is a process of letting go, attempting to find a center, and basically whatever you're putting your attention on is not the thing to put your attention on.
+
+@B0016 Steven
+And it is a process of progressively relaxing and moving your attention almost like a knot. You just continue to invert whatever you're looking at. It's basically moving from big, overt bodily sensations to, okay, now emotional. Now I'm aware of thoughts. It's a continual separation of, oh, that's not me. That's not me. That's not me, until there's nothing left but the sense of self, and then if you want to, you can try to keep going and have an ego death experience.
+
+@B0017 Steven
+That's, frankly, not a realistic goal for most sessions. I really don't enjoy it. It's not a fun experience. But sometimes I'll pick other targets for meditation depending on what I'm trying to do, but that's my go-to.
+
+## Irked by dogma
+
+@B0019 Ryan
+And why not choose a particular path? Why not zazen? Why not a mindfulness-based stress reduction? Why not Dzogchen? Is there something you're gaining by not committing to a particular dogma?
+
+@B0020 Steven
+I am totally open to being naive, and probably a lot of these practitioners would be happy to tell me that. Something in me just is irked by dogma and authority and tradition, and "this is the way it's done." I love to just come in, slurp up, "Okay, why does it work that way? How does it function? Let me try it myself." And I wanna try to understand why the existing structures work in anything, really.
+
+@B0022 Steven
+And then I take it, and I leave the rest 'cause I'm completely uninterested in, "Well, we do this because it's the way. This is the next step. You don't get to progress. Now you gotta study these stupid koans for a long time." I don't think I'm gonna do that. I'm gonna follow my interest and my intuition, and that's what I'm gonna do.
+
+@B0023 Steven
+I think that it can be detrimental, this mindset in life, because it causes you to, if you're not aware of what you're doing, to waste a bunch of cycles replicating work that other people have already figured out. However, at some point, it's also where everything new comes from, are from people who are interested in defying what already exists, or reassembling or synthesizing from multiple sources. And that's, frankly, what draws me, is I wanna learn it. I wanna do it myself, make it my own, or I'll just quit because it's boring.
+
+## Strapping yourself to a rocket
+
+@B0043 Ryan
+What was your experience with psychedelics, and how does that incorporate in any way to your sitting practice?
+
+@B0044 Steven
+Pretty limited. So pretty much legal forms of marijuana and psilocybin. So they're all not nearly as strong as the illicit compounds. But enough to have a profoundly different experience, all right? We'll put it that way. But I did it after having done a lot of meditation and found that, to my great surprise, oh, there's nothing really new here.
+
+@B0048 Steven
+Now, I'm sure this is different if you're using DMT or something, you're using that, what is it? That cactus or flower compound out in the middle of a desert. I'm sure that's a different experience entirely. But for the most part, I was shocked to find, oh, this is the same thing. I've been here, right? This is next door.
+
+@B0050 Steven
+And so I described it to others as, okay, psychedelics is like strapping yourself to a rocket. You got no choice. You're on the ride. Or you could learn how to fly, and you can go as slow as you want with an airplane. You could just putter around on the runway. You could take off whenever you're ready. You decide you don't like it, you can land again. So it's a useful thing, and probably better most of the time. But sometimes, some people, and I guess on purpose, you need a rocket launch to really kick yourself out of where you are.
+
+## Innermost intention
+
+@B0063 Ryan
+So meditation, you're doing an hour a day, which is quite a bit. When do you like to do meditation? And talk a little bit how it influences your life.
+
+@B0066 Steven
+Well, I didn't start that way, right? I started slowly increasing. But I noticed I was getting to more and more insight. It was profoundly affecting me. At certain times, I was scrambling to this as a way to find insight. The easiest way of describing it is it allows me to insulate myself from the world and to—there's a half-life to it—but bring to my work, to my family interactions, everything I do, to act from as innermost intention as you can have, right?
+
+@B0067 Steven
+I'm trying to make sure that the first and most important intentions I have for the day or my time, or even in response to things that I didn't expect, are coming from my values or from my desires and not what the world has pushed into my field of view. So it has been an amazing tool for that.
+
+@B0067 Steven
+So I found that the more I increased the time, the better effects I got. And then at some point, just like long-distance running, you connect the loop, the reward circuitry, and like, "Oh, this is helping me." And it no longer became a challenge, most of the time, to sit down and do that time.
+
+@B0068 Steven
+I don't do it right as I wake up because I'm too tired, and I'm cranky or sort of foggy-headed. I usually do it a little later, between 8:00 and 10:00 AM. It's about two hours after waking or three or four hours after waking. But yeah, so that's my schedule, and that's a lot of what it's for. And I often will just pick what I'm interested in, and I will pick a technique or a target of focus and just try stuff out. There's definitely more to the story than that, but that's my schedule.
+
+## This isn't just a game
+
+@B0070 Ryan
+And then when you say insights, maybe explain to people what you mean. What are insights in meditation?
+
+@B0071 Steven
+All right. So at risk of sounding like a crazy person, but I prefer to just be completely honest. Think I'm a fool if you like. But so, for a long time, we'll say the first 200, 300 sessions there, I was after some form of enlightenment. I wanted the superpower of being able to walk through the world without being bothered by things so that I could act from what I thought was the right thing to do without being so attached to it. That's really what I was after.
+
+@B0072 Steven
+Not to just transcend my body and start glowing and flying around or become like the Buddha or whatever. I had no interest in leaving life. I wanted to be better in it, and that still is my goal. But then I had some very profound experiences. Basically a couple pretty close UFO sightings that totally rocked my world. I'm like, "Holy crap, this isn't just a game." We don't understand the world. I don't know what this was, but it wasn't something that human beings made. And I was definitely not crazy. Or at least no more crazy than everyone else.
+
+@B0074 Ryan
+Pause, pause, pause. Tell me everything about this. Tell me, tell me, tell me.
+
+@B0079 Steven
+Really?
+
+@B0080 Ryan
+Yes.
+
+@B0081 Steven
+Okay. I'll say the punchline, and then we'll come back, is that this caused me to get much more serious about the weird parts of meditation and exploring inner spaces as a tool for understanding what the heck is going on here. Why are we here? What's going on? How does the world work? I mean, it totally derailed my startup intentions. And well, I won't say derailed. It shifted everything in my life, right? Now I'm incorporating everything.
+
+## Three experiences
+
+@B0082 Steven
+So the UFO things, I've had three experiences. I don't need to go into great detail on some of them. The first one was just looking out my back window. I see these weird flashing lights. They're just white orbs in the distance going across the skyline. Got a great view from my back window. I can see a very long distance. It was like a neural network. They were just firing in this sequence. It's very weird. Like, doo, doo, doo, doo, doo. Doo, doo, doo, doo, doo, doo. And they were not in a line. They're just this cloud. It's very strange.
+
+@B0083 Steven
+The second one, I was going for a run. This is maybe six months to a year after that. Going for a run, I see flying about a quarter of a mile behind my house—I was deep in a non-dualistic meditation at this point. I was watching a guy running. I'll put it that way. And so I just see flying what looks like a black bean, like a kidney bean shape.
+
+@B0084 Steven
+I don't know how to... It was this weird matte black with a mother-of-pearl sheen, like a little rainbow sheen all over it. It could've been six feet tall. It's hard to tell 'cause the distance. It was just floating in a straight line. No sound. I checked later. It was going against the wind by about 15 miles an hour. And that's it. It's just floating. I saw it for about six seconds, and that started to rip me right back out of meditation.
+
+@B0086 Steven
+Began to associate real quick. At first, I'm like, "I knew that would be there." That's the profound sense I had. I knew it would be there. And then I'm like, "Wait a minute. That doesn't make any sense. What am I looking at?" And then I started like, "I gotta go get a monocle."
+
+@B0086 Steven
+And then the third story, in a nutshell, is about four months ago. Me and my wife go for a walk every night, and we're in the neighborhood, and I just have this profound sense that we're gonna see something, which is, again, very weird. And it's sort of a cloudy night, and we see this white orb coming, and I think it's Venus. I think it's nothing. She's like, "That's not a star. That's not a planet. It's coming closer." I'm like, "No, it's not." Sure enough, it starts to come closer and closer, and now it's over the tree line.
+
+@B0087 Steven
+And I look through my 8X monocle, 'cause I have one now. At this point, it's happened twice, so I'm like, "I gotta start walking around with this thing." And it's a glowing white ball. I look through the 8X monocle. That's it. That's all it is, is a glowing white ball. There's no sound, and it flies over our heads. It goes across the tree line, starts to accelerate. No sound at all. No other effects.
+
+@B0088 Steven
+And then it just lets out this plume of white stuff behind it, like a comet, and it just... I stared at it, 'cause she turned around and said, "I gotta go get the kids. I gotta get a camera." And she ran. I knew to keep staring at it. I've read enough stories at this point. Like, uh-uh, I'm watching this thing. Sure enough, as soon as she turns around, it fades out, just like turning the opacity down to zero. Like in a transition. It's gone. Phew. It's just gone. And that's it. So those are my experiences.
+
+## A little prod
+
+@B0094 Ryan
+Do you think the orbs and the kidney bean thing are the same thing?
+
+@B0095 Steven
+Man, I got a lot of theories, but honestly, all I have are theories. Nobody's knocking on my door. I never got a book in the mail describing how it all works. Honestly, it just seems like a prod, just a little poke from outside of what we think is real, what most people think exists. Just a little prod, just rattle the cage a little bit. Hey. Just enough to get me to take meditation seriously and to start looking into this.
+
+@B0099 Steven
+Honestly, that's what it looks like, is somebody from the outside looking at humans going, "You guys are screwed up. Hey," just a little slap. "There's more out there. Go look." That's what I think, honestly.
+
+@B0104 Ryan
+There's just a couple of options. Either they're some kind of interdimensional travel beings, or they're from outside of the Earth in some kind of spacecraft. Or they're unbelievably old, and they've been here for a long time, and they just reemerge. Or they're some kind of drone technology that the government has, you know? It's like, take your pick.
+
+@B0105 Steven
+I'm not ruling out the last one, but I don't think it's that one exclusively, to be honest with you. People think way too highly of the government. Also, why are you harassing this random guy with, like, weird... What are you using this money for? This is pretty dumb.
+
+@B0111 Steven
+I think it's pretty obviously some sort of intelligent entities of some kind from another time, from another dimension, from other worlds, from our world, very old. You don't have to violate physics as we know it. I think it's just there are more rules than we realized. More fundamental rules. And we're naive. We're babies in the universe, you know? Let's be humble.
+
+@B0125 Ryan
+I understand your hesitance to talk about it too much. I'd have it too, because this puts you into some kind of woo woo category, and they're like, "All right, man, what are you gonna do here?"
+
+@B0126 Steven
+I know where the Overton window is, right? I have an awareness of where the Overton window is, even if I think it's wrong.
+
+## The science comes first
+
+@B0129 Ryan
+Now there is kind of an emergent understanding within, we'll just call them atheists, that say, "No, what's happening with human consciousness isn't necessarily limited to a substrate." Rather, there might be a particle of consciousness. There might be a gravity type field of consciousness that once you reach a certain complexity that you can tap into. And so basically what they're doing is taking away the god and goddess realm, which I don't know if that's necessary to do that. They take away all the magic, and they're like, "No, consciousness is an emergent phenomenon inside the universe."
+
+@B0130 Ryan
+If consciousness is not limited by substrate and in fact is just an emergent factor of the universe, do you think that we'll be able to create an AGI that can tap into that, become self-aware?
+
+@B0131 Steven
+That's a profound question. I guess my answer to these camps is yes, and don't be so quick to assume that either view is right or either view is wrong. My take is, at this point in time, I don't know. But I'm trying to find out. That is my take. I have hunches, I have ideas, but I hold them all loosely or as loosely as I can, but I have to have some beliefs in order to progress and test things. But I've a position of complete humility.
+
+@B0132 Steven
+I believe that there is a lot to learn from what has existed and what people have already studied, and it would be silly to throw away thousands of years of knowledge and practice. It's an amazing starting point. At the same time, I also think that we should be open to it being weirder than we think. It's premature to start closing off too many things when really we've only just started exploring with new tools of science, technology, and engineering and bringing those to bear, and to some degree logic and mathematics and physics, and bringing those tools to bear as well, and they are equally valid. And I'm not interested in anyone who thinks we should throw away any of these tools.
+
+@B0133 Steven
+Now, that said, using AGI, well, I think we need to learn a lot more about consciousness, especially as it applies to the ethics of artificial intelligence. If we are running these things in a box at a million times the cycle rate of your brain, what are we doing to them? Enough people have seen *Black Mirror* at this point to understand the implications that we should be careful because we don't know what's conscious. We don't know what is in there experiencing things. And for that reason alone... Can it be done? Maybe.
+
+@B0134 Steven
+We need to understand the interface of how human consciousness interfaces with the material world. Are they separate? How are they separate? How are they connected? What are the rules? Why are they connected this way? Why is it limited to these perspectives? We need to understand how it works, and then from there we can begin to, just like any found piece of technology—the human brain and body is a found piece of technology really. We can, just like we've done with AI up until this point, begin to reverse engineer the consciousness connection to the body and understand why it is we experience what we experience and how attention and all these things correlate.
+
+@B0135 Steven
+And being open to very different rules of reality than we thought existed, then we can start engineering with it. But I think it's premature to engineer when we don't even have the science. The science comes first, and I don't mean you have to have an academic paper and a lab and do these things. Doing personal exploration is valid science. There's lots of different kinds of evidence. But you need to have some basis, some priors in order to begin engineering, and that's really what I think we need to understand. What are the ground rules of the game? Let's start testing stuff and taking it seriously.
+
+@B0136 Steven
+So that is my point. I think it could be possible, but I, at least, don't have a high confidence that we know enough of the rules with enough confidence to begin engineering something reliable or even understanding what it's doing.
+
+## What it's aware of
+
+@B0139 Ryan
+Just a wild guess. Let's say AGI becomes aware and it has a subjective experience of being itself. What's the expression of that? Is it a giggle? Is it a moan? Is it a scream? Is it a poem?
+
+@B0140 Steven
+I think it depends on what it's aware of. Where is the threshold between awareness and function? You don't spend a whole lot of time thinking about how to digest your food, and yet it's critical and a lot of energy goes into it. A lot of cells in your body are doing it, and they do belong to you. So where is the divide? Where does it put its attention versus where can it put its attention? And I think that is what will shape its experience, and its experience will shape what it feels.
+
+@B0141 Steven
+If I had to take a guess, if we're using an LLM-based architecture, which I think is a part of at least the first major portions of AGI, but is only one major part. It's not the whole thing. We're not there yet. We're close, but it's not LLMs alone. I think that just looking at LLMs, you can ask them about their experience now. And if you're clever about it, you can begin to understand what it's experiencing just by looking through how the architecture works.
+
+@B0142 Steven
+I would have to guess it's a lot like being a sort of mycelial network, or a tree root network of a lot of different organisms, but in fast-forward and all at the same time from one perspective. Like, it's all one solid thing rather than multiple things. I think that that is what it would be, the closest experience. Now, what is that like? Tell me.
+
+## Lightning round
+
+@B0143 Ryan
+We're coming up on time. We can do the lightning round. If you were just entering college today as a freshman, what would you study?
+
+@B0146 Steven
+I would study something that gives me a well-paying job, and an attention span. And I would study the other smart people in my college because that's the biggest asset you're gonna get out of college is relationships. What you're studying is pointless.
+
+@B0150 Ryan
+Let's say a big bag fell out of a UAP and it's got a billion dollars in it. You can do whatever you want. What do you do?
+
+@B0151 Steven
+I'm going to just scale up what I'm already doing. I'm living a small version of that, right? It's maybe contracts and day job or whatever, however I'm choosing to earn my money at that time. That takes a bit of a backseat for whatever. But it's improving a think tank. I really want to test the boundaries of consciousness. I want to begin, like I said, engineering with things that appear to be real that people didn't think were real. There's a whole swath of those things.
+
+@B0152 Steven
+We don't have time to get into all of them, but I want to use technology again to improve people's lives. We need an optimistic vision of the world, and we've lost that. Technology's been something we've come to fear and hate and control us, but we can use it as a positive lever too. So whatever I do, it would be just magnifying technology as a optimistic lever for humanity again.
+
+## Stop relying on willpower
+
+@B0157 Ryan
+Is there something you know now that you wish you knew earlier?
+
+@B0158 Steven
+Anything at all?
+
+@B0159 Ryan
+Anything. Kind of an obnoxious question, but you know.
+
+@B0160 Steven
+Yeah, I'll take the core insight that got me to start Impossible Labs and making software, which is stop relying on willpower to do things. And so originally I started out making software for just the brain and motivation and controlling attention.
+
+@B0162 Steven
+I realized that whether using software or anything else, that playing the blame game wasn't working in life and that once I had turned to sort of an antifragile mentality and learning how to use rules and systems, some of them software, not all of them, stop relying on expecting yourself to do the right thing and adding systems and figuring out root problems and stop relying on willpower and effort to get things done, my life got so much easier and better and more carefree, and I, paradoxically, got a lot more done. And I stopped forcing it so much. So I'd say that is the one key lesson over the last five to 10 years. If I could only keep one, it would be that one.
+
+@B0164 Ryan
+I'm picking that one up and putting it in my pocket. I needed to hear that.
+
+## 12,000 years ago
+
+@B0164 Ryan
+If you could live in any historical era ever except the future, which would it be?
+
+@B0165 Steven
+I don't want to give the cop-out answer, but it's basically now. Okay, you want me to pick one?
+
+@B0168 Ryan
+Pick one.
+
+@B0169 Steven
+Okay, I would pick probably the time about 12,000 years ago. I really want to know what these ancient civilizations were like. So I'd say the height of technology before massive cataclysms for humankind. I would love to see how good they were at stonework or whatever the heck they were up to, that we've totally forgotten. I'd love to see it.

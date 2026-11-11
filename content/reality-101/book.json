@@ -1,7 +1,7 @@
 {
   "title": "Reality 101",
   "subtitle": "A Journal of Impossible Experiences",
-  "edition_line": "The complete series and earlier conversations",
+  "edition_line": "The complete series, his journals, and earlier conversations",
   "author": "Steven Schrembeck",
   "with": "Joshua Swenson",
   "compiled": "2026-11-11",
@@ -37,6 +37,9 @@
       "speakers": {
         "speaker_0": "Steven",
         "speaker_1": "Joshua"
+      },
+      "phrases": {
+        "clear audience": "clairaudience"
       }
     },
     "ep1": {
@@ -75,6 +78,9 @@
         "speaker_0": "Steven",
         "speaker_1": "Joshua",
         "speaker_2": "Joshua"
+      },
+      "spelling": {
+        "wine": "whine"
       }
     },
     "ep4": {
@@ -99,6 +105,9 @@
       "speakers": {
         "speaker_0": "Steven",
         "speaker_1": "Joshua"
+      },
+      "spelling": {
+        "c": "see"
       }
     },
     "telepathy": {
@@ -164,7 +173,11 @@
       "date": "2025-06-11",
       "date_basis": "Podcast feed and YouTube publication date",
       "speakers": {},
-      "show": "The Grateful Podcast with Jack Wagoner"
+      "show": "The Grateful Podcast with Jack Wagoner",
+      "spelling": {
+        "ian": "iain",
+        "yogi's": "yogis"
+      }
     },
     "unlocking": {
       "title": "Unlocking human and machine consciousness with Steven Schrembeck",
@@ -204,13 +217,53 @@
       ]
     },
     {
+      "title": "The Series",
+      "intro": "Six conversations with Joshua Swenson, in the order Steven released them.",
+      "chapters": [
+        "01-prologue",
+        "02-reality-101",
+        "03-see-wake-up-remember-1",
+        "04-see-wake-up-remember-2",
+        "05-see-wake-up-remember-3",
+        "06-reality-102"
+      ]
+    },
+    {
       "title": "The Journals",
       "intro": "Three solo recordings Steven made for himself and released as bonus episodes.",
       "chapters": [
+        "07-telepathy",
+        "08-transcendence",
         "09-food-and-frequency"
+      ]
+    },
+    {
+      "title": "Earlier Conversations",
+      "intro": "Selections from four interviews Steven gave before the series, mostly to hosts who had asked him about technology.",
+      "chapters": [
+        "10-self-control-and-clarity",
+        "11-the-technology-that-centers-you",
+        "12-human-and-machine-consciousness",
+        "13-alien-spirit"
       ]
     }
   ],
   "epigraph": "Reality is far more mysterious and loving than we’ve been led to believe.",
-  "chapter_notes": {}
+  "chapter_notes": {
+    "00-invitation": "The complete trailer. One filler word was removed.",
+    "09-food-and-frequency": "Nearly complete. Only filler, false starts, repeated phrases and an aside to his cat were removed. The transcript once renders the name Nom as \"Nam\".",
+    "01-prologue": "Cut from this recording: Joshua's account of his own film-trailer project during the opening check-in, the name of a Ken Wilber term that the transcript garbled, the podcast's closing announcement and subscription request, and Steven's pointer to the show-notes link along with the mis-transcribed address of his blog. Back-channel responses, filler, false starts and immediate repetitions were removed throughout, and Joshua's longer reflections were condensed by cutting. Nothing Steven recounts or explains was left out.",
+    "02-reality-101": "Cut were filler, stutters, false starts and back-channel responses, along with Joshua's pointer to the show notes for the earlier podcast conversation, his remark about saving his ideas on Reality 102 for the next conversation because the recording had reached an hour, and his closing thanks. Joshua's longer reflections (on names, imagination, the Akashic Record, the book Big Magic, and Darwin and Wallace) were kept but condensed by cutting. A few short clauses where the machine transcript appears to have misheard a word were cut rather than corrected; they are listed under uncertain.",
+    "03-see-wake-up-remember-1": "The show's opening tagline and Steven's self-introduction were cut (his surname is garbled in the transcript), along with fillers, false starts, back-channel replies and recording logistics. Joshua's contributions were trimmed more heavily than Steven's: an aside about his television pilot, a mention of his other podcast, some banter during the pen test, and the search for a trainer's surname were removed. One place where Steven misplaced a line and corrected himself keeps only the corrected order, and an aside about finding his place in his journal was dropped.",
+    "04-see-wake-up-remember-2": "Cut: the show's opening tagline, filler words, false starts, and back-channel responses from both speakers. Joshua's turns are condensed by cutting; the longest cuts are a mention of a friend who might come on as a guest, a few unfinished sentences, and his trailing remarks before the final story. Six short phrases of Steven's were removed because the machine transcript plainly misheard them or appears to have lost a negation, and a two-word interjection of his during Joshua's reflection was left out; all are listed as uncertain. Steven's account is otherwise complete (92% of his words kept).",
+    "05-see-wake-up-remember-3": "The show's opening tagline and the closing wrap-up lines were cut; Steven's sign-off sentence was kept. Three stretches of Joshua's that Steven does not take up were removed: his check-in story about a hawk eating a pigeon outside his door, his account of the Taoist book The Secret of the Golden Flower, and a passage on inherited trauma (witch trials, the Crusades, genocide) as a war against consciousness. Joshua's remaining turns were condensed by cutting. Otherwise only filler, back-channel sounds, false starts and repetitions were removed, plus two short clauses of Steven's that the machine transcript leaves unclear.",
+    "06-reality-102": "Cut: the show's opening tagline and self-introductions, Joshua's check-in about his AI short film with the show-notes exchange that followed it (about 230 words), and back-channel replies, filler and false starts throughout. Joshua's longer reflections (internal family systems, an earlier LSD journey, past lives and reincarnation, the siddhis) are condensed by cutting; his questions and the images Steven answers are kept. Five short phrases that look mis-transcribed were cut rather than guessed at, and are listed under uncertain. Steven's words are kept at 93 percent and Joshua's at 67 percent.",
+    "07-telepathy": "Cut were filler words, stutters, false starts and immediate repetitions, a remark about needing water, and a line about wrapping up the recording. Two clauses were cut because the machine transcript's wording is doubtful at a negation: \"and don't assume that there is room for misunderstanding in the sense that\" (00:29:37) and \"Don't hold it all kind of lightly because stuff is getting distorted so much\" (00:32:47). The words \"you can't validate\" (00:49:02) were cut for the same reason. About 95 percent of the transcript's words remain.",
+    "08-transcendence": "About 95% of Steven's words are kept. What was cut is filler, stutters, false starts and immediate repetitions; the longest single omission is ten words. One seven-word aside about editing the recording, at the start of the card demonstration, was cut as recording logistics. No story, explanation, instruction or technique was removed.",
+    "10-self-control-and-clarity": "Left out: every advertisement; the host's introduction, sign-off and the long lead-ins to his questions; Steven's technical explanation of multimodal AI models; and his advice on which no-code and AI tools a beginner should try. The name of his company's website and the closing pleasantries were also cut. Inside the selected answers only filler, stutters, false starts and repetitions were removed. The recording contains no account of anomalous experiences or of meditation practice; it is about his work on attention and self-control.",
+    "11-the-technology-that-centers-you": "Left out: the host's scripted introduction, mid-episode appeal for shares and reviews, thanks and sign-off; the walkthrough of how the Threads tool works (time scale, clearing items, how it differs from to-do lists); and the host's longer accounts of his own to-do systems, reading, meditation streak and the economics of utility, each trimmed to the question or the sentence Steven answers. Also cut are filler, back-channel replies, a handful of clauses the caption file garbled, and a few two- or three-word remarks whose speaker could not be told. Because nearly the whole conversation is about attention, the mind and how to live, about 90% of Steven's words are kept.",
+    "12-human-and-machine-consciousness": "Left out: the host's opening, sponsor read, jingle, closing thanks and end advertisement; the host's long account of his own meditation history and Buddhist communities, his remarks on American Buddhism and psychedelics, his cousin-the-physicist story and his remarks on crystal balls, along with Steven's one-line reactions to them. Also left out, as technology-business talk: Steven's answer on which jobs pay well now and in 10 to 20 years, his answer on his favorite AI tools, and where to find him online. Within the selected answers only filler, false starts, back-channel noises and brief cross-talk were cut.",
+    "13-alien-spirit": "Left out: the show's recorded intro and the host's opening biography, greetings, the host's closing, and the where-to-find-him exchange (website, contact form, newsletter and podcast), along with the price and web address of his Threads tool. Also left out are the host's longer accounts of her own experiences (a rock in Hawaii, most of her redwood story, her thoughts on water in the body and her cat's water), a brief exchange about sharing a photo on the streaming platform, and small talk about a redwood forest vacation. Within the selected stretches only filler, false starts, back-channel replies and four clauses that were garbled or likely misheard were cut. Almost all of the conversation falls under the selection criteria, so about 87% of Steven's words are kept."
+  },
+  "editor": "Jeff Cameron"
 }

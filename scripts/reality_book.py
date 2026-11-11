@@ -96,10 +96,30 @@ def load_config() -> dict:
     return json.loads((BOOK / 'book.json').read_text(encoding='utf-8'))
 
 
-def _finish(source: Source, pieces: list[tuple[str, float, str | None, bool]], spelling: dict[str, str]) -> None:
-    """Group (text, time, speaker, is_event) pieces into blocks and tokens."""
+def _phrases(pieces: list[tuple], phrases: dict[str, str]) -> list[tuple]:
+    """Replace a mis-heard run of words with the term that was said, keeping the transcript's wording as `original`."""
+    for heard, said in phrases.items():
+        want = heard.split()
+        out: list[tuple] = []
+        index = 0
+        while index < len(pieces):
+            window = pieces[index:index + len(want)]
+            if (len(window) == len(want) and all(not piece[3] for piece in window)
+                    and [norm_tokens(piece[0]) for piece in window] == [[word] for word in want]):
+                tail = re.search(r'[^\w\'\u2019]*$', window[-1][0])[0]
+                out.append((said + tail, window[0][1], window[0][2], False, ' '.join(piece[0] for piece in window)))
+                index += len(want)
+            else:
+                out.append(pieces[index])
+                index += 1
+        pieces = out
+    return pieces
+
+
+def _finish(source: Source, pieces: list[tuple], spelling: dict[str, str]) -> None:
+    """Group (text, time, speaker, is_event[, original]) pieces into blocks and tokens."""
     names = source.meta.get('speakers', {})
-    current: list[tuple[str, float, str | None, bool]] = []
+    current: list[tuple] = []
 
     def flush() -> None:
         if not current:
@@ -108,12 +128,12 @@ def _finish(source: Source, pieces: list[tuple[str, float, str | None, bool]], s
         block = Block(len(source.blocks) + 1, current[0][1], speaker,
                       ' '.join(f'({p[0].strip("[]() ")})' if p[3] else p[0] for p in current))
         block.first = len(source.tokens)
-        for text, time, _speaker, is_event in current:
+        for text, time, _speaker, is_event, *original in current:
             if is_event:
                 continue
             for raw in WORD.findall(text.replace('\u2019', "'").replace('\u2018', "'")):
                 token = raw.lower()
-                source.tokens.append(Token(spelling.get(token, token), raw, time, speaker, block.number - 1))
+                source.tokens.append(Token(spelling.get(token, token), original[0] if original else raw, time, speaker, block.number - 1))
         block.last = len(source.tokens) - 1
         source.blocks.append(block)
         current.clear()
@@ -154,7 +174,7 @@ def load_source(source_id: str, config: dict) -> Source:
                 pieces.append((word, start, None, False))
     else:
         raise ValueError(f'Unknown transcript format for {source_id}')
-    _finish(source, pieces, spelling)
+    _finish(source, _phrases(pieces, meta.get('phrases', {})), spelling)
     return source
 
 
@@ -197,7 +217,7 @@ class Chapter:
         return [value for kind, value in self.items if kind == 'passage']
 
 
-HEADER = re.compile(r'@(B\d+)\s+([^\s]+)((?:\s+(?:moved|any))*)\s*$')
+HEADER = re.compile(r'@(B\d+)\s+([^\s]+)((?:\s+(?:moved|any|verse))*)\s*$')
 
 
 def parse_chapter(path: Path) -> tuple[Chapter, list[str]]:
@@ -241,7 +261,8 @@ def parse_chapter(path: Path) -> tuple[Chapter, list[str]]:
             while index < len(lines) and lines[index].strip() and not lines[index].startswith(('@', '## ', '# ', '[note]', 'source:')):
                 text.append(lines[index].strip())
                 index += 1
-            passage = Passage(number, match[1], match[2], set(match[3].split()), ' '.join(text), source)
+            flags = set(match[3].split())
+            passage = Passage(number, match[1], match[2], flags, ('\n' if 'verse' in flags else ' ').join(text), source)
             if not passage.text:
                 errors.append(f'{path.name}:{number}: passage {match[1]} has no text')
             if not source:

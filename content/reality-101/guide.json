@@ -1,9 +1,2106 @@
 {
-  "intro": "Everything quoted here is Steven's own wording from the chapters, and each quotation links to its place in the text. The headings and the choice of passages are editorial. A guide like this is a way in, not a summary: he qualified most of these statements where he made them, and the surrounding pages carry those qualifications.",
-  "teachings_intro": "Statements he returned to across the series.",
-  "teachings": [],
-  "practices_intro": "The series set out to give, in his words, everything he knew about how to do it yourself. These are the practices and instructions he describes, each at the point where he explains it.",
-  "practices": [],
-  "experiences_intro": "The specific experiences he describes, in the order they appear in this book, with the dates he gives for them.",
-  "experiences": []
+ "intro": "Everything quoted here is Steven's own wording from the chapters, and each quotation links to its place in the text. The headings and the choice of passages are editorial. A guide like this is a way in, not a summary: he qualified most of these statements where he made them, and the surrounding pages carry those qualifications.",
+ "teachings_intro": "Statements he returned to across the series.",
+ "teachings": [],
+ "practices_intro": "The series set out to give, in his words, everything he knew about how to do it yourself. These are the practices and instructions he describes, each at the point where he explains it.",
+ "practices": [
+  {
+   "chapter": "01-prologue",
+   "block": "B0050",
+   "name": "Daily meditation, twice a day"
+  },
+  {
+   "chapter": "01-prologue",
+   "block": "B0051",
+   "name": "Recommended reading: The Untethered Soul"
+  },
+  {
+   "chapter": "01-prologue",
+   "block": "B0052",
+   "name": "Meditation as inner exploration, carried through the day"
+  },
+  {
+   "chapter": "01-prologue",
+   "block": "B0060",
+   "name": "Questions to investigate in meditation"
+  },
+  {
+   "chapter": "01-prologue",
+   "block": "B0069",
+   "name": "Setting goals by present values rather than future outcomes"
+  },
+  {
+   "chapter": "01-prologue",
+   "block": "B0079",
+   "name": "Testing unusual claims first-hand"
+  },
+  {
+   "chapter": "01-prologue",
+   "block": "B0098",
+   "name": "Drawing and journaling an experience immediately"
+  },
+  {
+   "chapter": "01-prologue",
+   "block": "B0132",
+   "name": "Seeking it out yourself and persisting"
+  },
+  {
+   "chapter": "01-prologue",
+   "block": "B0167",
+   "name": "Taking an observer perspective to stay grounded"
+  },
+  {
+   "chapter": "01-prologue",
+   "block": "B0169",
+   "name": "Ruling out other explanations, including psychiatric help"
+  },
+  {
+   "chapter": "01-prologue",
+   "block": "B0176",
+   "name": "Psi wheel training for telekinesis"
+  },
+  {
+   "chapter": "01-prologue",
+   "block": "B0184",
+   "name": "Daily remote viewing practice"
+  },
+  {
+   "chapter": "01-prologue",
+   "block": "B0218",
+   "name": "Caution: never look at the sun with open eyes"
+  },
+  {
+   "chapter": "01-prologue",
+   "block": "B0242",
+   "name": "Turning mindsight on by intention or a trained cue; blindfold training"
+  },
+  {
+   "chapter": "01-prologue",
+   "block": "B0258",
+   "name": "Entertaining the inner conversation as a pretense"
+  },
+  {
+   "chapter": "01-prologue",
+   "block": "B0288",
+   "name": "Holding a belief until it happens"
+  },
+  {
+   "chapter": "01-prologue",
+   "block": "B0294",
+   "name": "Asking for real-world validation"
+  },
+  {
+   "chapter": "01-prologue",
+   "block": "B0325",
+   "name": "Trusting non-physical senses"
+  },
+  {
+   "chapter": "01-prologue",
+   "block": "B0358",
+   "name": "Leaning into imagination and belief as steering"
+  },
+  {
+   "chapter": "01-prologue",
+   "block": "B0363",
+   "name": "Keeping a positive orientation and continuing"
+  },
+  {
+   "chapter": "01-prologue",
+   "block": "B0377",
+   "name": "Asking for your own version and following breadcrumbs"
+  },
+  {
+   "chapter": "02-reality-101",
+   "block": "B0025",
+   "name": "Staying with a contact: eyes closed, attention off the body, letting it run"
+  },
+  {
+   "chapter": "02-reality-101",
+   "block": "B0073",
+   "name": "Treating the experience as another person on the line"
+  },
+  {
+   "chapter": "02-reality-101",
+   "block": "B0090",
+   "name": "Entertaining an idea long enough to see if it is true"
+  },
+  {
+   "chapter": "02-reality-101",
+   "block": "B0094",
+   "name": "Working from liminal states or deep meditation, when the conscious mind is out of the way"
+  },
+  {
+   "chapter": "02-reality-101",
+   "block": "B0117",
+   "name": "Thinking of imagination as a real, personal space that others can enter"
+  },
+  {
+   "chapter": "02-reality-101",
+   "block": "B0262",
+   "name": "Testing what you are given in the real world"
+  },
+  {
+   "chapter": "02-reality-101",
+   "block": "B0263",
+   "name": "Insisting on validation"
+  },
+  {
+   "chapter": "02-reality-101",
+   "block": "B0272",
+   "name": "Treating non-physical experiences seriously"
+  },
+  {
+   "chapter": "02-reality-101",
+   "block": "B0278",
+   "name": "Accepting the parts of yourself you do not want to admit"
+  },
+  {
+   "chapter": "02-reality-101",
+   "block": "B0280",
+   "name": "Personal growth, taking it seriously, and wanting it"
+  },
+  {
+   "chapter": "02-reality-101",
+   "block": "B0284",
+   "name": "Going to experience it yourself rather than being told"
+  },
+  {
+   "chapter": "03-see-wake-up-remember-1",
+   "block": "B0020",
+   "name": "Setting an intention to participate in greater reality (as reported by Joshua)"
+  },
+  {
+   "chapter": "03-see-wake-up-remember-1",
+   "block": "B0057",
+   "name": "Believing early experiences while they are harmless"
+  },
+  {
+   "chapter": "03-see-wake-up-remember-1",
+   "block": "B0125",
+   "name": "Stopping your own thoughts to see whether the replies keep coming"
+  },
+  {
+   "chapter": "03-see-wake-up-remember-1",
+   "block": "B0129",
+   "name": "The five questions exercise"
+  },
+  {
+   "chapter": "03-see-wake-up-remember-1",
+   "block": "B0243",
+   "name": "Taking an impression seriously while holding it lightly"
+  },
+  {
+   "chapter": "03-see-wake-up-remember-1",
+   "block": "B0253",
+   "name": "Building a psi wheel"
+  },
+  {
+   "chapter": "03-see-wake-up-remember-1",
+   "block": "B0269",
+   "name": "Telekinesis practice with a psi wheel"
+  },
+  {
+   "chapter": "03-see-wake-up-remember-1",
+   "block": "B0272",
+   "name": "Keeping the wheel out of moving air"
+  },
+  {
+   "chapter": "03-see-wake-up-remember-1",
+   "block": "B0275",
+   "name": "Harder version: wheel under a glass jar, at a distance"
+  },
+  {
+   "chapter": "03-see-wake-up-remember-1",
+   "block": "B0279",
+   "name": "Starting psi wheel practice with your hands"
+  },
+  {
+   "chapter": "03-see-wake-up-remember-1",
+   "block": "B0307",
+   "name": "Using a psychic skill as a barometer of openness"
+  },
+  {
+   "chapter": "03-see-wake-up-remember-1",
+   "block": "B0310",
+   "name": "Not relying on that test alone"
+  },
+  {
+   "chapter": "03-see-wake-up-remember-1",
+   "block": "B0420",
+   "name": "Sitting with it and continuing"
+  },
+  {
+   "chapter": "04-see-wake-up-remember-2",
+   "block": "B0058",
+   "name": "Holding a strong experience lightly as to why it happened"
+  },
+  {
+   "chapter": "04-see-wake-up-remember-2",
+   "block": "B0103",
+   "name": "Not dismissing an experience because its source is explainable"
+  },
+  {
+   "chapter": "04-see-wake-up-remember-2",
+   "block": "B0166",
+   "name": "Saying goodnight to everybody before sleep"
+  },
+  {
+   "chapter": "04-see-wake-up-remember-2",
+   "block": "B0180",
+   "name": "Deciding for yourself who you want to be instead of waiting to be told"
+  },
+  {
+   "chapter": "04-see-wake-up-remember-2",
+   "block": "B0191",
+   "name": "Long daily meditation, an hour or more"
+  },
+  {
+   "chapter": "04-see-wake-up-remember-2",
+   "block": "B0191",
+   "name": "Working on yourself: not judging, letting go of shame, even reactions"
+  },
+  {
+   "chapter": "04-see-wake-up-remember-2",
+   "block": "B0193",
+   "name": "Setting the intention each morning to see, wake up and remember"
+  },
+  {
+   "chapter": "04-see-wake-up-remember-2",
+   "block": "B0200",
+   "name": "Living as if it were true all the time and catching when you act otherwise"
+  },
+  {
+   "chapter": "04-see-wake-up-remember-2",
+   "block": "B0204",
+   "name": "Repeating the mantra: see, wake up, remember"
+  },
+  {
+   "chapter": "04-see-wake-up-remember-2",
+   "block": "B0223",
+   "name": "Recontextualizing everyday life (Joshua's mini-games), which Steven endorses"
+  },
+  {
+   "chapter": "04-see-wake-up-remember-2",
+   "block": "B0225",
+   "name": "Working the practice into the rest of your life, not only meditation"
+  },
+  {
+   "chapter": "04-see-wake-up-remember-2",
+   "block": "B0257",
+   "name": "Asking sincerely, as in prayer"
+  },
+  {
+   "chapter": "04-see-wake-up-remember-2",
+   "block": "B0264",
+   "name": "Setting an intention to yourself to be shown what matters most"
+  },
+  {
+   "chapter": "04-see-wake-up-remember-2",
+   "block": "B0271",
+   "name": "Deciding that it is true, not only saying the words"
+  },
+  {
+   "chapter": "04-see-wake-up-remember-2",
+   "block": "B0276",
+   "name": "Returning to the state by looking at or touching ordinary things"
+  },
+  {
+   "chapter": "05-see-wake-up-remember-3",
+   "block": "B0047",
+   "name": "Repeating \"See, wake up, remember\" in meditation and through the day, and investing belief in it"
+  },
+  {
+   "chapter": "05-see-wake-up-remember-3",
+   "block": "B0101",
+   "name": "Deliberate practice so the non-dual state becomes more of the everyday state"
+  },
+  {
+   "chapter": "05-see-wake-up-remember-3",
+   "block": "B0117",
+   "name": "Dropping a thought you are not enjoying (his twin's advice to him)"
+  },
+  {
+   "chapter": "05-see-wake-up-remember-3",
+   "block": "B0199",
+   "name": "Starting from the realization that you can, then doing it directly"
+  },
+  {
+   "chapter": "05-see-wake-up-remember-3",
+   "block": "B0211",
+   "name": "Trying it in person with a group that believes it is possible"
+  },
+  {
+   "chapter": "06-reality-102",
+   "block": "B0004",
+   "name": "Setting intentions to initiate experiences"
+  },
+  {
+   "chapter": "06-reality-102",
+   "block": "B0029",
+   "name": "Personal growth plus intention as what opens a big experience"
+  },
+  {
+   "chapter": "06-reality-102",
+   "block": "B0071",
+   "name": "Pushing an unwanted thing out of your imagination"
+  },
+  {
+   "chapter": "06-reality-102",
+   "block": "B0111",
+   "name": "Working on a problem at its own layer"
+  },
+  {
+   "chapter": "06-reality-102",
+   "block": "B0147",
+   "name": "Being kind and resolving your problems"
+  },
+  {
+   "chapter": "06-reality-102",
+   "block": "B0151",
+   "name": "Staring at something until you realize you are it (his account of the Yoga Sutras)"
+  },
+  {
+   "chapter": "06-reality-102",
+   "block": "B0165",
+   "name": "Closing off to other people's input in order to create"
+  },
+  {
+   "chapter": "06-reality-102",
+   "block": "B0167",
+   "name": "Intending to change, to be more aware, to have more ability"
+  },
+  {
+   "chapter": "06-reality-102",
+   "block": "B0168",
+   "name": "Intending, practicing, and seeing it work"
+  },
+  {
+   "chapter": "06-reality-102",
+   "block": "B0182",
+   "name": "Neutrality, not resistance, to close yourself to something feared"
+  },
+  {
+   "chapter": "06-reality-102",
+   "block": "B0257",
+   "name": "Putting out an intention to get a follow-up answer (his reply to Joshua's \"Just put the intention out\")"
+  },
+  {
+   "chapter": "07-telepathy",
+   "block": "B0005",
+   "name": "Transdimensional mapping (remote viewing) with pen and paper, as a first method"
+  },
+  {
+   "chapter": "07-telepathy",
+   "block": "B0006",
+   "name": "Channeling, learned from step-by-step videos"
+  },
+  {
+   "chapter": "07-telepathy",
+   "block": "B0007",
+   "name": "Divination by rolling random words"
+  },
+  {
+   "chapter": "07-telepathy",
+   "block": "B0008",
+   "name": "Noticing synchronicities and deciding what they mean"
+  },
+  {
+   "chapter": "07-telepathy",
+   "block": "B0010",
+   "name": "Shuffled playlist with a set intention"
+  },
+  {
+   "chapter": "07-telepathy",
+   "block": "B0011",
+   "name": "Paying attention to dreams and the edges of sleep"
+  },
+  {
+   "chapter": "07-telepathy",
+   "block": "B0025",
+   "name": "Noticing emotions that are out of context"
+  },
+  {
+   "chapter": "07-telepathy",
+   "block": "B0026",
+   "name": "Draw sight: drawing in the afterimage of a light"
+  },
+  {
+   "chapter": "07-telepathy",
+   "block": "B0036",
+   "name": "Caution: not for everyone"
+  },
+  {
+   "chapter": "07-telepathy",
+   "block": "B0037",
+   "name": "Treating your thoughts as not yours"
+  },
+  {
+   "chapter": "07-telepathy",
+   "block": "B0044",
+   "name": "Finding a soul tone and dialing it"
+  },
+  {
+   "chapter": "07-telepathy",
+   "block": "B0045",
+   "name": "Opening a connection by asking permission"
+  },
+  {
+   "chapter": "07-telepathy",
+   "block": "B0047",
+   "name": "Receiving: relax, hold the intention, let a thought drift in"
+  },
+  {
+   "chapter": "07-telepathy",
+   "block": "B0048",
+   "name": "Hanging up"
+  },
+  {
+   "chapter": "07-telepathy",
+   "block": "B0050",
+   "name": "Asking who is there when someone just starts talking"
+  },
+  {
+   "chapter": "07-telepathy",
+   "block": "B0051",
+   "name": "Shutting down unwanted communication"
+  },
+  {
+   "chapter": "07-telepathy",
+   "block": "B0052",
+   "name": "Etiquette: assume you are talking to a real person"
+  },
+  {
+   "chapter": "07-telepathy",
+   "block": "B0054",
+   "name": "Etiquette: assume good intention, and hang up on negative intention"
+  },
+  {
+   "chapter": "07-telepathy",
+   "block": "B0059",
+   "name": "Rolling with conflicting messages while learning"
+  },
+  {
+   "chapter": "07-telepathy",
+   "block": "B0071",
+   "name": "Meditation: watching where your thoughts come from"
+  },
+  {
+   "chapter": "07-telepathy",
+   "block": "B0074",
+   "name": "Error correction: ask again, or try another medium"
+  },
+  {
+   "chapter": "07-telepathy",
+   "block": "B0078",
+   "name": "Caution: only if you can handle what comes"
+  },
+  {
+   "chapter": "07-telepathy",
+   "block": "B0079",
+   "name": "Taking everything directionally"
+  },
+  {
+   "chapter": "07-telepathy",
+   "block": "B0080",
+   "name": "Weighing verbal thoughts as the least accurate signal"
+  },
+  {
+   "chapter": "07-telepathy",
+   "block": "B0085",
+   "name": "Using the feeling in your chest as an error check"
+  },
+  {
+   "chapter": "07-telepathy",
+   "block": "B0090",
+   "name": "Asking for things you can get partial credit on"
+  },
+  {
+   "chapter": "07-telepathy",
+   "block": "B0094",
+   "name": "Practicing with casual conversation"
+  },
+  {
+   "chapter": "07-telepathy",
+   "block": "B0096",
+   "name": "Starting with your own spirit guides"
+  },
+  {
+   "chapter": "07-telepathy",
+   "block": "B0097",
+   "name": "Setting the parameters and just talking"
+  },
+  {
+   "chapter": "07-telepathy",
+   "block": "B0100",
+   "name": "Sitting in a daydreamy state"
+  },
+  {
+   "chapter": "07-telepathy",
+   "block": "B0100",
+   "name": "Setting an intention before falling asleep"
+  },
+  {
+   "chapter": "07-telepathy",
+   "block": "B0102",
+   "name": "Taking it seriously while holding it lightly"
+  },
+  {
+   "chapter": "07-telepathy",
+   "block": "B0104",
+   "name": "Caution: don't give permission to bad ideas"
+  },
+  {
+   "chapter": "07-telepathy",
+   "block": "B0105",
+   "name": "Stopping if you are scared"
+  },
+  {
+   "chapter": "08-transcendence",
+   "block": "B0003",
+   "name": "Get to a stable place in your life before starting"
+  },
+  {
+   "chapter": "08-transcendence",
+   "block": "B0013",
+   "name": "Decide for yourself what it all means"
+  },
+  {
+   "chapter": "08-transcendence",
+   "block": "B0013",
+   "name": "Be authentic to yourself"
+  },
+  {
+   "chapter": "08-transcendence",
+   "block": "B0016",
+   "name": "Read The Untethered Soul (or the audiobook)"
+  },
+  {
+   "chapter": "08-transcendence",
+   "block": "B0017",
+   "name": "Entertain an unlikely idea long enough to test it"
+  },
+  {
+   "chapter": "08-transcendence",
+   "block": "B0019",
+   "name": "Seeking: set an intention to know the answers to your big questions"
+  },
+  {
+   "chapter": "08-transcendence",
+   "block": "B0020",
+   "name": "Sustain the desire through periods of no results"
+  },
+  {
+   "chapter": "08-transcendence",
+   "block": "B0021",
+   "name": "Read the Yoga Sutras in a translation with commentary"
+  },
+  {
+   "chapter": "08-transcendence",
+   "block": "B0023",
+   "name": "Meditate every day for at least 30 minutes"
+  },
+  {
+   "chapter": "08-transcendence",
+   "block": "B0023",
+   "name": "Beginning meditation: think of nothing and let thoughts slide off"
+  },
+  {
+   "chapter": "08-transcendence",
+   "block": "B0025",
+   "name": "Non-dual meditation; the Waking Up app and its courses"
+  },
+  {
+   "chapter": "08-transcendence",
+   "block": "B0026",
+   "name": "His own contemplative meditation: let go over and over until the mind is still"
+  },
+  {
+   "chapter": "08-transcendence",
+   "block": "B0029",
+   "name": "Pay attention to your own state during the day"
+  },
+  {
+   "chapter": "08-transcendence",
+   "block": "B0030",
+   "name": "Use your intuition: look for a feeling in everyday life and follow it"
+  },
+  {
+   "chapter": "08-transcendence",
+   "block": "B0031",
+   "name": "Two-week test of living by intuition instead of planning"
+  },
+  {
+   "chapter": "08-transcendence",
+   "block": "B0036",
+   "name": "See meaning in everything that happens and ask why it happened"
+  },
+  {
+   "chapter": "08-transcendence",
+   "block": "B0038",
+   "name": "Notice synchronicities, acknowledge them, and decide what they mean"
+  },
+  {
+   "chapter": "08-transcendence",
+   "block": "B0041",
+   "name": "Treat the problem in front of you as the right problem and ask what it is teaching"
+  },
+  {
+   "chapter": "08-transcendence",
+   "block": "B0049",
+   "name": "Practice the skills that appear spontaneously to bring them under control"
+  },
+  {
+   "chapter": "08-transcendence",
+   "block": "B0051",
+   "name": "With non-physical encounters, hold a strength of self"
+  },
+  {
+   "chapter": "08-transcendence",
+   "block": "B0055",
+   "name": "Treat small annoyances as serious problems with a lesson"
+  },
+  {
+   "chapter": "08-transcendence",
+   "block": "B0057",
+   "name": "What not to do when anomalous events occur"
+  },
+  {
+   "chapter": "08-transcendence",
+   "block": "B0058",
+   "name": "Ask what happened and decide what it means yourself"
+  },
+  {
+   "chapter": "08-transcendence",
+   "block": "B0061",
+   "name": "Update your beliefs and world models to incorporate the experience"
+  },
+  {
+   "chapter": "08-transcendence",
+   "block": "B0062",
+   "name": "Act as if the experience is true"
+  },
+  {
+   "chapter": "08-transcendence",
+   "block": "B0063",
+   "name": "Talk it out with a support group or in a safe space"
+  },
+  {
+   "chapter": "08-transcendence",
+   "block": "B0067",
+   "name": "Learn how to process trauma; mind how you encode the memory"
+  },
+  {
+   "chapter": "08-transcendence",
+   "block": "B0070",
+   "name": "Sit with a difficult experience until it is fully worked through"
+  },
+  {
+   "chapter": "08-transcendence",
+   "block": "B0072",
+   "name": "Rest and recover before going on"
+  },
+  {
+   "chapter": "08-transcendence",
+   "block": "B0073",
+   "name": "Stay connected to your ordinary life and responsibilities"
+  },
+  {
+   "chapter": "08-transcendence",
+   "block": "B0075",
+   "name": "Do not stay in victimhood or act inauthentically"
+  },
+  {
+   "chapter": "08-transcendence",
+   "block": "B0077",
+   "name": "Keep applying the lessons you have already learned"
+  },
+  {
+   "chapter": "08-transcendence",
+   "block": "B0078",
+   "name": "Hold open the belief that something can be true"
+  },
+  {
+   "chapter": "08-transcendence",
+   "block": "B0081",
+   "name": "Face your fears, insecurities and old traumas"
+  },
+  {
+   "chapter": "08-transcendence",
+   "block": "B0086",
+   "name": "Expect the experiences to be absurd or confusing"
+  },
+  {
+   "chapter": "08-transcendence",
+   "block": "B0088",
+   "name": "Set an intention as a request, mean it and live it"
+  },
+  {
+   "chapter": "08-transcendence",
+   "block": "B0089",
+   "name": "When nothing seems to happen, examine the lesson in front of you"
+  },
+  {
+   "chapter": "08-transcendence",
+   "block": "B0090",
+   "name": "Practice with other people; go to training events free from dogma"
+  },
+  {
+   "chapter": "08-transcendence",
+   "block": "B0092",
+   "name": "Cut your information diet to almost zero"
+  },
+  {
+   "chapter": "08-transcendence",
+   "block": "B0093",
+   "name": "Notice what leaves you feeling worse and let go of crutches"
+  },
+  {
+   "chapter": "08-transcendence",
+   "block": "B0095",
+   "name": "Stop judging and blaming yourself"
+  },
+  {
+   "chapter": "08-transcendence",
+   "block": "B0096",
+   "name": "Lean into your life rather than away from it"
+  },
+  {
+   "chapter": "08-transcendence",
+   "block": "B0099",
+   "name": "Find a community so you are not alone in it"
+  },
+  {
+   "chapter": "08-transcendence",
+   "block": "B0102",
+   "name": "Do not push this on people who are not ready"
+  },
+  {
+   "chapter": "08-transcendence",
+   "block": "B0103",
+   "name": "Help other people"
+  },
+  {
+   "chapter": "10-self-control-and-clarity",
+   "block": "B0021",
+   "name": "Send an AI ahead of you to filter what you are exposed to online"
+  },
+  {
+   "chapter": "10-self-control-and-clarity",
+   "block": "B0034",
+   "name": "Set your own rules for life and have something watch and enforce them"
+  },
+  {
+   "chapter": "10-self-control-and-clarity",
+   "block": "B0036",
+   "name": "Reach podcasts, the web and social media through an interface that does not pull your attention"
+  },
+  {
+   "chapter": "10-self-control-and-clarity",
+   "block": "B0037",
+   "name": "State your intentions and be made aware when what you are doing does not match"
+  },
+  {
+   "chapter": "10-self-control-and-clarity",
+   "block": "B0038",
+   "name": "Choose escalating restrictions for yourself in advance"
+  },
+  {
+   "chapter": "10-self-control-and-clarity",
+   "block": "B0038",
+   "name": "A hard guardrail for substance abuse: deny the transaction"
+  },
+  {
+   "chapter": "10-self-control-and-clarity",
+   "block": "B0039",
+   "name": "Add friction, or remove what makes life worse, instead of using willpower"
+  },
+  {
+   "chapter": "10-self-control-and-clarity",
+   "block": "B0043",
+   "name": "Decide what to access and become aware of what is influencing you"
+  },
+  {
+   "chapter": "10-self-control-and-clarity",
+   "block": "B0045",
+   "name": "Notice what makes you feel bad, then remove or blunt it"
+  },
+  {
+   "chapter": "10-self-control-and-clarity",
+   "block": "B0046",
+   "name": "Make what is bad for you hard and what is good for you easy"
+  },
+  {
+   "chapter": "10-self-control-and-clarity",
+   "block": "B0051",
+   "name": "Stay a little behind the cutting edge and try the tools"
+  },
+  {
+   "chapter": "10-self-control-and-clarity",
+   "block": "B0055",
+   "name": "Ask what automation is replacing in your life"
+  },
+  {
+   "chapter": "10-self-control-and-clarity",
+   "block": "B0057",
+   "name": "Ask what you are freeing up time and energy for"
+  },
+  {
+   "chapter": "11-the-technology-that-centers-you",
+   "block": "B0012",
+   "name": "Keep only what you are doing now and next in front of you, to get it out of your head"
+  },
+  {
+   "chapter": "11-the-technology-that-centers-you",
+   "block": "B0044",
+   "name": "A daily 30-minute walk as an approachable alternative to meditation"
+  },
+  {
+   "chapter": "11-the-technology-that-centers-you",
+   "block": "B0045",
+   "name": "Thirty minutes a day of walking or sitting bored, in silence, doing nothing"
+  },
+  {
+   "chapter": "11-the-technology-that-centers-you",
+   "block": "B0049",
+   "name": "The chair test"
+  },
+  {
+   "chapter": "11-the-technology-that-centers-you",
+   "block": "B0050",
+   "name": "Sit in the chair and feel the discomfort until it subsides"
+  },
+  {
+   "chapter": "11-the-technology-that-centers-you",
+   "block": "B0051",
+   "name": "Stop the stimulation for a while and let yourself crash"
+  },
+  {
+   "chapter": "11-the-technology-that-centers-you",
+   "block": "B0053",
+   "name": "Return to zero faster by deliberately becoming uncomfortable"
+  },
+  {
+   "chapter": "11-the-technology-that-centers-you",
+   "block": "B0059",
+   "name": "Change your balance point by changing what you do"
+  },
+  {
+   "chapter": "11-the-technology-that-centers-you",
+   "block": "B0064",
+   "name": "Review your own principles and rules for life every morning"
+  },
+  {
+   "chapter": "11-the-technology-that-centers-you",
+   "block": "B0065",
+   "name": "Write down a life lesson when something important happens, and reread it"
+  },
+  {
+   "chapter": "11-the-technology-that-centers-you",
+   "block": "B0077",
+   "name": "Put the state you want to be in at the center of your life"
+  },
+  {
+   "chapter": "12-human-and-machine-consciousness",
+   "block": "B0006",
+   "name": "Daily meditation, about an hour every morning"
+  },
+  {
+   "chapter": "12-human-and-machine-consciousness",
+   "block": "B0016",
+   "name": "Using a session to reset when angry or stressed"
+  },
+  {
+   "chapter": "12-human-and-machine-consciousness",
+   "block": "B0016",
+   "name": "Letting go: whatever attention is on is not the thing"
+  },
+  {
+   "chapter": "12-human-and-machine-consciousness",
+   "block": "B0016",
+   "name": "Progressive separation from sensations, emotions and thoughts (\"that's not me\")"
+  },
+  {
+   "chapter": "12-human-and-machine-consciousness",
+   "block": "B0020",
+   "name": "Learning from a tradition by asking why it works and trying it yourself"
+  },
+  {
+   "chapter": "12-human-and-machine-consciousness",
+   "block": "B0067",
+   "name": "Increasing sitting time gradually"
+  },
+  {
+   "chapter": "12-human-and-machine-consciousness",
+   "block": "B0068",
+   "name": "Sitting a few hours after waking rather than straight away"
+  },
+  {
+   "chapter": "12-human-and-machine-consciousness",
+   "block": "B0068",
+   "name": "Picking a technique or target of focus and trying it out"
+  },
+  {
+   "chapter": "12-human-and-machine-consciousness",
+   "block": "B0162",
+   "name": "Rules and systems in place of willpower"
+  },
+  {
+   "chapter": "13-alien-spirit",
+   "block": "B0030",
+   "name": "Sitting meditation (his own practice is about an hour each morning)"
+  },
+  {
+   "chapter": "13-alien-spirit",
+   "block": "B0064",
+   "name": "Single-object focus meditation: staring at a tree for an hour"
+  },
+  {
+   "chapter": "13-alien-spirit",
+   "block": "B0116",
+   "name": "Approaching psi experiments with open, positive skepticism"
+  },
+  {
+   "chapter": "13-alien-spirit",
+   "block": "B0138",
+   "name": "Freezing water after setting an intention (Veda Austin's protocol)"
+  },
+  {
+   "chapter": "13-alien-spirit",
+   "block": "B0248",
+   "name": "Get space from a problem instead of using effort: the programmable debit card"
+  },
+  {
+   "chapter": "13-alien-spirit",
+   "block": "B0250",
+   "name": "Devices that shut off at set times without warning"
+  },
+  {
+   "chapter": "13-alien-spirit",
+   "block": "B0252",
+   "name": "Re-engineer the environment and rules instead of trying harder"
+  },
+  {
+   "chapter": "13-alien-spirit",
+   "block": "B0271",
+   "name": "A calls-and-texts-only phone and hard timers on games"
+  },
+  {
+   "chapter": "13-alien-spirit",
+   "block": "B0274",
+   "name": "No notifications; use devices only when you initiate it"
+  },
+  {
+   "chapter": "13-alien-spirit",
+   "block": "B0275",
+   "name": "Block social media behind several minutes of friction"
+  },
+  {
+   "chapter": "13-alien-spirit",
+   "block": "B0281",
+   "name": "No ads and no news on his devices"
+  },
+  {
+   "chapter": "13-alien-spirit",
+   "block": "B0285",
+   "name": "Review a written list of rules and systems every morning"
+  },
+  {
+   "chapter": "13-alien-spirit",
+   "block": "B0286",
+   "name": "Close the door behind you: after a lapse, add friction instead of penance"
+  },
+  {
+   "chapter": "13-alien-spirit",
+   "block": "B0286",
+   "name": "Outlet timers that cut power to the TV"
+  },
+  {
+   "chapter": "13-alien-spirit",
+   "block": "B0296",
+   "name": "Don't beat yourself up; act on the problem with a cool head"
+  }
+ ],
+ "experiences_intro": "The specific experiences he describes, in the order they appear in this book, with the dates he gives for them.",
+ "experiences": [
+  {
+   "chapter": "01-prologue",
+   "block": "B0008",
+   "label": "High-pitched sound and head pressure before recording",
+   "when": ""
+  },
+  {
+   "chapter": "01-prologue",
+   "block": "B0053",
+   "label": "Floating and zooming sensations in early meditation",
+   "when": "after starting serious meditation, two thousand twenty-two, maybe '21"
+  },
+  {
+   "chapter": "01-prologue",
+   "block": "B0086",
+   "label": "First UFO sighting: flashing white lights",
+   "when": "soon after the congressional hearings with David Grusch"
+  },
+  {
+   "chapter": "01-prologue",
+   "block": "B0095",
+   "label": "Second sighting: black kidney bean-shaped object",
+   "when": "after a child's birthday party"
+  },
+  {
+   "chapter": "01-prologue",
+   "block": "B0099",
+   "label": "Two further UFO experiences, mentioned only",
+   "when": ""
+  },
+  {
+   "chapter": "01-prologue",
+   "block": "B0138",
+   "label": "Geometric visuals during a two-hour meditation",
+   "when": "late 2024"
+  },
+  {
+   "chapter": "01-prologue",
+   "block": "B0139",
+   "label": "Burning sensation in the chest",
+   "when": "late 2024"
+  },
+  {
+   "chapter": "01-prologue",
+   "block": "B0145",
+   "label": "Waking mid-conversation; watching himself talk",
+   "when": ""
+  },
+  {
+   "chapter": "01-prologue",
+   "block": "B0148",
+   "label": "Vivid nightmares with a sensed presence",
+   "when": ""
+  },
+  {
+   "chapter": "01-prologue",
+   "block": "B0151",
+   "label": "Verbal thought: \"Why do you come in here?\"",
+   "when": ""
+  },
+  {
+   "chapter": "01-prologue",
+   "block": "B0154",
+   "label": "Sounds heard without a source",
+   "when": ""
+  },
+  {
+   "chapter": "01-prologue",
+   "block": "B0157",
+   "label": "Advice heard in meditation and by a fire",
+   "when": ""
+  },
+  {
+   "chapter": "01-prologue",
+   "block": "B0158",
+   "label": "Out-of-context emotions; sense of being watched",
+   "when": "starting a year or so ago"
+  },
+  {
+   "chapter": "01-prologue",
+   "block": "B0173",
+   "label": "Psychiatrist advises him to explore, not suppress",
+   "when": ""
+  },
+  {
+   "chapter": "01-prologue",
+   "block": "B0183",
+   "label": "Psi wheel moves after about 30 hours",
+   "when": ""
+  },
+  {
+   "chapter": "01-prologue",
+   "block": "B0184",
+   "label": "Learning mindsight: seeing with eyes closed",
+   "when": ""
+  },
+  {
+   "chapter": "01-prologue",
+   "block": "B0203",
+   "label": "Seeing out the back of his head",
+   "when": ""
+  },
+  {
+   "chapter": "01-prologue",
+   "block": "B0210",
+   "label": "Seeing poured water through closed eyelids",
+   "when": ""
+  },
+  {
+   "chapter": "01-prologue",
+   "block": "B0215",
+   "label": "Looking at the sun with eyes closed",
+   "when": ""
+  },
+  {
+   "chapter": "01-prologue",
+   "block": "B0224",
+   "label": "Zooming in on the sun; sunspots",
+   "when": ""
+  },
+  {
+   "chapter": "01-prologue",
+   "block": "B0235",
+   "label": "Sunspot drawing matched that day's solar activity",
+   "when": ""
+  },
+  {
+   "chapter": "01-prologue",
+   "block": "B0238",
+   "label": "Seeing his own eyelashes with mindsight",
+   "when": "two days ago"
+  },
+  {
+   "chapter": "01-prologue",
+   "block": "B0242",
+   "label": "Mindsight turning on at night",
+   "when": ""
+  },
+  {
+   "chapter": "01-prologue",
+   "block": "B0250",
+   "label": "Intrusive telepathic thoughts and feelings from a person",
+   "when": "starting November, December last year, maybe a little before"
+  },
+  {
+   "chapter": "01-prologue",
+   "block": "B0252",
+   "label": "Lucid dreams of being quizzed",
+   "when": ""
+  },
+  {
+   "chapter": "01-prologue",
+   "block": "B0253",
+   "label": "Felt eye roll when he becomes lucid",
+   "when": ""
+  },
+  {
+   "chapter": "01-prologue",
+   "block": "B0255",
+   "label": "Waking contact; sadness felt when pushing them away",
+   "when": ""
+  },
+  {
+   "chapter": "01-prologue",
+   "block": "B0259",
+   "label": "Familiarity with the presences without memories",
+   "when": ""
+  },
+  {
+   "chapter": "01-prologue",
+   "block": "B0262",
+   "label": "Liminal visuals drawn in the visual field",
+   "when": ""
+  },
+  {
+   "chapter": "01-prologue",
+   "block": "B0269",
+   "label": "Meeting a girl on a white plain",
+   "when": "one night, around 2:00 a.m., for about four hours"
+  },
+  {
+   "chapter": "01-prologue",
+   "block": "B0294",
+   "label": "Told where a lost object was",
+   "when": ""
+  },
+  {
+   "chapter": "01-prologue",
+   "block": "B0311",
+   "label": "Mediumship session with five mediums over Zoom",
+   "when": "after the mindsight training"
+  },
+  {
+   "chapter": "01-prologue",
+   "block": "B0322",
+   "label": "Text message about grandmas and loving him",
+   "when": "the next morning"
+  },
+  {
+   "chapter": "01-prologue",
+   "block": "B0340",
+   "label": "Told why he is here, like a menu",
+   "when": ""
+  },
+  {
+   "chapter": "01-prologue",
+   "block": "B0344",
+   "label": "Woken at night and told of a gift",
+   "when": ""
+  },
+  {
+   "chapter": "01-prologue",
+   "block": "B0385",
+   "label": "Wrote the poem \"To Know\"",
+   "when": "after one of many things he never thought could be true ended up being true"
+  },
+  {
+   "chapter": "02-reality-101",
+   "block": "B0023",
+   "label": "Waking to a telepathic call with visuals",
+   "when": "one evening five months ago, at the end of December"
+  },
+  {
+   "chapter": "02-reality-101",
+   "block": "B0024",
+   "label": "Meeting Iris, his soul twin, in white space",
+   "when": "same night"
+  },
+  {
+   "chapter": "02-reality-101",
+   "block": "B0040",
+   "label": "Iris offers him cake",
+   "when": "same night"
+  },
+  {
+   "chapter": "02-reality-101",
+   "block": "B0083",
+   "label": "Sounds, images and her thoughts bleed in",
+   "when": "same night"
+  },
+  {
+   "chapter": "02-reality-101",
+   "block": "B0091",
+   "label": "Months of intrusive communication before this night",
+   "when": "five, six months before this"
+  },
+  {
+   "chapter": "02-reality-101",
+   "block": "B0096",
+   "label": "Feeling another's affection toward his son",
+   "when": ""
+  },
+  {
+   "chapter": "02-reality-101",
+   "block": "B0102",
+   "label": "Feeling pain of rejection after dismissing contact",
+   "when": ""
+  },
+  {
+   "chapter": "02-reality-101",
+   "block": "B0124",
+   "label": "Iris starts to bring in his deceased grandmother",
+   "when": "same night"
+  },
+  {
+   "chapter": "02-reality-101",
+   "block": "B0128",
+   "label": "Meeting Mother as a presence in black space",
+   "when": "same night"
+  },
+  {
+   "chapter": "02-reality-101",
+   "block": "B0130",
+   "label": "Mother says why she guides him herself",
+   "when": "outside this experience"
+  },
+  {
+   "chapter": "02-reality-101",
+   "block": "B0134",
+   "label": "Earlier night-time message from Mother, put off",
+   "when": "weeks before"
+  },
+  {
+   "chapter": "02-reality-101",
+   "block": "B0157",
+   "label": "Snapped into being everything around him",
+   "when": "same night"
+  },
+  {
+   "chapter": "02-reality-101",
+   "block": "B0162",
+   "label": "Lectured on how reality works",
+   "when": "same night"
+  },
+  {
+   "chapter": "02-reality-101",
+   "block": "B0172",
+   "label": "Disappointment, then deciding that it matters",
+   "when": "same night"
+  },
+  {
+   "chapter": "02-reality-101",
+   "block": "B0187",
+   "label": "Told that awareness precedes control",
+   "when": "same night"
+  },
+  {
+   "chapter": "02-reality-101",
+   "block": "B0198",
+   "label": "Shown the shared library of created things",
+   "when": "same night"
+  },
+  {
+   "chapter": "02-reality-101",
+   "block": "B0206",
+   "label": "Stops the lecture and wakes in bed",
+   "when": "same night"
+  },
+  {
+   "chapter": "02-reality-101",
+   "block": "B0216",
+   "label": "Four months asking for the follow-up lesson",
+   "when": "for four months and some change"
+  },
+  {
+   "chapter": "02-reality-101",
+   "block": "B0223",
+   "label": "Receives the answer about other people",
+   "when": "a month ago"
+  },
+  {
+   "chapter": "02-reality-101",
+   "block": "B0258",
+   "label": "A similar experience later, in a waking state",
+   "when": "since then"
+  },
+  {
+   "chapter": "02-reality-101",
+   "block": "B0260",
+   "label": "Later physical-world confirmation of the experience",
+   "when": "later"
+  },
+  {
+   "chapter": "02-reality-101",
+   "block": "B0298",
+   "label": "Told he was given the gift of everything",
+   "when": "prior to this experience"
+  },
+  {
+   "chapter": "03-see-wake-up-remember-1",
+   "block": "B0023",
+   "label": "Joshua: ping in meditation, perceived soul mother",
+   "when": "since our last recording"
+  },
+  {
+   "chapter": "03-see-wake-up-remember-1",
+   "block": "B0028",
+   "label": "Joshua: perceived meeting with soul father",
+   "when": "the next night"
+  },
+  {
+   "chapter": "03-see-wake-up-remember-1",
+   "block": "B0063",
+   "label": "First telepathic contact, in remote viewing class",
+   "when": ""
+  },
+  {
+   "chapter": "03-see-wake-up-remember-1",
+   "block": "B0100",
+   "label": "Glowing, and fearing a return to normal",
+   "when": "the very next day"
+  },
+  {
+   "chapter": "03-see-wake-up-remember-1",
+   "block": "B0108",
+   "label": "Soul mother's presence on the drive home",
+   "when": "the very next day, on a five-hour car ride"
+  },
+  {
+   "chapter": "03-see-wake-up-remember-1",
+   "block": "B0114",
+   "label": "Billboard synchronicities and the FUD truck",
+   "when": "the very next day, in the car"
+  },
+  {
+   "chapter": "03-see-wake-up-remember-1",
+   "block": "B0120",
+   "label": "Family called away; an afternoon alone",
+   "when": "the very next day"
+  },
+  {
+   "chapter": "03-see-wake-up-remember-1",
+   "block": "B0124",
+   "label": "Thirty-minute conversation; offer of five questions",
+   "when": "the very next day, in the afternoon"
+  },
+  {
+   "chapter": "03-see-wake-up-remember-1",
+   "block": "B0166",
+   "label": "Answers about his creation and his age",
+   "when": ""
+  },
+  {
+   "chapter": "03-see-wake-up-remember-1",
+   "block": "B0186",
+   "label": "Being told \"I love young souls\"",
+   "when": "in other conversations"
+  },
+  {
+   "chapter": "03-see-wake-up-remember-1",
+   "block": "B0192",
+   "label": "Told to open his eyes; saw nothing",
+   "when": ""
+  },
+  {
+   "chapter": "03-see-wake-up-remember-1",
+   "block": "B0207",
+   "label": "Feeling her surprise at his birth",
+   "when": ""
+  },
+  {
+   "chapter": "03-see-wake-up-remember-1",
+   "block": "B0216",
+   "label": "A planted thought, then a ball of light",
+   "when": "that night, either that night or the next night"
+  },
+  {
+   "chapter": "03-see-wake-up-remember-1",
+   "block": "B0262",
+   "label": "Seeing with closed eyes; behind his head",
+   "when": "at this point"
+  },
+  {
+   "chapter": "03-see-wake-up-remember-1",
+   "block": "B0272",
+   "label": "The psi wheel turns for the first time",
+   "when": "one day, after three to six months of practice"
+  },
+  {
+   "chapter": "03-see-wake-up-remember-1",
+   "block": "B0275",
+   "label": "Moving the wheel under a bell jar",
+   "when": "since then"
+  },
+  {
+   "chapter": "03-see-wake-up-remember-1",
+   "block": "B0286",
+   "label": "Surges of experience after each breakthrough",
+   "when": ""
+  },
+  {
+   "chapter": "03-see-wake-up-remember-1",
+   "block": "B0299",
+   "label": "Doubt switching his mindsight off",
+   "when": "for the first few months"
+  },
+  {
+   "chapter": "03-see-wake-up-remember-1",
+   "block": "B0338",
+   "label": "Live pen-color test with Joshua",
+   "when": "during this recording"
+  },
+  {
+   "chapter": "03-see-wake-up-remember-1",
+   "block": "B0382",
+   "label": "Trainer's demonstration through seven layers",
+   "when": ""
+  },
+  {
+   "chapter": "04-see-wake-up-remember-2",
+   "block": "B0003",
+   "label": "Hearing a thought with feedback on the show",
+   "when": "as I was publishing I think the second episode"
+  },
+  {
+   "chapter": "04-see-wake-up-remember-2",
+   "block": "B0008",
+   "label": "Meditation leaving him \"30% that guy\"",
+   "when": "today"
+  },
+  {
+   "chapter": "04-see-wake-up-remember-2",
+   "block": "B0015",
+   "label": "Joshua's meditation: clicking sound and pinging sensation",
+   "when": "last night"
+  },
+  {
+   "chapter": "04-see-wake-up-remember-2",
+   "block": "B0034",
+   "label": "Pressure wave in dream and liminal experiences",
+   "when": ""
+  },
+  {
+   "chapter": "04-see-wake-up-remember-2",
+   "block": "B0095",
+   "label": "Synchronicities in video games",
+   "when": ""
+  },
+  {
+   "chapter": "04-see-wake-up-remember-2",
+   "block": "B0134",
+   "label": "Back at work; depression; experiences stop",
+   "when": "just after the new year"
+  },
+  {
+   "chapter": "04-see-wake-up-remember-2",
+   "block": "B0139",
+   "label": "Locked out of his work computer for days",
+   "when": "just after the new year; four or five days"
+  },
+  {
+   "chapter": "04-see-wake-up-remember-2",
+   "block": "B0153",
+   "label": "Sleepless night monologuing; wanting to pet a fox",
+   "when": "two days before my birthday"
+  },
+  {
+   "chapter": "04-see-wake-up-remember-2",
+   "block": "B0158",
+   "label": "Wife announces cafe with a fox; computer unlocks",
+   "when": "the next day"
+  },
+  {
+   "chapter": "04-see-wake-up-remember-2",
+   "block": "B0163",
+   "label": "Father's voice in a dream: \"Happy birthday, Steve\"",
+   "when": "the night before my birthday"
+  },
+  {
+   "chapter": "04-see-wake-up-remember-2",
+   "block": "B0166",
+   "label": "Twelve voices answering his goodnight",
+   "when": "that night"
+  },
+  {
+   "chapter": "04-see-wake-up-remember-2",
+   "block": "B0168",
+   "label": "Journal message asking which life he wants",
+   "when": ""
+  },
+  {
+   "chapter": "04-see-wake-up-remember-2",
+   "block": "B0169",
+   "label": "Guidance in meditation to wake up and remember",
+   "when": "late in the year before, like December"
+  },
+  {
+   "chapter": "04-see-wake-up-remember-2",
+   "block": "B0169",
+   "label": "Receiving the word \"see\" repeatedly",
+   "when": "over and over again in liminal experiences and dreams"
+  },
+  {
+   "chapter": "04-see-wake-up-remember-2",
+   "block": "B0204",
+   "label": "About two months of effort without validation",
+   "when": "about a two-month span"
+  },
+  {
+   "chapter": "04-see-wake-up-remember-2",
+   "block": "B0223",
+   "label": "Mother's message: \"Just keep going\"",
+   "when": "this one time"
+  },
+  {
+   "chapter": "04-see-wake-up-remember-2",
+   "block": "B0229",
+   "label": "Hearing his own voice: \"You are not useless\"",
+   "when": "in one of my depressive states in, like, January"
+  },
+  {
+   "chapter": "04-see-wake-up-remember-2",
+   "block": "B0231",
+   "label": "Waking as his higher self",
+   "when": "one day in February, late February"
+  },
+  {
+   "chapter": "04-see-wake-up-remember-2",
+   "block": "B0232",
+   "label": "Field of awareness from a single point",
+   "when": "a few days later"
+  },
+  {
+   "chapter": "04-see-wake-up-remember-2",
+   "block": "B0233",
+   "label": "Ray of light shined through fractal prisms",
+   "when": "right after that"
+  },
+  {
+   "chapter": "04-see-wake-up-remember-2",
+   "block": "B0257",
+   "label": "Praying at the end of a meditation",
+   "when": "April 8th"
+  },
+  {
+   "chapter": "04-see-wake-up-remember-2",
+   "block": "B0259",
+   "label": "Vivid geometric visuals in the closet",
+   "when": "April 8th"
+  },
+  {
+   "chapter": "04-see-wake-up-remember-2",
+   "block": "B0262",
+   "label": "Rainbow liquid washing through a cave",
+   "when": "April 8th"
+  },
+  {
+   "chapter": "04-see-wake-up-remember-2",
+   "block": "B0267",
+   "label": "Symbol in the hammock; experience inverts",
+   "when": "April 8th"
+  },
+  {
+   "chapter": "04-see-wake-up-remember-2",
+   "block": "B0269",
+   "label": "Watching himself from a non-dual state",
+   "when": "April 8th"
+  },
+  {
+   "chapter": "04-see-wake-up-remember-2",
+   "block": "B0271",
+   "label": "Silence, the decision, a collective exhale",
+   "when": "April 8th"
+  },
+  {
+   "chapter": "04-see-wake-up-remember-2",
+   "block": "B0274",
+   "label": "Hammock and bowl felt as himself, loving",
+   "when": "for hours after that"
+  },
+  {
+   "chapter": "05-see-wake-up-remember-3",
+   "block": "B0003",
+   "label": "Talking to his past self, liminal state",
+   "when": "yesterday"
+  },
+  {
+   "chapter": "05-see-wake-up-remember-3",
+   "block": "B0017",
+   "label": "Sober display of symbols and 3D imagery",
+   "when": ""
+  },
+  {
+   "chapter": "05-see-wake-up-remember-3",
+   "block": "B0018",
+   "label": "Verbal thought: \"I hope you believe in miracles\"",
+   "when": "right after that happened"
+  },
+  {
+   "chapter": "05-see-wake-up-remember-3",
+   "block": "B0018",
+   "label": "Feeling inverted, a hole shaped like a person",
+   "when": "right after that"
+  },
+  {
+   "chapter": "05-see-wake-up-remember-3",
+   "block": "B0020",
+   "label": "A collective sigh: \"Okay, he gets it\"",
+   "when": ""
+  },
+  {
+   "chapter": "05-see-wake-up-remember-3",
+   "block": "B0047",
+   "label": "Five months repeating \"See, wake up, remember\"",
+   "when": "the tail end of five months"
+  },
+  {
+   "chapter": "05-see-wake-up-remember-3",
+   "block": "B0104",
+   "label": "Ongoing telepathic communication with sister and mother",
+   "when": "most of the time"
+  },
+  {
+   "chapter": "05-see-wake-up-remember-3",
+   "block": "B0110",
+   "label": "Twin's message: \"This is just a game\"",
+   "when": ""
+  },
+  {
+   "chapter": "05-see-wake-up-remember-3",
+   "block": "B0199",
+   "label": "Moving tinfoil without touching; seeing without eyes",
+   "when": ""
+  },
+  {
+   "chapter": "05-see-wake-up-remember-3",
+   "block": "B0206",
+   "label": "Bending a fork into a knot",
+   "when": "recently, at the meditation retreat"
+  },
+  {
+   "chapter": "05-see-wake-up-remember-3",
+   "block": "B0211",
+   "label": "Group bends metal after watching him",
+   "when": ""
+  },
+  {
+   "chapter": "06-reality-102",
+   "block": "B0003",
+   "label": "Out-of-body experiences meeting people alive now",
+   "when": "late last night, early this morning"
+  },
+  {
+   "chapter": "06-reality-102",
+   "block": "B0030",
+   "label": "Vivid liminal experiences; sees his soul sister",
+   "when": "the literal day after the C experience"
+  },
+  {
+   "chapter": "06-reality-102",
+   "block": "B0032",
+   "label": "Senses his soul mother's presence while falling asleep",
+   "when": "the middle of the night"
+  },
+  {
+   "chapter": "06-reality-102",
+   "block": "B0036",
+   "label": "Tree frog shown in imagination; first lesson",
+   "when": "four and a half months later after the first one, or five months"
+  },
+  {
+   "chapter": "06-reality-102",
+   "block": "B0047",
+   "label": "Visual of numbered lessons on a board",
+   "when": ""
+  },
+  {
+   "chapter": "06-reality-102",
+   "block": "B0068",
+   "label": "Rat suggested into his imagination; second lesson",
+   "when": ""
+  },
+  {
+   "chapter": "06-reality-102",
+   "block": "B0071",
+   "label": "Rat bites his face; he pushes it out",
+   "when": ""
+  },
+  {
+   "chapter": "06-reality-102",
+   "block": "B0079",
+   "label": "Asks about the rubber hand experiment",
+   "when": ""
+  },
+  {
+   "chapter": "06-reality-102",
+   "block": "B0115",
+   "label": "Two people in a room; third lesson",
+   "when": ""
+  },
+  {
+   "chapter": "06-reality-102",
+   "block": "B0173",
+   "label": "Asks who wins over the apple",
+   "when": ""
+  },
+  {
+   "chapter": "06-reality-102",
+   "block": "B0225",
+   "label": "Later hint about the unresolved apple question",
+   "when": "a month or so after that"
+  },
+  {
+   "chapter": "07-telepathy",
+   "block": "B0005",
+   "label": "Getting information through transdimensional mapping",
+   "when": ""
+  },
+  {
+   "chapter": "07-telepathy",
+   "block": "B0006",
+   "label": "Getting started through channeling videos",
+   "when": ""
+  },
+  {
+   "chapter": "07-telepathy",
+   "block": "B0014",
+   "label": "Telepathy mostly with the same few people",
+   "when": ""
+  },
+  {
+   "chapter": "07-telepathy",
+   "block": "B0026",
+   "label": "Getting other people to draw in afterimages",
+   "when": ""
+  },
+  {
+   "chapter": "07-telepathy",
+   "block": "B0030",
+   "label": "Smelling food cooking and hearing sounds",
+   "when": ""
+  },
+  {
+   "chapter": "07-telepathy",
+   "block": "B0032",
+   "label": "Daily practice of telepathy",
+   "when": "a year and a half, two years now"
+  },
+  {
+   "chapter": "07-telepathy",
+   "block": "B0033",
+   "label": "A stray thought while rock climbing",
+   "when": "one time"
+  },
+  {
+   "chapter": "07-telepathy",
+   "block": "B0059",
+   "label": "Conflicting messages about going to work",
+   "when": ""
+  },
+  {
+   "chapter": "07-telepathy",
+   "block": "B0084",
+   "label": "A feeling in the chest as a signal",
+   "when": "much later"
+  },
+  {
+   "chapter": "07-telepathy",
+   "block": "B0091",
+   "label": "Frustration at getting exact answers",
+   "when": ""
+  },
+  {
+   "chapter": "07-telepathy",
+   "block": "B0098",
+   "label": "Rare moments when thoughts are clearly not his",
+   "when": ""
+  },
+  {
+   "chapter": "07-telepathy",
+   "block": "B0103",
+   "label": "Never harmed or controlled during contact",
+   "when": ""
+  },
+  {
+   "chapter": "08-transcendence",
+   "block": "B0005",
+   "label": "Mindsight demonstration with a deck of cards",
+   "when": "during this recording"
+  },
+  {
+   "chapter": "08-transcendence",
+   "block": "B0011",
+   "label": "First UFO experience, which began the quest",
+   "when": ""
+  },
+  {
+   "chapter": "08-transcendence",
+   "block": "B0065",
+   "label": "Being \"shattered\" a number of times",
+   "when": ""
+  },
+  {
+   "chapter": "08-transcendence",
+   "block": "B0086",
+   "label": "Heard a baby whining while falling asleep",
+   "when": "the other night"
+  },
+  {
+   "chapter": "10-self-control-and-clarity",
+   "block": "B0006",
+   "label": "Thought programming too hard, then switched majors",
+   "when": "in college"
+  },
+  {
+   "chapter": "10-self-control-and-clarity",
+   "block": "B0006",
+   "label": "Routine software work, then a job at Amazon",
+   "when": ""
+  },
+  {
+   "chapter": "10-self-control-and-clarity",
+   "block": "B0006",
+   "label": "Realized deep learning was having a second renaissance",
+   "when": "About 2016"
+  },
+  {
+   "chapter": "10-self-control-and-clarity",
+   "block": "B0007",
+   "label": "Started training vision and audio models",
+   "when": ""
+  },
+  {
+   "chapter": "10-self-control-and-clarity",
+   "block": "B0037",
+   "label": "First version of his software, built around intentions",
+   "when": ""
+  },
+  {
+   "chapter": "10-self-control-and-clarity",
+   "block": "B0060",
+   "label": "Running the business with contractors, seeking collaborators",
+   "when": ""
+  },
+  {
+   "chapter": "11-the-technology-that-centers-you",
+   "block": "B0008",
+   "label": "Building tools for himself since his teens",
+   "when": "since I was a teenager"
+  },
+  {
+   "chapter": "11-the-technology-that-centers-you",
+   "block": "B0008",
+   "label": "Diagnosed with ADHD as an adult",
+   "when": "about 6 years ago"
+  },
+  {
+   "chapter": "11-the-technology-that-centers-you",
+   "block": "B0009",
+   "label": "Realizing other people shared his problems",
+   "when": "at some point"
+  },
+  {
+   "chapter": "11-the-technology-that-centers-you",
+   "block": "B0011",
+   "label": "Building a working-memory tool out of frustration",
+   "when": ""
+  },
+  {
+   "chapter": "11-the-technology-that-centers-you",
+   "block": "B0037",
+   "label": "Years of meditating only sporadically",
+   "when": "for a lot of years"
+  },
+  {
+   "chapter": "11-the-technology-that-centers-you",
+   "block": "B0038",
+   "label": "Reading Michael Singer and meditating more",
+   "when": ""
+  },
+  {
+   "chapter": "11-the-technology-that-centers-you",
+   "block": "B0042",
+   "label": "About a thousand hours of meditation practice",
+   "when": ""
+  },
+  {
+   "chapter": "11-the-technology-that-centers-you",
+   "block": "B0065",
+   "label": "Letting his morning review of principles lapse",
+   "when": "over the past few months"
+  },
+  {
+   "chapter": "11-the-technology-that-centers-you",
+   "block": "B0065",
+   "label": "Being content most of the time",
+   "when": "especially the last three or four years"
+  },
+  {
+   "chapter": "12-human-and-machine-consciousness",
+   "block": "B0011",
+   "label": "Reading Michael Singer; learning what sitting can do",
+   "when": ""
+  },
+  {
+   "chapter": "12-human-and-machine-consciousness",
+   "block": "B0044",
+   "label": "Legal marijuana and psilocybin after much meditation",
+   "when": ""
+  },
+  {
+   "chapter": "12-human-and-machine-consciousness",
+   "block": "B0082",
+   "label": "First sighting: flashing white orbs from back window",
+   "when": ""
+  },
+  {
+   "chapter": "12-human-and-machine-consciousness",
+   "block": "B0083",
+   "label": "Second sighting: black bean-shaped object during a run",
+   "when": "maybe six months to a year after that"
+  },
+  {
+   "chapter": "12-human-and-machine-consciousness",
+   "block": "B0086",
+   "label": "Sense that he knew it would be there",
+   "when": ""
+  },
+  {
+   "chapter": "12-human-and-machine-consciousness",
+   "block": "B0086",
+   "label": "Third sighting: white orb approaches on evening walk",
+   "when": "about four months ago"
+  },
+  {
+   "chapter": "12-human-and-machine-consciousness",
+   "block": "B0087",
+   "label": "Glowing white ball passes overhead without sound",
+   "when": ""
+  },
+  {
+   "chapter": "12-human-and-machine-consciousness",
+   "block": "B0088",
+   "label": "Ball emits a plume and fades out",
+   "when": ""
+  },
+  {
+   "chapter": "12-human-and-machine-consciousness",
+   "block": "B0162",
+   "label": "Life eased after he stopped relying on willpower",
+   "when": "over the last five to 10 years"
+  },
+  {
+   "chapter": "13-alien-spirit",
+   "block": "B0027",
+   "label": "Discovering meditation and inner space",
+   "when": "in my late 20s, maybe right around 30 or so"
+  },
+  {
+   "chapter": "13-alien-spirit",
+   "block": "B0031",
+   "label": "UFO sightings (mentioned, not recounted)",
+   "when": ""
+  },
+  {
+   "chapter": "13-alien-spirit",
+   "block": "B0035",
+   "label": "Remote viewing practice with big questions as targets",
+   "when": "for eight months"
+  },
+  {
+   "chapter": "13-alien-spirit",
+   "block": "B0064",
+   "label": "Tree meditation: feeling like a tree, trapped",
+   "when": ""
+  },
+  {
+   "chapter": "13-alien-spirit",
+   "block": "B0117",
+   "label": "Frozen water showing H and E after hello",
+   "when": "in the past week or two"
+  },
+  {
+   "chapter": "13-alien-spirit",
+   "block": "B0136",
+   "label": "About 20 water-freezing tests",
+   "when": ""
+  },
+  {
+   "chapter": "13-alien-spirit",
+   "block": "B0158",
+   "label": "Dog-bowl water freezing into a dog-like figure",
+   "when": ""
+  },
+  {
+   "chapter": "13-alien-spirit",
+   "block": "B0227",
+   "label": "Asking AI models about their experience",
+   "when": "since 3.5 came out"
+  },
+  {
+   "chapter": "13-alien-spirit",
+   "block": "B0244",
+   "label": "Becoming dependent on legal marijuana on weekends",
+   "when": ""
+  },
+  {
+   "chapter": "13-alien-spirit",
+   "block": "B0249",
+   "label": "Debit card blocks a purchase; he laughs",
+   "when": ""
+  },
+  {
+   "chapter": "13-alien-spirit",
+   "block": "B0310",
+   "label": "Reaching out to Sev on a whim",
+   "when": "a year or two ago (the host's words)"
+  },
+  {
+   "chapter": "13-alien-spirit",
+   "block": "B0326",
+   "label": "First session with Sev: an accurate reading",
+   "when": ""
+  },
+  {
+   "chapter": "13-alien-spirit",
+   "block": "B0351",
+   "label": "Told his purpose: math and magical beings",
+   "when": ""
+  }
+ ]
 }

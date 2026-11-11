@@ -1,0 +1,1859 @@
+{
+ "note": "Words the editors believe the machine transcript misheard. Each needs a person to listen at the time given. \"cut\" means the words were left out of the book; \"kept as transcribed\" means the book prints the transcript’s wording.",
+ "items": [
+  {
+   "chapter": "01-prologue",
+   "source": "prologue",
+   "block": "B0039",
+   "transcript": "the post trans fallacy",
+   "likely": "the pre/trans fallacy (Ken Wilber's term)",
+   "action": "cut",
+   "time": "00:12:41"
+  },
+  {
+   "chapter": "01-prologue",
+   "source": "prologue",
+   "block": "B0154",
+   "transcript": "clear audience",
+   "likely": "clairaudience",
+   "action": "kept as transcribed",
+   "time": "00:38:50"
+  },
+  {
+   "chapter": "01-prologue",
+   "source": "prologue",
+   "block": "B0185",
+   "transcript": "And I began to take very seriously its intention. It's all just intention",
+   "likely": "... take very seriously, it's intention. It's all just intention",
+   "action": "cut",
+   "time": "00:47:25"
+  },
+  {
+   "chapter": "01-prologue",
+   "source": "prologue",
+   "block": "B0229",
+   "transcript": "how much crazier is it to say you can't zoom in ... How is it crazier to say you can't zoom in?",
+   "likely": "possibly \"you can zoom in\" both times; the argument reads that way",
+   "action": "kept as transcribed",
+   "time": "00:53:47"
+  },
+  {
+   "chapter": "01-prologue",
+   "source": "prologue",
+   "block": "B0275",
+   "transcript": "Don't worry, you can't do that.",
+   "likely": "unclear; possibly \"you can do that\"",
+   "action": "kept as transcribed",
+   "time": "01:04:56"
+  },
+  {
+   "chapter": "01-prologue",
+   "source": "prologue",
+   "block": "B0288",
+   "transcript": "wily coyote",
+   "likely": "Wile E. Coyote",
+   "action": "kept as transcribed",
+   "time": "01:07:10"
+  },
+  {
+   "chapter": "01-prologue",
+   "source": "prologue",
+   "block": "B0316",
+   "transcript": "There's nobody else's fault.",
+   "likely": "It's nobody else's fault.",
+   "action": "kept as transcribed",
+   "time": "01:10:13"
+  },
+  {
+   "chapter": "01-prologue",
+   "source": "prologue",
+   "block": "B0341",
+   "transcript": "a calling or a purpose, but a scribe",
+   "likely": "a calling or a purpose, but ascribed",
+   "action": "cut",
+   "time": "01:13:15"
+  },
+  {
+   "chapter": "01-prologue",
+   "source": "prologue",
+   "block": "B0367",
+   "transcript": "devas.compass.ink",
+   "likely": "differentcompass.ink (as Joshua gives it in B0004)",
+   "action": "cut",
+   "time": "01:18:48"
+  },
+  {
+   "chapter": "01-prologue",
+   "source": "prologue",
+   "block": "B0250",
+   "transcript": "the Techniques of Transcendence course, um, Darren King, you and I are in that course",
+   "likely": "name not verified; possibly \"Darren King's\" course",
+   "action": "kept as transcribed",
+   "time": "00:56:24"
+  },
+  {
+   "chapter": "01-prologue",
+   "source": "prologue",
+   "block": "B0193",
+   "transcript": "a demo of his Mindsight's, uh, abilities",
+   "likely": "a demo of his mindsight abilities",
+   "action": "kept as transcribed",
+   "time": "00:49:50"
+  },
+  {
+   "chapter": "01-prologue",
+   "source": "prologue",
+   "block": "B0196",
+   "transcript": "I kept having to figuring it out",
+   "likely": "I kept having to figure it out (slip of speech or transcription)",
+   "action": "kept as transcribed",
+   "time": "00:50:17"
+  },
+  {
+   "chapter": "01-prologue",
+   "source": "prologue",
+   "block": "B0023",
+   "transcript": "So out of the important context, that's who I was.",
+   "likely": "unclear; possibly \"So, a lot of important context\"",
+   "action": "kept as transcribed",
+   "time": "00:07:38"
+  },
+  {
+   "chapter": "01-prologue",
+   "source": "prologue",
+   "block": "B0313",
+   "transcript": "This is about my life.",
+   "likely": "possibly \"This is about your life.\"",
+   "action": "kept as transcribed",
+   "time": "01:09:42"
+  },
+  {
+   "chapter": "01-prologue",
+   "source": "prologue",
+   "block": "B0344",
+   "transcript": "somebody very surprised, uh, like a surprise party",
+   "likely": "unclear; possibly \"somebody, very surprise, like a surprise party\"",
+   "action": "kept as transcribed",
+   "time": "01:14:09"
+  },
+  {
+   "chapter": "02-reality-101",
+   "source": "ep1",
+   "block": "B0043",
+   "transcript": "on the white plain",
+   "likely": "on the white plane (he says \"a white plane with a ground\" in B0026)",
+   "action": "kept as transcribed",
+   "time": "00:13:00"
+  },
+  {
+   "chapter": "02-reality-101",
+   "source": "ep1",
+   "block": "B0054",
+   "transcript": "The answers are immediately.",
+   "likely": "The answers are immediate.",
+   "action": "kept as transcribed",
+   "time": "00:16:12"
+  },
+  {
+   "chapter": "02-reality-101",
+   "source": "ep1",
+   "block": "B0054",
+   "transcript": "because it's not technically the reality when we haven't even gotten ... to the main experience",
+   "likely": "because it's not technically the Reality 101, we haven't even gotten to the main experience",
+   "action": "cut",
+   "time": "00:16:12"
+  },
+  {
+   "chapter": "02-reality-101",
+   "source": "ep1",
+   "block": "B0056",
+   "transcript": "to know how somebody is but not remember them",
+   "likely": "to know who somebody is but not remember them",
+   "action": "kept as transcribed",
+   "time": "00:16:40"
+  },
+  {
+   "chapter": "02-reality-101",
+   "source": "ep1",
+   "block": "B0062",
+   "transcript": "I'm getting frustrated.",
+   "likely": "I'm not getting frustrated (it sits in a list of things he says he is no longer doing)",
+   "action": "cut",
+   "time": "00:18:18"
+  },
+  {
+   "chapter": "02-reality-101",
+   "source": "ep1",
+   "block": "B0123",
+   "transcript": "there's no signal, like, was that my own thoughts?",
+   "likely": "unclear; possibly a different word than \"signal\"",
+   "action": "kept as transcribed",
+   "time": "00:34:03"
+  },
+  {
+   "chapter": "02-reality-101",
+   "source": "ep1",
+   "block": "B0129",
+   "transcript": "I could not handle a lot of trauma.",
+   "likely": "unclear; possibly \"a lot more\"",
+   "action": "kept as transcribed",
+   "time": "00:36:01"
+  },
+  {
+   "chapter": "02-reality-101",
+   "source": "ep1",
+   "block": "B0134",
+   "transcript": "a belayed conversation",
+   "likely": "a delayed conversation",
+   "action": "cut",
+   "time": "00:37:47"
+  },
+  {
+   "chapter": "02-reality-101",
+   "source": "ep1",
+   "block": "B0155",
+   "transcript": "but there's a providence",
+   "likely": "but there's a provenance",
+   "action": "cut",
+   "time": "00:41:28"
+  },
+  {
+   "chapter": "02-reality-101",
+   "source": "ep1",
+   "block": "B0257",
+   "transcript": "dive in on reality one or two",
+   "likely": "dive in on Reality 102",
+   "action": "cut",
+   "time": "01:04:11"
+  },
+  {
+   "chapter": "02-reality-101",
+   "source": "ep1",
+   "block": "B0278",
+   "transcript": "or some magic spell where- ... got hypnotized",
+   "likely": "or some magic spell, or got hypnotized",
+   "action": "cut",
+   "time": "01:09:10"
+  },
+  {
+   "chapter": "02-reality-101",
+   "source": "ep1",
+   "block": "B0300",
+   "transcript": "through a remote viewing map",
+   "likely": "unclear; \"map\" may be a mishearing",
+   "action": "kept as transcribed",
+   "time": "01:12:41"
+  },
+  {
+   "chapter": "03-see-wake-up-remember-1",
+   "source": "ep2",
+   "block": "B0001",
+   "transcript": "I am Stephen Tremp",
+   "likely": "I am Steven Schrembeck",
+   "action": "cut",
+   "time": "00:00:00"
+  },
+  {
+   "chapter": "03-see-wake-up-remember-1",
+   "source": "ep2",
+   "block": "B0002",
+   "transcript": "It's a live for you.",
+   "likely": "What's alive for you?",
+   "action": "cut",
+   "time": "00:00:20"
+  },
+  {
+   "chapter": "03-see-wake-up-remember-1",
+   "source": "ep2",
+   "block": "B0006",
+   "transcript": "Darren King's",
+   "likely": "a teacher's name; spelling not verified",
+   "action": "kept as transcribed",
+   "time": "00:01:36"
+  },
+  {
+   "chapter": "03-see-wake-up-remember-1",
+   "source": "ep2",
+   "block": "B0034",
+   "transcript": "Yo, what's up, Roger?",
+   "likely": "unclear; possibly a different name",
+   "action": "cut",
+   "time": "00:08:43"
+  },
+  {
+   "chapter": "03-see-wake-up-remember-1",
+   "source": "ep2",
+   "block": "B0067",
+   "transcript": "a Guinness Book World Records",
+   "likely": "a Guinness Book of World Records",
+   "action": "kept as transcribed",
+   "time": "00:11:40"
+  },
+  {
+   "chapter": "03-see-wake-up-remember-1",
+   "source": "ep2",
+   "block": "B0204",
+   "transcript": "with the ser- the serpentite",
+   "likely": "with the serpent (unclear)",
+   "action": "cut",
+   "time": "00:34:39"
+  },
+  {
+   "chapter": "03-see-wake-up-remember-1",
+   "source": "ep2",
+   "block": "B0215",
+   "transcript": "they changed another topic",
+   "likely": "they change to another topic",
+   "action": "kept as transcribed",
+   "time": "00:36:58"
+  },
+  {
+   "chapter": "03-see-wake-up-remember-1",
+   "source": "ep2",
+   "block": "B0264",
+   "transcript": "I can see with that eye",
+   "likely": "I can see without eyes",
+   "action": "cut",
+   "time": "00:49:15"
+  },
+  {
+   "chapter": "03-see-wake-up-remember-1",
+   "source": "ep2",
+   "block": "B0268",
+   "transcript": "Sean McNamara called The Telekinesis Practice Method",
+   "likely": "title as spoken; the published title may differ and should be checked",
+   "action": "kept as transcribed",
+   "time": "00:49:30"
+  },
+  {
+   "chapter": "03-see-wake-up-remember-1",
+   "source": "ep2",
+   "block": "B0269",
+   "transcript": "this eye wheel",
+   "likely": "this psi wheel",
+   "action": "cut",
+   "time": "00:50:01"
+  },
+  {
+   "chapter": "03-see-wake-up-remember-1",
+   "source": "ep2",
+   "block": "B0276",
+   "transcript": "it's hard to understa-",
+   "likely": "it's hard to understand (broken off)",
+   "action": "cut",
+   "time": "00:52:12"
+  },
+  {
+   "chapter": "03-see-wake-up-remember-1",
+   "source": "ep2",
+   "block": "B0286",
+   "transcript": "Stormlight Archives ... Knight Radiant",
+   "likely": "The Stormlight Archive ... Knights Radiant",
+   "action": "kept as transcribed",
+   "time": "00:53:48"
+  },
+  {
+   "chapter": "03-see-wake-up-remember-1",
+   "source": "ep2",
+   "block": "B0299",
+   "transcript": "Turns out like a light",
+   "likely": "Turns off like a light",
+   "action": "kept as transcribed",
+   "time": "00:56:43"
+  },
+  {
+   "chapter": "03-see-wake-up-remember-1",
+   "source": "ep2",
+   "block": "B0367",
+   "transcript": "Dahlia",
+   "likely": "a trainer's first name; spelling not verified",
+   "action": "kept as transcribed",
+   "time": "01:00:11"
+  },
+  {
+   "chapter": "03-see-wake-up-remember-1",
+   "source": "ep2",
+   "block": "B0400",
+   "transcript": "spiritually development",
+   "likely": "spiritual development",
+   "action": "kept as transcribed",
+   "time": "01:01:51"
+  },
+  {
+   "chapter": "03-see-wake-up-remember-1",
+   "source": "ep2",
+   "block": "B0416",
+   "transcript": "this experiences",
+   "likely": "these experiences",
+   "action": "cut",
+   "time": "01:03:34"
+  },
+  {
+   "chapter": "04-see-wake-up-remember-2",
+   "source": "ep3",
+   "block": "B0009",
+   "transcript": "the differentcompass.ink",
+   "likely": "the blog's address, differentcompass.ink (possibly said as \"The Different Compass dot ink\")",
+   "action": "kept as transcribed",
+   "time": "00:02:11"
+  },
+  {
+   "chapter": "04-see-wake-up-remember-2",
+   "source": "ep3",
+   "block": "B0030",
+   "transcript": "To clear.",
+   "likely": "To be clear.",
+   "action": "cut",
+   "time": "00:07:23"
+  },
+  {
+   "chapter": "04-see-wake-up-remember-2",
+   "source": "ep3",
+   "block": "B0114",
+   "transcript": "Oh, I'm want to be ready or make contact.",
+   "likely": "Or, I want to be ready to make contact. (Joshua)",
+   "action": "cut",
+   "time": "00:13:44"
+  },
+  {
+   "chapter": "04-see-wake-up-remember-2",
+   "source": "ep3",
+   "block": "B0144",
+   "transcript": "33 Years in a Room With No Exit",
+   "likely": "the blog article is titled \"33 Years in a Room with No Exits\"; he hedges the title with \"I think\"",
+   "action": "kept as transcribed",
+   "time": "00:20:36"
+  },
+  {
+   "chapter": "04-see-wake-up-remember-2",
+   "source": "ep3",
+   "block": "B0175",
+   "transcript": "Yeah, cancer",
+   "likely": "possibly a quip that staying forever in an expansive state would be cancer, spoken over Joshua; could not be confirmed from the transcript",
+   "action": "cut",
+   "time": "00:30:59"
+  },
+  {
+   "chapter": "04-see-wake-up-remember-2",
+   "source": "ep3",
+   "block": "B0183",
+   "transcript": "I'm gonna say entirely on my own, \"but I made this happen.",
+   "likely": "I'm not gonna say entirely on my own, but I made this happen (compare B0223: \"I'm not gonna pretend I did it all alone\")",
+   "action": "cut",
+   "time": "00:33:38"
+  },
+  {
+   "chapter": "04-see-wake-up-remember-2",
+   "source": "ep3",
+   "block": "B0229",
+   "transcript": "wine fest",
+   "likely": "whine fest",
+   "action": "kept as transcribed",
+   "time": "00:46:06"
+  },
+  {
+   "chapter": "04-see-wake-up-remember-2",
+   "source": "ep3",
+   "block": "B0256",
+   "transcript": "But I'll count enough of it here so that we can converse.",
+   "likely": "But I'll recount enough of it here so that we can converse.",
+   "action": "cut",
+   "time": "00:54:39"
+  },
+  {
+   "chapter": "04-see-wake-up-remember-2",
+   "source": "ep3",
+   "block": "B0257",
+   "transcript": "wine fest",
+   "likely": "whine fest",
+   "action": "kept as transcribed",
+   "time": "00:55:13"
+  },
+  {
+   "chapter": "04-see-wake-up-remember-2",
+   "source": "ep3",
+   "block": "B0258",
+   "transcript": "wine fest",
+   "likely": "whine fest (it directly follows \"I'm stone cold sober\")",
+   "action": "kept as transcribed",
+   "time": "00:55:46"
+  },
+  {
+   "chapter": "04-see-wake-up-remember-2",
+   "source": "ep3",
+   "block": "B0258",
+   "transcript": "draw sight",
+   "likely": "his own term, perhaps \"drawsight\"; not found elsewhere in the collection",
+   "action": "kept as transcribed",
+   "time": "00:55:46"
+  },
+  {
+   "chapter": "04-see-wake-up-remember-2",
+   "source": "ep3",
+   "block": "B0262",
+   "transcript": "pouring over",
+   "likely": "poring over",
+   "action": "kept as transcribed",
+   "time": "00:57:58"
+  },
+  {
+   "chapter": "04-see-wake-up-remember-2",
+   "source": "ep3",
+   "block": "B0266",
+   "transcript": "You guys already got the disclosure on this show. So, you know, whatever. You don't want to watch this.",
+   "likely": "\"disclosure\" is probably \"disclaimer\" (Part One has one); the third sentence may be conditional (\"If you don't want to watch this...\")",
+   "action": "kept as transcribed",
+   "time": "00:59:45"
+  },
+  {
+   "chapter": "04-see-wake-up-remember-2",
+   "source": "ep3",
+   "block": "B0267",
+   "transcript": "So these bindings.",
+   "likely": "Six bindings. (his blog describes \"a boy wrapped in six bindings or chains\")",
+   "action": "kept as transcribed",
+   "time": "01:00:16"
+  },
+  {
+   "chapter": "04-see-wake-up-remember-2",
+   "source": "ep3",
+   "block": "B0267",
+   "transcript": "a red-eyed reptilian eye",
+   "likely": "a red, reptilian eye (blog: \"suspended above a red, reptilian eye\")",
+   "action": "kept as transcribed",
+   "time": "01:00:16"
+  },
+  {
+   "chapter": "04-see-wake-up-remember-2",
+   "source": "ep3",
+   "block": "B0267",
+   "transcript": "A self was the relief",
+   "likely": "read from his journal; possibly \"The self\" or \"Myself was the relief\"",
+   "action": "kept as transcribed",
+   "time": "01:00:16"
+  },
+  {
+   "chapter": "04-see-wake-up-remember-2",
+   "source": "ep3",
+   "block": "B0268",
+   "transcript": "again, stoat cold summer",
+   "likely": "again, stone cold sober",
+   "action": "cut",
+   "time": "01:00:55"
+  },
+  {
+   "chapter": "04-see-wake-up-remember-2",
+   "source": "ep3",
+   "block": "B0269",
+   "transcript": "at the end of the reality one-on-one",
+   "likely": "at the end of the Reality 101",
+   "action": "cut",
+   "time": "01:01:33"
+  },
+  {
+   "chapter": "04-see-wake-up-remember-2",
+   "source": "ep3",
+   "block": "B0270",
+   "transcript": "beard guides",
+   "likely": "spirit guides",
+   "action": "cut",
+   "time": "01:02:07"
+  },
+  {
+   "chapter": "04-see-wake-up-remember-2",
+   "source": "ep3",
+   "block": "B0278",
+   "transcript": "You're a whole reality.",
+   "likely": "You're your whole reality.",
+   "action": "kept as transcribed",
+   "time": "01:06:12"
+  },
+  {
+   "chapter": "05-see-wake-up-remember-3",
+   "source": "ep4",
+   "block": "B0001",
+   "transcript": "I'm Stephen Trumbek",
+   "likely": "I'm Steven Schrembeck",
+   "action": "cut",
+   "time": "00:00:00"
+  },
+  {
+   "chapter": "05-see-wake-up-remember-3",
+   "source": "ep4",
+   "block": "B0016",
+   "transcript": "I've- (in \"I've- don't have extensive psychedelic experience\")",
+   "likely": "I (\"I don't have extensive psychedelic experience\"); the passage now reads \"Don't have extensive psychedelic experience\"",
+   "action": "cut",
+   "time": "00:04:27"
+  },
+  {
+   "chapter": "05-see-wake-up-remember-3",
+   "source": "ep4",
+   "block": "B0032",
+   "transcript": "I love you- ... enough to say that you were feeling jealousy",
+   "likely": "unclear; possibly a word lost under Joshua's laugh (for example \"I love that you're honest enough to say\")",
+   "action": "kept as transcribed",
+   "time": "00:11:48"
+  },
+  {
+   "chapter": "05-see-wake-up-remember-3",
+   "source": "ep4",
+   "block": "B0034",
+   "transcript": "I can't take it aside",
+   "likely": "possibly \"I can't take an aside\" or \"take you aside\"",
+   "action": "kept as transcribed",
+   "time": "00:11:54"
+  },
+  {
+   "chapter": "05-see-wake-up-remember-3",
+   "source": "ep4",
+   "block": "B0038",
+   "transcript": "'Cause you're not g- you're the only one. I have.",
+   "likely": "possibly \"'Cause you're not the only one. I have.\"; the false start makes it unclear whether he said \"the only one\" or \"not the only one\"",
+   "action": "cut",
+   "time": "00:12:00"
+  },
+  {
+   "chapter": "05-see-wake-up-remember-3",
+   "source": "ep4",
+   "block": "B0047",
+   "transcript": "to the same level to belief that",
+   "likely": "to the same level of belief that",
+   "action": "kept as transcribed",
+   "time": "00:13:53"
+  },
+  {
+   "chapter": "05-see-wake-up-remember-3",
+   "source": "ep4",
+   "block": "B0106",
+   "transcript": "I've alm- learned almost enough through",
+   "likely": "I've learned almost as much through",
+   "action": "kept as transcribed",
+   "time": "00:28:40"
+  },
+  {
+   "chapter": "05-see-wake-up-remember-3",
+   "source": "ep4",
+   "block": "B0107",
+   "transcript": "Ah, what did that happen?",
+   "likely": "Why did that happen?",
+   "action": "cut",
+   "time": "00:29:13"
+  },
+  {
+   "chapter": "05-see-wake-up-remember-3",
+   "source": "ep4",
+   "block": "B0158",
+   "transcript": "This is no difference.",
+   "likely": "There is no difference.",
+   "action": "kept as transcribed",
+   "time": "00:38:29"
+  },
+  {
+   "chapter": "05-see-wake-up-remember-3",
+   "source": "ep4",
+   "block": "B0173",
+   "transcript": "Feels like you have less than that.",
+   "likely": "possibly \"Feels like you'd need less than that.\"",
+   "action": "kept as transcribed",
+   "time": "00:40:42"
+  },
+  {
+   "chapter": "05-see-wake-up-remember-3",
+   "source": "ep4",
+   "block": "B0246",
+   "transcript": "everyone grows up at their same rate",
+   "likely": "everyone grows up at their own rate",
+   "action": "kept as transcribed",
+   "time": "00:55:22"
+  },
+  {
+   "chapter": "06-reality-102",
+   "source": "ep5",
+   "block": "B0022",
+   "transcript": "Anyone- [Joshua: Probably.] But a human being is an alien, technically, right?",
+   "likely": "one sentence split by Joshua's interjection: Anyone but a human being is an alien, technically, right?",
+   "action": "kept as transcribed, punctuated as one sentence",
+   "time": "00:06:24"
+  },
+  {
+   "chapter": "06-reality-102",
+   "source": "ep5",
+   "block": "B0028",
+   "transcript": "the C experience",
+   "likely": "the See experience (the experience told in See, Wake Up, Remember)",
+   "action": "kept as transcribed",
+   "time": "00:06:45"
+  },
+  {
+   "chapter": "06-reality-102",
+   "source": "ep5",
+   "block": "B0028",
+   "transcript": "Mindsight",
+   "likely": "mindsight (capitalisation varies between transcripts)",
+   "action": "kept as transcribed, written lower-case",
+   "time": "00:06:45"
+  },
+  {
+   "chapter": "06-reality-102",
+   "source": "ep5",
+   "block": "B0041",
+   "transcript": "this C experience",
+   "likely": "this See experience",
+   "action": "kept as transcribed",
+   "time": "00:12:23"
+  },
+  {
+   "chapter": "06-reality-102",
+   "source": "ep5",
+   "block": "B0052",
+   "transcript": "and UFOs and what time, all these other, like, weird phenomena",
+   "likely": "unclear; perhaps 'and what time is'",
+   "action": "cut ('and what time' only)",
+   "time": "00:16:07"
+  },
+  {
+   "chapter": "06-reality-102",
+   "source": "ep5",
+   "block": "B0120",
+   "transcript": "you can imagine by creating things",
+   "likely": "probably meant 'create by imagining things'; may be his own slip",
+   "action": "kept as transcribed",
+   "time": "00:41:11"
+  },
+  {
+   "chapter": "06-reality-102",
+   "source": "ep5",
+   "block": "B0123",
+   "transcript": "You're all finger rich. Look at me",
+   "likely": "unclear; possibly a joke worth restoring after listening",
+   "action": "cut ('You're all finger rich' only)",
+   "time": "00:42:46"
+  },
+  {
+   "chapter": "06-reality-102",
+   "source": "ep5",
+   "block": "B0141",
+   "transcript": "if everyone believed that, you know, 2020, '12, the world's gonna blow up",
+   "likely": "2012",
+   "action": "cut ('2020, '12' only)",
+   "time": "00:49:52"
+  },
+  {
+   "chapter": "06-reality-102",
+   "source": "ep5",
+   "block": "B0149",
+   "transcript": "commiserate with not hurting yourself",
+   "likely": "commensurate with",
+   "action": "kept as transcribed",
+   "time": "00:52:01"
+  },
+  {
+   "chapter": "06-reality-102",
+   "source": "ep5",
+   "block": "B0167",
+   "transcript": "manifestation and attention are so important",
+   "likely": "possibly 'intention'; he also says 'fear and attention and belief' later",
+   "action": "kept as transcribed",
+   "time": "00:57:14"
+  },
+  {
+   "chapter": "06-reality-102",
+   "source": "ep5",
+   "block": "B0178",
+   "transcript": "the law of one",
+   "likely": "the book title The Law of One",
+   "action": "kept as transcribed, set as a title",
+   "time": "01:00:38"
+  },
+  {
+   "chapter": "06-reality-102",
+   "source": "ep5",
+   "block": "B0220",
+   "transcript": "This is high con- This was shown like in a pretty profound experience",
+   "likely": "This is high confidence (broken off)",
+   "action": "kept as transcribed ('This is high con --') because it marks which claim he holds with high confidence",
+   "time": "01:04:56"
+  },
+  {
+   "chapter": "06-reality-102",
+   "source": "ep5",
+   "block": "B0220",
+   "transcript": "I personally ascribe to this",
+   "likely": "subscribe to (probably his own word)",
+   "action": "kept as transcribed",
+   "time": "01:04:56"
+  },
+  {
+   "chapter": "06-reality-102",
+   "source": "ep5",
+   "block": "B0220",
+   "transcript": "it comports with my experience and test it",
+   "likely": "and tested it / and testing",
+   "action": "cut ('and test it' only)",
+   "time": "01:04:56"
+  },
+  {
+   "chapter": "06-reality-102",
+   "source": "ep5",
+   "block": "B0221",
+   "transcript": "My understanding was led to believe is that they are in that world too",
+   "likely": "two phrasings run together: 'my understanding' and 'I was led to believe'",
+   "action": "kept as transcribed, set off with dashes",
+   "time": "01:05:29"
+  },
+  {
+   "chapter": "06-reality-102",
+   "source": "ep5",
+   "block": "B0251",
+   "transcript": "what happens to- ... a person, a human person to be",
+   "likely": "unclear; possibly 'Person A and Person B'",
+   "action": "cut ('a human person to be' only)",
+   "time": "01:09:27"
+  },
+  {
+   "chapter": "06-reality-102",
+   "source": "ep5",
+   "block": "B0263",
+   "transcript": "Yeah, you gotta, you gotta stop eating",
+   "likely": "unclear reply to Joshua's 'food for thought'; may be misheard",
+   "action": "kept as transcribed",
+   "time": "01:10:36"
+  },
+  {
+   "chapter": "07-telepathy",
+   "source": "telepathy",
+   "block": "B0005",
+   "transcript": "Bertie Jaworski",
+   "likely": "Birdie Jaworski (the transdimensional mapping teacher); the transcript spells the first name two ways",
+   "action": "kept as transcribed",
+   "time": "00:02:31"
+  },
+  {
+   "chapter": "07-telepathy",
+   "source": "telepathy",
+   "block": "B0036",
+   "transcript": "Bernie Jaworski",
+   "likely": "Birdie Jaworski; same person as \"Bertie Jaworski\" at B0005 (this passage is headed @B0035)",
+   "action": "kept as transcribed",
+   "time": "00:19:40"
+  },
+  {
+   "chapter": "07-telepathy",
+   "source": "telepathy",
+   "block": "B0006",
+   "transcript": "Sev Talks, S-E-V T-O-C",
+   "likely": "Sev Tok, S-E-V T-O-K",
+   "action": "kept as transcribed",
+   "time": "00:03:09"
+  },
+  {
+   "chapter": "07-telepathy",
+   "source": "telepathy",
+   "block": "B0026",
+   "transcript": "draw sight",
+   "likely": "his own term for drawing in the visual field; may be meant as one word (\"drawsight\"). Appears twice (B0026, B0029)",
+   "action": "kept as transcribed",
+   "time": "00:14:42"
+  },
+  {
+   "chapter": "07-telepathy",
+   "source": "telepathy",
+   "block": "B0031",
+   "transcript": "I've hear sounds",
+   "likely": "I've heard sounds",
+   "action": "kept as transcribed",
+   "time": "00:17:05"
+  },
+  {
+   "chapter": "07-telepathy",
+   "source": "telepathy",
+   "block": "B0037",
+   "transcript": "like a cloud gas",
+   "likely": "unclear; perhaps \"like a cloud of gas\"",
+   "action": "kept as transcribed",
+   "time": "00:20:15"
+  },
+  {
+   "chapter": "07-telepathy",
+   "source": "telepathy",
+   "block": "B0039",
+   "transcript": "you don't know what they mean",
+   "likely": "possibly \"you just know what they mean\"; the transcribed wording also makes sense, so it stands",
+   "action": "kept as transcribed",
+   "time": "00:21:12"
+  },
+  {
+   "chapter": "07-telepathy",
+   "source": "telepathy",
+   "block": "B0040",
+   "transcript": "a lot there is verbal thought",
+   "likely": "a lot of it is verbal thought; only the word \"there\" was cut, leaving \"a lot is verbal thought\"",
+   "action": "cut",
+   "time": "00:21:36"
+  },
+  {
+   "chapter": "07-telepathy",
+   "source": "telepathy",
+   "block": "B0047",
+   "transcript": "The Light and Love channeling books",
+   "likely": "the L/L Research (\"Love and Light\") channeling books, the group behind the Law of One",
+   "action": "kept as transcribed",
+   "time": "00:25:13"
+  },
+  {
+   "chapter": "07-telepathy",
+   "source": "telepathy",
+   "block": "B0051",
+   "transcript": "\"Meet,\" I quote somebody",
+   "likely": "\"Meet,\" in quotes, somebody",
+   "action": "kept as transcribed",
+   "time": "00:27:13"
+  },
+  {
+   "chapter": "07-telepathy",
+   "source": "telepathy",
+   "block": "B0055",
+   "transcript": "and don't assume that there is room for misunderstanding in the sense that",
+   "likely": "\"and do assume that there is room for misunderstanding\" or \"don't assume that there isn't room\"; what follows (\"They may know a lot about you, but not understand you\") shows the meaning is positive. Whole clause cut rather than print or remove the negation; the sentence now begins \"It's quite possible they have never lived a human life.\"",
+   "action": "cut",
+   "time": "00:29:37"
+  },
+  {
+   "chapter": "07-telepathy",
+   "source": "telepathy",
+   "block": "B0059",
+   "transcript": "and that m- way it has been described to me",
+   "likely": "and the way it has been described to me; \"and that m-\" was cut, leaving \"Way it has been described to me is that nothing is fake.\"",
+   "action": "cut",
+   "time": "00:31:46"
+  },
+  {
+   "chapter": "07-telepathy",
+   "source": "telepathy",
+   "block": "B0060",
+   "transcript": "as if it were written in permanent marker",
+   "likely": "possibly \"as if it weren't written in permanent marker\"; the transcribed wording also makes sense, so it stands",
+   "action": "kept as transcribed",
+   "time": "00:32:17"
+  },
+  {
+   "chapter": "07-telepathy",
+   "source": "telepathy",
+   "block": "B0061",
+   "transcript": "Don't hold it all kind of lightly because stuff is getting distorted so much",
+   "likely": "\"Do hold it all kind of lightly ...\" or a false start on \"Don't\"; at B0102 he says \"but also hold it lightly\". Whole sentence cut rather than print or remove the negation",
+   "action": "cut",
+   "time": "00:32:45"
+  },
+  {
+   "chapter": "07-telepathy",
+   "source": "telepathy",
+   "block": "B0077",
+   "transcript": "you blow it off if you don't feel like doing it",
+   "likely": "possibly \"'cause you don't feel like doing it\"",
+   "action": "kept as transcribed",
+   "time": "00:41:35"
+  },
+  {
+   "chapter": "07-telepathy",
+   "source": "telepathy",
+   "block": "B0086",
+   "transcript": "Green, red are off",
+   "likely": "Green, red, or off; only the word \"are\" was cut, leaving \"Green, red, off.\"",
+   "action": "cut",
+   "time": "00:46:19"
+  },
+  {
+   "chapter": "07-telepathy",
+   "source": "telepathy",
+   "block": "B0088",
+   "transcript": "However, whatever your somatic sense is.",
+   "likely": "\"or however, whatever your somatic sense is\"; only \"However\" was cut and the words joined to the next sentence",
+   "action": "cut",
+   "time": "00:47:25"
+  },
+  {
+   "chapter": "07-telepathy",
+   "source": "telepathy",
+   "block": "B0091",
+   "transcript": "that doesn't mean you can't get information you can't validate",
+   "likely": "\"information you can validate\"; the words \"you can't validate\" were cut, leaving \"that doesn't mean you can't get information.\"",
+   "action": "cut",
+   "time": "00:48:59"
+  },
+  {
+   "chapter": "08-transcendence",
+   "source": "transcendence",
+   "block": "B0005",
+   "transcript": "I'm gonna bother editing",
+   "likely": "I'm not gonna bother editing",
+   "action": "cut",
+   "time": "00:02:32"
+  },
+  {
+   "chapter": "08-transcendence",
+   "source": "transcendence",
+   "block": "B0002",
+   "transcript": "So to getting to that level of insight",
+   "likely": "a stray \"to\"; only that word was cut, leaving \"So getting to that level\"",
+   "action": "cut",
+   "time": "00:00:46"
+  },
+  {
+   "chapter": "08-transcendence",
+   "source": "transcendence",
+   "block": "B0022",
+   "transcript": "you have in meditation strategy",
+   "likely": "you have a meditation strategy",
+   "action": "kept as transcribed",
+   "time": "00:12:32"
+  },
+  {
+   "chapter": "08-transcendence",
+   "source": "transcendence",
+   "block": "B0026",
+   "transcript": "great one-on-one practices",
+   "likely": "great 101 practices",
+   "action": "kept as transcribed",
+   "time": "00:14:43"
+  },
+  {
+   "chapter": "08-transcendence",
+   "source": "transcendence",
+   "block": "B0052",
+   "transcript": "Just assume 'cause they're not physical doesn't mean",
+   "likely": "Just 'cause they're not physical doesn't mean",
+   "action": "kept as transcribed",
+   "time": "00:28:24"
+  },
+  {
+   "chapter": "08-transcendence",
+   "source": "transcendence",
+   "block": "B0057",
+   "transcript": "Some people will be harder than others",
+   "likely": "For some people it will be harder than others",
+   "action": "kept as transcribed",
+   "time": "00:31:04"
+  },
+  {
+   "chapter": "08-transcendence",
+   "source": "transcendence",
+   "block": "B0061",
+   "transcript": "so you don't just project it",
+   "likely": "so you don't just reject it",
+   "action": "kept as transcribed",
+   "time": "00:33:07"
+  },
+  {
+   "chapter": "08-transcendence",
+   "source": "transcendence",
+   "block": "B0071",
+   "transcript": "You carry that through, the magic stops",
+   "likely": "unclear: possibly \"You don't carry that through, the magic stops\"; as transcribed it can be read as carrying the unprocessed experience forward",
+   "action": "kept as transcribed",
+   "time": "00:38:40"
+  },
+  {
+   "chapter": "08-transcendence",
+   "source": "transcendence",
+   "block": "B0072",
+   "transcript": "Come, give me more",
+   "likely": "Come on, give me more",
+   "action": "kept as transcribed",
+   "time": "00:39:11"
+  },
+  {
+   "chapter": "08-transcendence",
+   "source": "transcendence",
+   "block": "B0075",
+   "transcript": "Not in a fake it and you make it",
+   "likely": "Not in a fake it till you make it",
+   "action": "kept as transcribed",
+   "time": "00:40:44"
+  },
+  {
+   "chapter": "08-transcendence",
+   "source": "transcendence",
+   "block": "B0077",
+   "transcript": "so in the general path of progress ... is a process of acting from irrational belief",
+   "likely": "a stray \"in\"; only that word was cut, leaving \"So the general path of progress ... is a process\"",
+   "action": "cut",
+   "time": "00:42:10"
+  },
+  {
+   "chapter": "08-transcendence",
+   "source": "transcendence",
+   "block": "B0083",
+   "transcript": "the work you're doing on because",
+   "likely": "\"the work you're doing\" or \"working on\"; only the word \"on\" was cut",
+   "action": "cut",
+   "time": "00:45:36"
+  },
+  {
+   "chapter": "08-transcendence",
+   "source": "transcendence",
+   "block": "B0091",
+   "transcript": "people who are doing the other thing",
+   "likely": "people who are doing the same thing",
+   "action": "kept as transcribed",
+   "time": "00:50:04"
+  },
+  {
+   "chapter": "08-transcendence",
+   "source": "transcendence",
+   "block": "B0092",
+   "transcript": "how you allow things to influence in your life",
+   "likely": "\"influence your life\"; only the word \"in\" was cut",
+   "action": "cut",
+   "time": "00:50:31"
+  },
+  {
+   "chapter": "10-self-control-and-clarity",
+   "source": "n1300",
+   "block": "B0006",
+   "transcript": "I did a pretty routine software development",
+   "likely": "as transcribed, or \"I did pretty routine software development\"",
+   "action": "cut (the word \"a\" only)",
+   "time": "00:01:49"
+  },
+  {
+   "chapter": "10-self-control-and-clarity",
+   "source": "n1300",
+   "block": "B0020",
+   "transcript": "you put it in an environments where you wouldn't want a human",
+   "likely": "\"in environments\" or \"in an environment\"",
+   "action": "cut (the word \"an\" only)",
+   "time": "00:08:12"
+  },
+  {
+   "chapter": "10-self-control-and-clarity",
+   "source": "n1300",
+   "block": "B0021",
+   "transcript": "just to go look for things that it's triggering or is it good",
+   "likely": "\"just to go look for things: is this triggering or is it good\"",
+   "action": "kept as transcribed",
+   "time": "00:08:41"
+  },
+  {
+   "chapter": "10-self-control-and-clarity",
+   "source": "n1300",
+   "block": "B0029",
+   "transcript": "a bunch of system that keeps you healthy",
+   "likely": "\"a bunch of systems that keep you healthy\"",
+   "action": "kept as transcribed",
+   "time": "00:12:34"
+  },
+  {
+   "chapter": "10-self-control-and-clarity",
+   "source": "n1300",
+   "block": "B0032",
+   "transcript": "It's more or less it, it knows you can't be trusted",
+   "likely": "a false start (\"It's more or less... it knows\") or \"That's more or less it. It knows\"",
+   "action": "cut (\"It's more or less it\"); kept \"It knows you can't be trusted\"",
+   "time": "00:13:57"
+  },
+  {
+   "chapter": "10-self-control-and-clarity",
+   "source": "n1300",
+   "block": "B0036",
+   "transcript": "Moving things.",
+   "likely": "\"Removing things.\"",
+   "action": "cut",
+   "time": "00:15:44"
+  },
+  {
+   "chapter": "10-self-control-and-clarity",
+   "source": "n1300",
+   "block": "B0036",
+   "transcript": "this other tool that desanitizes it",
+   "likely": "\"sanitizes it\" (he says \"sanitize\" in B0021), or a slip of the tongue",
+   "action": "kept as transcribed",
+   "time": "00:15:44"
+  },
+  {
+   "chapter": "10-self-control-and-clarity",
+   "source": "n1300",
+   "block": "B0042",
+   "transcript": "they're super well-documented blueprints",
+   "likely": "\"there are super well-documented blueprints\"",
+   "action": "kept as transcribed",
+   "time": "00:18:37"
+  },
+  {
+   "chapter": "10-self-control-and-clarity",
+   "source": "n1300",
+   "block": "B0044",
+   "transcript": "The man is slow, frustrating, and often ineffective.",
+   "likely": "unclear; perhaps \"But, man, it is slow\" or \"The man\" meant as the establishment",
+   "action": "kept as transcribed",
+   "time": "00:19:40"
+  },
+  {
+   "chapter": "10-self-control-and-clarity",
+   "source": "n1300",
+   "block": "B0054",
+   "transcript": "You can just be- Put on a, uh, a feeding tube, um, and just (laughs) go unconscious.",
+   "likely": "\"You can just be put on a feeding tube and just go unconscious\"; the machine broke the sentence after \"be-\"",
+   "action": "kept as transcribed, joined as one sentence",
+   "time": "00:24:12"
+  },
+  {
+   "chapter": "11-the-technology-that-centers-you",
+   "source": "grateful",
+   "block": "B0001",
+   "transcript": "From Cognizant Threads, a wearable design to bridge physical sensation with digital intent",
+   "likely": "host's scripted intro naming the product; exact product name unclear",
+   "action": "cut (intro omitted; the opening note's description of Threads as a wearable rests on this line and on the assignment)",
+   "time": "00:00:00"
+  },
+  {
+   "chapter": "11-the-technology-that-centers-you",
+   "source": "grateful",
+   "block": "B0003",
+   "transcript": "I see them everything, but I see most of the world this way",
+   "likely": "unclear false start",
+   "action": "cut 'I see them everything, but'",
+   "time": "00:01:26"
+  },
+  {
+   "chapter": "11-the-technology-that-centers-you",
+   "source": "grateful",
+   "block": "B0003",
+   "transcript": "And the one three line between them all is",
+   "likely": "And the one through line between them all is",
+   "action": "cut",
+   "time": "00:01:26"
+  },
+  {
+   "chapter": "11-the-technology-that-centers-you",
+   "source": "grateful",
+   "block": "B0004",
+   "transcript": "That is interesting.",
+   "likely": "could be either speaker",
+   "action": "cut",
+   "time": "00:02:02"
+  },
+  {
+   "chapter": "11-the-technology-that-centers-you",
+   "source": "grateful",
+   "block": "B0004",
+   "transcript": "I'm fine with proving it impossible to",
+   "likely": "impossible too",
+   "action": "cut the word 'to'",
+   "time": "00:02:02"
+  },
+  {
+   "chapter": "11-the-technology-that-centers-you",
+   "source": "grateful",
+   "block": "B0005",
+   "transcript": "but the quality of two different things",
+   "likely": "possibly garbled; meaning is the quality of two different things (the two selves he names next)",
+   "action": "kept as transcribed",
+   "time": "00:02:40"
+  },
+  {
+   "chapter": "11-the-technology-that-centers-you",
+   "source": "grateful",
+   "block": "B0007",
+   "transcript": "or not jumping at the bandwagon if humans suck",
+   "likely": "or jumping on the bandwagon of 'humans suck'",
+   "action": "cut",
+   "time": "00:04:06"
+  },
+  {
+   "chapter": "11-the-technology-that-centers-you",
+   "source": "grateful",
+   "block": "B0008",
+   "transcript": "feeling happy or anxious all the time",
+   "likely": "feeling unhappy or anxious all the time",
+   "action": "cut 'happy or'",
+   "time": "00:04:40"
+  },
+  {
+   "chapter": "11-the-technology-that-centers-you",
+   "source": "grateful",
+   "block": "B0010",
+   "transcript": "So threads threadless",
+   "likely": "So Threads (product name, repeated or misheard)",
+   "action": "kept 'Threads', cut 'threadless'",
+   "time": "00:05:59"
+  },
+  {
+   "chapter": "11-the-technology-that-centers-you",
+   "source": "grateful",
+   "block": "B0022",
+   "transcript": "Glad about it.",
+   "likely": "Glad I bought it (Steven, about the Rick Rubin book)",
+   "action": "cut",
+   "time": "00:12:32"
+  },
+  {
+   "chapter": "11-the-technology-that-centers-you",
+   "source": "grateful",
+   "block": "B0023",
+   "transcript": "Ian Mcgilchrist's The Matter with things",
+   "likely": "Iain McGilchrist's The Matter with Things",
+   "action": "kept as transcribed ('Ian McGilchrist's'); the first name cannot be corrected under the rule",
+   "time": "00:13:09"
+  },
+  {
+   "chapter": "11-the-technology-that-centers-you",
+   "source": "grateful",
+   "block": "B0023",
+   "transcript": "James Butcher, this Jim Butcher's son",
+   "likely": "that's Jim Butcher's son",
+   "action": "cut 'this'",
+   "time": "00:13:09"
+  },
+  {
+   "chapter": "11-the-technology-that-centers-you",
+   "source": "grateful",
+   "block": "B0024",
+   "transcript": "That's great. / That's a very good one.",
+   "likely": "speaker unclear for both short remarks",
+   "action": "cut",
+   "time": "00:13:53"
+  },
+  {
+   "chapter": "11-the-technology-that-centers-you",
+   "source": "grateful",
+   "block": "B0025",
+   "transcript": "split pain patients are reporting",
+   "likely": "split-brain patients are reporting",
+   "action": "cut",
+   "time": "00:14:31"
+  },
+  {
+   "chapter": "11-the-technology-that-centers-you",
+   "source": "grateful",
+   "block": "B0026",
+   "transcript": "Siddhartha by Herman Hesse",
+   "likely": "Hermann Hesse (host)",
+   "action": "cut 'by Herman Hesse'",
+   "time": "00:15:11"
+  },
+  {
+   "chapter": "11-the-technology-that-centers-you",
+   "source": "grateful",
+   "block": "B0026",
+   "transcript": "But it's been a long time.",
+   "likely": "Steven: I have, but it's been a long time",
+   "action": "cut",
+   "time": "00:15:11"
+  },
+  {
+   "chapter": "11-the-technology-that-centers-you",
+   "source": "grateful",
+   "block": "B0029",
+   "transcript": "I am using my own life story is the thing that gives me emotion",
+   "likely": "I am using my own life story; that is the thing that gives me emotion",
+   "action": "cut 'I am using'",
+   "time": "00:17:20"
+  },
+  {
+   "chapter": "11-the-technology-that-centers-you",
+   "source": "grateful",
+   "block": "B0030",
+   "transcript": "So I wouldn't say that he's definitely right on the mechanism, but I don't think that's the only way.",
+   "likely": "So I would say that he's definitely right on the mechanism, but I don't think that's the only way.",
+   "action": "cut the first clause; kept 'But I don't think that's the only way.'",
+   "time": "00:17:56"
+  },
+  {
+   "chapter": "11-the-technology-that-centers-you",
+   "source": "grateful",
+   "block": "B0035",
+   "transcript": "of which there are many kinds not yet",
+   "likely": "unclear",
+   "action": "cut 'not yet'",
+   "time": "00:21:21"
+  },
+  {
+   "chapter": "11-the-technology-that-centers-you",
+   "source": "grateful",
+   "block": "B0038",
+   "transcript": "do real exploration and sort of the inner space",
+   "likely": "do real exploration in sort of the inner space",
+   "action": "cut 'and sort', leaving 'real exploration of the inner space'",
+   "time": "00:23:25"
+  },
+  {
+   "chapter": "11-the-technology-that-centers-you",
+   "source": "grateful",
+   "block": "B0038",
+   "transcript": "understand consciousness in the world",
+   "likely": "possibly 'consciousness and the world'",
+   "action": "kept as transcribed",
+   "time": "00:23:25"
+  },
+  {
+   "chapter": "11-the-technology-that-centers-you",
+   "source": "grateful",
+   "block": "B0039",
+   "transcript": "There's a half life of course, with it's not doesn't last forever, but it just retrained.",
+   "likely": "...it doesn't last forever, but it just retrains you",
+   "action": "cut 'with it's not' and 'but it just retrained'",
+   "time": "00:24:08"
+  },
+  {
+   "chapter": "11-the-technology-that-centers-you",
+   "source": "grateful",
+   "block": "B0041",
+   "transcript": "the Interstate of of me",
+   "likely": "the inner state of me (host)",
+   "action": "cut",
+   "time": "00:25:37"
+  },
+  {
+   "chapter": "11-the-technology-that-centers-you",
+   "source": "grateful",
+   "block": "B0045",
+   "transcript": "As a bit too much of an ask.",
+   "likely": "is a bit too much of an ask",
+   "action": "cut 'As'; the rest joined to the sentence before",
+   "time": "00:28:27"
+  },
+  {
+   "chapter": "11-the-technology-that-centers-you",
+   "source": "grateful",
+   "block": "B0045",
+   "transcript": "that is plagued a lot of people",
+   "likely": "that has plagued a lot of people",
+   "action": "cut 'is'",
+   "time": "00:28:27"
+  },
+  {
+   "chapter": "11-the-technology-that-centers-you",
+   "source": "grateful",
+   "block": "B0048",
+   "transcript": "stimulation need and depending on kind of like not paying down a debt",
+   "likely": "unclear connective",
+   "action": "cut 'and depending on'",
+   "time": "00:30:09"
+  },
+  {
+   "chapter": "11-the-technology-that-centers-you",
+   "source": "grateful",
+   "block": "B0048",
+   "transcript": "can't fall asleep without ATV or music or show playing",
+   "likely": "without a TV or music or show playing",
+   "action": "cut 'ATV or'",
+   "time": "00:30:09"
+  },
+  {
+   "chapter": "11-the-technology-that-centers-you",
+   "source": "grateful",
+   "block": "B0051",
+   "transcript": "It's like the 50th of ice cream.",
+   "likely": "the 50th bite (or bowl) of ice cream",
+   "action": "kept as transcribed",
+   "time": "00:31:52"
+  },
+  {
+   "chapter": "11-the-technology-that-centers-you",
+   "source": "grateful",
+   "block": "B0052",
+   "transcript": "You just have to crash because you're actually depriving.",
+   "likely": "unfinished clause",
+   "action": "cut 'because you're actually depriving'",
+   "time": "00:32:19"
+  },
+  {
+   "chapter": "11-the-technology-that-centers-you",
+   "source": "grateful",
+   "block": "B0054",
+   "transcript": "And so hopefully not a not a healthy way.",
+   "likely": "And so, hopefully in a healthy way; speaker also unclear",
+   "action": "cut",
+   "time": "00:33:31"
+  },
+  {
+   "chapter": "11-the-technology-that-centers-you",
+   "source": "grateful",
+   "block": "B0057",
+   "transcript": "Well, to might actually be enjoying something.",
+   "likely": "Well, the monk might actually be enjoying something (Steven correcting the host's 'zeroed level of pleasure')",
+   "action": "cut, together with the host's claim it answered",
+   "time": "00:35:18"
+  },
+  {
+   "chapter": "11-the-technology-that-centers-you",
+   "source": "grateful",
+   "block": "B0058",
+   "transcript": "And the difference is 1. You've been through",
+   "likely": "the difference is, one, you've been through",
+   "action": "cut '1'",
+   "time": "00:35:52"
+  },
+  {
+   "chapter": "11-the-technology-that-centers-you",
+   "source": "grateful",
+   "block": "B0058",
+   "transcript": "You got 1/2 eaten sandwich.",
+   "likely": "You got a half-eaten sandwich?",
+   "action": "kept as transcribed ('1/2-eaten'); the numeral cannot be respelled under the rule",
+   "time": "00:35:52"
+  },
+  {
+   "chapter": "11-the-technology-that-centers-you",
+   "source": "grateful",
+   "block": "B0059",
+   "transcript": "Just get to deal with the pain for a little while",
+   "likely": "Just got to deal with the pain",
+   "action": "cut 'get to'",
+   "time": "00:36:24"
+  },
+  {
+   "chapter": "11-the-technology-that-centers-you",
+   "source": "grateful",
+   "block": "B0065",
+   "transcript": "I'm associated with my problems or life for some reason",
+   "likely": "possibly as said (identified with his problems)",
+   "action": "kept as transcribed",
+   "time": "00:39:59"
+  },
+  {
+   "chapter": "11-the-technology-that-centers-you",
+   "source": "grateful",
+   "block": "B0067",
+   "transcript": "So that's some of my work as far because I got a lot of interest.",
+   "likely": "...because I've got a lot of interests",
+   "action": "cut after 'work'",
+   "time": "00:41:12"
+  },
+  {
+   "chapter": "11-the-technology-that-centers-you",
+   "source": "grateful",
+   "block": "B0069",
+   "transcript": "a duality between contentment and stillness. Basically ... And then there is another side",
+   "likely": "contentment and stillness are one side of the duality, ambition the other",
+   "action": "kept as transcribed, punctuated as one sentence so 'another side' follows directly",
+   "time": "00:42:39"
+  },
+  {
+   "chapter": "11-the-technology-that-centers-you",
+   "source": "grateful",
+   "block": "B0069",
+   "transcript": "the sort of experience self",
+   "likely": "experienced self",
+   "action": "kept as transcribed",
+   "time": "00:42:39"
+  },
+  {
+   "chapter": "11-the-technology-that-centers-you",
+   "source": "grateful",
+   "block": "B0070",
+   "transcript": "It was difficult or challenging no one has asked you to do.",
+   "likely": "that's difficult or challenging, that no one has asked you to do",
+   "action": "cut 'It was'",
+   "time": "00:43:28"
+  },
+  {
+   "chapter": "11-the-technology-that-centers-you",
+   "source": "grateful",
+   "block": "B0070",
+   "transcript": "And these things are by default a post and you just sort of approach it without any thought.",
+   "likely": "And these things are by default opposed, and if you just sort of approach it without any thought,",
+   "action": "cut 'are by default a post and'",
+   "time": "00:43:28"
+  },
+  {
+   "chapter": "11-the-technology-that-centers-you",
+   "source": "grateful",
+   "block": "B0070",
+   "transcript": "like the Yogi's or whatever",
+   "likely": "like the yogis or whatever",
+   "action": "kept as transcribed ('the yogi's'); the checker reads the apostrophe as part of the word",
+   "time": "00:43:28"
+  },
+  {
+   "chapter": "11-the-technology-that-centers-you",
+   "source": "grateful",
+   "block": "B0073",
+   "transcript": "get wrapped up in what you're doing and all sorts of unhealthy ways",
+   "likely": "in all sorts of unhealthy ways",
+   "action": "kept as transcribed",
+   "time": "00:45:13"
+  },
+  {
+   "chapter": "11-the-technology-that-centers-you",
+   "source": "grateful",
+   "block": "B0075",
+   "transcript": "and what you're consciousness once",
+   "likely": "and what your consciousness wants (host)",
+   "action": "cut",
+   "time": "00:46:34"
+  },
+  {
+   "chapter": "11-the-technology-that-centers-you",
+   "source": "grateful",
+   "block": "B0076",
+   "transcript": "It's hard.",
+   "likely": "could be either speaker",
+   "action": "cut",
+   "time": "00:47:18"
+  },
+  {
+   "chapter": "11-the-technology-that-centers-you",
+   "source": "grateful",
+   "block": "B0076",
+   "transcript": "or people not that's driving or grinding is inherently bad. But",
+   "likely": "not that striving or grinding is inherently bad, but",
+   "action": "cut; this was a qualifier of Steven's and is lost",
+   "time": "00:47:18"
+  },
+  {
+   "chapter": "11-the-technology-that-centers-you",
+   "source": "grateful",
+   "block": "B0077",
+   "transcript": "This is what I wanted at all.",
+   "likely": "This isn't what I wanted at all.",
+   "action": "cut",
+   "time": "00:47:52"
+  },
+  {
+   "chapter": "11-the-technology-that-centers-you",
+   "source": "grateful",
+   "block": "B0079",
+   "transcript": "Green those causes are not always noble.",
+   "likely": "Agreed, those causes are not always noble.",
+   "action": "cut 'Green'",
+   "time": "00:49:03"
+  },
+  {
+   "chapter": "11-the-technology-that-centers-you",
+   "source": "grateful",
+   "block": "B0079",
+   "transcript": "For complicated creatures for sure",
+   "likely": "We're complicated creatures, for sure",
+   "action": "cut 'For'",
+   "time": "00:49:03"
+  },
+  {
+   "chapter": "11-the-technology-that-centers-you",
+   "source": "grateful",
+   "block": "B0080",
+   "transcript": "I'm grateful that there is. Anything at all is to me one of the most profound like mysteries",
+   "likely": "I'm grateful that there is anything at all; [that] is to me one of the most profound mysteries",
+   "action": "kept, repunctuated with a dash",
+   "time": "00:49:41"
+  },
+  {
+   "chapter": "11-the-technology-that-centers-you",
+   "source": "grateful",
+   "block": "B0081",
+   "transcript": "That's pretty cool.",
+   "likely": "could be either speaker",
+   "action": "cut",
+   "time": "00:50:22"
+  },
+  {
+   "chapter": "12-human-and-machine-consciousness",
+   "source": "unlocking",
+   "block": "B0016",
+   "transcript": "moving your attention almost like a, like a knot",
+   "likely": "\"like a not\" (a logical NOT: he goes on \"You just continue to invert whatever you're looking at\")",
+   "action": "kept as transcribed",
+   "time": "00:05:05"
+  },
+  {
+   "chapter": "12-human-and-machine-consciousness",
+   "source": "unlocking",
+   "block": "B0016",
+   "transcript": "my basic protocol, uh, draws, right, from the Yoga Sutras, right?",
+   "likely": "first \"right\" may be a tic or may be \"draws right from\"",
+   "action": "cut the first \"right\"; kept \"draws from the Yoga Sutras, right?\"",
+   "time": "00:05:05"
+  },
+  {
+   "chapter": "12-human-and-machine-consciousness",
+   "source": "unlocking",
+   "block": "B0017",
+   "transcript": "Not without freaking out or anything, but",
+   "likely": "unclear; possibly \"Now, without freaking out or anything\" (as transcribed it says the opposite of what the context suggests)",
+   "action": "cut",
+   "time": "00:05:36"
+  },
+  {
+   "chapter": "12-human-and-machine-consciousness",
+   "source": "unlocking",
+   "block": "B0024",
+   "transcript": "And that's, frankly, myself is interest, is, that's what draws me",
+   "likely": "garbled false start (perhaps \"my self-interest\")",
+   "action": "cut; kept \"And that's, frankly, what draws me\"",
+   "time": "00:07:41"
+  },
+  {
+   "chapter": "12-human-and-machine-consciousness",
+   "source": "unlocking",
+   "block": "B0071",
+   "transcript": "and you c- think I'm a fool if you like",
+   "likely": "\"and you can think I'm a fool if you like\"",
+   "action": "cut \"and you c-\"; kept \"Think I'm a fool if you like.\"",
+   "time": "00:16:35"
+  },
+  {
+   "chapter": "12-human-and-machine-consciousness",
+   "source": "unlocking",
+   "block": "B0083",
+   "transcript": "about a quarter mile behind myself, house",
+   "likely": "\"behind my house\"",
+   "action": "cut; the distance and place are kept from his first statement of them a sentence earlier",
+   "time": "00:18:47"
+  },
+  {
+   "chapter": "12-human-and-machine-consciousness",
+   "source": "unlocking",
+   "block": "B0086",
+   "transcript": "Began to associate real quick",
+   "likely": "probably as said (re-identifying with himself after the non-dual state); possibly \"reassociate\"",
+   "action": "kept as transcribed",
+   "time": "00:19:43"
+  },
+  {
+   "chapter": "12-human-and-machine-consciousness",
+   "source": "unlocking",
+   "block": "B0088",
+   "transcript": "starts to dis- accelerate",
+   "likely": "a false start followed by \"accelerate\" (the transcript marks false starts this way throughout); \"decelerate\" cannot be ruled out without the audio, at about 00:20:45",
+   "action": "cut the fragment \"dis-\"; kept \"starts to accelerate\"",
+   "time": "00:20:35"
+  },
+  {
+   "chapter": "12-human-and-machine-consciousness",
+   "source": "unlocking",
+   "block": "B0134",
+   "transcript": "just like a folk crash or any found piece of technology",
+   "likely": "\"just like a UFO crash or any found piece of technology\"",
+   "action": "cut \"a folk crash or\"; kept \"just like any found piece of technology\"",
+   "time": "00:27:50"
+  },
+  {
+   "chapter": "12-human-and-machine-consciousness",
+   "source": "unlocking",
+   "block": "B0151",
+   "transcript": "Um, but it's improving a think tank",
+   "likely": "unclear; possibly \"it's Impossible, a think tank\"",
+   "action": "kept as transcribed",
+   "time": "00:32:53"
+  },
+  {
+   "chapter": "13-alien-spirit",
+   "source": "alien",
+   "block": "B0034",
+   "transcript": "the ability to be like something else",
+   "likely": "\"to be like something\" (there being something it is like), with \"else\" possibly a misheard word",
+   "action": "kept as transcribed",
+   "time": "00:06:28"
+  },
+  {
+   "chapter": "13-alien-spirit",
+   "source": "alien",
+   "block": "B0051",
+   "transcript": "We've all know what it's like to be, have the lights on",
+   "likely": "We all know what it's like to have the lights on",
+   "action": "kept as transcribed",
+   "time": "00:10:58"
+  },
+  {
+   "chapter": "13-alien-spirit",
+   "source": "alien",
+   "block": "B0126",
+   "transcript": "capital E, capital E, two squiggly lines",
+   "likely": "capital H, capital E (as he says in B0118)",
+   "action": "cut",
+   "time": "00:21:30"
+  },
+  {
+   "chapter": "13-alien-spirit",
+   "source": "alien",
+   "block": "B0193",
+   "transcript": "It's really it.",
+   "likely": "That's really it.",
+   "action": "kept as transcribed",
+   "time": "00:31:20"
+  },
+  {
+   "chapter": "13-alien-spirit",
+   "source": "alien",
+   "block": "B0194",
+   "transcript": "it more likely it will be (laughs) pretty ... uh, most likely, um, if it is intellectually more capable",
+   "likely": "a word is lost under laughter (what a more capable conscious AI would most likely be)",
+   "action": "cut",
+   "time": "00:31:51"
+  },
+  {
+   "chapter": "13-alien-spirit",
+   "source": "alien",
+   "block": "B0202",
+   "transcript": "That's where all of its information comes.",
+   "likely": "That's where all of its information comes from.",
+   "action": "kept as transcribed",
+   "time": "00:34:24"
+  },
+  {
+   "chapter": "13-alien-spirit",
+   "source": "alien",
+   "block": "B0219",
+   "transcript": "the biological different definition of alive",
+   "likely": "the biological definition of alive (\"different\" a false start)",
+   "action": "cut",
+   "time": "00:38:15"
+  },
+  {
+   "chapter": "13-alien-spirit",
+   "source": "alien",
+   "block": "B0220",
+   "transcript": "has clearly looked into this is a huge, like, moral dilemma",
+   "likely": "has clearly looked into this. It's a huge moral dilemma (or \"this as a huge\")",
+   "action": "kept as transcribed",
+   "time": "00:38:47"
+  },
+  {
+   "chapter": "13-alien-spirit",
+   "source": "alien",
+   "block": "B0245",
+   "transcript": "The moment's a tug-of-war. This ... The lower mind is always going to win.",
+   "likely": "The moment it's a tug-of-war, the lower mind is always going to win.",
+   "action": "kept as transcribed",
+   "time": "00:45:28"
+  },
+  {
+   "chapter": "13-alien-spirit",
+   "source": "alien",
+   "block": "B0273",
+   "transcript": "There are no leads, so I've sort of buried the leads",
+   "likely": "possibly \"ledes\"",
+   "action": "kept as transcribed",
+   "time": "00:55:01"
+  },
+  {
+   "chapter": "13-alien-spirit",
+   "source": "alien",
+   "block": "B0285",
+   "transcript": "Just make it a little bit harder to not repeat that thing.",
+   "likely": "a slip for \"harder to repeat that thing\"; he says it the intended way in B0286",
+   "action": "kept as transcribed",
+   "time": "00:57:58"
+  },
+  {
+   "chapter": "13-alien-spirit",
+   "source": "alien",
+   "block": "B0296",
+   "transcript": "You're angry at yourself less.",
+   "likely": "You're angry at yourself (or \"more\")",
+   "action": "cut",
+   "time": "01:00:38"
+  },
+  {
+   "chapter": "13-alien-spirit",
+   "source": "alien",
+   "block": "B0355",
+   "transcript": "and I'm s- just showed up here to help people realize that",
+   "likely": "and I just showed up here to help people realize that",
+   "action": "kept as transcribed",
+   "time": "01:08:40"
+  }
+ ]
+}
