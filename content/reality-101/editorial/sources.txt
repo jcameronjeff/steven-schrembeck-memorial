@@ -1,0 +1,7 @@
+This is a reading edition of fourteen recordings preserved in the Steven Schrembeck Archive. Thirteen were transcribed by machine with ElevenLabs Scribe v2 on October 10, 2026. The fourteenth, from *The Grateful Podcast*, uses the transcript its publisher supplied, which does not label speakers; speakers there were identified from context. No transcript has had a full listening review, and the source files are unchanged.
+
+Each paragraph was checked by program against its transcript: its words must all occur, in the same order, in the transcript of the named speaker, starting at the place the manuscript cites. The check compares words only. Case, punctuation, quotation marks and paragraphing are editorial. Transcript spellings of five names were corrected: Steven, Schrembeck, Swenson, Estes, and Nom. The corrections are counted in the validation record. Matching words in order shows that nothing was added. It does not prove the machine heard each word correctly, and it does not make a selection neutral.
+
+A companion file, the passage map, lists every paragraph with its recording, speaker, start and end times, the original transcript wording, and the edited wording. The manuscripts, the checker and the builder are kept with the archive so the edition can be rebuilt and re-verified.
+
+The notes below give, for each chapter, its recording, the date the archive has for it, how much of each speaker's transcribed speech the chapter retains, and what was left out.

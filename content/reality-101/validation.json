@@ -1,0 +1,44 @@
+{
+  "chapters": 2,
+  "passages": 42,
+  "words": 2981,
+  "sources": 2,
+  "all_body_words_match_source_in_order": true,
+  "added_body_words": 0,
+  "reordered_passages": 0,
+  "speaker_label_overrides": 0,
+  "name_spellings_corrected": {
+    "nam -> nom": 1,
+    "stephen -> steven": 1
+  },
+  "retained_words_by_chapter": {
+    "00-invitation": {
+      "trailer": {
+        "Joshua": {
+          "kept": 34,
+          "transcribed": 34
+        },
+        "Steven": {
+          "kept": 203,
+          "transcribed": 204
+        }
+      }
+    },
+    "09-food-and-frequency": {
+      "food": {
+        "Steven": {
+          "kept": 2744,
+          "transcribed": 2957
+        }
+      }
+    }
+  },
+  "guide_quotes_verified": 0,
+  "review_prompts_open": 0,
+  "full_listening_review": false,
+  "transcript_sha256": {
+    "transcripts/machine/9026fe3f9a193d986d0ee92e7c61ffd140b71ea0e0d2c97afcaa1d49d7d8c60c.json": "40918d757f31627a248159c5dd79158a9132c328d8f3b29f382453c92bd9c5fc",
+    "transcripts/machine/1d1fb3da0ab4a0eb8a343f762a1577986944e3326eff0355092dee6f98853faa.json": "6fe47758eb2e86f574de658577e5584841e10ef4d30274c261f9241168cc5a96"
+  },
+  "epub_sha256": "7963b7f0f738a1e1449df77239fe2befd1214563a843b63295412fdea0915f38"
+}

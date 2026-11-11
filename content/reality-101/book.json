@@ -1,0 +1,216 @@
+{
+  "title": "Reality 101",
+  "subtitle": "A Journal of Impossible Experiences",
+  "edition_line": "The complete series and earlier conversations",
+  "author": "Steven Schrembeck",
+  "with": "Joshua Swenson",
+  "compiled": "2026-11-11",
+  "identifier": "urn:uuid:6f0d5b1e-7c1a-4f0b-9d55-2a6f3f1d0101",
+  "spelling": {
+    "stephen": "steven",
+    "stephen's": "steven's",
+    "schrimbeck": "schrembeck",
+    "shrembeck": "schrembeck",
+    "schrembach": "schrembeck",
+    "swanson": "swenson"
+  },
+  "sources": {
+    "trailer": {
+      "title": "Trailer: Surprise, you can learn how it all works",
+      "transcript": "transcripts/machine/1d1fb3da0ab4a0eb8a343f762a1577986944e3326eff0355092dee6f98853faa.json",
+      "media": "reality/003-trailer-surprise-you-can-learn-how-it-all-works.mp3",
+      "item": "reality-003-trailer-surprise-you-can-learn-how-it-all-works",
+      "date": "2026-05-27",
+      "date_basis": "Feed publication date",
+      "speakers": {
+        "speaker_0": "Steven",
+        "speaker_1": "Joshua"
+      }
+    },
+    "prologue": {
+      "title": "0 Prologue (from Ruptures and Roots)",
+      "transcript": "transcripts/machine/d93ec84aa22f804c6cfd869b27287546686c5e81db392e81a64d53be091a426e.json",
+      "media": "reality/001-0-prologue-from-ruptures-and-roots.mp3",
+      "item": "reality-001-0-prologue-from-ruptures-and-roots",
+      "date": "2026-05-27",
+      "date_basis": "Feed publication date",
+      "speakers": {
+        "speaker_0": "Steven",
+        "speaker_1": "Joshua"
+      }
+    },
+    "ep1": {
+      "title": "1 Reality 101",
+      "transcript": "transcripts/machine/c0d08ca060f46866b27ad04115baa0f1928da5b7c4602be4b63439af5370432c.json",
+      "media": "reality/002-1-reality-101.mp3",
+      "item": "reality-002-1-reality-101",
+      "date": "2026-05-27",
+      "date_basis": "Feed publication date",
+      "speakers": {
+        "speaker_0": "Steven",
+        "speaker_1": "Joshua"
+      }
+    },
+    "ep2": {
+      "title": "2 See, Wake up, Remember Pt. 1",
+      "transcript": "transcripts/machine/b8d96d5a5e6b920a87d20f31887b3e07d01e9c3623810effbc74d63a13fc8beb.json",
+      "media": "reality/004-2-see-wake-up-remember-pt-1.mp3",
+      "item": "reality-004-2-see-wake-up-remember-pt-1",
+      "date": "2026-05-29",
+      "date_basis": "Feed publication date",
+      "speakers": {
+        "speaker_0": "Steven",
+        "speaker_1": "Joshua",
+        "speaker_2": "Joshua"
+      }
+    },
+    "ep3": {
+      "title": "3 See, Wake up, Remember Pt 2",
+      "transcript": "transcripts/machine/080239f2d976e0e261613d9d8e623fe4034d22ae527ed0b0ca0d04d1d00085ac.json",
+      "media": "reality/005-3-see-wake-up-remember-pt-2.mp3",
+      "item": "reality-005-3-see-wake-up-remember-pt-2",
+      "date": "2026-07-10",
+      "date_basis": "Feed publication date",
+      "speakers": {
+        "speaker_0": "Steven",
+        "speaker_1": "Joshua",
+        "speaker_2": "Joshua"
+      }
+    },
+    "ep4": {
+      "title": "4 See, Wake up, Remember Pt 3",
+      "transcript": "transcripts/machine/b1fc1636ce7141a8ac2d3205a493d05fb1d2c3088eb3859adb0d47dd1621e60a.json",
+      "media": "reality/006-4-see-wake-up-remember-pt-3.mp3",
+      "item": "reality-006-4-see-wake-up-remember-pt-3",
+      "date": "2026-07-22",
+      "date_basis": "Feed publication date",
+      "speakers": {
+        "speaker_0": "Steven",
+        "speaker_1": "Joshua"
+      }
+    },
+    "ep5": {
+      "title": "5 Reality 102",
+      "transcript": "transcripts/machine/fce33f414fce897fab26a0c3d769bb93726bf536da190e2503696953e92a169c.json",
+      "media": "reality/007-5-reality-102.mp3",
+      "item": "reality-007-5-reality-102",
+      "date": "2026-09-14",
+      "date_basis": "Feed publication date",
+      "speakers": {
+        "speaker_0": "Steven",
+        "speaker_1": "Joshua"
+      }
+    },
+    "telepathy": {
+      "title": "(Bonus) What I know about telepathy",
+      "transcript": "transcripts/machine/8f17763648827220cce2323c13786741d88077f12148f6786c7de67d02bf8026.json",
+      "media": "reality/008-bonus-what-i-know-about-telepathy.mp3",
+      "item": "reality-008-bonus-what-i-know-about-telepathy",
+      "date": "2026-10-01",
+      "date_basis": "Feed publication date",
+      "speakers": {
+        "speaker_0": "Steven"
+      }
+    },
+    "transcendence": {
+      "title": "(Bonus) What I know about transcendence",
+      "transcript": "transcripts/machine/638a92e3867c0e3f6ec722d35828c056802bc45eade8ca40121371878810cabf.json",
+      "media": "reality/009-bonus-what-i-know-about-transcendence.mp3",
+      "item": "reality-009-bonus-what-i-know-about-transcendence",
+      "date": "2026-10-02",
+      "date_basis": "Feed publication date",
+      "speakers": {
+        "speaker_0": "Steven"
+      }
+    },
+    "food": {
+      "title": "(Bonus) Food and frequency",
+      "transcript": "transcripts/machine/9026fe3f9a193d986d0ee92e7c61ffd140b71ea0e0d2c97afcaa1d49d7d8c60c.json",
+      "media": "reality/010-bonus-food-and-frequency.mp3",
+      "item": "reality-010-bonus-food-and-frequency",
+      "date": "2026-10-03",
+      "date_basis": "Feed publication date",
+      "speakers": {
+        "speaker_0": "Steven"
+      },
+      "spelling": {
+        "nam": "nom"
+      }
+    },
+    "n1300": {
+      "title": "#1300 - Empowering Minds with AI: Steven Schrembeck on Technology, Self-Control, and Mental Clarity",
+      "transcript": "transcripts/machine/28661444f85f0c64fd233548f0597043a622656de87707bc9a1f6ed69b785a94.json",
+      "media": "interviews/1300-empowering-minds-with-ai-steven-schrembeck-on-technology-self-control-and-mental-clarity.mp3",
+      "item": "interviews-1300-empowering-minds-with-ai-steven-schrembeck-on-technology-self-control-and-mental-clarity",
+      "date": "",
+      "date_basis": "Date not established",
+      "speakers": {
+        "speaker_0": "Advertisement",
+        "speaker_1": "Advertisement",
+        "speaker_2": "Chris",
+        "speaker_3": "Steven",
+        "speaker_4": "Advertisement",
+        "speaker_5": "Advertisement",
+        "speaker_6": "Advertisement"
+      },
+      "show": "Financial Freedom Podcast with Dr. Christopher H. Loo"
+    },
+    "grateful": {
+      "title": "The Technology That Centers You with Steven Schrembeck | 79",
+      "transcript": "interviews/the-technology-that-centers-you-with-steven-schrembeck-79.srt",
+      "format": "srt",
+      "media": "interviews/the-technology-that-centers-you-with-steven-schrembeck-79.mp3",
+      "item": "interviews-the-technology-that-centers-you-with-steven-schrembeck-79",
+      "date": "2025-06-11",
+      "date_basis": "Podcast feed and YouTube publication date",
+      "speakers": {},
+      "show": "The Grateful Podcast with Jack Wagoner"
+    },
+    "unlocking": {
+      "title": "Unlocking human and machine consciousness with Steven Schrembeck",
+      "transcript": "transcripts/machine/9bf543ae8f0efe1019ae87ddc3404937543009d8e323f57a1692253373b97117.json",
+      "media": "interviews/unlocking-human-and-machine-consciousness-with-steven-schrembeck.mp3",
+      "item": "interviews-unlocking-human-and-machine-consciousness-with-steven-schrembeck",
+      "date": "",
+      "date_basis": "Date not established",
+      "speakers": {
+        "speaker_0": "Ryan",
+        "speaker_1": "Steven"
+      },
+      "show": "AI for Founders with Ryan Estes",
+      "spelling": {
+        "estis": "estes"
+      }
+    },
+    "alien": {
+      "title": "Steven Schrembeck",
+      "transcript": "transcripts/machine/f57808cb728a1567bc5d61bcaf1d16845e5fdcdbe6b8ed039b18d7ec5dd7b501.json",
+      "media": "interviews/steven-schrembeck.mp3",
+      "item": "interviews-steven-schrembeck",
+      "date": "",
+      "date_basis": "Date not established",
+      "speakers": {
+        "speaker_0": "Announcer",
+        "speaker_1": "Sev",
+        "speaker_2": "Steven"
+      },
+      "show": "Alien Spirit with Sev"
+    }
+  },
+  "parts": [
+    {
+      "chapters": [
+        "00-invitation"
+      ]
+    },
+    {
+      "title": "The Journals",
+      "intro": "Three solo recordings Steven made for himself and released as bonus episodes.",
+      "chapters": [
+        "09-food-and-frequency"
+      ]
+    }
+  ],
+  "epigraph": "Reality is far more mysterious and loving than we’ve been led to believe.",
+  "chapter_notes": {}
+}
