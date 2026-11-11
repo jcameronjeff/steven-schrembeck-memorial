@@ -1,5 +1,15 @@
 [
  {
+  "key": "aarp-scams",
+  "short": "AARP, Psychic scams",
+  "authors": "AARP",
+  "year": "n.d.",
+  "title": "Psychic scams",
+  "container": "aarp.org",
+  "url": "https://www.aarp.org/money/scams-fraud/psychic/",
+  "kind": "web"
+ },
+ {
   "key": "aciste",
   "short": "ACISTE",
   "authors": "American Center for the Integration of Spiritually Transformative Experiences",
@@ -55,8 +65,28 @@
   "authors": "Katsuhisa Ando; Daniel F. Kripke",
   "year": "1996",
   "title": "Light attenuation by the human eyelid",
-  "container": "Biological Psychiatry (volume and pages unverified)",
+  "container": "Biological Psychiatry",
   "url": "https://search.isc.ac/Inventory/10/499638.htm",
+  "kind": "article"
+ },
+ {
+  "key": "apa-pgd",
+  "short": "APA, Prolonged grief disorder",
+  "authors": "American Psychiatric Association",
+  "year": "n.d.",
+  "title": "Prolonged grief disorder",
+  "container": "psychiatry.org",
+  "url": "https://www.psychiatry.org/patients-families/prolonged-grief-disorder",
+  "kind": "web"
+ },
+ {
+  "key": "barrett1993",
+  "short": "Barrett 1993",
+  "authors": "Deirdre Barrett",
+  "year": "1993",
+  "title": "The 'committee of sleep': a study of dream incubation for problem solving",
+  "container": "Dreaming 3(2)",
+  "url": "https://en.wikipedia.org/wiki/Dream_incubation",
   "kind": "article"
  },
  {
@@ -77,6 +107,46 @@
   "title": "Contributions to the theory of PK induction from sitter-group work",
   "container": "Journal of the American Society for Psychical Research 78, 105-122",
   "url": "https://psi-encyclopedia.spr.ac.uk/articles/kenneth-batcheldor",
+  "kind": "article"
+ },
+ {
+  "key": "battista2015",
+  "short": "Battista, Gauvrit & LeBel 2015",
+  "authors": "Christian Battista, Nicolas Gauvrit, Etienne LeBel",
+  "year": "2015",
+  "title": "Madness in the method: fatal flaws in recent mediumship experiments",
+  "container": "In K. Augustine & M. Martin (eds.), The Myth of an Afterlife, Rowman & Littlefield, pp. 615-630",
+  "url": "https://en.wikipedia.org/wiki/Gary_Schwartz",
+  "kind": "article"
+ },
+ {
+  "key": "beischel2007",
+  "short": "Beischel & Schwartz 2007",
+  "authors": "Julie Beischel, Gary E. Schwartz",
+  "year": "2007",
+  "title": "Anomalous information reception by research mediums demonstrated using a novel triple-blind protocol",
+  "container": "Explore 3(1): 23-27",
+  "url": "https://europepmc.org/article/MED/17234565",
+  "kind": "article"
+ },
+ {
+  "key": "beischel2014",
+  "short": "Beischel, Mosher & Boccuzzi 2014",
+  "authors": "Julie Beischel, C. Mosher, Mark Boccuzzi",
+  "year": "2014",
+  "title": "The possible effects on bereavement of assisted after-death communication during readings with psychic mediums: a continuing bonds perspective",
+  "container": "Omega: Journal of Death and Dying 70(2): 169-194",
+  "url": "https://europepmc.org/article/MED/25628023",
+  "kind": "article"
+ },
+ {
+  "key": "beischel2015",
+  "short": "Beischel et al. 2015",
+  "authors": "Julie Beischel, Mark Boccuzzi, M. Biuso, Adam J. Rock",
+  "year": "2015",
+  "title": "Anomalous information reception by research mediums under blinded conditions II: replication and extension",
+  "container": "Explore 11(2): 136-142",
+  "url": "https://europepmc.org/article/MED/25666383",
   "kind": "article"
  },
  {
@@ -140,6 +210,26 @@
   "kind": "article"
  },
  {
+  "key": "botkin2000",
+  "short": "Botkin 2000",
+  "authors": "Allan L. Botkin",
+  "year": "2000",
+  "title": "The induction of after-death communications utilizing eye-movement desensitization and reprocessing: a new discovery",
+  "container": "Journal of Near-Death Studies 18(3): 181-209",
+  "url": "https://digital.library.unt.edu/ark:/67531/metadc798991/",
+  "kind": "article"
+ },
+ {
+  "key": "botkin2005",
+  "short": "Botkin & Hogan 2005",
+  "authors": "Allan L. Botkin, with R. Craig Hogan",
+  "year": "2005",
+  "title": "Induced After-Death Communication: A New Therapy for Healing Grief and Trauma",
+  "container": "Hampton Roads",
+  "url": "https://openlibrary.org/isbn/9781571744234",
+  "kind": "book"
+ },
+ {
   "key": "brihadaranyaka",
   "short": "Brihadaranyaka Upanishad 1.4",
   "authors": "trans. S. Radhakrishnan",
@@ -152,11 +242,11 @@
  {
   "key": "campbell2003",
   "short": "Campbell 2003",
-  "authors": "Thomas Campbell",
+  "authors": "Thomas W. Campbell",
   "year": "2003",
   "title": "My Big TOE",
-  "container": "publisher not verified",
-  "url": "https://www.my-big-toe.com/",
+  "container": "Lightning Strike Books",
+  "url": "https://psi-encyclopedia.spr.ac.uk/articles/thomas-warren-campbell/",
   "kind": "book"
  },
  {
@@ -180,6 +270,26 @@
   "kind": "article"
  },
  {
+  "key": "castelnovo2015",
+  "short": "Castelnovo et al. 2015",
+  "authors": "A. Castelnovo, S. Cavallotti, O. Gambini, A. D'Agostino",
+  "year": "2015",
+  "title": "Post-bereavement hallucinatory experiences: a critical overview of population and clinical studies",
+  "container": "Journal of Affective Disorders 186: 266-274",
+  "url": "https://europepmc.org/article/MED/26254619",
+  "kind": "article"
+ },
+ {
+  "key": "charlandverville2014",
+  "short": "Charland-Verville et al. 2014",
+  "authors": "Vanessa Charland-Verville, J.-P. Jourdan, M. Thonnard, D. Ledoux, A.-F. Donneau, E. Quertemont, Steven Laureys",
+  "year": "2014",
+  "title": "Near-death experiences in non-life-threatening events and coma of different etiologies",
+  "container": "Frontiers in Human Neuroscience 8: 203",
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4034153/",
+  "kind": "article"
+ },
+ {
   "key": "cheetahhouse",
   "short": "Cheetah House",
   "authors": "Cheetah House",
@@ -188,6 +298,16 @@
   "container": "",
   "url": "https://cheetahhouse.org/about",
   "kind": "web"
+ },
+ {
+  "key": "coldreading",
+  "short": "Hyman 1977",
+  "authors": "Ray Hyman",
+  "year": "1977",
+  "title": "'Cold reading': how to convince strangers that you know all about them",
+  "container": "The Skeptical Inquirer, Spring/Summer 1977 (as cited on the reference page)",
+  "url": "https://en.wikipedia.org/wiki/Cold_reading",
+  "kind": "article"
  },
  {
   "key": "corbin1964",
@@ -218,6 +338,26 @@
   "container": "Alfred A. Knopf",
   "url": "https://michaelcrichton.com/works/travels/",
   "kind": "book"
+ },
+ {
+  "key": "crosscorr",
+  "short": "Hamilton 2017",
+  "authors": "Trevor Hamilton",
+  "year": "2017",
+  "title": "Cross-correspondences",
+  "container": "Psi Encyclopedia, Society for Psychical Research",
+  "url": "https://psi-encyclopedia.spr.ac.uk/articles/cross-correspondences",
+  "kind": "web"
+ },
+ {
+  "key": "dantoni2025",
+  "short": "D'Antoni et al. 2025",
+  "authors": "Fabio D'Antoni, Irene Pulvirenti, Antonella D'Orlando, Vilma Claudio, Claudio Lalla",
+  "year": "2025",
+  "title": "Induced after-death communication (IADC) therapy: an effective and quick intervention to cope with grief",
+  "container": "Psychology International 7(1): 25",
+  "url": "https://doi.org/10.3390/psycholint7010025",
+  "kind": "article"
  },
  {
   "key": "dullinjamet2018",
@@ -280,6 +420,26 @@
   "kind": "book"
  },
  {
+  "key": "elsaesser2021",
+  "short": "Elsaesser et al. 2021",
+  "authors": "Evelyn Elsaesser, Chris A. Roe, Callum E. Cooper, David Lorimer",
+  "year": "2021",
+  "title": "The phenomenology and impact of hallucinations concerning the deceased",
+  "container": "BJPsych Open 7(5): e148",
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8388006/",
+  "kind": "article"
+ },
+ {
+  "key": "elsaesser2023",
+  "short": "Elsaesser 2023",
+  "authors": "Evelyn Elsaesser",
+  "year": "2023",
+  "title": "Spontaneous Contacts with the Deceased: A Large-Scale International Survey Reveals the Circumstances, Lived Experience and Beneficial Impact of After-Death Communications (ADCs)",
+  "container": "Iff Books",
+  "url": "https://psi-encyclopedia.spr.ac.uk/articles/after-death-communications-overview/",
+  "kind": "book"
+ },
+ {
   "key": "emoto2004",
   "short": "Emoto 2004",
   "authors": "Masaru Emoto",
@@ -305,8 +465,8 @@
   "authors": "Federico Faggin",
   "year": "2021",
   "title": "Silicon: From the Invention of the Microprocessor to the New Science of Consciousness",
-  "container": "Waterside",
-  "url": "https://besharamagazine.org/science-technology/consciousness-as-the-ground-of-being/",
+  "container": "Waterside Productions",
+  "url": "https://en.wikipedia.org/wiki/Federico_Faggin",
   "kind": "book"
  },
  {
@@ -318,6 +478,36 @@
   "container": "Essentia Books",
   "url": "https://www.collectiveinkbooks.com/essentia-books/our-books/irreducible-consciousness-life-computers-human-nature",
   "kind": "book"
+ },
+ {
+  "key": "fenwick2008",
+  "short": "Fenwick & Fenwick 2008",
+  "authors": "Peter Fenwick, Elizabeth Fenwick",
+  "year": "2008",
+  "title": "The Art of Dying",
+  "container": "Continuum",
+  "url": "https://openlibrary.org/isbn/9780826499233",
+  "kind": "book"
+ },
+ {
+  "key": "fenwick2010",
+  "short": "Fenwick et al. 2010",
+  "authors": "Peter Fenwick, H. Lovelace, S. Brayne",
+  "year": "2010",
+  "title": "Comfort for the dying: five year retrospective and one year prospective studies of end of life experiences",
+  "container": "Archives of Gerontology and Geriatrics 51(2): 173-179",
+  "url": "https://europepmc.org/article/MED/19913927",
+  "kind": "article"
+ },
+ {
+  "key": "field2010",
+  "short": "Field & Filanosky 2010",
+  "authors": "N. P. Field, C. Filanosky",
+  "year": "2010",
+  "title": "Continuing bonds, risk factors for complicated grief, and adjustment to bereavement",
+  "container": "Death Studies 34(1): 1-29",
+  "url": "https://europepmc.org/article/MED/24479173",
+  "kind": "article"
  },
  {
   "key": "foxwell2020",
@@ -360,6 +550,16 @@
   "kind": "book"
  },
  {
+  "key": "gillogly1996",
+  "short": "Gillogly & Harnisch 1996",
+  "authors": "James J. Gillogly, Larry Harnisch",
+  "year": "1996",
+  "title": "Cryptograms from the crypt",
+  "container": "Cryptologia 20(4): 326-329",
+  "url": "https://en.wikipedia.org/wiki/Robert_H._Thouless",
+  "kind": "article"
+ },
+ {
   "key": "gita17",
   "short": "Bhagavad Gita 17",
   "authors": "trans. A. C. Bhaktivedanta Swami Prabhupada",
@@ -400,6 +600,16 @@
   "kind": "article"
  },
  {
+  "key": "greyson1983",
+  "short": "Greyson 1983",
+  "authors": "Bruce Greyson",
+  "year": "1983",
+  "title": "The near-death experience scale: construction, reliability, and validity",
+  "container": "Journal of Nervous and Mental Disease 171(6): 369-375",
+  "url": "https://europepmc.org/article/MED/6854303",
+  "kind": "article"
+ },
+ {
   "key": "greyson1993",
   "short": "Greyson 1993",
   "authors": "Bruce Greyson",
@@ -410,6 +620,26 @@
   "kind": "article"
  },
  {
+  "key": "greyson2021",
+  "short": "Greyson 2021",
+  "authors": "Bruce Greyson",
+  "year": "2021",
+  "title": "After: A Doctor Explores What Near-Death Experiences Reveal about Life and Beyond",
+  "container": "St. Martin's Essentials",
+  "url": "https://openlibrary.org/isbn/9781250263032",
+  "kind": "book"
+ },
+ {
+  "key": "grimby1993",
+  "short": "Grimby 1993",
+  "authors": "A. Grimby",
+  "year": "1993",
+  "title": "Bereavement among elderly people: grief reactions, post-bereavement hallucinations and quality of life",
+  "container": "Acta Psychiatrica Scandinavica 87(1): 72-80",
+  "url": "https://europepmc.org/article/MED/8424323",
+  "kind": "article"
+ },
+ {
   "key": "grof1989",
   "short": "Grof and Grof 1989",
   "authors": "Stanislav Grof; Christina Grof (eds.)",
@@ -417,6 +647,16 @@
   "title": "Spiritual Emergency: When Personal Transformation Becomes a Crisis",
   "container": "Tarcher",
   "url": "https://imhu.org/book-reviews/spiritual-emergency-when-personal-transformation-becomes-a-crisis",
+  "kind": "book"
+ },
+ {
+  "key": "guggenheim1996",
+  "short": "Guggenheim & Guggenheim 1996",
+  "authors": "Bill Guggenheim, Judy Guggenheim",
+  "year": "1996",
+  "title": "Hello from Heaven! A New Field of Research, After-Death Communication, Confirms That Life and Love Are Eternal",
+  "container": "Bantam",
+  "url": "https://openlibrary.org/isbn/9780553576344",
   "kind": "book"
  },
  {
@@ -438,6 +678,16 @@
   "container": "Routledge and Kegan Paul",
   "url": "https://psi-encyclopedia.spr.ac.uk/articles/metal-bending-research/",
   "kind": "book"
+ },
+ {
+  "key": "hastings2002",
+  "short": "Hastings et al. 2002",
+  "authors": "Arthur Hastings, Michael Hutton, William Braud, Constance Bennett, Ida Berk, Tracy Boynton, Carolyn Dawn, Elizabeth Ferguson, Adina Goldman, Elyse Greene, Michael Hewett, Vera Lind, Kathie McLellan, Sandra Steinbach-Humphrey",
+  "year": "2002",
+  "title": "Psychomanteum research: experiences and effects on bereavement",
+  "container": "Omega: Journal of Death and Dying 45(3): 211-228",
+  "url": "https://doi.org/10.2190/LV5G-E3JV-6CVT-FKN5",
+  "kind": "article"
  },
  {
   "key": "hernandez2018",
@@ -480,6 +730,16 @@
   "kind": "book"
  },
  {
+  "key": "hollanek2024",
+  "short": "Hollanek & Nowaczyk-Basinska 2024",
+  "authors": "Tomasz Hollanek, Katarzyna Nowaczyk-Basinska",
+  "year": "2024",
+  "title": "Griefbots, deadbots, postmortem avatars: on responsible applications of generative AI in the digital afterlife industry",
+  "container": "Philosophy & Technology 37(2): 63",
+  "url": "https://doi.org/10.1007/s13347-024-00744-w",
+  "kind": "article"
+ },
+ {
   "key": "honorton1977",
   "short": "Honorton 1977",
   "authors": "Charles Honorton",
@@ -520,6 +780,16 @@
   "kind": "article"
  },
  {
+  "key": "hyman2003",
+  "short": "Hyman 2003",
+  "authors": "Ray Hyman",
+  "year": "2003",
+  "title": "How not to test mediums: critiquing the Afterlife Experiments",
+  "container": "Skeptical Inquirer 27(1)",
+  "url": "https://skepticalinquirer.org/2003/01/how-not-to-test-mediums/",
+  "kind": "article"
+ },
+ {
   "key": "hymnpearl_james1924",
   "short": "Hymn of the Pearl (James 1924)",
   "authors": "trans. M. R. James",
@@ -538,6 +808,26 @@
   "container": "London",
   "url": "https://en.wikisource.org/wiki/Hymn_of_the_Pearl",
   "kind": "book"
+ },
+ {
+  "key": "hypnagogia",
+  "short": "Mavromatis 1987",
+  "authors": "Andreas Mavromatis",
+  "year": "1987",
+  "title": "Hypnagogia: The Unique State of Consciousness Between Wakefulness and Sleep",
+  "container": "Routledge & Kegan Paul",
+  "url": "https://en.wikipedia.org/wiki/Hypnagogia",
+  "kind": "book"
+ },
+ {
+  "key": "iands",
+  "short": "IANDS",
+  "authors": "International Association for Near-Death Studies",
+  "year": "n.d.",
+  "title": "Characteristics of a near-death experience",
+  "container": "iands.org",
+  "url": "https://iands.org/ndes/about-ndes/characteristics.html",
+  "kind": "web"
  },
  {
   "key": "iskconprasada",
@@ -640,6 +930,16 @@
   "kind": "book"
  },
  {
+  "key": "kamp2020",
+  "short": "Kamp et al. 2020",
+  "authors": "Karina S. Kamp, Edith M. Steffen, Ben Alderson-Day, Paul Allen, Anne Austad, Jacqueline Hayes, Frank Laroi, Matthew Ratcliffe, Pablo Sabucedo",
+  "year": "2020",
+  "title": "Sensory and quasi-sensory experiences of the deceased in bereavement: an interdisciplinary and integrative review",
+  "container": "Schizophrenia Bulletin 46(6): 1367-1381",
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7707065/",
+  "kind": "article"
+ },
+ {
   "key": "kastrup2018",
   "short": "Kastrup 2018",
   "authors": "Bernardo Kastrup",
@@ -670,6 +970,16 @@
   "kind": "book"
  },
  {
+  "key": "kelly2011",
+  "short": "Kelly & Arcangel 2011",
+  "authors": "Emily Williams Kelly, D. Arcangel",
+  "year": "2011",
+  "title": "An investigation of mediums who claim to give information about deceased persons",
+  "container": "Journal of Nervous and Mental Disease 199(1): 11-17",
+  "url": "https://europepmc.org/article/MED/21206241",
+  "kind": "article"
+ },
+ {
   "key": "kelly2015",
   "short": "Kelly, Crabtree and Marshall 2015",
   "authors": "Edward F. Kelly; Adam Crabtree; Paul Marshall (eds.)",
@@ -677,6 +987,26 @@
   "title": "Beyond Physicalism: Toward Reconciliation of Science and Spirituality",
   "container": "Rowman & Littlefield",
   "url": "https://med.virginia.edu/perceptual-studies/publications/books-by-dops-faculty/study-of-the-mind-body-relationship/beyond-physicalism-toward-reconciliation-of-science-and-spirituality/",
+  "kind": "book"
+ },
+ {
+  "key": "kerr2014",
+  "short": "Kerr et al. 2014",
+  "authors": "Christopher W. Kerr, J. P. Donnelly, S. T. Wright, S. M. Kuszczak, A. Banas, P. C. Grant, D. L. Luczkiewicz",
+  "year": "2014",
+  "title": "End-of-life dreams and visions: a longitudinal study of hospice patients' experiences",
+  "container": "Journal of Palliative Medicine 17(3): 296-303",
+  "url": "https://europepmc.org/article/MED/24410369",
+  "kind": "article"
+ },
+ {
+  "key": "kerr2020",
+  "short": "Kerr 2020",
+  "authors": "Christopher Kerr, with Carine Mardorossian",
+  "year": "2020",
+  "title": "Death Is But a Dream: Finding Hope and Meaning at Life's End",
+  "container": "Avery",
+  "url": "https://openlibrary.org/isbn/9780525542841",
   "kind": "book"
  },
  {
@@ -688,6 +1018,36 @@
   "container": "podcast",
   "url": "https://tunein.com/podcasts/p1969460",
   "kind": "podcast"
+ },
+ {
+  "key": "klass1996",
+  "short": "Klass, Silverman & Nickman 1996",
+  "authors": "Dennis Klass, Phyllis R. Silverman, Steven L. Nickman (eds.)",
+  "year": "1996",
+  "title": "Continuing Bonds: New Understandings of Grief",
+  "container": "Taylor & Francis",
+  "url": "https://www.routledge.com/Continuing-Bonds-New-Understandings-of-Grief/Klass-Nickman-Silverman/p/book/9781560323396",
+  "kind": "book"
+ },
+ {
+  "key": "klass2018",
+  "short": "Klass & Steffen 2018",
+  "authors": "Dennis Klass, Edith Maria Steffen (eds.)",
+  "year": "2018",
+  "title": "Continuing Bonds in Bereavement: New Directions for Research and Practice",
+  "container": "Routledge",
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7707065/",
+  "kind": "book"
+ },
+ {
+  "key": "klemencketis2010",
+  "short": "Klemenc-Ketis et al. 2010",
+  "authors": "Zalika Klemenc-Ketis, Janko Kersnik, Stefek Grmec",
+  "year": "2010",
+  "title": "The effect of carbon dioxide on near-death experiences in out-of-hospital cardiac arrest survivors: a prospective observational study",
+  "container": "Critical Care 14: R56",
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2887177/",
+  "kind": "article"
  },
  {
   "key": "kox2014",
@@ -708,6 +1068,16 @@
   "container": "Bellevue Literary Press",
   "url": "https://www.spr.ac.uk/TheFlip",
   "kind": "book"
+ },
+ {
+  "key": "lawofone",
+  "short": "Law of One",
+  "authors": "Don Elkins, Carla Rueckert, Jim McCarty",
+  "year": "1981-1984",
+  "title": "The Law of One (the Ra Material)",
+  "container": "L/L Research",
+  "url": "https://www.lawofone.info/",
+  "kind": "web"
  },
  {
   "key": "lawrence_iep",
@@ -760,13 +1130,23 @@
   "kind": "article"
  },
  {
+  "key": "luhrmann2010",
+  "short": "Luhrmann, Nusbaum & Thisted 2010",
+  "authors": "T. M. Luhrmann, Howard Nusbaum, Ronald Thisted",
+  "year": "2010",
+  "title": "The absorption hypothesis: learning to hear God in evangelical Christianity",
+  "container": "American Anthropologist 112(1): 66-78",
+  "url": "https://doi.org/10.1111/j.1548-1433.2009.01197.x",
+  "kind": "article"
+ },
+ {
   "key": "luhrmann2012",
   "short": "Luhrmann 2012",
   "authors": "T. M. Luhrmann",
   "year": "2012",
   "title": "When God Talks Back: Understanding the American Evangelical Relationship with God",
-  "container": "Knopf",
-  "url": "https://www.sciencenews.org/?p=14239",
+  "container": "Alfred A. Knopf",
+  "url": "https://openlibrary.org/isbn/9780307264794",
   "kind": "book"
  },
  {
@@ -782,11 +1162,11 @@
  {
   "key": "luhrmann2021",
   "short": "Luhrmann et al. 2021",
-  "authors": "Tanya M. Luhrmann; Kara Weisman; et al.",
+  "authors": "Tanya Marie Luhrmann, Kara Weisman, Felicity Aulino, Joshua D. Brahinsky, John C. Dulin, Vivian A. Dzokoto, Cristine H. Legare, Michael Lifshitz, Emily Ng, Nicole Ross-Zehnder, Rachel E. Smith",
   "year": "2021",
   "title": "Sensing the presence of gods and spirits across cultures and faiths",
   "container": "PNAS 118(5): e2016649118",
-  "url": "https://news.stanford.edu/stories/2021/01/two-key-factors-facilitate-experience-spirits-gods",
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7865123/",
   "kind": "article"
  },
  {
@@ -827,6 +1207,16 @@
   "title": "Information transmission in remote viewing experiments",
   "container": "Nature 274, 680-681",
   "url": "https://www.nature.com/articles/274680a0",
+  "kind": "article"
+ },
+ {
+  "key": "martial2025",
+  "short": "Martial et al. 2025",
+  "authors": "Charlotte Martial, Pauline Fritz, Olivia Gosseries, Vincent Bonhomme, Daniel Kondziella, Kevin Nelson, Nicolas Lejeune",
+  "year": "2025",
+  "title": "A neuroscientific model of near-death experiences",
+  "container": "Nature Reviews Neurology 21(6): 297-311",
+  "url": "https://europepmc.org/article/MED/40159547",
   "kind": "article"
  },
  {
@@ -940,6 +1330,46 @@
   "kind": "book"
  },
  {
+  "key": "monroelifeline",
+  "short": "Monroe Institute, Lifeline",
+  "authors": "The Monroe Institute",
+  "year": "n.d.",
+  "title": "Lifeline (program page)",
+  "container": "monroeinstitute.org",
+  "url": "https://www.monroeinstitute.org/products/lifeline",
+  "kind": "web"
+ },
+ {
+  "key": "moody1975",
+  "short": "Moody 1975",
+  "authors": "Raymond A. Moody",
+  "year": "1975",
+  "title": "Life After Life",
+  "container": "Mockingbird Books",
+  "url": "https://en.wikipedia.org/wiki/Life_After_Life_(Moody_book)",
+  "kind": "book"
+ },
+ {
+  "key": "moody1992",
+  "short": "Moody 1992",
+  "authors": "Raymond A. Moody",
+  "year": "1992",
+  "title": "Family reunions: visionary encounters with the departed in a modern-day psychomanteum",
+  "container": "Journal of Near-Death Studies 11(2)",
+  "url": "https://digital.library.unt.edu/ark:/67531/metadc799174/",
+  "kind": "article"
+ },
+ {
+  "key": "moody1993",
+  "short": "Moody & Perry 1993",
+  "authors": "Raymond A. Moody, with Paul Perry",
+  "year": "1993",
+  "title": "Reunions: Visionary Encounters with Departed Loved Ones",
+  "container": "Villard",
+  "url": "https://psi-encyclopedia.spr.ac.uk/articles/psychomanteum-mirror-gazing/",
+  "kind": "book"
+ },
+ {
   "key": "myers1903",
   "short": "Myers 1903",
   "authors": "F. W. H. Myers",
@@ -948,6 +1378,26 @@
   "container": "",
   "url": "https://psi-encyclopedia.spr.ac.uk/articles/frederic-wh-myers",
   "kind": "book"
+ },
+ {
+  "key": "nehmy2026",
+  "short": "Nehmy et al. 2026",
+  "authors": "T. J. Nehmy, J. Daniels, P. Williamson, S. E. Stegall-Rodriguez, N. R. St Germain-Sehr",
+  "year": "2026",
+  "title": "Efficacy of induced after death communication therapy for grief: a single-group wait-list controlled trial",
+  "container": "Omega: Journal of Death and Dying (online ahead of print)",
+  "url": "https://europepmc.org/article/MED/41578177",
+  "kind": "article"
+ },
+ {
+  "key": "nelson2006",
+  "short": "Nelson et al. 2006",
+  "authors": "Kevin R. Nelson, M. Mattingly, S. A. Lee, F. A. Schmitt",
+  "year": "2006",
+  "title": "Does the arousal system contribute to near death experience?",
+  "container": "Neurology 66(7): 1003-1009",
+  "url": "https://europepmc.org/article/MED/16606911",
+  "kind": "article"
  },
  {
   "key": "neville1970",
@@ -990,6 +1440,36 @@
   "kind": "web"
  },
  {
+  "key": "okeeffe2005",
+  "short": "O'Keeffe & Wiseman 2005",
+  "authors": "Ciaran O'Keeffe, Richard Wiseman",
+  "year": "2005",
+  "title": "Testing alleged mediumship: methods and results",
+  "container": "British Journal of Psychology 96(2): 165-179",
+  "url": "https://europepmc.org/article/MED/15969829",
+  "kind": "article"
+ },
+ {
+  "key": "olson1985",
+  "short": "Olson et al. 1985",
+  "authors": "P. R. Olson, J. A. Suddeth, P. J. Peterson, C. Egelhoff",
+  "year": "1985",
+  "title": "Hallucinations of widowhood",
+  "container": "Journal of the American Geriatrics Society 33(8): 543-547",
+  "url": "https://europepmc.org/article/MED/4020000",
+  "kind": "article"
+ },
+ {
+  "key": "osis1977",
+  "short": "Osis & Haraldsson 1977",
+  "authors": "Karlis Osis, Erlendur Haraldsson",
+  "year": "1977",
+  "title": "At the Hour of Death",
+  "container": "Avon",
+  "url": "https://openlibrary.org/isbn/9780380018024",
+  "kind": "book"
+ },
+ {
   "key": "ouspensky1949",
   "short": "Ouspensky 1949",
   "authors": "P. D. Ouspensky",
@@ -1007,6 +1487,26 @@
   "title": "Spoon bending: An experimental approach",
   "container": "Nature 257, 8",
   "url": "https://www.nature.com/articles/257008a0",
+  "kind": "article"
+ },
+ {
+  "key": "parnia2014",
+  "short": "Parnia et al. 2014",
+  "authors": "Sam Parnia et al.",
+  "year": "2014",
+  "title": "AWARE: AWAreness during REsuscitation, a prospective study",
+  "container": "Resuscitation 85(12): 1799-1805",
+  "url": "https://europepmc.org/article/MED/25301715",
+  "kind": "article"
+ },
+ {
+  "key": "parnia2023",
+  "short": "Parnia et al. 2023",
+  "authors": "Sam Parnia et al.",
+  "year": "2023",
+  "title": "AWAreness during REsuscitation II: a multi-center study of consciousness and awareness in cardiac arrest",
+  "container": "Resuscitation 191: 109903",
+  "url": "https://europepmc.org/article/MED/37423492",
   "kind": "article"
  },
  {
@@ -1028,6 +1528,16 @@
   "container": "",
   "url": "https://www.wisdomlib.org/hinduism/book/yoga-sutras-with-commentaries/d/doc1216743.html",
   "kind": "book"
+ },
+ {
+  "key": "pew2023",
+  "short": "Pew 2023",
+  "authors": "Patricia Tevington, Manolo Corichi",
+  "year": "2023",
+  "title": "Many Americans report interacting with dead relatives in dreams or other ways",
+  "container": "Pew Research Center",
+  "url": "https://www.pewresearch.org/short-reads/2023/08/23/many-americans-report-interacting-with-dead-relatives-in-dreams-or-other-ways/",
+  "kind": "report"
  },
  {
   "key": "plato_republic",
@@ -1140,6 +1650,16 @@
   "kind": "article"
  },
  {
+  "key": "rees1971",
+  "short": "Rees 1971",
+  "authors": "W. Dewi Rees",
+  "year": "1971",
+  "title": "The hallucinations of widowhood",
+  "container": "British Medical Journal 4(5778): 37-41",
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC1799198/",
+  "kind": "article"
+ },
+ {
   "key": "ring1992",
   "short": "Ring 1992",
   "authors": "Kenneth Ring",
@@ -1210,6 +1730,16 @@
   "kind": "book"
  },
  {
+  "key": "sanger2009",
+  "short": "Sanger 2009",
+  "authors": "M. Sanger",
+  "year": "2009",
+  "title": "When clients sense the presence of loved ones who have died",
+  "container": "Omega: Journal of Death and Dying 59(1): 69-89",
+  "url": "https://europepmc.org/article/MED/19634507",
+  "kind": "article"
+ },
+ {
   "key": "sannella1987",
   "short": "Sannella 1987",
   "authors": "Lee Sannella",
@@ -1218,6 +1748,16 @@
   "container": "Integral Publishing",
   "url": "https://www.frontiersin.org/articles/10.3389/fpsyg.2022.863091",
   "kind": "book"
+ },
+ {
+  "key": "sarraf2021",
+  "short": "Sarraf, Woodley of Menie & Tressoldi 2021",
+  "authors": "Matthew Sarraf, Michael A. Woodley of Menie, Patrizio Tressoldi",
+  "year": "2021",
+  "title": "Anomalous information reception by mediums: a meta-analysis of the scientific evidence",
+  "container": "Explore 17(5): 396-402",
+  "url": "https://europepmc.org/article/MED/32660815",
+  "kind": "article"
  },
  {
   "key": "schrembeck-blog",
@@ -1238,6 +1778,26 @@
   "container": "A Different Compass (blog)",
   "url": "https://differentcompass.ink/reality-102-souls",
   "kind": "web"
+ },
+ {
+  "key": "scri2021",
+  "short": "Shared Crossing Research Initiative 2021",
+  "authors": "Shared Crossing Research Initiative",
+  "year": "2021",
+  "title": "Shared death experiences: a little-known type of end-of-life phenomena reported by caregivers and loved ones",
+  "container": "American Journal of Hospice and Palliative Medicine 38(12): 1479-1487",
+  "url": "https://europepmc.org/article/MED/33813876",
+  "kind": "article"
+ },
+ {
+  "key": "shear2005",
+  "short": "Shear et al. 2005",
+  "authors": "M. Katherine Shear, E. Frank, P. R. Houck, C. F. Reynolds",
+  "year": "2005",
+  "title": "Treatment of complicated grief: a randomized controlled trial",
+  "container": "JAMA 293(21): 2601-2608",
+  "url": "https://europepmc.org/article/MED/15928281",
+  "kind": "article"
  },
  {
   "key": "sheepgoat",
@@ -1275,7 +1835,7 @@
   "authors": "Yung-Jong Shiah; Dean Radin",
   "year": "2013",
   "title": "Metaphysics of the tea ceremony: A randomized trial investigating the roles of intention and belief on mood while drinking tea",
-  "container": "Explore 9(6) (pages unverified)",
+  "container": "Explore 9(6)",
   "url": "https://noetic.org/publication/metaphysics-of-the-tea-ceremony-a-randomized-trial-investigating-the-roles-of-intention-and-belief-on-mood-while-drinking-tea/",
   "kind": "article"
  },
@@ -1300,14 +1860,44 @@
   "kind": "book"
  },
  {
+  "key": "steffen2011",
+  "short": "Steffen & Coyle 2011",
+  "authors": "E. Steffen, A. Coyle",
+  "year": "2011",
+  "title": "Sense of presence experiences and meaning-making in bereavement: a qualitative analysis",
+  "container": "Death Studies 35(7): 579-609",
+  "url": "https://europepmc.org/article/MED/24501839",
+  "kind": "article"
+ },
+ {
+  "key": "stevenson1968",
+  "short": "Stevenson 1968",
+  "authors": "Ian Stevenson",
+  "year": "1968",
+  "title": "The combination lock test for survival",
+  "container": "Journal of the American Society for Psychical Research 62: 246-254",
+  "url": "https://en.wikipedia.org/wiki/Ian_Stevenson",
+  "kind": "article"
+ },
+ {
   "key": "storm2010",
   "short": "Storm, Tressoldi and Di Risio 2010",
   "authors": "Lance Storm; Patrizio E. Tressoldi; Lorenzo Di Risio",
   "year": "2010",
   "title": "Meta-analysis of free-response studies, 1992-2008: Assessing the noise reduction model in parapsychology",
-  "container": "Psychological Bulletin 136(4), 471-485 (page range unverified)",
+  "container": "Psychological Bulletin 136(4), 471-485",
   "url": "https://doi.org/10.1037/a0019457",
   "kind": "article"
+ },
+ {
+  "key": "streithorn2011",
+  "short": "Streit-Horn 2011",
+  "authors": "Jenny Streit-Horn",
+  "year": "2011",
+  "title": "A systematic review of research on after-death communication (ADC)",
+  "container": "Doctoral dissertation, University of North Texas; later in Journal of Near-Death Studies 40(3), 2022, with J. M. Holden and R. Smith",
+  "url": "https://digital.library.unt.edu/ark:/67531/metadc84284/",
+  "kind": "report"
  },
  {
   "key": "stumbrys2011",
@@ -1360,6 +1950,26 @@
   "kind": "podcast"
  },
  {
+  "key": "thouless1948",
+  "short": "Thouless 1948",
+  "authors": "Robert H. Thouless",
+  "year": "1948",
+  "title": "A test of survival",
+  "container": "Proceedings of the Society for Psychical Research 48(175): 253-263",
+  "url": "https://en.wikipedia.org/wiki/Robert_H._Thouless",
+  "kind": "article"
+ },
+ {
+  "key": "timmermann2018",
+  "short": "Timmermann et al. 2018",
+  "authors": "Christopher Timmermann, L. Roseman, L. Williams, D. Erritzoe, C. Martial, H. Cassol, S. Laureys, D. Nutt, Robin Carhart-Harris",
+  "year": "2018",
+  "title": "DMT models the near-death experience",
+  "container": "Frontiers in Psychology 9: 1424",
+  "url": "https://europepmc.org/article/MED/30174629",
+  "kind": "article"
+ },
+ {
   "key": "tok-alienspirit",
   "short": "Tok, Alien Spirit with Sev",
   "authors": "Sev Tok",
@@ -1368,6 +1978,16 @@
   "container": "KGRA Digital Broadcasting",
   "url": "https://www.audible.com/es_US/podcast/Alien-Spirit-with-Sev/B0DJ3KK8VL",
   "kind": "podcast"
+ },
+ {
+  "key": "tressoldi2022",
+  "short": "Tressoldi et al. 2022",
+  "authors": "Patrizio Tressoldi, L. Liberale, F. Sinesio, V. Bubba, L. Pederzoli, I. Testoni",
+  "year": "2022",
+  "title": "Mediumship accuracy: a quantitative and qualitative study with a triple-blind protocol",
+  "container": "Explore 18(4): 411-415",
+  "url": "https://europepmc.org/article/MED/34147342",
+  "kind": "article"
  },
  {
   "key": "tressoldikatz2023",
@@ -1395,7 +2015,7 @@
   "authors": "Montague Ullman; Stanley Krippner; Alan Vaughan",
   "year": "1973",
   "title": "Dream Telepathy",
-  "container": "Macmillan (publisher unverified)",
+  "container": "Macmillan",
   "url": "https://en.wikipedia.org/wiki/Dream_telepathy",
   "kind": "book"
  },
@@ -1425,9 +2045,19 @@
   "authors": "Jacques Vallée",
   "year": "1975",
   "title": "The Invisible College",
-  "container": "publisher not verified",
+  "container": "",
   "url": "https://en.wikipedia.org/wiki/Jacques_Vall%C3%A9e",
   "kind": "book"
+ },
+ {
+  "key": "vanlommel2001",
+  "short": "van Lommel et al. 2001",
+  "authors": "Pim van Lommel, R. van Wees, V. Meyers, I. Elfferich",
+  "year": "2001",
+  "title": "Near-death experience in survivors of cardiac arrest: a prospective study in the Netherlands",
+  "container": "The Lancet 358(9298): 2039-2045",
+  "url": "https://europepmc.org/article/MED/11755611",
+  "kind": "article"
  },
  {
   "key": "veissiere2016",
@@ -1468,5 +2098,45 @@
   "container": "Galactanet (author's website)",
   "url": "https://en.wikipedia.org/wiki/The_Egg_(Weir_short_story)",
   "kind": "web"
+ },
+ {
+  "key": "windbridge",
+  "short": "Windbridge Research Center",
+  "authors": "Windbridge Research Center",
+  "year": "n.d.",
+  "title": "About us; Should I get a reading?",
+  "container": "windbridge.org",
+  "url": "https://www.windbridge.org/about-us/",
+  "kind": "web"
+ },
+ {
+  "key": "woollacott2022",
+  "short": "Woollacott et al. 2022",
+  "authors": "Marjorie Woollacott, Chris A. Roe, Callum E. Cooper, David Lorimer, Evelyn Elsaesser",
+  "year": "2022",
+  "title": "Perceptual phenomena associated with spontaneous experiences of after-death communication: analysis of visual, tactile, auditory and olfactory sensations",
+  "container": "Explore 18(4): 423-431",
+  "url": "https://europepmc.org/article/MED/33642208",
+  "kind": "article"
+ },
+ {
+  "key": "wright2014",
+  "short": "Wright et al. 2014",
+  "authors": "S. T. Wright, Christopher W. Kerr, N. M. Doroszczuk, S. M. Kuszczak, P. C. Hang, D. L. Luczkiewicz",
+  "year": "2014",
+  "title": "The impact of dreams of the deceased on bereavement: a survey of hospice caregivers",
+  "container": "American Journal of Hospice and Palliative Medicine 31(2): 132-138",
+  "url": "https://europepmc.org/article/MED/23449603",
+  "kind": "article"
+ },
+ {
+  "key": "xu2023",
+  "short": "Xu et al. 2023",
+  "authors": "G. Xu, T. Mihaylova, D. Li, F. Tian, P. M. Farrehi, J. M. Parent, G. A. Mashour, M. M. Wang, Jimo Borjigin",
+  "year": "2023",
+  "title": "Surge of neurophysiological coupling and connectivity of gamma oscillations in the dying human brain",
+  "container": "PNAS 120(19): e2216268120",
+  "url": "https://europepmc.org/article/MED/37126719",
+  "kind": "article"
  }
 ]

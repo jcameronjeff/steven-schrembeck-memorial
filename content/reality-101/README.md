@@ -16,6 +16,7 @@ The text is made from the archive's transcripts by cutting only. No word is adde
 | `narration/*.txt` | The editor's voice: `preface`, `before-NN-slug` (introduction to a chapter), `after-NN-slug` (connections and questions), and the essays named in `book.json`. | Yes |
 | `references.json` | Every source the narration may cite. Only cited entries are printed under Works cited. | Yes |
 | `guide.json` | The reader's guide: quotations, practices, and the list of experiences. | Yes |
+| `research/*.md` | The four research dossiers behind the editor's pages: the model of reality, contact and teachers, abilities and evidence, and contact after death. Each rates how close every parallel is, says whether Steven named the source, gives the skeptical reading, and marks what could not be verified. Not published on the site. | Reference |
 | `listening-review.json` | About 200 places where the machine transcript looks wrong, with the recording time of each, whether the words were kept or cut, and what was probably said. A queue for a person with headphones. | Yes |
 | `cover.svg` | Cover. | Yes |
 | `reading.html` | Standalone web reading edition. | No, built |
